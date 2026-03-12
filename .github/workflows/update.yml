@@ -3,7 +3,7 @@ name: Nava Job Board Sync
 on:
   schedule:
     # This runs the script every 4 hours. 
-    - cron: '0 */4 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # This allows you to click a button to run it manually anytime.
 
 jobs:
