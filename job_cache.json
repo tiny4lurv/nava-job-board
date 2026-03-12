@@ -1131,5 +1131,27 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "prn_housekeeper_ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
     }
+  },
+  "certified_nursing_assistant__cna____care_center___skilled_nursing_facility_star_valley_health_afton__wy": {
+    "signature": "03d6b2a6d844287582c47167cfc78051",
+    "addedAt": "2026-03-12T13:27:43.345Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "location": "Afton, WY",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated Certified Nursing Assistant (CNA) to join a skilled nursing facility in Afton, WY. This role offers a vital opportunity to provide compassionate direct patient care and support to residents in a care center environment.As a CNA, you will be responsible for assisting residents with activities of daily living (ADLs), including personal hygiene, mobility, and feeding. You will also monitor vital signs, document observations, and ensure a safe and comfortable environment for all residents.This position is ideal for a caring individual committed to enhancing the quality of life for patients and working collaboratively within a supportive healthcare team.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Certified Nursing Assistant (CNA) certification",
+        "High school diploma or GED",
+        "Ability to provide compassionate patient care",
+        "Strong communication and interpersonal skills",
+        "Ability to perform physical tasks associated with patient care"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "certified_nursing_assistant__cna____care_center___skilled_nursing_facility_star_valley_health_afton__wy"
+    }
   }
 }
