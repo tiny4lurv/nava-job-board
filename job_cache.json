@@ -1087,5 +1087,49 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
     }
+  },
+  "ft_rn_adon_azria_health_park_place_des_moines__ia": {
+    "signature": "046a49cc78e9885603b4c8c0f3f46acf",
+    "addedAt": "2026-03-12T13:00:53.434Z",
+    "finalJson": {
+      "roleTitle": "Assistant Director of Nursing (ADON) - Registered Nurse (RN)",
+      "location": "Des Moines, IA",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Des Moines, IA. This full-time role offers a vital opportunity to contribute to the leadership team, ensuring the highest standards of patient care and operational excellence within a supportive environment.The ideal candidate will play a crucial role in overseeing daily nursing operations, supporting the Director of Nursing, and fostering a positive and compliant clinical setting. This position is perfect for an RN leader looking to make a significant impact on resident well-being and staff development.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Registered Nurse (RN) license in Iowa",
+        "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing facility",
+        "At least 1 year of experience in a supervisory or leadership role",
+        "Strong clinical assessment and critical thinking skills",
+        "Commitment to quality patient care and regulatory compliance"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_rn_adon_azria_health_park_place_des_moines__ia"
+    }
+  },
+  "prn_housekeeper_ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al": {
+    "signature": "7104eedb1e441cadc1354938963aac19",
+    "addedAt": "2026-03-12T13:00:53.434Z",
+    "finalJson": {
+      "roleTitle": "Housekeeper",
+      "location": "Bessemer, AL",
+      "facilityType": "Rehabilitation and Senior Living Center",
+      "description": "Join a dedicated team at a premier rehabilitation and senior living center in Bessemer, AL, committed to providing a clean, safe, and comfortable environment for residents and staff. We are seeking a meticulous and reliable Housekeeper to maintain the highest standards of cleanliness throughout our facility.In this vital role, you will be responsible for performing a variety of cleaning tasks, including dusting, mopping, vacuuming, sanitizing surfaces, and managing waste disposal. Your attention to detail will ensure that all areas meet strict health and safety regulations, contributing directly to the well-being and comfort of our residents.This is an excellent opportunity for an individual who takes pride in their work and is dedicated to creating a welcoming atmosphere. If you are a proactive and thorough professional looking to make a significant impact, we encourage you to apply.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Proven experience in housekeeping or environmental services, preferably in a healthcare setting.",
+        "Ability to perform physical tasks, including lifting, bending, and standing for extended periods.",
+        "Knowledge of cleaning chemicals, equipment, and safety procedures.",
+        "Strong attention to detail and organizational skills.",
+        "Ability to work independently and as part of a team."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "prn_housekeeper_ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
+    }
   }
 }
