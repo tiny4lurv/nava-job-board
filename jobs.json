@@ -196,6 +196,24 @@
     "id": "prn_housekeeper_ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
   },
   {
+    "roleTitle": "Business Office Manager",
+    "location": "Fairhope, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Business Office Manager to join a premier health and rehabilitation center in Fairhope, AL. This vital role involves overseeing the financial operations of the facility, ensuring accurate billing, collections, and financial record-keeping. The ideal candidate will be a detail-oriented professional with a strong understanding of healthcare financial processes.\n\nAs the Business Office Manager, you will be responsible for managing resident accounts, processing admissions and discharges, and handling insurance verification and claims. Your expertise will be crucial in maintaining the financial health of the facility and ensuring compliance with all relevant regulations. This is an excellent opportunity for a skilled professional to make a significant impact within a supportive environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as a Business Office Manager or similar role in a skilled nursing facility or long-term care setting",
+      "Strong knowledge of Medicare, Medicaid, and private insurance billing procedures",
+      "Proficiency in office software and healthcare billing systems",
+      "Excellent organizational and communication skills",
+      "Ability to manage multiple priorities and maintain accurate financial records"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "bom_arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
+  },
+  {
     "roleTitle": "Staff Nurse - Medication Cart (RN/LPN)",
     "location": "Fairhope, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -907,41 +925,6 @@
     "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
   },
   {
-    "roleTitle": "Director of Financial Analysis & Reporting",
-    "location": "Binghamton, NY or Pittston, PA",
-    "facilityType": "Corporate Office supporting Skilled Nursing Facilities",
-    "description": "We are urgently seeking a skilled Director of Financial Analysis & Reporting to join a corporate team supporting a network of healthcare facilities. This pivotal role involves comprehensive analysis of monthly and quarterly financial results, providing critical insights to drive strategic decisions.\n\nThe ideal candidate will bring valuable experience in payer mix analysis, including Medicare and Medicaid, and a strong understanding of reimbursement trends. Prior experience within skilled nursing facilities is highly advantageous. This is an excellent opportunity to contribute to the financial health and operational efficiency of a dynamic organization.",
-    "contractType": "Full-time",
-    "salaryShort": "$90,000+ per year",
-    "requirements": [
-      "Proven experience in financial analysis and reporting",
-      "Ability to analyze monthly and quarterly financial results",
-      "Experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends",
-      "Prior experience in Skilled Nursing Facilities (SNF) is a plus"
-    ],
-    "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
-  },
-  {
-    "roleTitle": "Business Office Manager",
-    "location": "Fairhope, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Business Office Manager to join a premier health and rehabilitation center in Fairhope, AL. This vital role involves overseeing the financial operations of the facility, ensuring accurate billing, collections, and financial record-keeping. The ideal candidate will be a detail-oriented professional with a strong understanding of healthcare financial processes.\n\nAs the Business Office Manager, you will be responsible for managing resident accounts, processing admissions and discharges, and handling insurance verification and claims. Your expertise will be crucial in maintaining the financial health of the facility and ensuring compliance with all relevant regulations. This is an excellent opportunity for a skilled professional to make a significant impact within a supportive environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Business Office Manager or similar role in a skilled nursing facility or long-term care setting",
-      "Strong knowledge of Medicare, Medicaid, and private insurance billing procedures",
-      "Proficiency in office software and healthcare billing systems",
-      "Excellent organizational and communication skills",
-      "Ability to manage multiple priorities and maintain accurate financial records"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "bom_arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
-  },
-  {
     "roleTitle": "Chief Financial Officer (CFO)",
     "location": "Confidential Location",
     "facilityType": "Corporate Office",
@@ -958,5 +941,22 @@
     "salaryOrBonusInfo": "$200K+ annual salary, with a sign-on and relocation bonus.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "cfo__very_confidential___200k___sign_on___relocation_bonus__corporate_office_in_ny___corporate_south_confidential"
+  },
+  {
+    "roleTitle": "Director of Financial Analysis & Reporting",
+    "location": "Binghamton, NY or Pittston, PA",
+    "facilityType": "Corporate Office supporting Skilled Nursing Facilities",
+    "description": "We are urgently seeking a skilled Director of Financial Analysis & Reporting to join a corporate team supporting a network of healthcare facilities. This pivotal role involves comprehensive analysis of monthly and quarterly financial results, providing critical insights to drive strategic decisions.\n\nThe ideal candidate will bring valuable experience in payer mix analysis, including Medicare and Medicaid, and a strong understanding of reimbursement trends. Prior experience within skilled nursing facilities is highly advantageous. This is an excellent opportunity to contribute to the financial health and operational efficiency of a dynamic organization.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000+ per year",
+    "requirements": [
+      "Proven experience in financial analysis and reporting",
+      "Ability to analyze monthly and quarterly financial results",
+      "Experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends",
+      "Prior experience in Skilled Nursing Facilities (SNF) is a plus"
+    ],
+    "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
   }
 ]
