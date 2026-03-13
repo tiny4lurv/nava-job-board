@@ -534,60 +534,6 @@
     "id": "ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
   },
   {
-    "roleTitle": "Licensed Clinical Social Worker (LCSW)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Licensed Clinical Social Worker (LCSW) to join a premier skilled nursing facility in Vernon, AL. This vital role involves providing comprehensive psychosocial support to patients and their families, facilitating adjustment to illness and disability, and assisting with discharge planning. The ideal candidate will be passionate about patient well-being and thrive in a collaborative environment. This is an immediate opening, and we encourage qualified candidates to apply promptly.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and unrestricted Licensed Clinical Social Worker (LCSW) license in Alabama",
-      "Master's Degree in Social Work from an accredited program",
-      "Experience working in a skilled nursing or rehabilitation setting",
-      "Strong assessment, counseling, and discharge planning skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "lcsw__urgent__arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join the team at a reputable skilled nursing facility in Vernon, AL. This full-time position is for the AM shift, offering a vital opportunity to provide direct patient care and support residents in their daily activities.\n\nAs a CNA, you will play a crucial role in ensuring the comfort, safety, and well-being of our residents. You will assist with personal care, mobility, feeding, and other essential tasks, contributing to a positive and supportive environment. We are looking for an individual who is passionate about making a difference in the lives of others and committed to delivering high-quality care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High School Diploma or GED",
-      "Current CPR certification",
-      "Ability to work the AM shift",
-      "Prior experience in a skilled nursing or long-term care environment preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA) - PM Shift",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Vernon, AL, as a Full-time Certified Nursing Assistant (CNA) for the PM shift. This is an excellent opportunity to provide essential care and support to residents, contributing directly to their well-being and quality of life. We are seeking compassionate and skilled CNAs ready to make a significant impact.In this vital role, you will assist residents with activities of daily living, monitor vital signs, and ensure a comfortable and safe environment. Your commitment to patient-centered care will be highly valued in our supportive and collaborative setting. We are looking for a professional who thrives in a fast-paced environment and is dedicated to upholding the highest standards of care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification",
-      "Basic Life Support (BLS) certification",
-      "Previous experience in a skilled nursing or long-term care setting",
-      "Ability to work PM shifts",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
     "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
     "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
@@ -906,5 +852,93 @@
     "salaryOrBonusInfo": "No pay limit (as long as request is reasonable) for the right person.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+  },
+  {
+    "roleTitle": "Licensed Clinical Social Worker (LCSW)",
+    "location": "Vernon, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier health and rehabilitation center in Vernon, AL. This is an immediate opening for a professional who is passionate about providing essential psychosocial support and services to residents and their families.\n\nIn this vital role, you will conduct psychosocial assessments, develop and implement care plans, provide counseling, and facilitate discharge planning. You will serve as a crucial link between residents, families, and community resources, ensuring comprehensive support and advocacy.\n\nThis is an excellent opportunity to make a significant impact on the well-being of individuals in a supportive and dynamic environment. We are looking for a proactive individual ready to contribute to a team-oriented setting.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Master's Degree in Social Work (MSW) from an accredited program",
+      "Current and valid Licensed Clinical Social Worker (LCSW) licensure in the state of Alabama",
+      "Prior experience in a healthcare, skilled nursing, or rehabilitation setting preferred",
+      "Strong assessment, counseling, and discharge planning skills",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "lcsw__urgent__arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a Full-time Certified Nursing Assistant (CNA) for the AM shift. This is an excellent opportunity to provide essential direct patient care, supporting residents in their daily activities and contributing to a positive and healing environment. We are seeking compassionate and committed individuals eager to make a significant impact on the lives of our residents.\n\nIn this vital role, you will assist residents with personal care, mobility, and feeding, while meticulously documenting observations and communicating effectively with the nursing staff. Your dedication will ensure residents receive the highest standard of care, promoting their comfort and well-being. If you are a proactive and empathetic CNA looking for a rewarding full-time position, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Certified Nursing Assistant (CNA) certification in Alabama.",
+      "High school diploma or equivalent.",
+      "Proven ability to provide compassionate patient care.",
+      "Excellent communication and interpersonal skills.",
+      "Ability to work the AM shift as a full-time employee."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a reputable skilled nursing facility in Vernon, AL, as a Full-time Certified Nursing Assistant (CNA) for the PM shift. This is an excellent opportunity to provide essential care and support to residents, contributing to their well-being and comfort in a compassionate environment. We are seeking a committed professional eager to make a difference in the lives of others.As a CNA, you will be responsible for assisting residents with daily living activities, monitoring vital signs, documenting observations, and ensuring a safe and clean environment. Your role is crucial in supporting the nursing staff and maintaining high standards of patient care during the evening and night hours.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Certified Nursing Assistant (CNA) certification",
+      "Basic Life Support (BLS) certification",
+      "Ability to work PM shifts",
+      "Experience in a skilled nursing or long-term care setting preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Chief Financial Officer (CFO)",
+    "location": "New York, NY",
+    "facilityType": "Corporate Healthcare Office",
+    "description": "We are seeking a highly experienced and strategic Chief Financial Officer (CFO) to join a leading corporate healthcare office. This confidential role offers a unique opportunity to provide executive financial leadership and drive the fiscal health of a dynamic organization. The ideal candidate will be a visionary leader with a proven track record in financial management and strategic planning within the healthcare sector.\n\nAs CFO, you will be responsible for overseeing all financial operations, including financial planning, budgeting, reporting, and risk management. You will play a critical role in developing and implementing financial strategies that support the company's growth objectives and ensure long-term sustainability. This position requires a leader who can navigate complex financial landscapes and provide expert guidance to the executive team.\n\nThis is a full-time opportunity offering a highly competitive compensation package, starting at $200,000 per year, complemented by a generous sign-on and relocation bonus. We are looking for a dedicated professional ready to make a significant impact. Apply today to learn more about this exceptional career opportunity.",
+    "contractType": "Full-time",
+    "salaryShort": "$200,000+ per year",
+    "requirements": [
+      "Proven experience as a Chief Financial Officer or similar executive financial role.",
+      "Strong background in financial management within the healthcare sector, with a preference for Skilled Nursing Facility (SNF) experience.",
+      "Bachelor's degree in Finance, Accounting, or a related field.",
+      "CPA certification is a significant advantage.",
+      "Exceptional leadership, strategic planning, and analytical skills."
+    ],
+    "salaryOrBonusInfo": "Compensation starting at $200,000 per year, with a sign-on and relocation bonus available.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "cfo__very_confidential___200k___sign_on___relocation_bonus__corporate_office_in_ny___corporate_south_"
+  },
+  {
+    "roleTitle": "Director of Financial Analysis & Reporting",
+    "location": "Binghamton, NY or Pittston, PA",
+    "facilityType": "Corporate Office supporting Skilled Nursing Facilities",
+    "description": "We are urgently seeking a skilled Director of Financial Analysis & Reporting to join a corporate team supporting a network of healthcare facilities. This pivotal role involves comprehensive analysis of monthly and quarterly financial results, providing critical insights to drive strategic decisions.\n\nThe ideal candidate will bring valuable experience in payer mix analysis, including Medicare and Medicaid, and a strong understanding of reimbursement trends. Prior experience within skilled nursing facilities is highly advantageous. This is an excellent opportunity to contribute to the financial health and operational efficiency of a dynamic organization.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000+ per year",
+    "requirements": [
+      "Proven experience in financial analysis and reporting",
+      "Ability to analyze monthly and quarterly financial results",
+      "Experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends",
+      "Prior experience in Skilled Nursing Facilities (SNF) is a plus"
+    ],
+    "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
   }
 ]
