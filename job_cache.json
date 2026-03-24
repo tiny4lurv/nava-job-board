@@ -2785,5 +2785,27 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_canton__ga"
     }
+  },
+  "warehouse_manager__120k_150k__domani_home_lakewood__nj": {
+    "signature": "e1252949163e4fe4c0f19934a0e2bcf4",
+    "addedAt": "2026-03-24T17:09:42.260Z",
+    "finalJson": {
+      "roleTitle": "Warehouse Manager",
+      "location": "Lakewood, NJ",
+      "facilityType": "Distribution Center",
+      "description": "We are seeking a highly organized and meticulous Warehouse Manager to oversee operations at a busy distribution center in Lakewood, NJ. This pivotal role requires a professional who is not only smart and methodical but also exceptionally coordinated in managing warehouse logistics and teams. You will be instrumental in ensuring efficient inventory management, streamlined shipping and receiving processes, and overall operational excellence. This is a full-time opportunity offering a competitive salary.\n\nThe ideal candidate will possess a strong ability to maintain a highly organized environment, implement effective systems, and drive productivity. We are looking for someone who thrives in a fast-paced setting and is committed to precision and coordination in all aspects of warehouse management. If you are a dedicated professional ready to make a significant impact on supply chain efficiency, we encourage you to apply.",
+      "contractType": "Full-time",
+      "salaryShort": "$120,000 - $150,000 per year",
+      "requirements": [
+        "Proven experience in warehouse management or a similar leadership role",
+        "Exceptional organizational skills and a meticulous approach to operations",
+        "Demonstrated ability to be methodical, coordinated, and professional",
+        "Familiarity with warehouse management software",
+        "Experience with Bright Pearl software is a significant plus"
+      ],
+      "salaryOrBonusInfo": "Annual salary range of $120,000 - $150,000, based on experience.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "warehouse_manager__120k_150k__domani_home_lakewood__nj"
+    }
   }
 }
