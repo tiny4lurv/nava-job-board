@@ -1830,6 +1830,23 @@
     "id": "experienced_lnha_jordan_rehabilitation_and_healthcare_center_louisa__ky"
   },
   {
+    "roleTitle": "Warehouse Manager",
+    "location": "Lakewood, NJ",
+    "facilityType": "Medical Supply Distribution Center",
+    "description": "We are seeking a highly organized and meticulous Warehouse Manager to join a leading medical supply distribution center in Lakewood, NJ. This full-time role offers a competitive salary and is an excellent opportunity for a professional who thrives in a dynamic and coordinated environment.As a Warehouse Manager, you will be responsible for overseeing all aspects of warehouse operations, ensuring efficiency, accuracy, and adherence to methodical processes. The ideal candidate will possess strong analytical skills and a keen eye for detail, driving operational excellence and maintaining high standards.This position offers a salary range of $120,000 to $150,000 annually, based on experience. If you are a coordinated professional with a passion for precision and operational leadership, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$120,000 - $150,000 per year",
+    "requirements": [
+      "Exceptional organizational skills and meticulous attention to detail.",
+      "Proven methodical and coordinated professional work ethic.",
+      "Strong analytical and problem-solving capabilities.",
+      "Familiarity with warehouse management systems; experience with Bright Pearl software is a significant advantage."
+    ],
+    "salaryOrBonusInfo": "Compensation between $120,000 and $150,000 annually, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "warehouse_manager__120k_150k__domani_home_lakewood__nj"
+  },
+  {
     "roleTitle": "Director of Nursing (DON)",
     "location": "Batavia, IL",
     "facilityType": "Skilled Nursing Facility",
@@ -2273,22 +2290,5 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "prn_ma_oklahoma_on_demand_urgent_care_owasso__ok"
-  },
-  {
-    "roleTitle": "Warehouse Manager",
-    "location": "Lakewood, NJ",
-    "facilityType": "Medical Supply Distribution Center",
-    "description": "We are seeking a highly organized and meticulous Warehouse Manager to join a leading medical supply distribution center in Lakewood, NJ. This full-time role offers a competitive salary and is an excellent opportunity for a professional who thrives in a dynamic and coordinated environment.As a Warehouse Manager, you will be responsible for overseeing all aspects of warehouse operations, ensuring efficiency, accuracy, and adherence to methodical processes. The ideal candidate will possess strong analytical skills and a keen eye for detail, driving operational excellence and maintaining high standards.This position offers a salary range of $120,000 to $150,000 annually, based on experience. If you are a coordinated professional with a passion for precision and operational leadership, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$120,000 - $150,000 per year",
-    "requirements": [
-      "Exceptional organizational skills and meticulous attention to detail.",
-      "Proven methodical and coordinated professional work ethic.",
-      "Strong analytical and problem-solving capabilities.",
-      "Familiarity with warehouse management systems; experience with Bright Pearl software is a significant advantage."
-    ],
-    "salaryOrBonusInfo": "Compensation between $120,000 and $150,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "warehouse_manager__120k_150k__domani_home_lakewood__nj"
   }
 ]
