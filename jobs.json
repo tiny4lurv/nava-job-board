@@ -1776,24 +1776,6 @@
     "id": "prn_pt_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   },
   {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you a dedicated Certified Occupational Therapy Assistant (COTA) looking for a flexible opportunity in a vibrant community? We are seeking a talented COTA to join a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL. This role offers flexible PRN, part-time, or full-time options, allowing you to balance your professional and personal life.\n\nThis facility, a 55-59 bed center, is situated in a prime location on a main street with abundant shopping nearby and a pleasant neighborhood behind the building. Enjoy the convenience of being just 15 minutes from the beach, with two courtyards offering a serene environment. We are looking for a compassionate professional to contribute to a positive patient experience and help residents achieve their highest level of independence. Join a supportive team dedicated to providing exceptional care.",
-    "contractType": "PRN, Part-time, or Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
-    "requirements": [
-      "Current and unrestricted Certified Occupational Therapy Assistant (COTA) license in the state of Florida.",
-      "Previous experience working in a skilled nursing facility or rehabilitation setting.",
-      "Ability to effectively implement individualized treatment plans.",
-      "Strong documentation and communication skills.",
-      "Commitment to patient-centered care and teamwork."
-    ],
-    "salaryOrBonusInfo": "$38.00 - $48.00 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
     "roleTitle": "Speech-Language Pathologist (PRN)",
     "location": "St. Petersburg, FL",
     "facilityType": "Skilled Nursing Facility",
@@ -2185,5 +2167,23 @@
     "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL. This full-time Certified Occupational Therapy Assistant (COTA) role offers a unique opportunity to make a significant impact on patient recovery in a supportive environment. The facility is a 55-59 bed center with a current census of 43, ensuring a manageable caseload and personalized patient care.\n\nLocated conveniently on a main street with abundant shopping nearby and nestled in a nice neighborhood, this facility offers an excellent work-life balance. Enjoy the benefit of being just 15 minutes from the beach, perfect for unwinding after work. The center also features two courtyards, providing pleasant outdoor spaces for both patients and staff. We are seeking a passionate COTA to contribute to our patient-centered approach and help individuals regain independence.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Active Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Previous experience in a skilled nursing or rehabilitation setting preferred",
+      "Strong communication and interpersonal skills",
+      "Ability to work collaboratively as part of a multidisciplinary team",
+      "Commitment to providing high-quality patient care"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   }
 ]
