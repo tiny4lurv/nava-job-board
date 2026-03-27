@@ -2699,5 +2699,48 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "prn_pta_arabella_health___wellness_of_mobile__formerly_azalea_health_and_rehab__mobile__al"
     }
+  },
+  "lcsw_hilltop_healthcare_rehabilitation_and_skilled_nursing_duluth__mn": {
+    "signature": "9dfc2dc86ec5daa9cb6f059a893549c7",
+    "addedAt": "2026-03-27T23:40:46.323Z",
+    "finalJson": {
+      "roleTitle": "Licensed Clinical Social Worker (LCSW)",
+      "location": "Duluth, MN",
+      "facilityType": "Rehabilitation and Skilled Nursing Facility",
+      "description": "We are seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier rehabilitation and skilled nursing facility in Duluth, MN. In this vital role, you will provide essential social services to patients and their families, ensuring comprehensive support throughout their rehabilitation journey. This is an excellent opportunity to make a significant impact on patient well-being and contribute to a supportive care environment.\n\nThe ideal candidate will be responsible for conducting psychosocial assessments, developing care plans, and facilitating discharge planning. You will serve as a crucial link between patients, families, and the healthcare team, advocating for patient needs and connecting them with appropriate community resources. Join a team committed to delivering high-quality, patient-centered care.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current and unrestricted Licensed Clinical Social Worker (LCSW) license in the state of Minnesota.",
+        "Master's degree in Social Work (MSW) from an accredited program.",
+        "Minimum of 1-2 years of experience in a healthcare setting, preferably in skilled nursing or rehabilitation.",
+        "Strong understanding of psychosocial assessment, care planning, and discharge processes.",
+        "Excellent communication, interpersonal, and organizational skills."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "lcsw_hilltop_healthcare_rehabilitation_and_skilled_nursing_duluth__mn"
+    }
+  },
+  "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc": {
+    "signature": "851616f2bc22c903600e7fe36c21d4b4",
+    "addedAt": "2026-03-27T23:40:46.323Z",
+    "finalJson": {
+      "roleTitle": "Internal Medicine Physician",
+      "location": "Greenville, SC",
+      "facilityType": "Community Health Center",
+      "description": "Join a thriving Community Health Center in Greenville, SC, dedicated to providing exceptional patient care. We are actively seeking a skilled Internal Medicine Physician to become a vital part of our team. This is an outstanding opportunity for a physician looking for a supportive environment and a commitment to professional growth.\n\nThis role offers a highly competitive compensation package, starting at a non-negotiable $210,000 annually, complemented by a robust bonus structure that can reach up to $50,000. This includes a guaranteed bonus of $25,000 and an additional $25,000 in potential bonuses, with $9,000 available as a sign-on/relocation bonus on day one for eligible candidates. We also provide excellent benefits, generous paid time off, and a revamped compensation and raise structure designed to reward your dedication. We are open to candidates requiring travel or relocation assistance.\n\nWe are reviewing all qualified Physician candidates, with a preference for full-time commitment. If you are an MD or DO specializing in Internal Medicine, Family Medicine, or Med/Ped, and are passionate about making a difference in a community setting, we encourage you to apply.",
+      "contractType": "Full-time",
+      "salaryShort": "$210,000 per year",
+      "requirements": [
+        "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+        "Board Certified or Board Eligible in Internal Medicine, Family Medicine, or Med/Ped",
+        "Valid medical license in South Carolina (or ability to obtain)",
+        "Commitment to providing high-quality patient care"
+      ],
+      "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 annually, with a bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and $25,000 in potential bonuses, of which $9,000 is available as a sign-on/relocation bonus on payday 1 (if a promissory note is signed).",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+    }
   }
 }
