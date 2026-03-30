@@ -1422,6 +1422,23 @@
     "id": "prn_ot_arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
   },
   {
+    "roleTitle": "Floor Technician",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Full-time Floor Technician to join a premier skilled nursing facility in Red Bay, AL. This vital role involves maintaining a clean, safe, and welcoming environment for residents and staff, primarily during morning shifts.\n\nAs a Floor Technician, you will be responsible for the upkeep of all floor surfaces, including stripping, waxing, buffing, and cleaning. Your attention to detail will ensure high standards of cleanliness and sanitation, contributing significantly to the overall well-being of the facility.\n\nThis is an excellent opportunity for an individual committed to providing essential support services in a healthcare setting. If you are a proactive and reliable professional, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as a Floor Technician or in a similar environmental services role, preferably in a healthcare setting.",
+      "Proficiency in operating floor care equipment (e.g., buffers, scrubbers).",
+      "Knowledge of cleaning chemicals and safety protocols.",
+      "Ability to perform physical tasks, including lifting, bending, and standing for extended periods."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
     "roleTitle": "Certified Nursing Assistant (CNA)",
     "location": "Vernon, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -2220,22 +2237,5 @@
     "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
-  },
-  {
-    "roleTitle": "Floor Technician",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Full-time Floor Technician to join a premier skilled nursing facility in Red Bay, AL. This vital role involves maintaining a clean, safe, and welcoming environment for residents and staff, primarily during morning shifts.\n\nAs a Floor Technician, you will be responsible for the upkeep of all floor surfaces, including stripping, waxing, buffing, and cleaning. Your attention to detail will ensure high standards of cleanliness and sanitation, contributing significantly to the overall well-being of the facility.\n\nThis is an excellent opportunity for an individual committed to providing essential support services in a healthcare setting. If you are a proactive and reliable professional, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Floor Technician or in a similar environmental services role, preferably in a healthcare setting.",
-      "Proficiency in operating floor care equipment (e.g., buffers, scrubbers).",
-      "Knowledge of cleaning chemicals and safety protocols.",
-      "Ability to perform physical tasks, including lifting, bending, and standing for extended periods."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
   }
 ]
