@@ -457,28 +457,6 @@
       "id": "1_pta_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
     }
   },
-  "ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "b8f9f9e87511a150c230785599e32abc",
-    "addedAt": "2026-03-12T11:00:21.774Z",
-    "finalJson": {
-      "roleTitle": "Floor Technician",
-      "location": "Red Bay, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated Full-time Morning Floor Technician to join a premier skilled nursing facility in Red Bay, AL. In this vital role, you will be responsible for maintaining a clean, safe, and welcoming environment for our residents and staff. This position offers a consistent morning shift, allowing you to contribute to the daily operations of a compassionate care setting.\n\nAs a Floor Technician, you will perform a variety of cleaning and maintenance tasks, ensuring all floor surfaces are well-maintained and presentable. Your attention to detail and commitment to cleanliness will directly impact the comfort and well-being of those we serve. Join a team committed to excellence in patient care and facility upkeep.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "High School Diploma or GED",
-        "Prior experience in floor care or environmental services, preferably in a healthcare setting",
-        "Ability to operate floor care equipment (e.g., buffers, scrubbers)",
-        "Knowledge of cleaning chemicals and safety procedures",
-        "Physical ability to stand, walk, bend, and lift as required for the role"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
-    }
-  },
   "rn_don__confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl": {
     "signature": "d31bf319422979a12c2acf7029f23948",
     "addedAt": "2026-03-12T11:00:21.774Z",
@@ -2741,6 +2719,27 @@
       "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 annually, with a bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and $25,000 in potential bonuses, of which $9,000 is available as a sign-on/relocation bonus on payday 1 (if a promissory note is signed).",
       "applyLink": "https://navahc.com/candidates/",
       "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+    }
+  },
+  "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "4664b9ebbe868cdbb62bb618852a1f08",
+    "addedAt": "2026-03-30T21:52:41.806Z",
+    "finalJson": {
+      "roleTitle": "Floor Technician",
+      "location": "Red Bay, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated Full-time Floor Technician to join a premier skilled nursing facility in Red Bay, AL. This vital role involves maintaining a clean, safe, and welcoming environment for residents and staff, primarily during morning shifts.\n\nAs a Floor Technician, you will be responsible for the upkeep of all floor surfaces, including stripping, waxing, buffing, and cleaning. Your attention to detail will ensure high standards of cleanliness and sanitation, contributing significantly to the overall well-being of the facility.\n\nThis is an excellent opportunity for an individual committed to providing essential support services in a healthcare setting. If you are a proactive and reliable professional, we encourage you to apply.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Proven experience as a Floor Technician or in a similar environmental services role, preferably in a healthcare setting.",
+        "Proficiency in operating floor care equipment (e.g., buffers, scrubbers).",
+        "Knowledge of cleaning chemicals and safety protocols.",
+        "Ability to perform physical tasks, including lifting, bending, and standing for extended periods."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
     }
   }
 }
