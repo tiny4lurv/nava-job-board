@@ -1439,78 +1439,6 @@
     "id": "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
   },
   {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team for full-time, AM shifts at a premier skilled nursing facility in Vernon, AL. This is an excellent opportunity to provide essential care and support to residents, contributing significantly to their well-being and quality of life.In this vital role, you will assist residents with activities of daily living, including personal hygiene, mobility, and feeding. You will also be responsible for monitoring vital signs, documenting observations, and ensuring a safe and comfortable environment. We are looking for individuals who are committed to delivering high-quality, patient-centered care with empathy and professionalism.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or equivalent",
-      "Ability to work full-time AM shifts",
-      "Strong communication and interpersonal skills",
-      "Compassionate and patient-focused approach to care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA) - PM Shift",
-    "location": "Vernon, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a dedicated team at a reputable health and wellness center in Vernon, AL, committed to providing exceptional care to its residents. We are seeking compassionate and skilled Certified Nursing Assistants (CNAs) to join our team for the PM shift. This full-time role offers a vital opportunity to make a significant impact on the daily lives of those we serve, ensuring their comfort, dignity, and well-being.\n\nAs a CNA on the PM shift, you will be responsible for assisting residents with activities of daily living, including personal hygiene, mobility, and feeding, while maintaining a supportive and respectful environment. You will play a crucial role in monitoring resident conditions, documenting observations, and communicating effectively with the nursing staff to ensure comprehensive care. We are looking for individuals who are passionate about elder care and dedicated to upholding the highest standards of service.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or GED equivalent",
-      "Ability to work the PM shift",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate, patient-centered care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "PM Shift Nurse (LPN/RN)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate PM Shift Nurse to join the team at a premier skilled nursing facility in Vernon, AL. This vital role involves providing high-quality patient care during the evening hours, ensuring the well-being and comfort of residents.\n\nThe successful candidate will be responsible for medication administration, patient monitoring, accurate documentation, and collaborating effectively with the interdisciplinary care team. This is an excellent opportunity to make a significant impact on the lives of residents in a supportive environment.\n\nIf you are a skilled nurse looking for a rewarding evening shift position, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active LPN or RN license in the state of Alabama",
-      "Previous experience in a skilled nursing or long-term care environment preferred",
-      "Ability to work evening/PM shifts",
-      "Current CPR certification",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_nurse_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and wellness center in Vernon, AL, as a Housekeeper. This vital role ensures a clean, safe, and comfortable environment for our residents and staff, contributing directly to their well-being and recovery.\n\nResponsibilities include performing daily cleaning tasks such as dusting, mopping, vacuuming, and sanitizing patient rooms, common areas, and offices. You will be responsible for maintaining high standards of hygiene and infection control, adhering to all facility policies and procedures.\n\nWe are looking for an individual with a strong work ethic and attention to detail, committed to upholding a pristine environment. This is an opportunity to be an integral part of a supportive team dedicated to providing exceptional care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High school diploma or equivalent preferred",
-      "Previous experience in housekeeping, preferably in a healthcare or hospitality setting",
-      "Ability to follow safety and infection control protocols",
-      "Physical ability to perform duties including standing, walking, bending, and lifting",
-      "Strong attention to detail and a commitment to cleanliness"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "housekeeper_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
     "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
     "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
@@ -2273,5 +2201,77 @@
     "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier skilled nursing facility in Vernon, AL, dedicated to providing exceptional care and support to our residents. We are seeking a compassionate and dedicated Certified Nursing Assistant (CNA) to join our team for full-time AM shifts. This is an excellent opportunity to make a significant impact on the lives of others in a supportive and professional environment.As a CNA, you will play a vital role in assisting residents with their daily living activities, including personal hygiene, mobility, and feeding. You will also be responsible for monitoring vital signs, documenting observations, and ensuring a clean and safe environment. We are looking for individuals who are committed to delivering high-quality, patient-centered care with empathy and respect.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Certified Nursing Assistant (CNA) certification in Alabama",
+      "High school diploma or equivalent",
+      "Ability to work full-time AM shifts",
+      "Strong communication and interpersonal skills",
+      "Commitment to providing compassionate patient care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team for full-time PM shifts at a reputable skilled nursing facility in Vernon, AL. This is an excellent opportunity for CNAs committed to providing high-quality patient care and support. In this vital role, you will assist residents with daily living activities, monitor their health, and ensure their comfort and well-being. We are looking for individuals who are passionate about making a positive impact on the lives of our residents and thrive in a supportive team environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Certified Nursing Assistant (CNA) certification",
+      "High School Diploma or GED",
+      "Ability to work full-time PM shifts",
+      "Strong communication and interpersonal skills",
+      "Commitment to providing compassionate patient care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "PM Shift Nurse",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a PM Shift Nurse. This vital role involves providing compassionate and high-quality nursing care to residents during the evening hours, ensuring their comfort and well-being.As a PM Shift Nurse, you will be responsible for medication administration, wound care, monitoring resident health status, and collaborating with the healthcare team to implement individualized care plans. Your commitment to patient safety and excellent clinical judgment will be crucial in this dynamic environment.We are seeking a proactive and empathetic nurse ready to contribute to a supportive community focused on resident-centered care. This is an opportunity to make a significant impact on the lives of our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Valid LPN or RN license in the state of Alabama.",
+      "Previous experience in a skilled nursing or long-term care environment is highly preferred.",
+      "Ability to work the PM shift, demonstrating reliability and strong time management.",
+      "Excellent communication and interpersonal skills.",
+      "Current Basic Life Support (BLS) certification."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pm_nurse_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Housekeeper",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a Housekeeper. This vital role ensures a clean, safe, and comfortable environment for our residents and staff, contributing significantly to their well-being and overall experience.As a Housekeeper, you will be responsible for maintaining the highest standards of cleanliness throughout the facility, including resident rooms, common areas, and administrative offices. Your duties will involve dusting, vacuuming, mopping, sanitizing surfaces, and managing waste according to established protocols.We are seeking a detail-oriented and reliable individual committed to upholding a pristine environment. If you are passionate about contributing to a supportive healthcare setting, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "High School Diploma or GED",
+      "Previous experience in housekeeping, preferably in a healthcare setting",
+      "Ability to follow safety and infection control procedures",
+      "Physical ability to perform duties including lifting, bending, and standing for extended periods",
+      "Strong attention to detail and commitment to cleanliness"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "housekeeper_arabella_health___wellness_of_vernon_vernon__al"
   }
 ]
