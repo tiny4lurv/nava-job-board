@@ -1,94 +1,5 @@
 [
   {
-    "roleTitle": "Director of Nursing (DON)",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you an experienced and compassionate nursing leader ready to make a significant impact? A premier health and rehabilitation center in Mediapolis, IA, is seeking a dedicated Director of Nursing (DON) to lead its clinical team. This is an exceptional opportunity to oversee all nursing operations and ensure the highest standards of patient care in a supportive environment.As the Director of Nursing, you will be instrumental in shaping the quality of life for residents, managing staff, and ensuring compliance with all regulatory standards. You will foster a culture of excellence, continuous improvement, and compassionate care, working closely with interdisciplinary teams to achieve optimal resident outcomes.This full-time role offers a chance to join a facility committed to providing outstanding care and a positive work environment. If you are a visionary leader with a passion for geriatric care and a commitment to clinical excellence, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and unrestricted Registered Nurse (RN) license in the state of Iowa.",
-      "Minimum of 2-3 years of experience as a Director of Nursing or Assistant Director of Nursing in a Skilled Nursing Facility (SNF) or Long-Term Care setting.",
-      "Demonstrated leadership abilities and experience managing nursing staff.",
-      "Thorough knowledge of state and federal regulations governing skilled nursing facilities.",
-      "Strong clinical assessment, critical thinking, and communication skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "don__confidential__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Unit Manager",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Unit Manager to join a premier health and rehabilitation center in Mediapolis, IA. This vital role involves overseeing the daily operations of a nursing unit, ensuring the delivery of high-quality patient care, and fostering a supportive environment for both residents and staff.The ideal candidate will be a Registered Nurse with a passion for leadership and a commitment to clinical excellence. You will be responsible for managing nursing personnel, coordinating care plans, and ensuring compliance with all regulatory standards. This is an excellent opportunity to make a significant impact on resident well-being within a dynamic healthcare setting.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Registered Nurse (RN) license.",
-      "Previous experience in a supervisory or leadership role preferred.",
-      "Experience in a skilled nursing or long-term care setting.",
-      "Strong clinical assessment and critical thinking skills.",
-      "Knowledge of state and federal healthcare regulations."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "unit_manager__rn_preffered__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON) - Registered Nurse (RN)",
-    "location": "Des Moines, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Des Moines, IA. This full-time role offers a vital opportunity to contribute to the leadership team, ensuring the highest standards of patient care and operational excellence within a supportive environment.The ideal candidate will play a crucial role in overseeing daily nursing operations, supporting the Director of Nursing, and fostering a positive and compliant clinical setting. This position is perfect for an RN leader looking to make a significant impact on resident well-being and staff development.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing facility",
-      "At least 1 year of experience in a supervisory or leadership role",
-      "Strong clinical assessment and critical thinking skills",
-      "Commitment to quality patient care and regulatory compliance"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn_adon_azria_health_park_place_des_moines__ia"
-  },
-  {
-    "roleTitle": "Education/Infection Control Nurse",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Oakland, MD, as an Education/Infection Control Nurse. In this vital role, you will be instrumental in safeguarding the health and well-being of both residents and staff by developing, implementing, and monitoring comprehensive infection prevention and control programs. This position offers a unique opportunity to lead educational initiatives and ensure compliance with all relevant health regulations.\n\nWe are seeking a proactive and knowledgeable professional passionate about promoting a safe and healthy environment. You will be responsible for staff education, surveillance, and policy enforcement, contributing significantly to the overall quality of care provided. If you are ready to make a tangible impact and foster a culture of safety, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Registered Nurse (RN) license",
-      "Experience in infection prevention and control",
-      "Experience in a long-term care or rehabilitation setting",
-      "Strong educational and communication skills",
-      "Knowledge of state and federal infection control regulations"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "education_infection_control_nurse_dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "GNA Instructor (RN)",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and qualified Registered Nurse to join a premier health and rehabilitation center as a GNA Instructor. In this vital role, you will be responsible for teaching, training, and certifying individuals to become Geriatric Nursing Assistants (GNAs), who provide essential care for elderly patients. This is an excellent opportunity to shape the next generation of healthcare professionals.\n\nAs a GNA Instructor, you will play a crucial part in ensuring our future caregivers are well-prepared and compassionate. Your expertise will directly impact the quality of care provided to our residents, making this a highly rewarding position for an experienced nurse passionate about education and geriatric care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license",
-      "Experience in long-term care or geriatric nursing",
-      "Demonstrated ability to teach and train adult learners",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "gna_instructor__rn__dennett_rehab_center_oakland__md"
-  },
-  {
     "roleTitle": "Assistant Director of Nursing (ADON) - RN",
     "location": "Frostburg, MD",
     "facilityType": "Rehab Center",
@@ -125,77 +36,6 @@
     "id": "lnha_mountain_city_rehab_center_frostburg__md"
   },
   {
-    "roleTitle": "Treatment/IC Nurse",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehabilitation and Senior Living Center",
-    "description": "We are seeking a dedicated Treatment/IC Nurse to join a premier rehabilitation and senior living center in Bessemer, AL. In this vital role, you will be responsible for overseeing comprehensive wound care management and implementing robust infection control protocols to ensure the highest standards of resident health and safety. This position offers a stable, non-PRN opportunity to make a significant impact on the lives of our residents.The ideal candidate will possess a strong clinical background and a passion for providing exceptional care within a long-term care environment. You will collaborate with the interdisciplinary team to develop and execute individualized care plans, educate staff and residents on best practices, and maintain meticulous documentation. Join a compassionate team committed to fostering a supportive and healing environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active RN or LPN license in Alabama",
-      "Minimum of 1-2 years of experience in wound care or infection control",
-      "Familiarity with state and federal long-term care regulations",
-      "Excellent assessment, communication, and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "treatment_ic_nurse_ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and rehabilitation center in Bessemer, AL. This full-time role involves providing essential care and support to residents, ensuring their comfort and well-being in a supportive environment. You will play a vital role in the daily lives of our residents, contributing to a positive and healing atmosphere.\n\nThis position offers full-time, AM shifts, working 12-hour durations. We are looking for individuals committed to delivering high-quality patient care and who thrive in a team-oriented setting. If you are a motivated CNA looking for a rewarding full-time opportunity, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High School Diploma or GED",
-      "Ability to work full-time, 12-hour AM shifts",
-      "CPR certification (preferred)",
-      "Previous experience in a skilled nursing or long-term care setting is a plus"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_cna__12hrs__ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehabilitation and Senior Living Center",
-    "description": "We are seeking a dedicated Full-time Certified Nursing Assistant (CNA) to join a premier rehabilitation and senior living center in Bessemer, AL. This vital role involves working 12-hour PM shifts, providing essential care and support to residents within a compassionate and professional environment. If you are passionate about making a difference in the lives of seniors and those recovering, this is an excellent opportunity.\n\nAs a CNA, you will be responsible for assisting residents with activities of daily living (ADLs), monitoring vital signs, documenting observations, and ensuring a safe and comfortable living space. Your commitment to patient well-being and your ability to work effectively within a care team will be crucial in delivering high-quality, person-centered care.\n\nJoin a facility committed to excellence in patient care and a supportive work culture. We are looking for individuals who are reliable, empathetic, and eager to contribute to a positive resident experience.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification in Alabama",
-      "Ability to work 12-hour PM shifts",
-      "Experience in a rehabilitation or long-term care setting preferred",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_pm_cna__12hrs__ridgeway_rehabilitation___senior_living__formerly_oaktrace_care_and_rehab__bessemer__al"
-  },
-  {
-    "roleTitle": "Weekend RN Supervisor",
-    "location": "Bessemer, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Weekend RN Supervisor to join a premier health and rehabilitation center in Bessemer, AL. This vital role involves overseeing nursing operations during weekend shifts, ensuring the highest standards of patient care and staff performance.\n\nAs the Weekend RN Supervisor, you will be responsible for supervising nursing staff, managing patient admissions and discharges, addressing clinical issues, and maintaining compliance with all regulatory standards. Your leadership will be crucial in fostering a supportive and efficient environment for both patients and staff.\n\nThis is an excellent opportunity for a compassionate and skilled Registered Nurse looking to make a significant impact on patient outcomes during weekend hours. Join a team committed to excellence in care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama",
-      "Minimum of 2-3 years of nursing experience, preferably in a supervisory or leadership role",
-      "Experience in a skilled nursing facility or long-term care setting",
-      "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "weekend_rn_supervisor_oak_crest_health___wellness_bessemer__al"
-  },
-  {
     "roleTitle": "Registered Nurse (RN)",
     "location": "Bessemer, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -212,308 +52,6 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_ft_am_nurse__12hrs__oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN) - PM Shift",
-    "location": "Bessemer, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join a premier health and rehabilitation center in Bessemer, AL. This is a full-time opportunity for a Registered Nurse to work 12-hour PM shifts, providing essential care and support to patients in a dynamic environment. If you are passionate about making a difference in patients' lives and thrive in a collaborative setting, we encourage you to apply.\n\nIn this vital role, you will be responsible for administering medications, performing patient assessments, implementing care plans, and collaborating with a multidisciplinary team to ensure the highest quality of patient care. This full-time position offers consistent scheduling with 12-hour PM shifts, allowing you to become an integral part of our patient care team.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama",
-      "Current BLS certification",
-      "Ability to work 12-hour PM shifts",
-      "Previous experience in a skilled nursing or long-term care setting preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_pm_rn__12hrs__oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and rehabilitation center in Bessemer, AL. This is a full-time opportunity with 12-hour AM shifts, offering a consistent schedule for those committed to providing exceptional patient care.\n\nAs a CNA, you will play a vital role in supporting the daily needs of our residents, assisting with activities of daily living, monitoring vital signs, and ensuring a comfortable and safe environment. Your commitment to patient well-being and your ability to work effectively within a care team will be essential to your success.\n\nIf you are a motivated CNA looking for a rewarding full-time position with stable AM shifts, we encourage you to apply. Join a team dedicated to delivering high-quality care and making a positive impact on the lives of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or GED",
-      "Previous experience in a skilled nursing or long-term care setting preferred",
-      "Ability to work full-time, 12-hour AM shifts",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "4_ft_am_cna__12hrs__oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehabilitation Center",
-    "description": "An urgent opportunity is available for a dedicated Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Bessemer, AL. This PRN role offers the chance to provide essential therapeutic services, working collaboratively under the supervision of an Occupational Therapist to support patient recovery and enhance their quality of life.\n\nAs a COTA, you will be instrumental in implementing individualized treatment plans, assisting patients with therapeutic exercises and activities, and meticulously documenting progress. This is an immediate opening for a compassionate professional eager to make a significant impact in a supportive and dynamic environment.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Associate's degree from an accredited Occupational Therapy Assistant program",
-      "Current and valid Alabama COTA licensure/certification",
-      "CPR certification",
-      "Prior experience in a skilled nursing or rehabilitation setting is preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_cota__urgent__oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "PRN Occupational Therapist",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and compassionate PRN Occupational Therapist to join a premier health and rehabilitation center in Bessemer, AL. This is an excellent opportunity for an Occupational Therapist looking for flexible scheduling while making a significant impact on patients' lives.\n\nAs a PRN Occupational Therapist, you will be responsible for providing high-quality occupational therapy services to patients, helping them regain independence and improve their quality of life. You will work collaboratively with a multidisciplinary team to develop and implement individualized treatment plans.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Current Occupational Therapist (OT) license in the state of Alabama",
-      "Master's degree in Occupational Therapy from an accredited program",
-      "Previous experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work independently and manage a caseload effectively",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_ot_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Physical Therapist (PRN)",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate Physical Therapist for a PRN (as-needed) position in Bessemer, AL. This is an excellent opportunity to join a dynamic team at a premier rehabilitation center, providing essential therapy services to patients on a flexible schedule. You will play a crucial role in helping patients regain mobility, reduce pain, and improve their overall quality of life.As a PRN Physical Therapist, you will be responsible for assessing patients' physical conditions, developing individualized treatment plans, and implementing therapeutic exercises and modalities. You will work collaboratively with other healthcare professionals to ensure comprehensive and coordinated care, meticulously documenting patient progress and adjusting plans as needed to achieve optimal outcomes.This PRN role offers the flexibility to balance your professional commitments with personal life, making it ideal for therapists looking to supplement their income or maintain an active practice. If you are a skilled Physical Therapist passionate about patient recovery and seeking a flexible work arrangement, we encourage you to apply.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Current Physical Therapist license in Alabama",
-      "CPR certification",
-      "Minimum of 1 year of experience as a Physical Therapist, preferably in a rehabilitation or skilled nursing setting",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PRN)",
-    "location": "Bessemer, AL",
-    "facilityType": "Rehab Center",
-    "description": "Join a dedicated team at a premier health and wellness center in Bessemer, AL, as a PRN Physical Therapist Assistant. This is an excellent opportunity for a skilled PTA looking for flexible scheduling to support patient rehabilitation and recovery. You will play a vital role in implementing treatment plans and helping patients achieve their mobility goals. We are seeking a compassionate and experienced professional committed to providing high-quality care. This PRN position offers the chance to contribute to a positive patient experience while maintaining a flexible work-life balance. If you are passionate about physical therapy and eager to make a difference, we encourage you to apply.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant program",
-      "Current and valid Physical Therapist Assistant (PTA) license in Alabama",
-      "Current CPR certification",
-      "Minimum of 1 year of experience as a PTA, preferably in a rehab or skilled nursing setting",
-      "Ability to work collaboratively within a multidisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pta_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (PRN)",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Speech-Language Pathologist (SLP) for a PRN opportunity in Bessemer, AL. This role is with a premier health and rehabilitation center committed to providing exceptional patient care and fostering a supportive environment for both patients and staff.As a PRN SLP, you will be responsible for assessing, diagnosing, and treating individuals with communication, cognitive, and and swallowing disorders. You will develop and implement individualized treatment plans, collaborate with interdisciplinary teams, and provide education to patients and their families to promote optimal recovery and functional independence.This is an excellent opportunity for an SLP looking for flexible scheduling while making a significant impact on patients' lives. Join a team dedicated to clinical excellence and patient-centered care.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current ASHA Certificate of Clinical Competence (CCC-SLP)",
-      "Active Speech-Language Pathologist license in the state of Alabama",
-      "Prior experience working in a skilled nursing facility or rehabilitation setting",
-      "Ability to work independently and manage a flexible schedule"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_slp_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Housekeeper to join the team at a premier health and wellness center in Bessemer, AL. This role is crucial in maintaining a clean, safe, and comfortable environment for residents, patients, and staff. If you are committed to high standards of cleanliness and have a keen eye for detail, we encourage you to apply.\n\nAs a Housekeeper, you will be responsible for ensuring all areas of the facility meet stringent sanitation and hygiene standards. This is an excellent opportunity to contribute to a positive and healthy atmosphere within a supportive healthcare setting.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High school diploma or equivalent",
-      "Previous experience in housekeeping or environmental services, preferably in a healthcare setting",
-      "Ability to follow cleaning schedules and procedures",
-      "Strong attention to detail and organizational skills",
-      "Ability to work independently and as part of a team"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_houskeeper_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Dietary Aide",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Dietary Aide to join a compassionate team at a premier health and rehabilitation center in Bessemer, AL. This vital role supports the nutritional needs of residents, ensuring they receive well-prepared and appealing meals during the AM shift. If you are passionate about making a difference in the lives of others through quality food service, we encourage you to apply.\n\nAs a Dietary Aide, you will play a crucial part in creating a positive dining experience for our residents. Your commitment to following dietary guidelines and maintaining a clean, safe environment will contribute significantly to the overall well-being and satisfaction of those in our care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High School Diploma or GED",
-      "Prior experience in food service, preferably in a healthcare setting",
-      "Ability to follow dietary instructions and safety guidelines",
-      "Strong communication and interpersonal skills",
-      "Ability to perform physical tasks associated with the role"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "am_diatery_aid_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "Floor Technician (PRN)",
-    "location": "Bessemer, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Floor Technician to join the team at a premier skilled nursing facility in Bessemer, AL. This PRN (as-needed) position offers a flexible opportunity to contribute to a clean and safe environment for residents and staff.\n\nAs a Floor Technician, you will be responsible for maintaining the cleanliness and appearance of floors throughout the facility. Your commitment to high standards of hygiene will play a vital role in supporting the overall well-being of our community.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "High School Diploma or GED",
-      "Previous experience in environmental services or housekeeping, preferably in a healthcare setting",
-      "Knowledge of cleaning chemicals, equipment, and safety procedures",
-      "Ability to perform physical tasks, including standing, walking, bending, and lifting",
-      "Strong work ethic and attention to detail"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_floor_tech_oak_crest_health___wellness_bessemer__al"
-  },
-  {
-    "roleTitle": "RN Weekend Supervisor",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center in Russellville, AL, as a Weekend Supervisor. This pivotal role offers the opportunity to lead and oversee clinical operations during weekend shifts, ensuring the highest standards of patient care and staff performance.\n\nThe RN Weekend Supervisor will be responsible for managing nursing staff, coordinating patient care, and addressing any clinical or operational issues that arise during the weekend. You will play a crucial role in maintaining a safe and supportive environment for both residents and staff, upholding facility policies and regulatory compliance.\n\nThis is an excellent opportunity for a compassionate and skilled RN leader to make a significant impact on patient outcomes and contribute to a positive work culture within a supportive team.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Registered Nurse (RN) license in Alabama",
-      "Minimum of 2 years of nursing experience, preferably in a skilled nursing or long-term care setting",
-      "Prior supervisory or leadership experience in a clinical environment",
-      "Strong clinical assessment and critical thinking skills",
-      "Ability to work weekend shifts consistently"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_weekend_supervisor_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "PRN Physical Therapist",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An excellent opportunity is available for a dedicated PRN Physical Therapist in Russellville, AL. Join a compassionate team at a premier skilled nursing facility committed to providing high-quality rehabilitative care to patients. This PRN role offers flexibility, allowing you to make a significant impact on patient recovery and well-being while balancing your professional and personal life.As a PRN Physical Therapist, you will be responsible for assessing, planning, and implementing individualized treatment programs to help patients regain mobility, reduce pain, and improve their overall functional independence. You will work collaboratively with a multidisciplinary team to ensure comprehensive and patient-centered care.This is a chance to contribute your expertise to a supportive environment focused on positive patient outcomes. If you are a skilled and empathetic Physical Therapist looking for a flexible PRN position, we encourage you to apply.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Current and valid Physical Therapist (PT) license in the state of Alabama.",
-      "Doctor of Physical Therapy (DPT) degree from an accredited program.",
-      "Prior experience in a skilled nursing facility or rehabilitation setting is preferred.",
-      "Ability to work independently and as part of a multidisciplinary team.",
-      "Strong clinical assessment and treatment planning skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "PRN Housekeeper",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated PRN Housekeeper to join the team at a premier skilled nursing facility in Russellville, AL. This flexible PRN role is crucial in maintaining a clean, safe, and comfortable environment for our residents, visitors, and staff. If you are detail-oriented and committed to upholding high standards of cleanliness, we encourage you to apply.\n\nAs a PRN Housekeeper, you will be responsible for performing a variety of cleaning tasks, including sanitizing patient rooms, common areas, and offices, as well as proper waste disposal. You will adhere to all infection control policies and procedures to ensure a healthy environment. This position offers the flexibility of PRN scheduling, making it an excellent opportunity for those seeking to balance work with other commitments.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "High school diploma or equivalent",
-      "Previous experience in housekeeping or environmental services, preferably in a healthcare setting",
-      "Ability to follow written and verbal instructions",
-      "Strong attention to detail and commitment to cleanliness",
-      "Physical ability to perform duties, including standing, bending, lifting, and pushing"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_housekeeper_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "AM Cart Nurse",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Russellville, AL, as an AM Cart Nurse. This vital role focuses on ensuring timely and accurate medication administration to residents during the morning shift, contributing significantly to their well-being and recovery. You will play a crucial part in the daily care routine, working closely with other healthcare professionals to maintain high standards of patient care.\n\nWe are seeking a compassionate and detail-oriented nurse who thrives in a fast-paced environment. This position offers an opportunity to make a direct impact on residents' lives, providing essential support and care. If you are looking for a rewarding role with a focus on direct patient interaction and medication management, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unrestricted nursing license (RN or LPN) in Alabama",
-      "Proven experience with medication administration in a clinical setting",
-      "Prior experience in a skilled nursing facility or long-term care environment preferred",
-      "Strong organizational skills and attention to detail",
-      "Current BLS/CPR certification"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_am_cart_nurse_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "PM Medication Cart Nurse",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "A premier skilled nursing facility in Russellville, AL is seeking a dedicated PM Medication Cart Nurse to join our compassionate team. This vital role involves ensuring the safe and accurate administration of medications to our residents during the evening shift, contributing significantly to their well-being and recovery.\n\nWe are looking for a detail-oriented and empathetic professional committed to providing exceptional patient care. If you are passionate about making a difference in the lives of residents and thrive in a supportive environment, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid RN or LPN license in Alabama",
-      "Previous experience in a skilled nursing or long-term care setting",
-      "Proficiency in medication administration and patient observation",
-      "Ability to work the PM shift"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_cart_nurse_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA) - 2 PM Shift",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "A premier health and rehabilitation center in Russellville, AL, is seeking dedicated Certified Nursing Assistants (CNAs) to join their team for the 2 PM shift. This is an excellent opportunity for compassionate and skilled CNAs looking to make a significant impact on patient care in a supportive environment.\n\nAs a CNA, you will play a crucial role in providing direct patient care, assisting residents with daily living activities, and ensuring their comfort and well-being. We are looking for individuals who are committed to delivering high-quality care and thrive in a collaborative setting.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) license in Alabama",
-      "High school diploma or GED",
-      "Ability to work the 2 PM shift",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_pm_cna_s_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
-  },
-  {
-    "roleTitle": "CNA Driver",
-    "location": "Russellville, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Russellville, AL, as a CNA Driver. This unique role combines the essential responsibilities of a Certified Nursing Assistant with the critical task of safely transporting residents to appointments and activities. You will play a vital role in ensuring residents receive compassionate care both within the facility and during their travels.As a CNA Driver, you will provide direct patient care, assist with daily living activities, and maintain a safe and comfortable environment. Your driving duties will involve operating facility vehicles, adhering to all traffic laws, and ensuring the comfort and safety of residents during transport. This position offers an opportunity to make a significant impact on the well-being and mobility of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification",
-      "Valid Driver's License with a clean driving record",
-      "Current CPR certification",
-      "Ability to safely assist patients with transfers and mobility",
-      "Excellent communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "cna_driver_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
   },
   {
     "roleTitle": "Dietary Aid",
@@ -534,41 +72,6 @@
     "id": "prn_diatery_aid_arabella_health___wellness_of_russellville__formerly_russellville_health_care_inc___russellville__al"
   },
   {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Phenix City, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you a compassionate and dedicated Certified Nursing Assistant looking for an early morning opportunity? A premier skilled nursing facility in Phenix City, AL, is seeking a Full-time CNA to join their team for the 4 AM shift. This is an excellent chance to contribute to patient well-being in a supportive environment, ensuring residents start their day with dignity and comfort.In this vital role, you will assist residents with activities of daily living (ADLs) including personal hygiene, dressing, and mobility. You will also be responsible for taking vital signs, documenting observations, and ensuring a safe and clean environment. Your commitment to providing high-quality, patient-centered care will be essential in supporting the health and happiness of the residents.This position offers the chance to make a significant impact on the lives of others, working within a collaborative team dedicated to excellence in care. If you are a proactive and empathetic CNA ready to embrace an early morning schedule, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or GED",
-      "Basic Life Support (BLS) certification (or willingness to obtain)",
-      "Ability to provide compassionate patient care",
-      "Strong communication and teamwork skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "4_am_cna_arabella_health___wellness_of_phenix_city_phenix_city__al"
-  },
-  {
-    "roleTitle": "Night Shift Nurse (RN/LPN)",
-    "location": "Phenix City, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Phenix City, AL, as a Night Shift Nurse. We are excited to announce a brand new Sign-On and Travel/Stipend Welcome Program, effective April 1st, designed to attract high-quality nursing professionals to our growing team. This is an urgent opportunity for compassionate and skilled nurses looking to make a significant impact.\n\nAs a Night Shift Nurse, you will play a crucial role in providing exceptional patient care during overnight hours, ensuring the well-being and comfort of residents. We are seeking individuals who are committed to maintaining high standards of care and contributing to a supportive team environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in the state of Alabama",
-      "Ability to work night shifts",
-      "Demonstrated competency and strong work ethic",
-      "Ability to perform all assigned duties"
-    ],
-    "salaryOrBonusInfo": "We are piloting a new Sign-On and Travel/Stipend Welcome Program. Registered Nurses (RNs) are eligible for a $12,000 total bonus ($6,000 sign-on + $6,000 travel/stipend). Licensed Practical Nurses (LPNs) are eligible for a $6,000 total bonus ($3,000 sign-on + $3,000 travel/stipend). Payments are distributed weekly after the first 30 days of employment (following onboarding and orientation). Eligibility requires no call-offs, no tardies, and zero disciplinary actions. Applicable to team members who have been out of the facility for 6 months or greater.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_am_nurse_arabella_health___wellness_of_phenix_city_phenix_city__al"
-  },
-  {
     "roleTitle": "Physical Therapist (PRN)",
     "location": "Phenix City, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -584,24 +87,6 @@
     "salaryOrBonusInfo": "Competitive hourly rate of $43.00 - $48.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "prn_pt__urgent__43hr_48hr__arabella_health___wellness_of_phenix_city_phenix_city__al"
-  },
-  {
-    "roleTitle": "Business Office Manager",
-    "location": "Fairhope, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Business Office Manager to join a premier health and rehabilitation center in Fairhope, AL. This vital role involves overseeing the financial operations of the facility, ensuring accurate billing, collections, and financial record-keeping. The ideal candidate will be a detail-oriented professional with a strong understanding of healthcare financial processes.\n\nAs the Business Office Manager, you will be responsible for managing resident accounts, processing admissions and discharges, and handling insurance verification and claims. Your expertise will be crucial in maintaining the financial health of the facility and ensuring compliance with all relevant regulations. This is an excellent opportunity for a skilled professional to make a significant impact within a supportive environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Business Office Manager or similar role in a skilled nursing facility or long-term care setting",
-      "Strong knowledge of Medicare, Medicaid, and private insurance billing procedures",
-      "Proficiency in office software and healthcare billing systems",
-      "Excellent organizational and communication skills",
-      "Ability to manage multiple priorities and maintain accurate financial records"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "bom_arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
   },
   {
     "roleTitle": "PM Cart Nurse",
@@ -620,96 +105,6 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "2_ft_pm_cart_nurse__urgent__arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
-  },
-  {
-    "roleTitle": "Staff Nurse - Medication Cart (RN/LPN)",
-    "location": "Fairhope, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Fairhope, AL, as a Full-time AM Staff Nurse specializing in medication administration. This is an excellent opportunity for a compassionate and skilled Registered Nurse or Licensed Practical Nurse to make a significant impact on resident care during morning shifts.\n\nWe are thrilled to announce a brand new Sign-On and Travel/Stipend Welcome Program designed to attract high-quality nursing professionals. Registered Nurses (RNs) are eligible for a total of $12,000 ($6,000 sign-on bonus + $6,000 travel/stipend), while Licensed Practical Nurses (LPNs) can receive $6,000 total ($3,000 sign-on bonus + $3,000 travel/stipend). Payments are distributed weekly after the first 30 days of employment, contingent on maintaining a strong performance record.\n\nCandidates should demonstrate competency, a strong work ethic, and trustworthiness, with the ability to accurately perform all assigned duties related to medication management and resident care. This program is applicable to team members who have been out of the facility for 6 months or greater.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and valid Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in Alabama",
-      "Previous experience in a skilled nursing facility or long-term care setting preferred",
-      "Demonstrated competency in medication administration and patient care",
-      "Strong work ethic, trustworthiness, and ability to perform assigned duties",
-      "Ability to maintain a record of no call-offs, no tardies, and zero disciplinary actions to remain eligible for bonus"
-    ],
-    "salaryOrBonusInfo": "Exciting new Sign-On and Travel/Stipend Welcome Program! Registered Nurses (RNs) are eligible for $12,000 total ($6,000 sign-on bonus + $6,000 travel/stipend). Licensed Practical Nurses (LPNs) are eligible for $6,000 total ($3,000 sign-on bonus + $3,000 travel/stipend). Payments will be distributed weekly after the first 30 days of employment (after completion of onboarding and orientation). Employees must maintain a record of no call-offs, no tardies, and zero disciplinary actions to remain eligible each month. Applicable to team members who have been out of the facility for 6 months or greater.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_am_cart_nurse_arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
-  },
-  {
-    "roleTitle": "Medical Record/Central Supply Clerk (LPN)",
-    "location": "Fairhope, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a leading skilled nursing facility in Fairhope, AL, as a Medical Record/Central Supply Clerk (LPN). This vital role combines meticulous record-keeping with efficient supply management, ensuring seamless operations and high-quality patient care. You will be instrumental in maintaining accurate medical documentation and ensuring our facility is well-stocked with essential supplies.\n\nWe are seeking a detail-oriented and organized LPN who is passionate about supporting healthcare operations. This position offers a unique opportunity to leverage your clinical knowledge in an administrative and logistical capacity, contributing directly to the well-being of our residents and the efficiency of our care teams. If you thrive in a dynamic environment and are committed to excellence, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active LPN license in Alabama",
-      "Experience in medical records management",
-      "Experience with central supply or inventory management",
-      "Strong organizational and communication skills",
-      "Knowledge of HIPAA regulations"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_medical_record_central_supply_clerk__lpn__arabella_health___wellness_of_fair_hope__formerly_montrose_bay_health_and_rehab__fairhope__al"
-  },
-  {
-    "roleTitle": "PRN Physical Therapist Assistant",
-    "location": "Mobile, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you a dedicated Physical Therapist Assistant seeking a flexible PRN opportunity? A premier skilled nursing facility in Mobile, AL, is looking for a compassionate and skilled PRN PTA to join their dynamic therapy team. This role offers the chance to make a significant impact on patients' lives by assisting in the implementation of personalized treatment plans and promoting recovery and mobility.As a PRN Physical Therapist Assistant, you will work collaboratively with licensed Physical Therapists to provide high-quality rehabilitative care. You will guide patients through therapeutic exercises, utilize various modalities, and document progress, all while fostering a supportive and encouraging environment. This is an excellent opportunity for a PTA looking for flexibility and the ability to pick up shifts as needed.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
-      "Current and valid state licensure as a Physical Therapist Assistant in Alabama",
-      "Current CPR certification",
-      "Ability to work on an as-needed (PRN) basis",
-      "Prior experience in a skilled nursing or rehabilitation setting is preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pta_arabella_health___wellness_of_mobile__formerly_azalea_health_and_rehab__mobile__al"
-  },
-  {
-    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
-    "location": "Birmingham, AL",
-    "facilityType": "A premier health and rehabilitation center",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a reputable health and rehabilitation center in Birmingham, AL. This pivotal role involves overseeing all aspects of facility management, ensuring the highest standards of resident care, and maintaining compliance with all state and federal regulations. The ideal candidate will be a visionary leader committed to fostering a positive and supportive environment for both residents and staff.\n\nAs the LNHA, you will be responsible for strategic planning, financial management, and human resources, driving continuous improvement in quality of care and operational efficiency. You will champion a culture of excellence, compassion, and accountability, ensuring that the facility provides exceptional services that meet the evolving needs of our residents. This is an excellent opportunity for a proven leader to make a significant impact within a dynamic healthcare setting.\n\nJoin a team dedicated to providing outstanding care and support to the community. We are looking for a leader who can inspire and guide our staff to achieve superior outcomes and enhance the overall resident experience.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in the state of Alabama.",
-      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field (Master's preferred).",
-      "Proven experience in a leadership role within a skilled nursing facility or long-term care setting.",
-      "Comprehensive knowledge of state and federal regulations governing skilled nursing facilities.",
-      "Strong financial acumen, operational management skills, and a commitment to quality improvement."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "lnha__extreely_confidential__arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON)",
-    "location": "Birmingham, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the nursing team at a premier health and rehabilitation center in Birmingham, AL. This pivotal role offers an exceptional opportunity to oversee all aspects of patient care, ensuring the highest standards of clinical excellence and regulatory compliance. The ideal candidate will be a visionary leader committed to fostering a compassionate and efficient healthcare environment.As the Director of Nursing, you will be responsible for the overall direction, coordination, and evaluation of nursing services. You will play a crucial role in developing and implementing nursing policies and procedures, managing staff, and ensuring the delivery of quality care to our residents. This is a full-time position for a professional eager to make a significant impact on patient outcomes and staff development.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama",
-      "Bachelor of Science in Nursing (BSN) preferred",
-      "Minimum of 3-5 years of experience in a nursing leadership role (e.g., ADON, DON)",
-      "Prior experience in a Skilled Nursing Facility or Long-Term Care setting",
-      "Strong understanding of state and federal healthcare regulations"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "don__extreely_confidential__arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
   },
   {
     "roleTitle": "RN Unit Manager",
@@ -784,24 +179,6 @@
     "id": "ft_pt__urgent__arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
   },
   {
-    "roleTitle": "Physical Therapist Assistant",
-    "location": "Birmingham, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Full-time Physical Therapist Assistant to join a premier skilled nursing facility in Birmingham, AL. This is an excellent opportunity to make a significant impact on patient recovery and well-being within a supportive environment.\n\nIn this vital role, you will work under the supervision of a licensed Physical Therapist, assisting patients in regaining mobility, strength, and function. You will implement individualized treatment plans, monitor patient progress, and contribute to a collaborative team focused on delivering high-quality rehabilitative care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant program",
-      "Current and valid Physical Therapist Assistant (PTA) license in the state of Alabama",
-      "Basic Life Support (BLS) or CPR certification",
-      "Strong communication and interpersonal skills",
-      "Ability to work effectively in a fast-paced rehabilitation setting"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta__urgent__arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
-  },
-  {
     "roleTitle": "Charge Nurse",
     "location": "Birmingham, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -873,24 +250,6 @@
     "id": "3_ft_am_cna_s__priority__arabella_health___wellness_of_montgomery__formerly_montgomery_health_and_rehab__montgomery__al"
   },
   {
-    "roleTitle": "Licensed Clinical Social Worker (LCSW)",
-    "location": "Montgomery, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier skilled nursing facility in Montgomery, AL. This is an exceptional opportunity to provide vital psychosocial support and advocacy for residents, contributing significantly to their well-being and successful transitions.In this critical role, you will conduct comprehensive psychosocial assessments, develop individualized care plans, and facilitate discharge planning. You will collaborate closely with an interdisciplinary team to ensure residents and their families receive the highest quality of care and support. We are looking for a professional who can hit the ground running and make an immediate impact.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and unrestricted LCSW license in the state of Alabama.",
-      "Master's Degree in Social Work (MSW) from an accredited program.",
-      "Minimum of 1-2 years of experience in a skilled nursing, long-term care, or rehabilitation setting preferred.",
-      "Proficiency in psychosocial assessment, counseling, and discharge planning.",
-      "Excellent interpersonal and communication skills, with a commitment to patient-centered care."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "lcsw__urgent__arabella_health___wellness_of_montgomery__formerly_montgomery_health_and_rehab__montgomery__al"
-  },
-  {
     "roleTitle": "Physical Therapist Assistant (PRN)",
     "location": "Montgomery, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -926,200 +285,6 @@
     "id": "prn_slp_arabella_health___wellness_of_montgomery__formerly_montgomery_health_and_rehab__montgomery__al"
   },
   {
-    "roleTitle": "Staff Development Coordinator (RN)",
-    "location": "Montgomery, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a dedicated team at a leading health and rehabilitation center in Montgomery, AL, as a Staff Development Coordinator (RN). This vital role is instrumental in fostering a culture of continuous learning and excellence, ensuring our nursing staff are equipped with the latest knowledge and skills to provide exceptional patient care.As the Staff Development Coordinator, you will play a key role in developing and implementing comprehensive educational programs, conducting orientations, and assessing staff competencies. Your expertise will directly contribute to maintaining high standards of care and compliance within our facility, impacting both our team and the residents we serve.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama.",
-      "Minimum of 2 years of nursing experience, preferably in a skilled nursing or rehabilitation setting.",
-      "Prior experience in staff education, development, or a similar leadership role is highly desirable.",
-      "Strong understanding of healthcare regulations and compliance standards.",
-      "Excellent communication, presentation, and organizational skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_sdc_arabella_health___wellness_of_montgomery__formerly_montgomery_health_and_rehab__montgomery__al"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN) - PM Shift",
-    "location": "Butler, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join a premier health and rehabilitation center in Butler, AL. This is an excellent opportunity for an RN looking to make a significant impact on patient care during the evening hours. You will be an integral part of a team committed to providing high-quality care and improving the lives of residents.\n\nIn this full-time PM shift role, you will be responsible for administering medications, performing treatments, monitoring patient conditions, and collaborating with the healthcare team to ensure comprehensive care plans are followed. Your expertise will contribute to a supportive and healing environment for our residents.\n\nIf you are a skilled RN with a passion for geriatric care and are ready for a rewarding full-time position on the PM shift, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama",
-      "Minimum of 1 year of experience in a skilled nursing or long-term care setting preferred",
-      "Ability to work full-time PM shifts",
-      "Strong clinical assessment, critical thinking, and communication skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_pm_nurse_arabella_health___wellness_of_butler__formerly_choctaw_health_and_rehab__butler__al"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (Part-time/PRN)",
-    "location": "Butler, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist for a part-time/PRN opportunity at a premier health and rehabilitation center in Butler, AL. This role offers the flexibility of a PRN schedule, allowing you to make a significant impact on patients' lives while balancing your professional and personal commitments.\n\nAs a Speech-Language Pathologist, you will be responsible for assessing, diagnosing, and treating residents with communication, cognitive, and swallowing disorders. You will develop individualized treatment plans, provide therapeutic interventions, and collaborate with a multidisciplinary team to ensure comprehensive patient care and optimal outcomes.",
-    "contractType": "Part-time/PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current Alabama state licensure as a Speech-Language Pathologist",
-      "Certificate of Clinical Competence (CCC) from ASHA",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_slp_arabella_health___wellness_of_butler__formerly_choctaw_health_and_rehab__butler__al"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON) - RN",
-    "location": "Selma, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center in Selma, AL as an Assistant Director of Nursing (ADON). This full-time role offers a vital opportunity to contribute to a compassionate care environment, supporting the Director of Nursing in overseeing clinical operations and ensuring the highest standards of patient care.As an ADON, you will play a key leadership role, assisting with staff supervision, clinical assessments, and the implementation of care plans. Your expertise will be crucial in maintaining regulatory compliance and fostering a positive, supportive atmosphere for both residents and staff.This is an excellent opportunity for an RN leader looking to make a significant impact within a reputable skilled nursing facility committed to resident well-being and professional excellence.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Alabama.",
-      "Minimum of 2-3 years of nursing experience, with at least 1 year in a supervisory or leadership role within a skilled nursing or long-term care setting.",
-      "Strong understanding of state and federal regulations governing skilled nursing facilities.",
-      "Excellent clinical assessment, communication, and organizational skills.",
-      "Ability to lead and mentor nursing staff effectively."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_adon_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "PM Nurse",
-    "location": "Selma, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate PM Nurse to join a reputable skilled nursing facility in Selma, AL. This vital role involves providing high-quality patient care during the evening shift, ensuring the well-being and comfort of residents. You will be an integral part of a supportive healthcare team committed to excellence.As a PM Nurse, you will administer medications, monitor patient conditions, and collaborate with other healthcare professionals to implement individualized care plans. This is an excellent opportunity for a nurse who thrives in a dynamic environment and is passionate about making a positive impact on the lives of residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid RN or LPN license in the state of Alabama",
-      "Previous experience in a skilled nursing or long-term care setting",
-      "Current CPR certification",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_pm_nurse_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA) - PM Shift",
-    "location": "Selma, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) for a full-time PM shift opportunity at a premier skilled nursing facility in Selma, AL. This role is crucial in providing direct patient care and ensuring the comfort and well-being of our residents during the evening hours. Join a team committed to delivering high-quality healthcare in a supportive environment.\n\nAs a CNA on the PM shift, you will assist residents with activities of daily living (ADLs), including bathing, dressing, grooming, and mobility. You will also be responsible for monitoring vital signs, documenting observations, and maintaining a clean and safe environment for our residents. Your commitment to compassionate care will directly contribute to the positive experience and recovery of those we serve.\n\nThis is an excellent opportunity for a CNA looking to make a significant impact in a facility that values its staff and residents. If you are a proactive and caring individual ready to contribute to a dynamic healthcare team, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or GED",
-      "Ability to work the PM shift (e.g., 1 PM - 9 PM or similar evening hours)",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_cna_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Selma, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Selma, AL. We are seeking compassionate and skilled Certified Nursing Assistants to provide essential care and support to our residents, contributing to their well-being and recovery journey. This is an excellent opportunity to make a significant impact in a supportive environment.\n\nIn this role, you will assist residents with daily living activities, monitor vital signs, and ensure a comfortable and safe environment. Your commitment to patient-centered care will be crucial in fostering a positive and healing atmosphere for all.\n\nWe offer flexible full-time and part-time positions to accommodate your schedule. If you are a dedicated CNA looking for a rewarding career opportunity, we encourage you to apply today.",
-    "contractType": "Full-time, Part-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or GED",
-      "Ability to provide compassionate and patient-centered care",
-      "Strong communication and interpersonal skills",
-      "Reliability and a strong work ethic"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_pt_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant",
-    "location": "Selma, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Selma, AL. This is an excellent opportunity to contribute to a team focused on delivering high-quality, patient-centered care and making a tangible difference in the lives of residents.\n\nThe Physical Therapist Assistant will work under the supervision of a licensed Physical Therapist, assisting with the implementation of individualized treatment plans. Responsibilities include guiding patients through therapeutic exercises, utilizing various modalities, and documenting patient progress to ensure optimal recovery and improved functional independence. You will play a crucial role in helping patients regain strength, mobility, and confidence.\n\nThis role offers a chance to thrive in a supportive and collaborative environment, where your skills will be valued, and professional growth is encouraged. Join a facility committed to excellence in rehabilitation services.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant program",
-      "Current and valid Physical Therapist Assistant (PTA) license in the state of Alabama",
-      "Current CPR certification",
-      "Prior experience in a skilled nursing or rehabilitation setting preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pta_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "Part-Time Housekeeper",
-    "location": "Selma, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a dedicated team at a reputable health and rehabilitation center in Selma, AL, as a Part-Time Housekeeper. In this vital role, you will contribute to maintaining a clean, safe, and comfortable environment for our residents and staff. We are looking for a meticulous and reliable individual committed to upholding high standards of cleanliness and sanitation.As a Housekeeper, you will be responsible for performing a variety of cleaning tasks across the facility, including patient rooms, common areas, and offices. Your attention to detail will ensure that all areas meet health and safety regulations, directly impacting the well-being and satisfaction of those we serve. This is an excellent opportunity for someone seeking a part-time position with a supportive team.",
-    "contractType": "Part-time",
-    "salaryShort": "",
-    "requirements": [
-      "High school diploma or equivalent preferred",
-      "Previous experience in housekeeping or environmental services, ideally within a healthcare setting",
-      "Ability to follow written and verbal instructions",
-      "Physical ability to perform cleaning tasks, including standing, walking, bending, and lifting",
-      "Strong attention to detail and a commitment to maintaining a sanitary environment"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pt_housekeeper_arabella_health___wellness_of_selma__formerly_selma_health_and_rehab__selma__al"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Grand Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier health and rehabilitation center in Grand Bay, AL, dedicated to providing exceptional patient care. We are actively seeking a dedicated Full-time Licensed Practical Nurse (LPN) to join our compassionate team on the AM shift. This is an excellent opportunity to contribute to a supportive environment focused on wellness and rehabilitation.\n\nIn this vital role, you will provide direct patient care, administer medications, monitor patient conditions, and collaborate with a multidisciplinary team to ensure the highest standards of health and recovery. We are looking for a committed professional ready to make a significant impact on our residents' lives. The AM shift is 12 hours, offering consistent scheduling.\n\nWe offer a competitive hourly rate for this full-time position. If you are a skilled LPN looking for a rewarding career opportunity in Grand Bay, we encourage you to apply today and become a part of our growing team.",
-    "contractType": "Full-time",
-    "salaryShort": "$26.00 - $28.00/hr",
-    "requirements": [
-      "Active LPN license in Alabama",
-      "Previous experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work 12-hour AM shifts",
-      "Strong clinical skills and patient-centered approach",
-      "Current BLS/CPR certification"
-    ],
-    "salaryOrBonusInfo": "The hourly pay range for this LPN role is $26.00 - $28.00, with no differential pay.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_am_nurses__12hrs__both_shifts___28_max__arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Grand Bay, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and meticulous Full-time Housekeeper to join the team at a premier health and rehabilitation center in Grand Bay, AL. In this vital role, you will be responsible for maintaining a clean, sanitary, and safe environment for residents, staff, and visitors. Your commitment to cleanliness directly contributes to the well-being and comfort of everyone in our facility.The ideal candidate will ensure all areas, including resident rooms, common spaces, and offices, meet the highest standards of hygiene and appearance. This position offers a stable full-time schedule and the opportunity to be an essential part of a caring healthcare community.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High School Diploma or GED preferred",
-      "Prior experience in housekeeping or environmental services, ideally within a healthcare or long-term care setting",
-      "Ability to follow established cleaning procedures and safety protocols",
-      "Knowledge of proper use of cleaning chemicals and equipment",
-      "Physical ability to perform duties such as lifting, bending, standing, and walking for extended periods"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_housekeepers_arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
-  },
-  {
     "roleTitle": "Physical Therapist (PRN)",
     "location": "Grand Bay, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -1137,255 +302,6 @@
     "id": "prn_pt_arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
   },
   {
-    "roleTitle": "PRN Speech-Language Pathologist",
-    "location": "Grand Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated PRN Speech-Language Pathologist to join a premier health and rehabilitation center in Grand Bay, AL. This is an excellent opportunity for a compassionate professional looking for flexible scheduling while making a significant impact on patients' lives. You will be an integral part of a multidisciplinary team, providing essential services to residents.\n\nIn this role, you will be responsible for assessing, diagnosing, and treating communication, cognitive, and swallowing disorders. You will develop and implement individualized treatment plans, collaborate with other healthcare professionals, and educate patients and their families to promote optimal recovery and functional independence.\n\nJoin a supportive environment focused on patient-centered care and professional growth. This PRN position offers the flexibility to balance your professional commitments with your personal life while contributing to a facility dedicated to improving the health and well-being of its community.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current Alabama state licensure as a Speech-Language Pathologist",
-      "Certificate of Clinical Competence (CCC) from ASHA",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_slp_arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
-  },
-  {
-    "roleTitle": "PRN Occupational Therapist",
-    "location": "Grand Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate PRN Occupational Therapist to join a leading skilled nursing facility in Grand Bay, AL. This is an excellent opportunity for an Occupational Therapist looking for flexible scheduling while making a significant impact on patient recovery and well-being. You will play a crucial role in helping patients regain independence and improve their quality of life through personalized therapy plans.\n\nAs a PRN Occupational Therapist, you will provide comprehensive occupational therapy services, including assessment, treatment planning, and implementation of therapeutic interventions. This role offers the flexibility to manage your own schedule while contributing to a supportive and patient-focused environment. Join a team committed to delivering exceptional care and fostering a positive rehabilitation experience for every resident.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Current Occupational Therapist (OT) license in the state of Alabama.",
-      "Master's degree in Occupational Therapy from an accredited program.",
-      "CPR certification.",
-      "Prior experience in a skilled nursing or rehabilitation setting is preferred.",
-      "Ability to work independently and adapt to varying patient needs and schedules."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_ot_arabella_health___wellness_of_grand_bay__formerly_grand_bay_convalescent_and_rehabilitation___grand_bay__al"
-  },
-  {
-    "roleTitle": "Floor Technician",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Full-time Floor Technician to join a premier skilled nursing facility in Red Bay, AL. This vital role involves maintaining a clean, safe, and welcoming environment for residents and staff, primarily during morning shifts.\n\nAs a Floor Technician, you will be responsible for the upkeep of all floor surfaces, including stripping, waxing, buffing, and cleaning. Your attention to detail will ensure high standards of cleanliness and sanitation, contributing significantly to the overall well-being of the facility.\n\nThis is an excellent opportunity for an individual committed to providing essential support services in a healthcare setting. If you are a proactive and reliable professional, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Floor Technician or in a similar environmental services role, preferably in a healthcare setting.",
-      "Proficiency in operating floor care equipment (e.g., buffers, scrubbers).",
-      "Knowledge of cleaning chemicals and safety protocols.",
-      "Ability to perform physical tasks, including lifting, bending, and standing for extended periods."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_floor_tech_arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier skilled nursing facility in Vernon, AL, dedicated to providing exceptional care and support to our residents. We are seeking a compassionate and dedicated Certified Nursing Assistant (CNA) to join our team for full-time AM shifts. This is an excellent opportunity to make a significant impact on the lives of others in a supportive and professional environment.As a CNA, you will play a vital role in assisting residents with their daily living activities, including personal hygiene, mobility, and feeding. You will also be responsible for monitoring vital signs, documenting observations, and ensuring a clean and safe environment. We are looking for individuals who are committed to delivering high-quality, patient-centered care with empathy and respect.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "High school diploma or equivalent",
-      "Ability to work full-time AM shifts",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team for full-time PM shifts at a reputable skilled nursing facility in Vernon, AL. This is an excellent opportunity for CNAs committed to providing high-quality patient care and support. In this vital role, you will assist residents with daily living activities, monitor their health, and ensure their comfort and well-being. We are looking for individuals who are passionate about making a positive impact on the lives of our residents and thrive in a supportive team environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification",
-      "High School Diploma or GED",
-      "Ability to work full-time PM shifts",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing compassionate patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "PM Shift Nurse",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a PM Shift Nurse. This vital role involves providing compassionate and high-quality nursing care to residents during the evening hours, ensuring their comfort and well-being.As a PM Shift Nurse, you will be responsible for medication administration, wound care, monitoring resident health status, and collaborating with the healthcare team to implement individualized care plans. Your commitment to patient safety and excellent clinical judgment will be crucial in this dynamic environment.We are seeking a proactive and empathetic nurse ready to contribute to a supportive community focused on resident-centered care. This is an opportunity to make a significant impact on the lives of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid LPN or RN license in the state of Alabama.",
-      "Previous experience in a skilled nursing or long-term care environment is highly preferred.",
-      "Ability to work the PM shift, demonstrating reliability and strong time management.",
-      "Excellent communication and interpersonal skills.",
-      "Current Basic Life Support (BLS) certification."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_nurse_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a Housekeeper. This vital role ensures a clean, safe, and comfortable environment for our residents and staff, contributing significantly to their well-being and overall experience.As a Housekeeper, you will be responsible for maintaining the highest standards of cleanliness throughout the facility, including resident rooms, common areas, and administrative offices. Your duties will involve dusting, vacuuming, mopping, sanitizing surfaces, and managing waste according to established protocols.We are seeking a detail-oriented and reliable individual committed to upholding a pristine environment. If you are passionate about contributing to a supportive healthcare setting, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High School Diploma or GED",
-      "Previous experience in housekeeping, preferably in a healthcare setting",
-      "Ability to follow safety and infection control procedures",
-      "Physical ability to perform duties including lifting, bending, and standing for extended periods",
-      "Strong attention to detail and commitment to cleanliness"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "housekeeper_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier skilled nursing facility in Venice, FL, that has recently undergone new ownership. This is an exciting opportunity for a seasoned Director of Nursing to lead a dedicated team and shape the future of patient care. We are seeking a dynamic and experienced leader who is passionate about delivering exceptional healthcare services.\n\nThis role offers a highly competitive compensation package for the right individual, reflecting the importance of this leadership position. If you are ready to make a significant impact in a supportive and evolving environment, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Minimum of 2-5 years of experience as a Director of Nursing or Assistant Director of Nursing",
-      "Experience in a skilled nursing facility setting",
-      "Strong leadership and management abilities",
-      "Knowledge of state and federal healthcare regulations"
-    ],
-    "salaryOrBonusInfo": "Compensation is competitive and based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don__confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you an experienced nursing leader looking for a pivotal role in a dynamic environment? A premier skilled nursing facility in Venice, FL, is seeking a dedicated Assistant Director of Nursing (ADON) to join its leadership team. This facility, recently under new ownership, offers an exciting opportunity for a professional ready to make a significant impact on patient care and operational excellence.As ADON, you will play a crucial role in supporting the Director of Nursing, overseeing clinical operations, ensuring compliance with regulatory standards, and fostering a positive environment for both residents and staff. This is an excellent chance to contribute to a facility committed to high-quality care and continuous improvement.We are looking for a highly skilled and motivated individual who thrives in a collaborative setting. If you are passionate about geriatric care and possess strong leadership abilities, we encourage you to apply. This role offers competitive compensation for the right candidate, reflecting the value placed on exceptional talent and dedication.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Minimum of 2 years of nursing leadership experience, preferably in a skilled nursing facility",
-      "Demonstrated knowledge of state and federal long-term care regulations",
-      "Strong clinical assessment and supervisory skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "adon_the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Unit Manager",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and experienced Unit Manager to join a premier health and rehabilitation center in Venice, FL. This is an exciting opportunity to be part of a facility that has recently undergone a change in ownership, bringing fresh perspectives and a commitment to excellence in patient care.\n\nAs a Unit Manager, you will play a critical role in overseeing the daily operations of a nursing unit, ensuring the highest standards of care for our residents. We are looking for a leader who can inspire their team, maintain regulatory compliance, and contribute to a positive and supportive environment. This role offers a chance to make a significant impact in a dynamic setting.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in Florida",
-      "Minimum of 2-3 years of clinical nursing experience, with at least 1 year in a supervisory or leadership role",
-      "Experience in a skilled nursing facility or long-term care environment is highly preferred",
-      "Demonstrated ability to lead and manage a nursing team effectively",
-      "Strong organizational, communication, and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Highly competitive compensation for the right candidate.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_unit_manager__urgent__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Occupational Therapist",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An exciting opportunity awaits a dedicated Occupational Therapist in Venice, FL. Join a premier health and rehabilitation center that has recently undergone new ownership, bringing fresh perspectives and a commitment to excellence in patient care. This facility is known for its supportive environment and focus on resident well-being.\n\nWe are seeking a talented professional who is passionate about helping patients regain independence and improve their quality of life. This role offers the chance to make a significant impact within a dynamic team, with a focus on delivering high-quality, individualized therapy services. The facility is prepared to offer competitive compensation for the right candidate who demonstrates exceptional skills and dedication.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Occupational Therapist (OT) license in Florida",
-      "Master's or Doctorate degree in Occupational Therapy from an accredited program",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Strong clinical assessment and treatment planning skills",
-      "Ability to collaborate effectively with an interdisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ot_the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dynamic team at a recently purchased skilled nursing facility in Venice, FL, dedicated to providing exceptional patient care. This facility, known for its commitment to resident well-being, is seeking a talented Speech-Language Pathologist to contribute to its growing team. You will play a crucial role in assessing and treating residents with communication and swallowing disorders, enhancing their quality of life.This is an excellent opportunity for a dedicated professional looking to make a significant impact. The facility is prepared to offer competitive compensation for the right candidate, recognizing the value of skilled and compassionate therapists. If you are passionate about geriatric care and thrive in a collaborative environment, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-      "Current Florida state licensure as a Speech-Language Pathologist",
-      "Experience working in a skilled nursing facility or similar geriatric setting",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "slp_the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Licensed Clinical Social Worker (LCSW)",
-    "location": "Duluth, MN",
-    "facilityType": "Rehabilitation and Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier rehabilitation and skilled nursing facility in Duluth, MN. In this vital role, you will provide essential social services to patients and their families, ensuring comprehensive support throughout their rehabilitation journey. This is an excellent opportunity to make a significant impact on patient well-being and contribute to a supportive care environment.\n\nThe ideal candidate will be responsible for conducting psychosocial assessments, developing care plans, and facilitating discharge planning. You will serve as a crucial link between patients, families, and the healthcare team, advocating for patient needs and connecting them with appropriate community resources. Join a team committed to delivering high-quality, patient-centered care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and unrestricted Licensed Clinical Social Worker (LCSW) license in the state of Minnesota.",
-      "Master's degree in Social Work (MSW) from an accredited program.",
-      "Minimum of 1-2 years of experience in a healthcare setting, preferably in skilled nursing or rehabilitation.",
-      "Strong understanding of psychosocial assessment, care planning, and discharge processes.",
-      "Excellent communication, interpersonal, and organizational skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "lcsw_hilltop_healthcare_rehabilitation_and_skilled_nursing_duluth__mn"
-  },
-  {
-    "roleTitle": "Family Medicine Physician",
-    "location": "Greenville, SC",
-    "facilityType": "Community Health Center",
-    "description": "We are seeking a dedicated Family Medicine Physician to join a premier community health center in Greenville, SC. This is an exceptional opportunity for an MD or DO to provide comprehensive primary care services within a supportive environment. We are open to considering candidates specializing in Family Medicine (preferred), Internal Medicine, or Med/Peds.\n\nThis role offers a highly competitive compensation package, including a strong base salary and a significant bonus structure. We provide excellent benefits, generous paid time off, and are open to candidates requiring travel or relocation assistance. Join a team committed to patient care and professional growth.",
-    "contractType": "Full-time",
-    "salaryShort": "$210,000+ per year",
-    "requirements": [
-      "Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med/Peds (Family Medicine preferred)",
-      "Ability to obtain or hold a valid medical license in South Carolina",
-      "Commitment to full-time practice",
-      "Openness to travel or relocation"
-    ],
-    "salaryOrBonusInfo": "This position offers a non-negotiable base salary of $210,000 per year. The compensation package includes a robust bonus structure of up to $50,000, comprising a $25,000 guaranteed bonus and a $25,000 potential bonus. A $9,000 portion of the bonus is available as a sign-on/relocation bonus on payday 1, contingent on signing a promissory note. Great benefits and generous PTO are also provided.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
     "roleTitle": "Internal Medicine Physician",
     "location": "Greenville, SC",
     "facilityType": "Community Health Center",
@@ -1401,182 +317,6 @@
     "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 annually, with a bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and $25,000 in potential bonuses, of which $9,000 is available as a sign-on/relocation bonus on payday 1 (if a promissory note is signed).",
     "applyLink": "https://navahc.com/candidates/",
     "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Med-Peds Physician",
-    "location": "Greenville, SC",
-    "facilityType": "Community Health Center",
-    "description": "We are seeking a dedicated Med-Peds Physician to join a premier community health center in Greenville, SC. This is an exceptional opportunity for a physician looking to make a significant impact in a supportive environment, offering a highly competitive compensation package and excellent benefits.\n\nThis full-time role comes with a non-negotiable base salary of $210,000 per year, complemented by a robust bonus structure that can add up to $50,000. Enjoy a comprehensive benefits package, including generous Paid Time Off (PTO). We are open to candidates requiring travel or relocation and have revamped our compensation and raise structure to be highly attractive.",
-    "contractType": "Full-time",
-    "salaryShort": "$210,000 per year",
-    "requirements": [
-      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med-Peds",
-      "Active or eligible for medical licensure in South Carolina",
-      "Commitment to providing high-quality patient care"
-    ],
-    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a potential for up to $50,000 in bonuses. This includes a guaranteed $25,000 bonus and an additional $25,000 potential bonus, with $9,000 available on the first payday for those who sign a promissory note. Relocation/sign-on bonuses are part of the overall bonus structure.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Family Medicine Physician",
-    "location": "Greenville, SC",
-    "facilityType": "Community Health Center",
-    "description": "We are seeking a dedicated Family Medicine Physician to join a dynamic community health center in Greenville, SC. This role offers a unique opportunity to provide comprehensive primary care services within a supportive environment, focusing on patient well-being and community health. We are open to candidates seeking part-time, PRN, or contract arrangements and welcome those open to travel or relocation.\n\nThis position comes with a highly competitive compensation package, starting at $210,000 per year, complemented by a robust bonus structure. Enjoy excellent benefits, including generous Paid Time Off, and be part of a team that values work-life balance.",
-    "contractType": "Contract",
-    "salaryShort": "$210,000+ per year",
-    "requirements": [
-      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med/Pediatrics",
-      "Active and unrestricted medical license in South Carolina",
-      "Commitment to providing high-quality patient care in a community health setting"
-    ],
-    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a $25,000 guaranteed bonus and an additional $25,000 potential bonus. A $9,000 sign-on bonus is available on the first payday upon signing a promissory note. This role features a revamped compensation and raise structure.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Internal Medicine / Family Medicine Physician",
-    "location": "Greenville, SC",
-    "facilityType": "Community Health Center",
-    "description": "An exciting opportunity awaits a dedicated Internal Medicine or Family Medicine Physician in Greenville, SC. Join a dynamic team at a leading community health center committed to providing exceptional patient care. This role offers a highly competitive compensation package designed to reward your expertise and commitment.\n\nWe are seeking a physician to contribute to our mission, with a preference for full-time engagement, though all qualified candidates will be considered. The compensation package includes a base salary of $210,000 per year, complemented by a significant bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and an additional $25,000 potential bonus. Notably, $9,000 of the bonus is available on payday one for those who sign a promissory note.\n\nEnjoy a comprehensive benefits package, generous paid time off, and the potential for relocation assistance. We are open to candidates seeking travel or relocation to the vibrant Greenville area.",
-    "contractType": "Contract",
-    "salaryShort": "$210,000 per year",
-    "requirements": [
-      "Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med/Ped",
-      "Valid South Carolina medical license or eligibility",
-      "Willingness to consider travel or relocation",
-      "Ability to sign a promissory note for early bonus payout"
-    ],
-    "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 per year. A robust bonus structure is available, offering up to $50,000, which includes a $25,000 guaranteed bonus and a $25,000 potential bonus. $9,000 of this bonus is available on payday one upon signing a promissory note. Relocation assistance is also available.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Physical Therapist",
-    "location": "Winslow, AZ",
-    "facilityType": "Critical Access Hospital and Outpatient Clinic",
-    "description": "An exciting opportunity is available for a dedicated Physical Therapist in Winslow, AZ. This role offers the unique chance to work across diverse settings, providing essential care to both inpatients within a Critical Access Hospital and outpatients at a dedicated stand-alone clinic.\n\nJoin a team committed to patient well-being and make a significant impact on the community. This position is ideal for a professional seeking a varied caseload and the opportunity to contribute to comprehensive rehabilitation services in a supportive environment.",
-    "contractType": "Full-time or Part-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current state licensure as a Physical Therapist",
-      "Experience or willingness to work with both inpatient and outpatient populations",
-      "Ability to thrive in a Critical Access Hospital and stand-alone clinic environment",
-      "Strong clinical assessment and treatment skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt_little_colorado_medical_center_winslow__az"
-  },
-  {
-    "roleTitle": "Physical Therapist (PRN/Part-time)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL, as a PRN/Part-time Physical Therapist. This facility, with a capacity of 55-59 beds and a current census of 43, offers a vibrant and supportive environment for both patients and staff. Located conveniently on a main street with ample shopping nearby and nestled in a nice neighborhood, you'll find a welcoming community. Plus, you're just 15 minutes from the beach, perfect for enjoying the Florida lifestyle. The facility also features two lovely courtyards for patient and staff enjoyment.As a Physical Therapist, you will play a crucial role in helping patients regain mobility and improve their quality of life. We are seeking a dedicated professional to provide high-quality therapy services on a flexible, as-needed basis. This is an excellent opportunity to make a significant impact while enjoying a great work-life balance in a desirable location. We offer a competitive hourly rate for this PRN/Part-time position, reflecting your expertise and commitment. If you're passionate about patient care and looking for a flexible role, we encourage you to apply.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$55.00 - $60.00/hr",
-    "requirements": [
-      "Valid and active Physical Therapist (PT) license in the state of Florida.",
-      "Minimum of 1 year of experience as a Physical Therapist, preferably in a skilled nursing or rehabilitation setting.",
-      "Current Basic Life Support (BLS) or CPR certification.",
-      "Ability to commit to PRN/Part-time hours as needed by the facility.",
-      "Strong communication and interpersonal skills."
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $55.00 - $60.00 per hour, based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Occupational Therapist (OT) - PRN/Part-Time",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An exciting opportunity awaits a dedicated Occupational Therapist (OT) for a PRN/Part-Time role in St. Petersburg, FL. Join a premier health and rehabilitation center, a 55-59 bed facility with a current census of 43, focused on delivering exceptional patient care and rehabilitation services. This flexible position allows you to make a significant impact on patients' recovery journeys.\n\nThis facility is ideally situated on a main street with abundant shopping nearby, nestled in a nice neighborhood. Enjoy the convenience of being just 15 minutes from the beach, offering a perfect work-life balance. The center also features two courtyards, providing a pleasant environment for both patients and staff.\n\nWe are seeking a compassionate and skilled Occupational Therapist to provide comprehensive therapy services, helping patients regain independence and improve their quality of life. This role offers the flexibility of PRN/Part-Time hours, perfect for those seeking to balance professional commitments with personal life.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$55.00 - $60.00/hr",
-    "requirements": [
-      "Current Occupational Therapist (OT) license in Florida",
-      "Experience in a skilled nursing or rehabilitation facility preferred",
-      "Ability to commit to PRN/Part-time hours",
-      "Strong clinical assessment and treatment planning skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "This role offers a competitive hourly rate of $55.00 - $60.00, with compensation based on experience and availability.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL. This full-time Certified Occupational Therapy Assistant (COTA) role offers a unique opportunity to make a significant impact on patient recovery in a supportive environment. The facility is a 55-59 bed center with a current census of 43, ensuring a manageable caseload and personalized patient care.\n\nLocated conveniently on a main street with abundant shopping nearby and nestled in a nice neighborhood, this facility offers an excellent work-life balance. Enjoy the benefit of being just 15 minutes from the beach, perfect for unwinding after work. The center also features two courtyards, providing pleasant outdoor spaces for both patients and staff. We are seeking a passionate COTA to contribute to our patient-centered approach and help individuals regain independence.",
-    "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
-    "requirements": [
-      "Active Certified Occupational Therapy Assistant (COTA) license in Florida",
-      "Previous experience in a skilled nursing or rehabilitation setting preferred",
-      "Strong communication and interpersonal skills",
-      "Ability to work collaboratively as part of a multidisciplinary team",
-      "Commitment to providing high-quality patient care"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (PRN)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing and rehabilitation center located in beautiful St. Petersburg, FL. This facility, with a capacity of 55-59 beds and a current census of 43, offers a supportive environment for both patients and staff. Situated on a main street with convenient access to shopping and nestled in a nice neighborhood, it's just 15 minutes from the beach, providing an excellent work-life balance. The center also features two courtyards, enhancing the therapeutic environment.\n\nWe are seeking a passionate and skilled Speech-Language Pathologist to provide PRN services. In this role, you will have the flexibility to make a significant impact on the lives of residents, helping them regain communication and swallowing abilities. This is an urgent need to support our growing patient population and ensure continuity of care.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current Florida state licensure as a Speech-Language Pathologist",
-      "Certificate of Clinical Competence (CCC) from ASHA",
-      "Previous experience in a skilled nursing or rehabilitation facility",
-      "Ability to commit to PRN scheduling"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_slp_eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
-    "location": "Louisa, KY",
-    "facilityType": "Rehabilitation and Healthcare Center",
-    "description": "We are seeking an experienced and dedicated Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Louisa, KY. This pivotal role requires a visionary leader committed to upholding the highest standards of resident care and operational excellence.\n\nThe successful candidate will be responsible for overseeing all aspects of facility management, ensuring compliance with state and federal regulations, and fostering a positive environment for both residents and staff. This is an urgent opportunity for an administrator with a proven track record to make a significant impact.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and valid Licensed Nursing Home Administrator (LNHA) license.",
-      "Minimum of 3 years of experience as a Licensed Nursing Home Administrator.",
-      "Strong understanding of state and federal regulations governing skilled nursing facilities.",
-      "Demonstrated leadership and management skills.",
-      "Proven ability to manage budgets and financial performance."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_lnha_jordan_rehabilitation_and_healthcare_center_louisa__ky"
-  },
-  {
-    "roleTitle": "Warehouse Manager",
-    "location": "Lakewood, NJ",
-    "facilityType": "Medical Supply Distribution Center",
-    "description": "We are seeking a highly organized and meticulous Warehouse Manager to join a leading medical supply distribution center in Lakewood, NJ. This full-time role offers a competitive salary and is an excellent opportunity for a professional who thrives in a dynamic and coordinated environment.As a Warehouse Manager, you will be responsible for overseeing all aspects of warehouse operations, ensuring efficiency, accuracy, and adherence to methodical processes. The ideal candidate will possess strong analytical skills and a keen eye for detail, driving operational excellence and maintaining high standards.This position offers a salary range of $120,000 to $150,000 annually, based on experience. If you are a coordinated professional with a passion for precision and operational leadership, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$120,000 - $150,000 per year",
-    "requirements": [
-      "Exceptional organizational skills and meticulous attention to detail.",
-      "Proven methodical and coordinated professional work ethic.",
-      "Strong analytical and problem-solving capabilities.",
-      "Familiarity with warehouse management systems; experience with Bright Pearl software is a significant advantage."
-    ],
-    "salaryOrBonusInfo": "Compensation between $120,000 and $150,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "warehouse_manager__120k_150k__domani_home_lakewood__nj"
   },
   {
     "roleTitle": "Director of Nursing (DON)",
@@ -1615,77 +355,6 @@
     "id": "2_ft_board_certified_neurologist__urgent___250k_450k___secaucus_university_hospital_secaucus__nj"
   },
   {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Fairburn, GA",
-    "facilityType": "Home Health Agency",
-    "description": "We are urgently seeking dedicated and compassionate Licensed Practical Nurses (LPNs) for PRN/Part-time opportunities in the Fairburn, GA area. This is a critical role within a leading home health agency, offering the flexibility of a 1099 contract. You will provide essential patient care in various home settings, making a direct impact on the well-being of individuals in the community. This position offers competitive case-based pay and the chance to manage your own schedule with a commitment of 3 or more cases per week. Join a team that values your skills and dedication, providing vital support to patients needing care in their homes.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Current and unrestricted LPN license in Georgia",
-      "Proven experience as an LPN, preferably in home health or a similar setting",
-      "Ability to work independently and manage a caseload effectively",
-      "Valid driver's license and reliable transportation",
-      "Comfortable with 1099 contractor status"
-    ],
-    "salaryOrBonusInfo": "This urgent PRN/Part-time position offers competitive compensation of $90-$120 per case, with a commitment of 3 or more cases per week. This is a 1099 contract opportunity.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_fairburn__ga"
-  },
-  {
-    "roleTitle": "PRN Licensed Practical Nurse",
-    "location": "Marietta, GA",
-    "facilityType": "A dynamic healthcare setting",
-    "description": "An urgent opportunity is available for a dedicated PRN/Part-Time Licensed Practical Nurse (LPN) in Marietta, GA. This role offers a flexible 1099 contract with competitive per-case compensation, ideal for professionals seeking autonomy and a strong work-life balance.\n\nAs an LPN, you will provide essential nursing care on a per-case basis, with an expectation of handling 3 or more cases per week. This is a critical and immediate need, offering the chance to make a significant impact while managing your own schedule.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Active LPN license in Georgia",
-      "Proven experience as a Licensed Practical Nurse",
-      "Ability to commit to 3+ cases per week",
-      "Strong clinical skills and patient-centered approach"
-    ],
-    "salaryOrBonusInfo": "$90-$120 per case, with an expectation of 3+ cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_marietta__ga"
-  },
-  {
-    "roleTitle": "Contract Licensed Practical Nurse (LPN)",
-    "location": "Lawrenceville, GA",
-    "facilityType": "Home Health Agency",
-    "description": "We are urgently seeking dedicated and skilled Licensed Practical Nurses (LPNs) for a contract, PRN/Part-Time opportunity in Lawrenceville, GA. This role offers excellent flexibility and the chance to make a significant impact on patient care within a dynamic home health setting. As a 1099 contractor, you will manage a caseload of 3 or more cases per week, providing essential nursing services directly to patients in their homes.\nThis is an urgent need, perfect for LPNs looking for flexible scheduling and competitive per-case compensation. Join a team committed to delivering high-quality, compassionate care and enjoy the autonomy of managing your own schedule while contributing to patient well-being.",
-    "contractType": "Contract",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Active LPN license in Georgia",
-      "Minimum 1 year of LPN experience, preferably in home health or a similar setting",
-      "Ability to commit to 3+ cases per week",
-      "Valid driver's license and reliable transportation",
-      "Strong organizational and communication skills"
-    ],
-    "salaryOrBonusInfo": "Compensation is highly competitive, ranging from $90-$120 per case, with the opportunity to take on 3 or more cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_lawrenceville__ga"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Dacula, GA",
-    "facilityType": "Community Healthcare Provider",
-    "description": "An urgent opportunity has arisen for a dedicated PRN/Part-time Licensed Practical Nurse (LPN) in Dacula, GA. This role offers a flexible 1099 contract, ideal for LPNs seeking autonomy and competitive per-case compensation. We are looking for reliable professionals to join a dynamic team providing essential healthcare services in the community.\n\nThis position requires a commitment to handling at least 3 cases per week, with each case offering a pay rate of $90-$120. If you are an LPN looking for a flexible schedule and the chance to make a significant impact on patient care, we encourage you to apply immediately.",
-    "contractType": "PRN",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Active LPN license in Georgia",
-      "Ability to work on a 1099 contract basis",
-      "Commitment to at least 3 cases per week",
-      "Strong clinical skills and ability to work independently",
-      "Reliability and excellent communication skills"
-    ],
-    "salaryOrBonusInfo": "Compensation is $90-$120 per case, with a minimum commitment of 3 cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_dacula__ga"
-  },
-  {
     "roleTitle": "Licensed Practical Nurse (LPN) - PRN/Part-Time",
     "location": "College Park, GA",
     "facilityType": "Community Healthcare Provider",
@@ -1722,42 +391,6 @@
     "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_eastpoint__ga"
   },
   {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Clarkston, GA",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) for PRN/Part-time opportunities in Clarkston, GA. This is an excellent chance for LPNs looking for flexible scheduling and the autonomy of an independent contractor (1099) role, providing essential care to patients in a community setting. If you are passionate about patient care and thrive in a dynamic environment, we encourage you to apply.\n\nThis role offers competitive compensation ranging from $90 to $120 per case, with an expectation of handling 3 or more cases per week. You will have the flexibility to manage your schedule while making a significant impact on the lives of individuals needing care. Join a team that values your skills and dedication.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Current and valid LPN license in the state of Georgia",
-      "Proven experience as a Licensed Practical Nurse",
-      "Ability to work independently as a 1099 contractor",
-      "Strong clinical assessment and patient care skills",
-      "Reliable transportation for travel to patient homes"
-    ],
-    "salaryOrBonusInfo": "Compensation is $90-$120 per case, with an expectation of 3 or more cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_clarkston__ga"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Mableton, GA",
-    "facilityType": "Community Healthcare Provider",
-    "description": "Are you a dedicated Licensed Practical Nurse seeking a flexible and rewarding opportunity in Mableton, GA? A leading community healthcare provider is looking for a skilled LPN to join their team on a PRN/Part-time contract basis. This role offers the autonomy of independent contracting with consistent case availability.\n\nIn this role, you will provide essential patient care in a community setting, managing a caseload of 3 or more cases per week. This is an excellent opportunity for an LPN looking to balance professional commitments with a flexible schedule, while making a significant impact on patient well-being.\n\nWe are seeking compassionate and reliable professionals ready to deliver high-quality care. If you are an LPN with a passion for community health and the desire for a flexible, per-case compensation model, we encourage you to apply.",
-    "contractType": "Contract (1099)",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Active and unrestricted Licensed Practical Nurse (LPN) license in Georgia",
-      "Minimum of 1 year of LPN experience, preferably in a home health or community setting",
-      "Ability to commit to a minimum of 3 cases per week",
-      "Strong clinical assessment and patient care skills",
-      "Reliable transportation and ability to travel to patient homes within the Mableton area"
-    ],
-    "salaryOrBonusInfo": "$90-$120 per case, with opportunity for 3+ cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_mableton__ga"
-  },
-  {
     "roleTitle": "Licensed Practical Nurse (LPN) - PRN/Part-Time",
     "location": "Decatur, GA",
     "facilityType": "Home Health Setting",
@@ -1774,42 +407,6 @@
     "salaryOrBonusInfo": "Compensation is $90-$120 per case, with a commitment of 3+ cases per week.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_decatur__ga"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "location": "Canton, GA",
-    "facilityType": "Community-based healthcare provider",
-    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) for PRN/Part-time opportunities in Canton, GA. This role offers the flexibility of an independent contractor (1099) position, allowing you to manage your schedule while providing essential care to patients in a community setting.\n\nThis is a case-based role, with an attractive compensation of $90-$120 per case. We anticipate a consistent workload of 3 or more cases per week, providing a steady opportunity for skilled LPNs looking for flexible engagement.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Current LPN license in the state of Georgia",
-      "Minimum of 1 year of LPN experience",
-      "Current BLS/CPR certification",
-      "Reliable transportation and valid driver's license",
-      "Ability to work independently and manage a caseload"
-    ],
-    "salaryOrBonusInfo": "$90-$120 per case, with 3+ cases per week",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__1099_s___90__120_per_case__3__cases_per_week__travel_canton__ga"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Bastrop, TX",
-    "facilityType": "a private residence",
-    "description": "We are seeking a dedicated and reliable Housekeeper for a part-time/PRN opportunity in Bastrop, TX. This role offers flexibility, with an expected commitment of 6-8 hours per week, with potential for additional hours as needed. This is an excellent opportunity for individuals seeking a flexible schedule in a residential setting.",
-    "contractType": "Part-time/PRN",
-    "salaryShort": "$16-$22 per hour",
-    "requirements": [
-      "Proven experience in housekeeping or a similar role",
-      "Ability to work independently and manage time effectively",
-      "Strong attention to detail and commitment to cleanliness",
-      "Reliability and trustworthiness",
-      "Physical ability to perform cleaning tasks (lifting, bending, standing)"
-    ],
-    "salaryOrBonusInfo": "Compensation is $16-$22 per hour, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_housekeeper___16__22_per_hour__home_bastrop__tx"
   },
   {
     "roleTitle": "Activities Director",
@@ -1830,6 +427,24 @@
     "id": "activities_director_paradise_manor_senior_care__30_bed_all_male_alf__oakland_park__fl"
   },
   {
+    "roleTitle": "Highly Experienced Montessori Teacher",
+    "location": "Bastrop, TX",
+    "facilityType": "Elementary School",
+    "description": "We are seeking a highly experienced and dedicated Montessori Teacher to join a premier elementary school in Bastrop, TX. This is an exceptional opportunity for a passionate educator to make a significant impact on young minds within a supportive and innovative learning environment. We are looking for a leader in Montessori education who is committed to fostering independence, curiosity, and a love for learning in children.\n\nThis role offers a unique compensation approach, with no pay limit for the right person, reflecting our commitment to attracting and retaining top talent in the field. If you are an accomplished Montessori professional ready to contribute your expertise and shape the future of our students, we encourage you to explore this opportunity.\n\nJoin a team that values excellence and provides the resources necessary for both students and educators to thrive. We are eager to welcome a highly skilled individual who can uphold the principles of Montessori education and inspire our next generation.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Montessori Certification (AMI or AMS preferred)",
+      "Bachelor's degree in Early Childhood Education or a related field",
+      "Significant experience as a lead Montessori Teacher",
+      "Demonstrated ability to create and maintain an engaging Montessori classroom environment",
+      "Texas teaching certification or eligibility to obtain"
+    ],
+    "salaryOrBonusInfo": "No pay limit (as long as request is reasonable) for the right person.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+  },
+  {
     "roleTitle": "Chief Financial Officer (CFO)",
     "location": "Confidential Location",
     "facilityType": "Corporate Office",
@@ -1848,142 +463,124 @@
     "id": "cfo__very_confidential___200k___sign_on___relocation_bonus__corporate_office_in_ny___corporate_south_confidential"
   },
   {
-    "roleTitle": "Director of Financial Analysis & Reporting",
-    "location": "Binghamton, NY or Pittston, PA",
-    "facilityType": "Corporate Office supporting Skilled Nursing Facilities",
-    "description": "We are urgently seeking a skilled Director of Financial Analysis & Reporting to join a corporate team supporting a network of healthcare facilities. This pivotal role involves comprehensive analysis of monthly and quarterly financial results, providing critical insights to drive strategic decisions.\n\nThe ideal candidate will bring valuable experience in payer mix analysis, including Medicare and Medicaid, and a strong understanding of reimbursement trends. Prior experience within skilled nursing facilities is highly advantageous. This is an excellent opportunity to contribute to the financial health and operational efficiency of a dynamic organization.",
-    "contractType": "Full-time",
-    "salaryShort": "$90,000+ per year",
-    "requirements": [
-      "Proven experience in financial analysis and reporting",
-      "Ability to analyze monthly and quarterly financial results",
-      "Experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends",
-      "Prior experience in Skilled Nursing Facilities (SNF) is a plus"
-    ],
-    "salaryOrBonusInfo": "Starting at $90,000 per year, compensation will be based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
-  },
-  {
-    "roleTitle": "Commercial Lead HVAC Technician/Installer",
-    "location": "Chicago, IL",
-    "facilityType": "Commercial Service Company",
-    "description": "Join a highly reputable commercial service company known for its exceptional employee retention and stable work environment. We are seeking skilled Commercial Lead HVAC Technicians/Installers to serve clients across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This is an outstanding opportunity for professionals looking for a long-term career with a company where employees thrive for decades.\n\nIn this role, you will be responsible for the installation, maintenance, and repair of various commercial HVAC systems, including boilers and chillers. We are looking for individuals who can lead projects, troubleshoot complex issues, and ensure high-quality service delivery. If you have a strong background in commercial HVAC and are ready to contribute to a team-oriented culture, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$35.00 - $60.00/hr",
-    "requirements": [
-      "Minimum 5-7 years of experience in HVAC.",
-      "At least 3 years of dedicated commercial HVAC experience, including expertise with boilers and chillers.",
-      "Ability to travel within the Chicago Metropolitan Area (IL, WI, IN).",
-      "Valid driver's license and clean driving record.",
-      "Experience in Skilled Nursing Facilities (SNF) is a plus."
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $35.00 - $60.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "5_commercial_lead_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
-    "roleTitle": "Commercial HVAC Field Manager",
-    "location": "Chicago, IL",
-    "facilityType": "Healthcare Facility",
-    "description": "Join a highly reputable company as a Commercial HVAC Field Manager, serving the dynamic Chicago Metropolitan Area across Illinois, Wisconsin, and Indiana. This is an exceptional opportunity to become part of an organization renowned for its stability and employee loyalty, where professionals build long-term careers.\n\nIn this pivotal role, you will lead and manage field operations for commercial HVAC projects, ensuring the successful installation, maintenance, and repair of critical systems including boilers and chillers. You will be responsible for overseeing a team of skilled technicians, maintaining high standards of service, and ensuring client satisfaction across various commercial settings, potentially including healthcare facilities. This position requires regular travel within the designated service area.",
-    "contractType": "Full-time",
-    "salaryShort": "$50.00 - $65.00/hr",
-    "requirements": [
-      "Minimum 5-7 years of HVAC experience",
-      "At least 3 years of commercial HVAC experience, including boilers and chillers",
-      "Proven leadership or field management experience in HVAC",
-      "Willingness to travel extensively within the Chicago Metropolitan Area (IL, WI, IN)",
-      "Experience with Skilled Nursing Facilities (SNF) is a plus"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00, compensation based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
-    "roleTitle": "Interim Licensed Nursing Home Administrator (LNHA)",
-    "location": "Frostburg, MD",
+    "roleTitle": "Director of Nursing (DON) - RN",
+    "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking an experienced Interim Licensed Nursing Home Administrator (LNHA) to join a dedicated team at a premier skilled nursing facility in Frostburg, MD. This critical role requires a leader who can step in immediately to ensure the highest standards of resident care and operational excellence. If you are a proactive and compassionate administrator ready to make an immediate impact, we encourage you to apply.This interim opportunity offers a competitive hourly rate of $70-$80/hr for a professional committed to maintaining exceptional facility performance and regulatory compliance. We are looking for a candidate who can hit the ground running and provide stable leadership during this transitional period. Join a facility dedicated to fostering a supportive environment for both residents and staff.",
-    "contractType": "Interim",
-    "salaryShort": "$70-$80/hr",
-    "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Proven experience in skilled nursing facility administration.",
-      "Strong understanding of state and federal regulations (e.g., CMS, OBRA).",
-      "Excellent leadership, communication, and interpersonal skills.",
-      "Ability to start immediately."
-    ],
-    "salaryOrBonusInfo": "This interim position offers a competitive hourly rate of $70-$80/hr.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "interim_lnha__needs_to_start_asap___70__80_hr___frostburg__md"
-  },
-  {
-    "roleTitle": "Director of Social Services",
-    "location": "Birmingham, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Director of Social Services to join a premier health and rehabilitation center in Birmingham, AL. In this vital role, you will be responsible for ensuring the social and emotional well-being of our residents, advocating for their needs, and facilitating their adjustment to the facility environment. This position offers an opportunity to make a significant impact on the lives of residents and their families.\n\nThe Director of Social Services will play a key role in developing and implementing individualized care plans, coordinating discharge planning, and providing support services. You will collaborate closely with interdisciplinary teams to ensure comprehensive and person-centered care. We are looking for a leader who is passionate about resident advocacy and committed to upholding the highest standards of social services.",
+    "description": "An exceptional opportunity awaits an experienced and dedicated Registered Nurse to join a premier health and rehabilitation center in Venice, FL, as their Director of Nursing (DON). This pivotal leadership role is ideal for a seasoned professional ready to oversee all nursing operations and ensure the highest standards of patient care within a dynamic environment.\n\nAs the DON, you will be instrumental in guiding the nursing team, implementing best practices, and fostering a culture of excellence. This facility is committed to providing outstanding care and offers a highly competitive compensation package for the right candidate, recognizing the critical impact of this role on resident well-being and facility success.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Bachelor's degree in Social Work or a related human services field",
-      "Minimum of 2 years of experience in a social work role within a skilled nursing or long-term care facility",
-      "Knowledge of federal and state regulations pertaining to social services in long-term care",
-      "Strong communication, interpersonal, and organizational skills"
+      "Active Registered Nurse (RN) license in the state of Florida",
+      "Minimum of 2-3 years of experience as a Director of Nursing or Assistant Director of Nursing in a Skilled Nursing Facility (SNF)",
+      "Proven leadership and management skills in a healthcare setting",
+      "Comprehensive knowledge of state and federal regulations for long-term care facilities"
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
+    "salaryOrBonusInfo": "Compensation is highly competitive and based on experience, reflecting the value placed on the right candidate.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "director_of_social_services_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
+    "id": "rn_don__confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "location": "Birmingham, AL",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) to join a leading skilled nursing facility in Birmingham, AL. This is an excellent opportunity to make a significant impact on the lives of patients, helping them regain independence and improve their quality of life through therapeutic interventions.\n\nIn this role, you will work under the supervision of an Occupational Therapist, assisting with the implementation of individualized treatment plans. Your responsibilities will include guiding patients through therapeutic exercises, activities of daily living, and adaptive equipment training, all while maintaining accurate documentation of progress. You will be an integral part of a collaborative healthcare team, contributing to a positive and supportive environment.\n\nIf you are a motivated COTA looking to apply your skills in a dynamic setting and help patients achieve their rehabilitation goals, we encourage you to apply. Join a team committed to providing exceptional patient care and fostering a supportive work environment.",
+    "description": "Join a premier skilled nursing facility in Venice, FL, as an Assistant Director of Nursing (ADON). This is an excellent opportunity for a dedicated and experienced nursing leader to contribute to a compassionate care environment. The facility is committed to providing high-quality patient care and fostering a supportive team atmosphere. We are seeking a professional who is ready to take on a pivotal role in nursing leadership.\n\nThis position offers a chance to make a significant impact within a recently purchased facility, where your expertise will be highly valued. We are actively seeking a highly qualified individual who is passionate about leadership and clinical excellence.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Associate's degree from an accredited Occupational Therapy Assistant program",
-      "Current and valid COTA license in the state of Alabama",
-      "Current CPR certification",
-      "Previous experience in a skilled nursing or rehabilitation setting preferred"
+      "Active Registered Nurse (RN) license in Florida",
+      "Minimum of 2 years of nursing leadership experience",
+      "Experience in a skilled nursing facility setting",
+      "Strong clinical and leadership skills"
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
+    "salaryOrBonusInfo": "Compensation is competitive and pays well for the right person, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "cota_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
+    "id": "adon_the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
-    "roleTitle": "Housekeeper",
-    "location": "Birmingham, AL",
+    "roleTitle": "Unit Manager",
+    "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team as a Housekeeper at a premier health and rehabilitation center in Birmingham, AL. In this vital role, you will be responsible for maintaining a clean, sanitary, and safe environment for residents, staff, and visitors. Your commitment to cleanliness directly contributes to the well-being and comfort of everyone within the facility. We are seeking a meticulous and reliable individual to ensure all areas meet the highest standards of hygiene and presentation. This position offers an opportunity to make a significant impact by providing a welcoming and healthy atmosphere.",
+    "description": "An urgent and exciting opportunity awaits a dedicated Unit Manager in Venice, FL. Join a premier skilled nursing facility that has recently undergone new ownership, bringing fresh perspectives and a commitment to excellence in patient care. This role is critical to our continued success and offers a chance to make a significant impact.We are seeking a dynamic leader to oversee two units, ensuring the highest standards of clinical care and fostering a supportive environment for both residents and staff. This position offers highly competitive compensation for the right candidate who is ready to contribute to a thriving and evolving healthcare environment.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "High school diploma or equivalent preferred",
-      "Prior experience in housekeeping or environmental services, ideally within a healthcare or long-term care setting",
-      "Ability to follow established cleaning protocols and safety guidelines",
-      "Strong attention to detail and a commitment to maintaining high standards of cleanliness",
-      "Physical ability to perform duties including lifting, bending, and standing for extended periods"
+      "Active Registered Nurse (RN) license in Florida.",
+      "Minimum of 3 years of nursing experience, with at least 1 year in a supervisory or leadership role.",
+      "Prior experience in a Skilled Nursing Facility (SNF) or long-term care setting.",
+      "Demonstrated ability to manage multiple units and lead a nursing team effectively.",
+      "Excellent communication, organizational, and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Highly competitive compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_unit_manager__urgent__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Marketing Director",
+    "location": "Venice, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dynamic and experienced Marketing Director to join a premier skilled nursing facility in Venice, FL. This is an exciting opportunity to lead marketing initiatives for a recently purchased facility, playing a pivotal role in its new chapter and growth. The ideal candidate will be instrumental in developing and executing strategies to enhance community presence and drive admissions.\n\nThis full-time position offers competitive compensation for the right individual, reflecting the importance of this role in our facility's success. If you are a results-oriented marketing professional with a passion for healthcare, we encourage you to apply and contribute to a thriving environment dedicated to patient care.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Marketing, Business, or a related field",
+      "Minimum of 3-5 years of marketing experience in a skilled nursing or long-term care setting",
+      "Demonstrated success in increasing facility census and community outreach",
+      "Strong understanding of healthcare market dynamics in the Venice, FL area",
+      "Excellent communication and interpersonal skills"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "housekeeper_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
+    "id": "marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Occupational Therapist",
+    "location": "Venice, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team as an Occupational Therapist at a premier skilled nursing facility in Venice, FL. This is an exciting opportunity to contribute to patient recovery and well-being in a supportive environment. The facility has recently undergone a change in ownership, bringing fresh perspectives and resources to enhance patient care and staff experience.As an Occupational Therapist, you will play a crucial role in developing and implementing individualized treatment plans, helping patients regain independence and improve their quality of life. We are seeking a passionate and skilled professional who is eager to make a significant impact.If you are a highly motivated Occupational Therapist looking for a rewarding full-time position where your expertise is valued, we encourage you to apply. We offer competitive compensation for the right candidate, reflecting your skills and experience.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Master's or Doctorate degree in Occupational Therapy",
+      "Current Florida Occupational Therapist license",
+      "NBCOT certification",
+      "Experience in a skilled nursing or rehabilitation setting"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ot_the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist",
+    "location": "Venice, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "An exciting opportunity awaits a dedicated Speech-Language Pathologist in Venice, FL. Join a premier skilled nursing facility that has recently undergone new ownership, bringing fresh perspectives and a commitment to exceptional patient care. This role offers the chance to be part of a dynamic team focused on improving the quality of life for residents.As a Speech-Language Pathologist, you will be responsible for assessing, diagnosing, and treating communication, cognitive, and swallowing disorders. You will develop individualized treatment plans, provide therapeutic interventions, and collaborate with a multidisciplinary team to ensure comprehensive patient care. Your expertise will be vital in helping residents regain and maintain their independence and communication abilities.This facility is known for valuing its team members and offers competitive compensation for the right professional. If you are passionate about making a difference in the lives of others and thrive in a supportive environment, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current Florida SLP license",
+      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+      "Experience working with adult and geriatric populations, preferably in a skilled nursing or rehabilitation setting"
+    ],
+    "salaryOrBonusInfo": "Compensation is competitive and pays well for the right person.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "slp_the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
     "roleTitle": "Director of Nursing (DON)",
     "location": "Reading, MA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An urgent and exciting opportunity has arisen for a dedicated Director of Nursing (DON) to join a premier health and rehabilitation center in Reading, MA. This pivotal leadership role offers a chance to significantly impact patient care and lead a compassionate nursing team. We are seeking an experienced and dynamic nursing leader ready to embrace a challenging yet rewarding environment.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring the highest standards of clinical care, and maintaining regulatory compliance. This role is critical to the facility's success, and we are looking for a candidate who can drive excellence and foster a positive work environment. This position offers a highly competitive salary, reflecting the urgency and importance of the role.",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "Are you an experienced Director of Nursing looking for an urgent and rewarding opportunity in Reading, MA? A premier health and rehabilitation center is actively seeking a dedicated and dynamic DON to lead their nursing team. This critical role offers a competitive salary of up to $160,000 per year, reflecting the immediate need for a strong leader.\n\nIn this pivotal position, you will oversee all nursing operations, ensuring the highest standards of patient care and regulatory compliance within a supportive environment. You will play a key role in developing and implementing care strategies, fostering a culture of excellence, and mentoring nursing staff to achieve optimal outcomes for residents.\n\nThis is an urgent opening, presenting a fantastic chance for a proven nursing leader to make a significant impact. If you are ready to take on a challenging yet highly rewarding role with excellent compensation, we encourage you to apply today.",
     "contractType": "Full-time",
-    "salaryShort": "$160,000 per year",
+    "salaryShort": "Up to $160,000 per year",
     "requirements": [
       "Active Registered Nurse (RN) license in Massachusetts",
-      "Minimum of 3 years of experience in a nursing leadership role (e.g., DON, ADON)",
-      "Experience within a skilled nursing facility or long-term care setting",
-      "Comprehensive knowledge of state and federal regulations governing long-term care"
+      "Minimum of 3-5 years of experience as a Director of Nursing or Assistant Director of Nursing",
+      "Proven leadership experience in a skilled nursing or long-term care facility",
+      "Comprehensive knowledge of state and federal healthcare regulations",
+      "Strong clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "Compensation up to $160,000 per year, based on experience",
+    "salaryOrBonusInfo": "Compensation up to $160,000 per year.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "don__urgent__up_to__160k__reading_center_for_health_and_rehab_reading__ma"
   },
@@ -1991,35 +588,125 @@
     "roleTitle": "Director of Nursing (DON)",
     "location": "Natick, MA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Natick, MA. This is an exceptional opportunity for a visionary nursing leader to make a significant impact on resident care and operational excellence within a supportive environment.\n\nThe ideal candidate will be responsible for overseeing all nursing operations, ensuring the highest standards of patient care, and fostering a collaborative and professional work environment. This full-time position offers a competitive salary up to $160,000 per year, reflecting the critical importance of this leadership role.\n\nIf you are a compassionate and skilled nursing professional ready to advance your career and contribute to a facility committed to quality outcomes, we encourage you to apply.",
+    "description": "We are seeking a highly skilled and compassionate Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Natick, MA. This critical leadership role involves overseeing all nursing operations, ensuring the delivery of exceptional patient care, and maintaining compliance with all regulatory standards. The ideal candidate will be a visionary leader dedicated to fostering a positive and supportive environment for both residents and staff.As the Director of Nursing, you will be responsible for developing and implementing nursing policies and procedures, managing staffing, and ensuring continuous quality improvement initiatives. This is an excellent opportunity for an experienced nursing professional to make a significant impact on the lives of our residents and contribute to a thriving healthcare community.",
     "contractType": "Full-time",
     "salaryShort": "$160,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Massachusetts",
-      "Proven experience as a Director of Nursing (DON) or in a similar nursing leadership role",
-      "Experience within a skilled nursing facility or long-term care setting",
-      "Strong understanding of state and federal healthcare regulations"
+      "Current Registered Nurse (RN) license in Massachusetts",
+      "Minimum of 3-5 years of progressive nursing leadership experience, preferably in a skilled nursing facility or long-term care setting",
+      "Demonstrated knowledge of state and federal regulations governing skilled nursing facilities",
+      "Strong leadership, communication, and interpersonal skills",
+      "Ability to manage and mentor a diverse nursing team"
     ],
-    "salaryOrBonusInfo": "Compensation up to $160,000 per year based on experience",
+    "salaryOrBonusInfo": "Annual salary up to $160,000, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "don__up_to__160k__eliot_center_for_health_and_rehabilitation_natick__ma"
   },
   {
-    "roleTitle": "Highly Experienced Montessori Teacher",
-    "location": "Bastrop, TX",
-    "facilityType": "Elementary School",
-    "description": "We are seeking a highly experienced and dedicated Montessori Teacher to join a premier elementary school in Bastrop, TX. This is an exceptional opportunity for a passionate educator to make a significant impact on young minds within a supportive and innovative learning environment. We are looking for a leader in Montessori education who is committed to fostering independence, curiosity, and a love for learning in children.\n\nThis role offers a unique compensation approach, with no pay limit for the right person, reflecting our commitment to attracting and retaining top talent in the field. If you are an accomplished Montessori professional ready to contribute your expertise and shape the future of our students, we encourage you to explore this opportunity.\n\nJoin a team that values excellence and provides the resources necessary for both students and educators to thrive. We are eager to welcome a highly skilled individual who can uphold the principles of Montessori education and inspire our next generation.",
+    "roleTitle": "Licensed Clinical Social Worker (LCSW)",
+    "location": "Duluth, MN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier health and rehabilitation center in Duluth, MN. In this vital role, you will provide essential psychosocial support and services to residents, ensuring their emotional well-being and facilitating their adjustment to the facility environment. This is an excellent opportunity to make a significant impact on the lives of individuals requiring long-term care and rehabilitation.The successful candidate will be an integral part of an interdisciplinary team, collaborating to develop comprehensive care plans. You will conduct psychosocial assessments, offer counseling, assist with discharge planning, and provide support to residents and their families. We are looking for a professional who is passionate about advocating for residents and enhancing their quality of life.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Montessori Certification (AMI or AMS preferred)",
-      "Bachelor's degree in Early Childhood Education or a related field",
-      "Significant experience as a lead Montessori Teacher",
-      "Demonstrated ability to create and maintain an engaging Montessori classroom environment",
-      "Texas teaching certification or eligibility to obtain"
+      "Master's Degree in Social Work (MSW) from an accredited program",
+      "Current and unrestricted Licensed Clinical Social Worker (LCSW) license in the state of Minnesota",
+      "Minimum of 2 years of experience as an LCSW, preferably in a skilled nursing or long-term care setting",
+      "Strong understanding of psychosocial needs of the elderly and those with chronic illnesses",
+      "Excellent communication, interpersonal, and documentation skills"
     ],
-    "salaryOrBonusInfo": "No pay limit (as long as request is reasonable) for the right person.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+    "id": "lcsw_hilltop_healthcare_rehabilitation_and_skilled_nursing_duluth__mn"
+  },
+  {
+    "roleTitle": "Warehouse Manager",
+    "location": "Lakewood, NJ",
+    "facilityType": "Distribution Center",
+    "description": "We are seeking a highly organized and meticulous Warehouse Manager to join our team at a leading distribution center in Lakewood, NJ. This is an excellent opportunity for a professional who thrives in a dynamic environment and is committed to operational excellence.\n\nIn this pivotal role, you will be responsible for overseeing all aspects of warehouse operations, ensuring efficiency, accuracy, and safety. We are looking for a methodical and coordinated individual who can manage inventory, optimize logistics, and lead a team to achieve peak performance. Your expertise will be crucial in maintaining a streamlined workflow and contributing to the overall success of our operations.\n\nThis full-time position offers an attractive annual salary ranging from $120,000 to $150,000, commensurate with your experience and qualifications. If you are a smart, dedicated professional with a keen eye for detail and a passion for logistics, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$120,000 - $150,000 per year",
+    "requirements": [
+      "Proven experience as a Warehouse Manager or in a similar leadership role",
+      "Exceptional organizational skills and meticulous attention to detail",
+      "Demonstrated ability to be methodical and coordinated in managing operations",
+      "Strong leadership and communication abilities",
+      "Familiarity with Bright Pearl software is a significant advantage"
+    ],
+    "salaryOrBonusInfo": "Annual salary ranging from $120,000 to $150,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "warehouse_manager__120k_150k__domani_home_lakewood__nj"
+  },
+  {
+    "roleTitle": "Housekeeper",
+    "location": "Bastrop, TX",
+    "facilityType": "Private Residence",
+    "description": "We are seeking a dedicated and reliable Part-time/PRN Housekeeper to join our team in Bastrop, TX. This flexible role offers approximately 6-8 hours per week, with potential for additional hours, and a competitive hourly rate of $16-$22.\n\nAs a Housekeeper, you will be responsible for maintaining a clean, organized, and comfortable environment. We are looking for an individual with a keen eye for detail and a strong commitment to providing exceptional service.",
+    "contractType": "Part-time/PRN",
+    "salaryShort": "$16-$22 per hour",
+    "requirements": [
+      "Proven experience in housekeeping or a similar role",
+      "Ability to work independently and manage time effectively",
+      "Strong attention to detail and organizational skills",
+      "Reliable transportation",
+      "Comfortable working as a 1099 independent contractor"
+    ],
+    "salaryOrBonusInfo": "This role offers a competitive hourly rate of $16-$22, paid as a 1099 independent contractor.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_housekeeper___16__22_per_hour__home_bastrop__tx"
+  },
+  {
+    "roleTitle": "Director of Financial Analysis & Reporting",
+    "location": "Binghamton, NY; Pittston, PA",
+    "facilityType": "Corporate Office supporting Skilled Nursing Facilities",
+    "description": "We are urgently seeking a dedicated Director of Financial Analysis & Reporting to join our corporate team supporting skilled nursing facilities. This critical role, based in Binghamton, NY or Pittston, PA, offers an immediate opportunity for a finance professional to make a significant impact.\n\nIn this position, you will be responsible for analyzing monthly and quarterly financial results, providing essential insights to guide strategic decisions. A strong understanding of payer mix, including Medicare and Medicaid, and current reimbursement trends is highly valued. If you have a background in skilled nursing facilities and are ready for a challenging yet rewarding role, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000+ per year",
+    "requirements": [
+      "Proven experience in financial analysis and reporting",
+      "Familiarity with Payer Mix (Medicare/Medicaid) and reimbursement trends",
+      "Ability to analyze and interpret monthly and quarterly financial results",
+      "Prior experience within a Skilled Nursing Facility (SNF) environment is a significant plus"
+    ],
+    "salaryOrBonusInfo": "Starting at $90,000 per year, compensation is based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "director_of_financial_analysis___reporting__urgent___90k___corporate_office_in_ny___corporate_south_binghamton__ny___pittston__pa"
+  },
+  {
+    "roleTitle": "Commercial Lead HVAC Technician/Installer",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial and Healthcare Facilities",
+    "description": "Join a highly reputable company known for its long-term employee retention, where professionals build lasting careers. We are seeking skilled Commercial Lead HVAC Technicians/Installers to serve clients across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This role offers an exciting opportunity to work on diverse commercial projects, ensuring optimal performance of HVAC systems.\n\nAs a Commercial Lead HVAC Technician/Installer, you will be responsible for the installation, maintenance, and repair of various commercial heating, ventilation, and air conditioning systems, including boilers and chillers. This position requires a professional who thrives in a dynamic, travel-oriented environment and is committed to delivering exceptional service. If you have a strong background in commercial HVAC and are looking for a stable, rewarding career, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$35.00 - $60.00/hr",
+    "requirements": [
+      "Minimum of 5-7 years of experience in HVAC.",
+      "At least 3 years of commercial HVAC experience, including proficiency with boilers and chillers.",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI, IN).",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus.",
+      "Strong technical and problem-solving skills in commercial HVAC systems."
+    ],
+    "salaryOrBonusInfo": "Hourly rate ranges from $35.00 - $60.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "5_commercial_lead_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Commercial HVAC Field Manager",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial HVAC Service Company",
+    "description": "Join a highly reputable commercial HVAC service company known for its exceptional employee retention, where professionals build long-term careers. We are seeking experienced Commercial HVAC Field Managers to oversee operations and service delivery across the vibrant Chicago Metropolitan Area, encompassing Illinois, Wisconsin, and Indiana. This role offers a unique opportunity to manage diverse commercial projects and contribute to a team-oriented environment.\n\nAs a Commercial HVAC Field Manager, you will be responsible for leading field teams, ensuring high-quality service, and managing projects involving various commercial HVAC systems, including boilers and chillers. This position requires a proactive leader with a strong technical background and a commitment to operational excellence. If you thrive in a dynamic, travel-oriented role within a supportive company culture, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50.00 - $65.00/hr",
+    "requirements": [
+      "Minimum of 5-7 years of experience in the HVAC industry.",
+      "At least 3 years of dedicated commercial HVAC experience, specifically with boilers and chillers.",
+      "Demonstrated leadership and field management capabilities.",
+      "Ability to travel extensively within the Chicago Metropolitan Area (IL, WI & IN).",
+      "Experience working with Skilled Nursing Facilities (SNF) is considered a significant plus."
+    ],
+    "salaryOrBonusInfo": "Hourly rate ranges from $50.00 to $65.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   }
 ]
