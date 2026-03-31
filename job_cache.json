@@ -2743,43 +2743,45 @@
     }
   },
   "5_commercial_lead_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il": {
-    "signature": "1439a1819e24a6756093ef913753b1e4",
-    "addedAt": "2026-03-31T17:08:36.003Z",
+    "signature": "a1c7f26ab3201fc70e9c34fe69086289",
+    "addedAt": "2026-03-31T19:14:00.775Z",
     "finalJson": {
       "roleTitle": "Commercial Lead HVAC Technician/Installer",
       "location": "Chicago, IL",
-      "facilityType": "Various Commercial and Healthcare Facilities",
-      "description": "Join a highly reputable company known for its long-term employee retention, where professionals build lasting careers. We are seeking skilled Commercial Lead HVAC Technicians/Installers to join our team, serving various commercial settings across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana.\n\nIn this role, you will be responsible for leading HVAC installation and service projects, ensuring high-quality workmanship and client satisfaction. This is an excellent opportunity for experienced technicians looking to advance their careers with a stable and respected organization.\n\nWe offer a competitive hourly rate and the chance to work with a company where people stay for decades. If you're a dedicated HVAC professional ready for a rewarding career, we encourage you to apply.",
+      "facilityType": "Commercial Service Company",
+      "description": "Join a highly reputable commercial service company known for its exceptional employee retention and stable work environment. We are seeking skilled Commercial Lead HVAC Technicians/Installers to serve clients across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This is an outstanding opportunity for professionals looking for a long-term career with a company where employees thrive for decades.\n\nIn this role, you will be responsible for the installation, maintenance, and repair of various commercial HVAC systems, including boilers and chillers. We are looking for individuals who can lead projects, troubleshoot complex issues, and ensure high-quality service delivery. If you have a strong background in commercial HVAC and are ready to contribute to a team-oriented culture, we encourage you to apply.",
       "contractType": "Full-time",
       "salaryShort": "$35.00 - $60.00/hr",
       "requirements": [
-        "Minimum 5-7 years of overall HVAC experience",
-        "At least 3 years of commercial HVAC experience, including boilers and chillers",
-        "Experience in Skilled Nursing Facilities (SNF) is a plus"
+        "Minimum 5-7 years of experience in HVAC.",
+        "At least 3 years of dedicated commercial HVAC experience, including expertise with boilers and chillers.",
+        "Ability to travel within the Chicago Metropolitan Area (IL, WI, IN).",
+        "Valid driver's license and clean driving record.",
+        "Experience in Skilled Nursing Facilities (SNF) is a plus."
       ],
-      "salaryOrBonusInfo": "Hourly rate ranging from $35.00 to $60.00, based on experience.",
+      "salaryOrBonusInfo": "Hourly rate of $35.00 - $60.00, based on experience.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "5_commercial_lead_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
     }
   },
   "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il": {
-    "signature": "8003a92a8bbcb1193f309583e40377c6",
-    "addedAt": "2026-03-31T17:08:36.003Z",
+    "signature": "c811659997103cc95dd2cce0f1794e51",
+    "addedAt": "2026-03-31T19:14:00.775Z",
     "finalJson": {
       "roleTitle": "Commercial HVAC Field Manager",
       "location": "Chicago, IL",
-      "facilityType": "a premier health and rehabilitation center",
-      "description": "Are you an experienced Commercial HVAC Field Manager looking for a stable and rewarding career opportunity? Join a highly respected commercial service company known for its long-term employee retention and commitment to excellence. This vital role involves extensive travel throughout the vibrant Chicago Metropolitan Area, encompassing parts of Illinois, Wisconsin, and Indiana, offering a dynamic work environment where your leadership will directly impact operational success.\n\nAs a Commercial HVAC Field Manager, you will be instrumental in overseeing field operations, managing a dedicated team of HVAC technicians, and ensuring the highest standards of service delivery for commercial clients. Your expertise in managing projects, providing technical guidance, and fostering strong client relationships will be crucial. You will be responsible for scheduling, quality control, and ensuring all projects are completed efficiently and to client satisfaction, particularly with complex systems like boilers and chillers.",
+      "facilityType": "Healthcare Facility",
+      "description": "Join a highly reputable company as a Commercial HVAC Field Manager, serving the dynamic Chicago Metropolitan Area across Illinois, Wisconsin, and Indiana. This is an exceptional opportunity to become part of an organization renowned for its stability and employee loyalty, where professionals build long-term careers.\n\nIn this pivotal role, you will lead and manage field operations for commercial HVAC projects, ensuring the successful installation, maintenance, and repair of critical systems including boilers and chillers. You will be responsible for overseeing a team of skilled technicians, maintaining high standards of service, and ensuring client satisfaction across various commercial settings, potentially including healthcare facilities. This position requires regular travel within the designated service area.",
       "contractType": "Full-time",
       "salaryShort": "$50.00 - $65.00/hr",
       "requirements": [
-        "Minimum 5-7 years of progressive experience in HVAC field management.",
-        "At least 3 years of dedicated commercial HVAC experience, including boilers and chillers.",
-        "Proven leadership abilities with a track record of managing and mentoring technical teams.",
-        "Ability to travel extensively within the Chicago Metropolitan Area (IL, WI, IN).",
-        "Experience in Skilled Nursing Facilities (SNF) is a plus."
+        "Minimum 5-7 years of HVAC experience",
+        "At least 3 years of commercial HVAC experience, including boilers and chillers",
+        "Proven leadership or field management experience in HVAC",
+        "Willingness to travel extensively within the Chicago Metropolitan Area (IL, WI, IN)",
+        "Experience with Skilled Nursing Facilities (SNF) is a plus"
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
+      "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00, compensation based on experience.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
     }
