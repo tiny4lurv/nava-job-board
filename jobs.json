@@ -1,21 +1,146 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing (ADON) - RN",
-    "location": "Frostburg, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center in Frostburg, MD, as an Assistant Director of Nursing (ADON). This is a permanent, full-time opportunity for a leader passionate about delivering exceptional patient care and supporting a dynamic nursing team.In this vital role, you will collaborate closely with the Director of Nursing to oversee daily operations, ensure regulatory compliance, and uphold the highest standards of clinical excellence. This position offers a stable and rewarding environment for an RN ready to take on a leadership challenge.",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "location": "Mediapolis, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Mediapolis, IA. This is an excellent opportunity for a compassionate leader to contribute to a team committed to providing exceptional patient care. The role offers a competitive salary ranging from $60,000 to $75,000 per year.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily operations, and ensuring the highest standards of clinical excellence. You will have the chance to mentor staff, implement best practices, and foster a positive and supportive environment for both residents and team members.\n\nIf you are an RN with leadership aspirations and a passion for long-term care, we encourage you to apply. Join a facility where your expertise will be valued, and you can make a significant difference in the lives of residents.",
     "contractType": "Full-time",
-    "salaryShort": "",
+    "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Minimum 2 years of nursing experience, preferably in a skilled nursing or rehabilitation setting",
+      "Registered Nurse (RN) license preferred",
+      "Minimum of 2-3 years of nursing experience, preferably in a long-term care or skilled nursing setting",
       "Prior supervisory or leadership experience in a healthcare environment",
-      "Strong understanding of long-term care regulations and quality assurance",
+      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
       "Excellent communication and interpersonal skills"
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
+    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_adon__permenant_only__frostburg_rehab_center_frostburg__md"
+    "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Registered Nurse Director of Nursing (DON)",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Registered Nurse Director of Nursing (DON) to lead our clinical team at a premier health and rehabilitation center in Olathe, KS. This pivotal role involves overseeing all nursing operations, ensuring the highest standards of patient care, and fostering a supportive environment for our residents and staff. The DON will be instrumental in maintaining regulatory compliance and driving continuous quality improvement initiatives.This is an excellent opportunity for a seasoned nursing leader to make a significant impact on patient outcomes and contribute to the overall success of our facility. We offer a competitive salary and a chance to join a compassionate and dedicated team committed to providing exceptional care.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $105,000 per year",
+    "requirements": [
+      "Active and unencumbered Registered Nurse (RN) license.",
+      "Minimum of 2-3 years of experience in a nursing leadership role, preferably as a Director of Nursing or Assistant Director of Nursing.",
+      "Prior experience within a Skilled Nursing Facility (SNF) or Long-Term Care (LTC) setting.",
+      "Comprehensive knowledge of state and federal regulations governing SNFs.",
+      "Proven ability to effectively lead, mentor, and manage nursing staff."
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $105,000, commensurate with experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_don___85k__105k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "RN Assistant Director of Nursing (ADON)",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center as an Assistant Director of Nursing (ADON). This vital role supports the Director of Nursing in overseeing daily operations, ensuring high-quality patient care, and maintaining regulatory compliance within a dynamic healthcare environment. This is an excellent opportunity for an RN looking to advance their leadership career.\n\nThe ideal candidate will possess strong clinical skills, a commitment to patient well-being, and the ability to lead and mentor a team of nursing professionals. We are looking for a proactive individual who can contribute to a positive and efficient work environment, ensuring the highest standards of care are consistently met.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Experience in a supervisory nursing role preferred",
+      "Knowledge of state and federal healthcare regulations",
+      "Strong leadership and communication skills",
+      "Experience in a skilled nursing or long-term care setting is a plus"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier skilled nursing facility in Olathe, KS. In this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accuracy and compliance with all federal and state regulations. This position offers a competitive hourly rate of $32-$36, reflecting your expertise and commitment to quality patient care.As an MDS Coordinator, you will play a crucial part in the interdisciplinary team, contributing to comprehensive care planning and resident outcomes. Your attention to detail and ability to collaborate effectively will be key to success. We are looking for a professional who is passionate about making a difference in the lives of residents and upholding the highest standards of care.",
+    "contractType": "Full-time",
+    "salaryShort": "$32.00 - $36.00/hr",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Prior experience as an MDS Coordinator in a skilled nursing facility",
+      "Proficiency with the Minimum Data Set (MDS) and Resident Assessment Instrument (RAI) process",
+      "Strong knowledge of federal and state regulations governing long-term care",
+      "Excellent organizational and communication skills"
+    ],
+    "salaryOrBonusInfo": "$32-$36 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a fantastic opportunity for a Registered Nurse with a passion for resident care and regulatory compliance to make a significant impact within a supportive environment. We are looking for a permanent, full-time team member, not an interim placement.\n\nIn this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, developing comprehensive care plans, and ensuring compliance with all federal and state regulations. Your expertise will be crucial in accurately reflecting resident acuity and ensuring appropriate reimbursement. Join a team committed to providing exceptional care and fostering a positive work environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 1-2 years of experience as an MDS Coordinator or in a related role",
+      "Proficiency with MDS 3.0 and care planning processes",
+      "Strong understanding of federal and state long-term care regulations",
+      "Experience in a skilled nursing facility setting"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Des Moines, IA. This full-time opportunity is ideal for a compassionate leader eager to contribute to a supportive environment focused on exceptional patient care.\n\nAs an ADON, you will play a crucial role in assisting the Director of Nursing with the overall management of nursing services, ensuring compliance with regulatory standards, and fostering a positive and productive team. We are looking for a professional who is passionate about quality care and ready to make an immediate impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$70,000 - $80,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license (preferred)",
+      "Prior experience in a skilled nursing or long-term care setting",
+      "Demonstrated leadership and supervisory capabilities",
+      "Strong knowledge of healthcare regulations and patient care best practices",
+      "Ability to commit to a full-time schedule; interim candidates will not be considered"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_adon__rn_preferred___70k__80k__azria_health_park_place_des_moines__ia"
+  },
+  {
+    "roleTitle": "SDC/Infection Control Nurse",
+    "location": "Oakland, MD",
+    "facilityType": "Rehab Center",
+    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This vital role involves overseeing staff development initiatives and implementing robust infection prevention and control programs to ensure the highest standards of patient care and safety.\n\nAs an SDC/Infection Control Nurse, you will play a crucial part in maintaining a healthy and compliant environment for both residents and staff. This position offers a competitive hourly rate of $40-$42, reflecting the importance of this dual role within our facility.\n\nIf you are a proactive and experienced nurse with a passion for education and public health, we encourage you to apply and contribute to a team committed to excellence.",
+    "contractType": "Full-time",
+    "salaryShort": "$40-$42 per hour",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Experience in a skilled nursing or long-term care setting",
+      "Demonstrated knowledge of staff development principles",
+      "Proficiency in infection prevention and control protocols"
+    ],
+    "salaryOrBonusInfo": "$40-$42 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
+  },
+  {
+    "roleTitle": "RN GNA Instructor",
+    "location": "Oakland, MD",
+    "facilityType": "Rehab Center",
+    "description": "Join a premier health and rehabilitation center dedicated to providing exceptional care to elderly patients. We are seeking a passionate and skilled Registered Nurse to take on the vital role of GNA Instructor. In this position, you will be responsible for teaching, training, and certifying individuals to become Geriatric Nursing Assistants, equipping them with the knowledge and skills necessary to provide compassionate and effective care.\n\nThis is an exciting opportunity to shape the next generation of healthcare professionals, ensuring high standards of patient care within our facility. If you are an experienced RN with a commitment to education and geriatric care, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license",
+      "Experience as a Registered Nurse, preferably in geriatric or long-term care settings",
+      "Demonstrated ability to teach, train, and certify nursing assistants",
+      "Strong communication and interpersonal skills",
+      "Commitment to fostering a supportive learning environment"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
   },
   {
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
@@ -1085,321 +1210,90 @@
     "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
-    "roleTitle": "Registered Nurse Director of Nursing (RN DON)",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated Registered Nurse Director of Nursing (RN DON) to lead the nursing team at a premier skilled nursing facility in Mediapolis, IA. This pivotal role offers the opportunity to oversee all nursing operations, ensuring the highest standards of patient care and regulatory compliance. The ideal candidate will be a compassionate leader with a strong commitment to clinical excellence and staff development.As the RN DON, you will be responsible for managing nursing staff, developing and implementing care policies, and maintaining a positive and supportive environment for both residents and employees. This full-time position offers a competitive annual salary of $85,000 - $95,000, reflecting your expertise and leadership contributions. Join a team dedicated to making a significant impact on the lives of residents.",
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Frostburg, MD. This is an immediate opening for a professional ready to make a significant impact on resident care and facility management.\n\nAs the LNHA, you will be responsible for overseeing all aspects of the facility's operations, ensuring compliance with state and federal regulations, and fostering a positive environment for both residents and staff. This role offers a competitive salary range and the opportunity to join a committed team focused on delivering exceptional care.\n\nWe are looking for a leader who can hit the ground running. If you are an LNHA with a passion for quality care and operational excellence, we encourage you to apply today.",
     "contractType": "Full-time",
-    "salaryShort": "$85,000 - $95,000 per year",
+    "salaryShort": "$120,000 - $145,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2 years of experience in a nursing leadership role, preferably as a Director of Nursing or Assistant Director of Nursing",
-      "Experience in a skilled nursing or long-term care setting",
-      "Strong knowledge of state and federal healthcare regulations",
-      "Demonstrated leadership, communication, and organizational skills"
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Proven experience in a skilled nursing facility or rehabilitation center leadership role.",
+      "Strong understanding of state and federal regulations governing long-term care.",
+      "Demonstrated ability to manage operations, staff, and financial performance."
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000",
+    "salaryOrBonusInfo": "Annual salary range of $120,000 - $145,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+    "id": "lnha__needs_to_start_asap___120k__145k__mountain_city_rehab_center_frostburg__md"
   },
   {
-    "roleTitle": "Director of Nursing (DON) - PRN",
-    "location": "Mediapolis, IA",
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "location": "Cantonsville, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) for a PRN opportunity at a reputable skilled nursing facility in Mediapolis, IA. This vital leadership role involves overseeing all nursing operations, ensuring the delivery of exceptional patient care, and maintaining compliance with all regulatory standards. The ideal candidate will be instrumental in fostering a positive and efficient clinical environment.\n\nAs a PRN Director of Nursing, you will provide critical support and leadership as needed, contributing to the facility's commitment to quality and patient well-being. This role offers a competitive annual salary range of $85,000 - $95,000, reflecting the importance of your expertise and dedication to our residents.",
-    "contractType": "PRN",
-    "salaryShort": "$85,000 - $95,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license in the state of Iowa",
-      "Proven experience as a Director of Nursing or Assistant Director of Nursing in a skilled nursing facility",
-      "Comprehensive knowledge of state and federal healthcare regulations",
-      "Strong leadership, communication, and organizational abilities"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000 based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Mediapolis, IA. This is an excellent opportunity for a compassionate leader to contribute to a team committed to providing exceptional patient care. The role offers a competitive salary ranging from $60,000 to $75,000 per year.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily operations, and ensuring the highest standards of clinical excellence. You will have the chance to mentor staff, implement best practices, and foster a positive and supportive environment for both residents and team members.\n\nIf you are an RN with leadership aspirations and a passion for long-term care, we encourage you to apply. Join a facility where your expertise will be valued, and you can make a significant difference in the lives of residents.",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility in Cantonsville, MD. This pivotal role offers the opportunity to oversee all aspects of facility management, ensuring the highest standards of patient care, regulatory compliance, and operational efficiency. The ideal candidate will be a visionary leader committed to fostering a positive environment for both residents and staff.\n\nAs the LNHA, you will be responsible for strategic planning, financial management, and maintaining a culture of excellence. You will guide a compassionate team, ensuring the delivery of exceptional healthcare services while adhering to all state and federal guidelines. This is an excellent opportunity for a seasoned professional to make a significant impact within a supportive and dynamic healthcare setting.",
     "contractType": "Full-time",
-    "salaryShort": "$60,000 - $75,000 per year",
+    "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Registered Nurse (RN) license preferred",
-      "Minimum of 2-3 years of nursing experience, preferably in a long-term care or skilled nursing setting",
-      "Prior supervisory or leadership experience in a healthcare environment",
-      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
-      "Excellent communication and interpersonal skills"
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Proven experience in a leadership role within a skilled nursing facility or long-term care environment.",
+      "Comprehensive knowledge of state and federal regulations governing nursing home operations.",
+      "Strong financial acumen and experience with budget management.",
+      "Exceptional communication, interpersonal, and leadership skills."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $115,000 - $145,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
-    "roleTitle": "Assistant Director of Nursing (ADON) - PRN",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) for a PRN (as needed) role at a premier health and rehabilitation center in Mediapolis, IA. This is an excellent opportunity for a nursing professional to contribute to high-quality patient care and support nursing operations on a flexible schedule.\n\nAs an ADON, you will play a crucial role in assisting the Director of Nursing with the overall management of the nursing department. This position offers a competitive salary range of $60,000 - $75,000 per year, based on experience and qualifications. We are looking for a candidate who is passionate about making a difference in the lives of residents and is ready to step into a leadership role.",
-    "contractType": "PRN",
-    "salaryShort": "$60,000 - $75,000 per year",
-    "requirements": [
-      "Registered Nurse (RN) license (preferred)",
-      "Previous experience in a nursing leadership role, preferably in a skilled nursing facility",
-      "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal regulations governing long-term care",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "Compensation for this PRN role is between $60,000 and $75,000 per year, based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Registered Nurse Director of Nursing (DON)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated Registered Nurse Director of Nursing (DON) to lead our clinical team at a premier health and rehabilitation center in Olathe, KS. This pivotal role involves overseeing all nursing operations, ensuring the highest standards of patient care, and fostering a supportive environment for our residents and staff. The DON will be instrumental in maintaining regulatory compliance and driving continuous quality improvement initiatives.This is an excellent opportunity for a seasoned nursing leader to make a significant impact on patient outcomes and contribute to the overall success of our facility. We offer a competitive salary and a chance to join a compassionate and dedicated team committed to providing exceptional care.",
+    "roleTitle": "Assistant Director of Nursing",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This vital leadership role offers an excellent opportunity to contribute to a team committed to providing high-quality patient care and fostering a supportive environment for both residents and staff.\n\nThe ideal candidate will be a Registered Nurse with a passion for clinical excellence and staff development. You will play a crucial role in overseeing daily nursing operations, ensuring compliance with all regulatory standards, and supporting the Director of Nursing in achieving departmental goals. This position offers a competitive annual salary range of $75,000 - $90,000, reflecting your expertise and commitment.",
     "contractType": "Full-time",
-    "salaryShort": "$85,000 - $105,000 per year",
-    "requirements": [
-      "Active and unencumbered Registered Nurse (RN) license.",
-      "Minimum of 2-3 years of experience in a nursing leadership role, preferably as a Director of Nursing or Assistant Director of Nursing.",
-      "Prior experience within a Skilled Nursing Facility (SNF) or Long-Term Care (LTC) setting.",
-      "Comprehensive knowledge of state and federal regulations governing SNFs.",
-      "Proven ability to effectively lead, mentor, and manage nursing staff."
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $105,000, commensurate with experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_rn_don___85k__105k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated PRN Director of Nursing (DON) to join a premier health and rehabilitation center in Olathe, KS. This is an excellent opportunity for a highly skilled Registered Nurse to provide leadership and oversight to our nursing department on an as-needed basis, ensuring the highest standards of patient care and operational excellence. This role offers a competitive annual salary range of $85,000 - $105,000.\n\nAs a PRN DON, you will be responsible for the overall direction, coordination, and evaluation of nursing services, maintaining compliance with all regulatory standards, and fostering a positive environment for both staff and residents. Your expertise will be crucial in guiding our nursing team and upholding our commitment to quality care.\n\nIf you are an autonomous and experienced nursing leader looking for a flexible opportunity to make a significant impact, we encourage you to apply. Join a team dedicated to providing exceptional care and support to our residents.",
-    "contractType": "PRN",
-    "salaryShort": "$85,000 - $105,000 per year",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in Kansas.",
-      "Minimum of 2-3 years of experience as a Director of Nursing (DON) or in a similar nursing leadership role, preferably in a skilled nursing facility.",
-      "Proven ability to manage nursing operations, staff, and patient care effectively.",
-      "Strong understanding of state and federal regulations governing skilled nursing facilities.",
-      "Excellent communication, leadership, and interpersonal skills."
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $105,000, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_experienced_rn_don___85k__105k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "PRN Assistant Director of Nursing (ADON)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced PRN Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Olathe, KS. This is an excellent opportunity for a Registered Nurse (RN) who thrives in a flexible, per diem environment and is passionate about providing exceptional patient care and leadership support.\n\nAs a PRN ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of care are maintained. We are looking for a professional who can step in to provide strong clinical leadership and contribute to a positive resident experience. This role offers a competitive annual salary range of $75,000 - $85,000.",
-    "contractType": "PRN",
-    "salaryShort": "$75,000 - $85,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license.",
-      "Previous experience in a leadership role within a skilled nursing or long-term care setting (e.g., ADON, Nurse Supervisor).",
-      "Strong understanding of nursing best practices and regulatory compliance.",
-      "Excellent communication and interpersonal skills."
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "RN Assistant Director of Nursing (ADON)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center as an Assistant Director of Nursing (ADON). This vital role supports the Director of Nursing in overseeing daily operations, ensuring high-quality patient care, and maintaining regulatory compliance within a dynamic healthcare environment. This is an excellent opportunity for an RN looking to advance their leadership career.\n\nThe ideal candidate will possess strong clinical skills, a commitment to patient well-being, and the ability to lead and mentor a team of nursing professionals. We are looking for a proactive individual who can contribute to a positive and efficient work environment, ensuring the highest standards of care are consistently met.",
-    "contractType": "Full-time",
-    "salaryShort": "$75,000 - $85,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license",
-      "Experience in a supervisory nursing role preferred",
-      "Knowledge of state and federal healthcare regulations",
-      "Strong leadership and communication skills",
-      "Experience in a skilled nursing or long-term care setting is a plus"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000 based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN Preferred)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier skilled nursing facility in Olathe, KS. In this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accuracy and compliance with all federal and state regulations. This position offers a competitive hourly rate of $32-$36, reflecting your expertise and commitment to quality patient care.As an MDS Coordinator, you will play a crucial part in the interdisciplinary team, contributing to comprehensive care planning and resident outcomes. Your attention to detail and ability to collaborate effectively will be key to success. We are looking for a professional who is passionate about making a difference in the lives of residents and upholding the highest standards of care.",
-    "contractType": "Full-time",
-    "salaryShort": "$32.00 - $36.00/hr",
-    "requirements": [
-      "Current Registered Nurse (RN) license",
-      "Prior experience as an MDS Coordinator in a skilled nursing facility",
-      "Proficiency with the Minimum Data Set (MDS) and Resident Assessment Instrument (RAI) process",
-      "Strong knowledge of federal and state regulations governing long-term care",
-      "Excellent organizational and communication skills"
-    ],
-    "salaryOrBonusInfo": "$32-$36 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "PRN MDS Coordinator (RN Preferred)",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Olathe, KS, as a PRN MDS Coordinator. This is an excellent opportunity for a skilled professional to contribute to patient care and facility compliance on a flexible, as-needed basis. We are seeking an individual who is passionate about quality care and accurate documentation.\n\nAs an MDS Coordinator, you will be responsible for coordinating and completing the Resident Assessment Instrument (RAI) process, including the Minimum Data Set (MDS) assessments, care plans, and CAA summaries. Your expertise will ensure timely and accurate submission of all required documentation, playing a crucial role in resident care planning and reimbursement.\n\nThis PRN position offers a competitive hourly rate and the flexibility to balance your professional and personal life. If you are an experienced MDS professional, especially an RN, looking for a rewarding PRN role, we encourage you to apply.",
-    "contractType": "PRN",
-    "salaryShort": "$32-$36 per hour",
-    "requirements": [
-      "Current RN license (preferred)",
-      "Prior experience as an MDS Coordinator",
-      "Proficiency with MDS 3.0",
-      "Strong understanding of federal and state regulations"
-    ],
-    "salaryOrBonusInfo": "$32-$36 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_prn_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN)",
-    "location": "Missouri Valley, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a fantastic opportunity for a Registered Nurse with a passion for resident care and regulatory compliance to make a significant impact within a supportive environment. We are looking for a permanent, full-time team member, not an interim placement.\n\nIn this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, developing comprehensive care plans, and ensuring compliance with all federal and state regulations. Your expertise will be crucial in accurately reflecting resident acuity and ensuring appropriate reimbursement. Join a team committed to providing exceptional care and fostering a positive work environment.",
-    "contractType": "Full-time",
-    "salaryShort": "$65,000 - $75,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa",
-      "Minimum of 1-2 years of experience as an MDS Coordinator or in a related role",
-      "Proficiency with MDS 3.0 and care planning processes",
-      "Strong understanding of federal and state long-term care regulations",
-      "Experience in a skilled nursing facility setting"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN) - PRN",
-    "location": "Missouri Valley, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced PRN MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This flexible, as-needed role offers an excellent opportunity for a Registered Nurse with expertise in MDS assessments to contribute to resident care and facility compliance. You will play a crucial part in ensuring accurate and timely completion of the Minimum Data Set.\nThe ideal candidate will possess a strong understanding of the Resident Assessment Instrument (RAI) process and Patient Driven Payment Model (PDPM). This position offers a competitive annual salary range of $65,000 - $75,000, reflecting your valuable skills and commitment. We are specifically looking for candidates interested in a permanent PRN arrangement, and interim candidates will not be considered for this opening.",
-    "contractType": "PRN",
-    "salaryShort": "$65,000 - $75,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Iowa (or compact state)",
-      "Minimum of 1-2 years of experience as an MDS Coordinator",
-      "Proficiency with the Minimum Data Set (MDS) 3.0 and the Resident Assessment Instrument (RAI) process",
-      "Strong understanding of federal and state regulations related to long-term care",
-      "Not an interim candidate"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "location": "Des Moines, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Des Moines, IA. This full-time opportunity is ideal for a compassionate leader eager to contribute to a supportive environment focused on exceptional patient care.\n\nAs an ADON, you will play a crucial role in assisting the Director of Nursing with the overall management of nursing services, ensuring compliance with regulatory standards, and fostering a positive and productive team. We are looking for a professional who is passionate about quality care and ready to make an immediate impact.",
-    "contractType": "Full-time",
-    "salaryShort": "$70,000 - $80,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license (preferred)",
-      "Prior experience in a skilled nursing or long-term care setting",
-      "Demonstrated leadership and supervisory capabilities",
-      "Strong knowledge of healthcare regulations and patient care best practices",
-      "Ability to commit to a full-time schedule; interim candidates will not be considered"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_adon__rn_preferred___70k__80k__azria_health_park_place_des_moines__ia"
-  },
-  {
-    "roleTitle": "PRN Assistant Director of Nursing (ADON)",
-    "location": "Des Moines, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Des Moines, IA, as a PRN Assistant Director of Nursing (ADON). This vital role offers the flexibility of PRN shifts while contributing to high-quality patient care. We are seeking a compassionate and experienced nursing leader to support our clinical operations.\n\nIn this role, you will assist the Director of Nursing in managing and overseeing the nursing department, ensuring compliance with all regulatory standards, and fostering a positive environment for both residents and staff. This is an excellent opportunity for an RN looking for flexible work with competitive compensation.",
-    "contractType": "PRN",
-    "salaryShort": "$70,000 - $80,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license (preferred)",
-      "Experience in a long-term care or skilled nursing facility setting",
-      "Previous leadership or supervisory experience in nursing",
-      "Strong understanding of nursing best practices and regulatory compliance"
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $70,000 to $80,000 per year.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_adon__rn_preferred___70k__80k__azria_health_park_place_des_moines__ia"
-  },
-  {
-    "roleTitle": "SDC/Infection Control Nurse",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This vital role involves overseeing staff development initiatives and implementing robust infection prevention and control programs to ensure the highest standards of patient care and safety.\n\nAs an SDC/Infection Control Nurse, you will play a crucial part in maintaining a healthy and compliant environment for both residents and staff. This position offers a competitive hourly rate of $40-$42, reflecting the importance of this dual role within our facility.\n\nIf you are a proactive and experienced nurse with a passion for education and public health, we encourage you to apply and contribute to a team committed to excellence.",
-    "contractType": "Full-time",
-    "salaryShort": "$40-$42 per hour",
-    "requirements": [
-      "Current Registered Nurse (RN) license",
-      "Experience in a skilled nursing or long-term care setting",
-      "Demonstrated knowledge of staff development principles",
-      "Proficiency in infection prevention and control protocols"
-    ],
-    "salaryOrBonusInfo": "$40-$42 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "PRN Staff Development Coordinator / Infection Control Nurse",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and experienced PRN Staff Development Coordinator / Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This is an excellent opportunity for a skilled professional looking for flexible PRN hours with a competitive hourly rate of $40-$42. You will play a crucial role in maintaining high standards of care and staff competency.\n\nIn this dual-focused position, you will be responsible for coordinating staff education and development programs, ensuring our team is equipped with the latest knowledge and skills. Concurrently, you will lead infection prevention and control initiatives, safeguarding the health and well-being of both residents and staff. Your expertise will be vital in fostering a safe and compliant environment.\n\nIf you are a proactive and compassionate nurse with a passion for education and patient safety, we encourage you to apply. Join a team committed to excellence and make a significant impact on the quality of care provided.",
-    "contractType": "PRN",
-    "salaryShort": "$40-$42 per hour",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Maryland.",
-      "Minimum of 2 years of experience in a skilled nursing or rehabilitation facility.",
-      "Demonstrated experience in staff development, education, or training.",
-      "Proven knowledge and experience in infection prevention and control practices.",
-      "Strong understanding of state and federal healthcare regulations."
-    ],
-    "salaryOrBonusInfo": "$40-$42 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "RN GNA Instructor",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "Join a premier health and rehabilitation center dedicated to providing exceptional care to elderly patients. We are seeking a passionate and skilled Registered Nurse to take on the vital role of GNA Instructor. In this position, you will be responsible for teaching, training, and certifying individuals to become Geriatric Nursing Assistants, equipping them with the knowledge and skills necessary to provide compassionate and effective care.\n\nThis is an exciting opportunity to shape the next generation of healthcare professionals, ensuring high standards of patient care within our facility. If you are an experienced RN with a commitment to education and geriatric care, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$75,000 - $85,000 per year",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license",
-      "Experience as a Registered Nurse, preferably in geriatric or long-term care settings",
-      "Demonstrated ability to teach, train, and certify nursing assistants",
-      "Strong communication and interpersonal skills",
-      "Commitment to fostering a supportive learning environment"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "PRN RN GNA Instructor",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and qualified PRN RN GNA Instructor to join a premier health and rehabilitation center in Oakland, MD. This vital role involves teaching, training, and certifying individuals to become Geriatric Nursing Assistants (GNAs), who provide essential care for elderly patients. As an instructor, you will play a crucial part in shaping the next generation of compassionate caregivers. This PRN (as-needed) position offers flexibility while contributing significantly to the quality of patient care within our facility. We are looking for a nurse with a passion for education and a commitment to excellence in geriatric care.",
-    "contractType": "PRN",
-    "salaryShort": "$75,000 - $85,000 per year",
+    "salaryShort": "$75,000 - $90,000 per year",
     "requirements": [
       "Active Registered Nurse (RN) license",
-      "Experience in geriatric nursing or long-term care",
-      "Demonstrated ability to teach and train adult learners",
-      "Familiarity with GNA curriculum and certification standards"
+      "Minimum of 2 years of nursing experience, with some supervisory background",
+      "Experience in a skilled nursing or rehabilitation setting",
+      "Strong understanding of healthcare regulations and quality assurance"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000 based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $90,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
+    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Night Supervisor",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehab Center",
+    "description": "Join a dedicated team as a Night Supervisor in a premier health and rehabilitation center located in Frostburg, MD. This vital role offers the opportunity to lead and support our nursing staff during the overnight shift, ensuring the highest standards of patient care and operational excellence.\n\nAs a Night Supervisor, you will oversee clinical operations, manage staffing, and provide direct supervision to nursing personnel. Your leadership will be crucial in maintaining a safe and therapeutic environment for our residents, addressing any emergent needs, and upholding the facility's commitment to quality care. We are seeking a compassionate and experienced professional ready to make a significant impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$29.00 - $39.00/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in the state of Maryland (preferred)",
+      "Minimum of 2 years of nursing experience, preferably in a supervisory role",
+      "Experience in a skilled nursing facility or rehabilitation center",
+      "Strong leadership and communication skills",
+      "Current BLS certification"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $29.00 - $39.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "night_supervisor__rn_preferred___29__39_per_hour__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator RN",
+    "location": "Boonsboro, MD",
+    "facilityType": "Rehab Center",
+    "description": "Join a premier health and rehabilitation center in Boonsboro, MD, as an MDS Coordinator RN. This vital role is essential for ensuring comprehensive resident assessments and care planning, contributing significantly to the quality of life for our residents. We are seeking a dedicated professional to join our compassionate team.\n\nAs an MDS Coordinator RN, you will be responsible for coordinating and completing the Resident Assessment Instrument (RAI) process, including MDS assessments, care plan development, and ensuring compliance with federal and state regulations. You will collaborate closely with an interdisciplinary team to provide exceptional, person-centered care.\n\nThis position offers a competitive hourly rate of $43.00 - $46.00. If you are passionate about making a difference in long-term care and meet the qualifications, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$43.00 - $46.00 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Maryland",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing or rehabilitation setting",
+      "Strong understanding of the Resident Assessment Instrument (RAI) process and Medicare/Medicaid regulations",
+      "Excellent assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "$43.00 - $46.00 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___43__46_per_hour__south_mountain_rehab_center_boonsboro__md"
   }
 ]
