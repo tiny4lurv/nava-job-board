@@ -587,6 +587,24 @@
     "id": "2_am_ft_cna_a__urgent__12hrs__arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
   },
   {
+    "roleTitle": "Dietary Aide",
+    "location": "Birmingham, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Full-time Dietary Aide to join the team at a premier health and rehabilitation center in Birmingham, AL. In this vital role, you will contribute to the well-being of residents by assisting with meal preparation, serving nutritious meals, and maintaining a clean and safe dining environment. Your commitment to providing excellent service will directly impact the daily lives and satisfaction of our residents.\n\nThis is an excellent opportunity for an individual who is passionate about food service and making a difference in a healthcare setting. Join a supportive team focused on delivering high-quality care and a positive experience for all residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "High School Diploma or GED preferred",
+      "Prior experience in food service, ideally in a healthcare setting",
+      "Ability to follow dietary guidelines and food safety regulations",
+      "Strong communication and interpersonal skills",
+      "Ability to perform physical tasks associated with the role"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_diatery_aids_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
+  },
+  {
     "roleTitle": "Dietary Cook",
     "location": "Birmingham, AL",
     "facilityType": "Health and Rehabilitation Center",
@@ -603,6 +621,24 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_ft_diatery_cooks_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
+  },
+  {
+    "roleTitle": "Housekeeper",
+    "location": "Birmingham, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Are you a dedicated and meticulous individual looking to make a significant impact in a healthcare environment? A premier skilled nursing facility in Birmingham, AL, is seeking a Housekeeper to join its compassionate team. This role is crucial in ensuring a clean, safe, and comfortable environment for residents, staff, and visitors.\n\nAs a Housekeeper, you will be responsible for maintaining the highest standards of cleanliness and sanitation throughout the facility. Your attention to detail and commitment to a hygienic environment will directly contribute to the well-being and satisfaction of those we serve. Join a team that values your hard work and dedication.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "High school diploma or equivalent",
+      "Prior experience in housekeeping, preferably in a healthcare or long-term care setting",
+      "Knowledge of cleaning chemicals and equipment",
+      "Ability to follow safety and infection control procedures",
+      "Physical ability to perform duties, including standing, walking, bending, and lifting"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_housekeepers_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
   },
   {
     "roleTitle": "Registered Nurse (RN)",
@@ -1436,41 +1472,5 @@
     "salaryOrBonusInfo": "Hourly rate ranges from $50.00 to $65.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
-    "roleTitle": "Dietary Aide",
-    "location": "Birmingham, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Full-time Dietary Aide to join the team at a premier health and rehabilitation center in Birmingham, AL. In this vital role, you will contribute to the well-being of residents by assisting with meal preparation, serving nutritious meals, and maintaining a clean and safe dining environment. Your commitment to providing excellent service will directly impact the daily lives and satisfaction of our residents.\n\nThis is an excellent opportunity for an individual who is passionate about food service and making a difference in a healthcare setting. Join a supportive team focused on delivering high-quality care and a positive experience for all residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High School Diploma or GED preferred",
-      "Prior experience in food service, ideally in a healthcare setting",
-      "Ability to follow dietary guidelines and food safety regulations",
-      "Strong communication and interpersonal skills",
-      "Ability to perform physical tasks associated with the role"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_diatery_aids_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
-  },
-  {
-    "roleTitle": "Housekeeper",
-    "location": "Birmingham, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Are you a dedicated and meticulous individual looking to make a significant impact in a healthcare environment? A premier skilled nursing facility in Birmingham, AL, is seeking a Housekeeper to join its compassionate team. This role is crucial in ensuring a clean, safe, and comfortable environment for residents, staff, and visitors.\n\nAs a Housekeeper, you will be responsible for maintaining the highest standards of cleanliness and sanitation throughout the facility. Your attention to detail and commitment to a hygienic environment will directly contribute to the well-being and satisfaction of those we serve. Join a team that values your hard work and dedication.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "High school diploma or equivalent",
-      "Prior experience in housekeeping, preferably in a healthcare or long-term care setting",
-      "Knowledge of cleaning chemicals and equipment",
-      "Ability to follow safety and infection control procedures",
-      "Physical ability to perform duties, including standing, walking, bending, and lifting"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "3_housekeepers_arabella_health___wellness_of_birmingham__formerly_west_hill_health_and_rehab__birmingham__al"
   }
 ]
