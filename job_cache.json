@@ -1113,27 +1113,6 @@
       "id": "payroll_director_corporate___regional_"
     }
   },
-  "3_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "7d9533bf84374bad976054e1438fb25f",
-    "addedAt": "2026-04-07T23:48:57.231Z",
-    "finalJson": {
-      "roleTitle": "Registered Nurse (RN)",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are urgently seeking dedicated Registered Nurses for full-time, 12-hour AM shifts (7 AM - 7 PM) at a premier skilled nursing and rehabilitation center in St. Petersburg, FL. This is an excellent opportunity to join a supportive team in a facility known for its commitment to resident care.The facility is a 55-59 bed center, currently serving a census of 43 residents. It is conveniently located on a main street with abundant shopping nearby, nestled in a nice neighborhood, and just 15 minutes from the beautiful beaches. Enjoy a pleasant work environment with two courtyards for residents and staff.",
-      "contractType": "Full-time",
-      "salaryShort": "$30.00 - $37.00/hr",
-      "requirements": [
-        "Active Registered Nurse (RN) license in the state of Florida",
-        "Ability to work full-time, 12-hour AM shifts (7 AM - 7 PM)",
-        "Experience in a skilled nursing or rehabilitation setting preferred",
-        "Strong commitment to patient care and teamwork"
-      ],
-      "salaryOrBonusInfo": "Competitive hourly rate of $30.00 - $35.00, with an additional $2.00 per hour shift differential for AM shifts.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "3_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-    }
-  },
   "1_ft_pm_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
     "signature": "43d7d30ec229f211e688732e64ae6b96",
     "addedAt": "2026-04-07T23:48:57.231Z",
@@ -1154,27 +1133,6 @@
       "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00 with an additional $2.00/hr shift differential for PM shifts.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "1_ft_pm_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-    }
-  },
-  "1_pt_pm_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "1f3597bc649a3c85eab019d2c987a519",
-    "addedAt": "2026-04-07T23:48:57.231Z",
-    "finalJson": {
-      "roleTitle": "Part-Time PM Nurse",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "An urgent opportunity has arisen for a dedicated Part-Time PM Nurse to join a premier health and rehabilitation center in St. Petersburg, FL. This role offers a consistent 12-hour evening/night shift from 7 PM to 7 AM, providing stability and a predictable schedule. We are seeking a committed professional to contribute to our patient-centered care model.\n\nThis facility is a welcoming, intimate setting with 55-59 beds, currently serving a census of 43 residents. Located conveniently on a main street with abundant shopping nearby and nestled in a nice neighborhood, the center offers a pleasant environment. Enjoy the added benefit of being just 15 minutes from the beautiful St. Petersburg beaches, with two courtyards on-site for relaxation.\n\nWe are looking for a nurse who thrives in a supportive environment and is ready to make an immediate impact. This is not a PRN position; we require a consistent part-time commitment to ensure continuity of care for our residents.",
-      "contractType": "Part-time",
-      "salaryShort": "$30.00 - $35.00/hr + shift differential",
-      "requirements": [
-        "Valid Florida RN or LPN license.",
-        "Experience in a skilled nursing or rehabilitation setting is preferred.",
-        "Ability to commit to a consistent part-time schedule, including 12-hour PM shifts (7 PM - 7 AM).",
-        "Strong clinical assessment and patient care skills."
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00, with an additional $2.00 per hour shift differential for PM shifts.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "1_pt_pm_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
     }
   },
   "2_pt_am_cna__no_prn__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
@@ -1455,6 +1413,156 @@
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
       "id": "prn_slp_eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    }
+  },
+  "gna_instructor__rn__south_mountain_rehab_center_boonsboro__md": {
+    "signature": "d4b694b02fa103d6e65808e2a0d7c5fa",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "GNA Instructor (RN)",
+      "location": "Boonsboro, MD",
+      "facilityType": "Rehabilitation Center",
+      "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center in Boonsboro, MD, as a GNA Instructor. In this vital role, you will be responsible for teaching, training, and certifying individuals to become Geriatric Nursing Assistants (GNAs).\n\nThe successful candidate will play a crucial part in developing competent and compassionate caregivers for elderly patients. This is an excellent opportunity to leverage your nursing expertise to educate the next generation of healthcare professionals in a supportive and dynamic environment.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Registered Nurse (RN) license",
+        "Demonstrated ability to teach, train, and certify adult learners",
+        "Experience in geriatric care or long-term care settings"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "gna_instructor__rn__south_mountain_rehab_center_boonsboro__md"
+    }
+  },
+  "dental_director___225k___bonus__25_per_billable_patient_encounter____9k_relocation__stallant_health_crescent_city_crescent_city__ca": {
+    "signature": "1e71c38c648b0f9c4804ffd4ff7eb7ae",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Dental Director",
+      "location": "Crescent City, CA",
+      "facilityType": "Rural Healthcare Clinic",
+      "description": "An exciting opportunity awaits a dedicated Dental Director in Crescent City, CA. We are seeking a General Dentist with a passion for serving a rural, underserved population. This role offers a competitive salary of $225,000 per year, plus a bonus of $25 per billable patient encounter, and a $9,000 relocation package to help you settle into this beautiful area.\n\nOur pristine rural healthcare clinic is known for taking patient care to a new level, offering snacks and beverages to patients and fostering a fun, supportive team environment. You'll enjoy a unique 12-hour shift rotation, working Sun-Tues (8 am-8 pm), Wed-Thurs (8 am-8 pm), and Fridays (8 am-2 pm), which provides the incredible perk of 7 days off every other week. Comprehensive benefits include 401(k), dental, health, life, and vision insurance, paid time off, and additional bonus opportunities.\n\nIf you are a general dentist who loves adventure, the great outdoors, and is looking for a fulfilling role where you can make a significant impact in a close-knit community, we encourage you to apply. We are looking for the right person to join our exceptional team!",
+      "contractType": "Full-time",
+      "salaryShort": "$225,000 per year + Bonus",
+      "requirements": [
+        "DDS or DMD degree from an accredited dental school",
+        "Current state dental license in California",
+        "Experience as a General Dentist, preferably in a rural setting",
+        "A passion for serving underserved populations",
+        "Enthusiasm for outdoor adventure and rural living"
+      ],
+      "salaryOrBonusInfo": "$225,000 per year + $25 per billable patient encounter bonus + $9,000 relocation assistance",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "dental_director___225k___bonus__25_per_billable_patient_encounter____9k_relocation__stallant_health_crescent_city_crescent_city__ca"
+    }
+  },
+  "2_dentist__dmd_or_dds_in_ca___9k_relocation_bonus__starting__180k___per_patient_bonus_of__13_33__stallant_health_crescent_city_crescent_city__ca": {
+    "signature": "737f372f5877552465a067ffd01dba14",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Dentist (DMD/DDS)",
+      "location": "Crescent City, CA",
+      "facilityType": "Rural Healthcare Clinic",
+      "description": "An exciting opportunity awaits a dedicated Dentist (DMD/DDS) in Crescent City, CA. Join a pristine rural healthcare clinic committed to providing exceptional care to an underserved population. This role is perfect for an energetic and tech-savvy professional who is passionate about community health and enjoys the great outdoors.\n\nThis position offers a highly competitive starting salary of $180,000 per year, complemented by a $13.33 per patient bonus and a generous $9,000 relocation bonus. Enjoy a comprehensive benefits package including 401(k), health, dental, vision, and life insurance, paid time off, and additional bonus opportunities. A unique schedule provides 7 days off every other week, promoting an excellent work-life balance.\n\nWork 12-hour shifts, Monday through Friday, with occasional weekend needs. We are seeking an individual who thrives in an adventurous environment and is eager to make a significant impact in a close-knit community.",
+      "contractType": "Full-time",
+      "salaryShort": "$180,000 per year + bonuses",
+      "requirements": [
+        "DMD or DDS degree",
+        "Active California dental license",
+        "Energetic and comfortable with technology",
+        "Commitment to serving a rural, underserved population",
+        "Enjoyment of adventure and the outdoors"
+      ],
+      "salaryOrBonusInfo": "Starting at $180,000 per year, with a $13.33 per patient bonus. A $9,000 relocation bonus is also offered.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_dentist__dmd_or_dds_in_ca___9k_relocation_bonus__starting__180k___per_patient_bonus_of__13_33__stallant_health_crescent_city_crescent_city__ca"
+    }
+  },
+  "np_or_pa__urgent___100k_base___another__100k_if_they_see_average_hourly_patients__2_5___for_a_total_of_around__200k__stallant_health_crescent_city_crescent_city__ca": {
+    "signature": "fcc9774c908b5d83326895d4cac90fef",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Nurse Practitioner or Physician Assistant",
+      "location": "Crescent City, CA",
+      "facilityType": "Outpatient Clinic",
+      "description": "Join a dynamic outpatient clinic in Crescent City, CA, as a Nurse Practitioner or Physician Assistant. This is an urgent opportunity to contribute to a growing healthcare team that is expanding its services to include urgent care alongside established primary care. We are seeking a dedicated provider to work a flexible schedule, including two 12-hour shifts and two 6-hour shifts, ensuring comprehensive patient care.\n\nThis role offers a highly competitive compensation package designed to reward high productivity, with a target annual salary of $200,000. You will be instrumental in providing quality care within a supportive environment, managing a diverse patient load. We also offer up to $9,000 in relocation reimbursement to help you settle into this vibrant community.",
+      "contractType": "Full-time",
+      "salaryShort": "Up to $200,000 per year",
+      "requirements": [
+        "Current, unrestricted Nurse Practitioner (NP) or Physician Assistant (PA) license in California",
+        "Ability to work a flexible schedule, including two 12-hour and two 6-hour shifts",
+        "Experience in primary care or urgent care settings",
+        "Demonstrated ability to manage patient encounters efficiently, aiming for a productivity standard of 72 encounters per 2-week pay period"
+      ],
+      "salaryOrBonusInfo": "Compensation package includes a base salary of $100,000. Per-encounter bonus of $25/encounter for the first 12 encounters per 2-week pay period, and $50/encounter for encounters 13 and above. Target salary of $200,000. Up to $9,000 in relocation reimbursement.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "np_or_pa__urgent___100k_base___another__100k_if_they_see_average_hourly_patients__2_5___for_a_total_of_around__200k__stallant_health_crescent_city_crescent_city__ca"
+    }
+  },
+  "2_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
+    "signature": "a6aaf66b9e59b33beaeb10aaaf31e42d",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Licensed Nurse (AM Shift)",
+      "location": "St. Petersburg, FL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "An urgent opportunity has arisen for dedicated Full-time Licensed Nurses to join a premier health and rehabilitation center in beautiful St. Petersburg, FL. We are seeking compassionate professionals to work 12-hour AM shifts, from 7 AM to 7 PM, providing exceptional care to our residents. This is a fantastic chance to make an immediate impact in a supportive environment.\n\nOur facility is a well-maintained, mid-sized center with 55-59 beds, currently serving a census of 43 residents. Located conveniently on a main street with abundant shopping nearby and nestled in a nice neighborhood, it offers an ideal work setting. Enjoy the added perk of being just 15 minutes from the beach, perfect for unwinding after your shift. The facility also features two inviting courtyards, enhancing the resident and staff experience.",
+      "contractType": "Full-time",
+      "salaryShort": "$30.00 - $35.00/hr",
+      "requirements": [
+        "Active Florida LPN or RN license",
+        "Current BLS/CPR certification",
+        "Ability to work 12-hour AM shifts (7 AM - 7 PM)",
+        "Experience in a skilled nursing or long-term care setting preferred",
+        "Strong clinical assessment and documentation skills"
+      ],
+      "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00, with an additional $2.00/hr shift differential for eligible shifts.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    }
+  },
+  "1_ft_night_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
+    "signature": "d9ce03b32e6dac6df07c50bf712ee946",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Registered Nurse (RN) - Night Shift",
+      "location": "St. Petersburg, FL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are urgently seeking a dedicated Full-time Registered Nurse (RN) for the night shift (7 PM - 7 AM) to join a premier health and rehabilitation center in St. Petersburg, FL. This is a critical role for a compassionate professional ready to make an immediate impact, with no PRN options available.\n\nOur facility is a vibrant 55-59 bed center, currently serving a census of 43 residents. Located conveniently on a main street with abundant shopping nearby and nestled in a nice residential neighborhood, it offers a welcoming environment. Enjoy the benefit of being just 15 minutes from the beach and working in a facility featuring two beautiful courtyards.\n\nIf you are a committed RN looking for a stable full-time night position with competitive compensation and a supportive team, we encourage you to apply today. This is an excellent opportunity to advance your career in a dynamic and resident-focused setting.",
+      "contractType": "Full-time",
+      "salaryShort": "$30.00 - $35.00/hr + $2.00/hr Shift Differential",
+      "requirements": [
+        "Active Registered Nurse (RN) license in Florida",
+        "Minimum of 1 year of nursing experience, preferably in a skilled nursing or rehabilitation setting",
+        "Ability to commit to full-time 12-hour night shifts (7 PM - 7 AM)",
+        "Current BLS certification"
+      ],
+      "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00, with an additional $2.00 per hour shift differential for night shifts.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_night_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    }
+  },
+  "3__ft_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_atlanta__ga": {
+    "signature": "bcf221b88e137ba82ca8ccd32ff324b6",
+    "addedAt": "2026-04-18T03:20:54.554Z",
+    "finalJson": {
+      "roleTitle": "Licensed Practical Nurse (LPN)",
+      "location": "Atlanta, GA",
+      "facilityType": "Healthcare Services Provider",
+      "description": "We are urgently seeking highly motivated and skilled Licensed Practical Nurses (LPNs) to join a premier healthcare services provider in Atlanta, GA. This is an exceptional opportunity for LPNs looking for a flexible 1099 contract role with significant earning potential, managing a caseload of 3 or more cases per week.\n\nAs an independent contractor, you will be compensated on a per-case basis, offering a competitive rate of $90-$120 per case. This role is ideal for LPNs who thrive in an autonomous environment and are committed to delivering high-quality patient care. We are looking to fill these positions immediately.",
+      "contractType": "Contract",
+      "salaryShort": "$90-$120 per case",
+      "requirements": [
+        "Active and unrestricted LPN license in the state of Georgia.",
+        "Proven experience as an LPN, preferably in home health or case management.",
+        "Ability to manage a minimum of 3 cases per week.",
+        "Strong clinical assessment, documentation, and communication skills.",
+        "Valid driver's license and reliable transportation."
+      ],
+      "salaryOrBonusInfo": "Compensation is $90-$120 per case, with a requirement to manage 3 or more cases per week.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "3__ft_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_atlanta__ga"
     }
   }
 }
