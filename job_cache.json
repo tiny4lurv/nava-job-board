@@ -153,28 +153,6 @@
       "id": "don___130k__150k___5k_travel_bonus__ignite_medical_resorts_batavia_batavia__il"
     }
   },
-  "2_ft_board_certified_neurologist__urgent___250k_450k___secaucus_university_hospital_secaucus__nj": {
-    "signature": "19ce7d0318f37130d7c4ed90c9132b67",
-    "addedAt": "2026-03-12T11:00:21.774Z",
-    "finalJson": {
-      "roleTitle": "Board Certified Neurologist",
-      "location": "Secaucus, NJ",
-      "facilityType": "Hospital",
-      "description": "An urgent and exciting opportunity awaits a Board Certified Neurologist to join a rapidly expanding new neurology group based in Secaucus, NJ. This role offers the chance to be part of a dynamic team, building upon a previously successful practice within a premier healthcare system. You will primarily focus on general neurology, with a strong emphasis on stroke and epilepsy cases, contributing to patient care across three nearby hospital locations.\n\nThis position is ideal for a physician who thrives in a fast-paced, startup-like environment and is eager to make a significant impact from day one. We are seeking a dedicated full-time neurologist ready to contribute to the growth and success of this new department, offering a unique opportunity for professional development and leadership within a supportive network.",
-      "contractType": "Full-time",
-      "salaryShort": "$250,000 - $450,000+ per year",
-      "requirements": [
-        "Board Certification in Neurology",
-        "Active and unrestricted Medical License in New Jersey",
-        "Demonstrated expertise or strong interest in Stroke and Epilepsy",
-        "Ability to work effectively across multiple hospital sites",
-        "No visa sponsorship available for this position"
-      ],
-      "salaryOrBonusInfo": "Competitive salary ranging from $250,000 to $450,000+ annually, based on experience and qualifications.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_ft_board_certified_neurologist__urgent___250k_450k___secaucus_university_hospital_secaucus__nj"
-    }
-  },
   "pt_prn_housekeeper___16__22_per_hour__home_bastrop__tx": {
     "signature": "5af28f272e14827462d4f958608c073c",
     "addedAt": "2026-03-31T23:43:24.180Z",
@@ -1563,6 +1541,28 @@
       "salaryOrBonusInfo": "Compensation is $90-$120 per case, with a requirement to manage 3 or more cases per week.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "3__ft_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_atlanta__ga"
+    }
+  },
+  "3_lpn_s_gulfport_care_center_gulfport__ms": {
+    "signature": "80f1db0304c52e6c5fe205de67dd1b72",
+    "addedAt": "2026-04-21T21:53:16.226Z",
+    "finalJson": {
+      "roleTitle": "Licensed Practical Nurse (LPN)",
+      "location": "Gulfport, MS",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are actively seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is an excellent opportunity for LPNs looking to make a significant impact on patient care and contribute to a supportive healthcare environment. We are looking to fill multiple positions.\n\nIn this vital role, you will be responsible for providing direct patient care, administering medications, monitoring vital signs, and assisting with daily living activities. You will work collaboratively with a multidisciplinary team to ensure the highest quality of care for residents, maintaining accurate patient records and communicating effectively with patients, families, and staff.\n\nThis facility is committed to fostering a positive work environment and delivering exceptional care to its residents. If you are a motivated LPN eager to contribute your skills and compassion, we encourage you to apply.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current and valid LPN license in the state of Mississippi",
+        "Basic Life Support (BLS) certification",
+        "Previous experience in a skilled nursing or long-term care setting preferred",
+        "Strong clinical assessment and critical thinking skills",
+        "Excellent communication and interpersonal abilities"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "3_lpn_s_gulfport_care_center_gulfport__ms"
     }
   }
 }
