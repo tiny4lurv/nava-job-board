@@ -1543,26 +1543,26 @@
       "id": "3__ft_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_atlanta__ga"
     }
   },
-  "3_lpn_s_gulfport_care_center_gulfport__ms": {
-    "signature": "80f1db0304c52e6c5fe205de67dd1b72",
-    "addedAt": "2026-04-21T21:53:16.226Z",
+  "3_pm_lpn_s_gulfport_care_center_gulfport__ms": {
+    "signature": "93665e38b33324dd23b6884bac043c53",
+    "addedAt": "2026-04-21T22:49:01.934Z",
     "finalJson": {
-      "roleTitle": "Licensed Practical Nurse (LPN)",
+      "roleTitle": "Licensed Practical Nurse (LPN) - 3 PM Shift",
       "location": "Gulfport, MS",
       "facilityType": "Skilled Nursing Facility",
-      "description": "We are actively seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is an excellent opportunity for LPNs looking to make a significant impact on patient care and contribute to a supportive healthcare environment. We are looking to fill multiple positions.\n\nIn this vital role, you will be responsible for providing direct patient care, administering medications, monitoring vital signs, and assisting with daily living activities. You will work collaboratively with a multidisciplinary team to ensure the highest quality of care for residents, maintaining accurate patient records and communicating effectively with patients, families, and staff.\n\nThis facility is committed to fostering a positive work environment and delivering exceptional care to its residents. If you are a motivated LPN eager to contribute your skills and compassion, we encourage you to apply.",
+      "description": "We are seeking a dedicated Licensed Practical Nurse (LPN) to join a premier skilled nursing facility in Gulfport, MS. This is an excellent opportunity for an LPN looking for a consistent 3 PM shift, contributing to a compassionate and supportive patient care environment.In this vital role, you will provide direct patient care, administer medications, monitor patient conditions, and collaborate with the healthcare team to ensure the highest standards of care. We are looking for a professional who is committed to making a positive impact on the lives of residents.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Current and valid LPN license in the state of Mississippi",
-        "Basic Life Support (BLS) certification",
+        "Current LPN license in Mississippi",
         "Previous experience in a skilled nursing or long-term care setting preferred",
-        "Strong clinical assessment and critical thinking skills",
-        "Excellent communication and interpersonal abilities"
+        "Strong clinical assessment and documentation skills",
+        "Ability to work effectively in a team-oriented environment",
+        "Current BLS certification"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
-      "id": "3_lpn_s_gulfport_care_center_gulfport__ms"
+      "id": "3_pm_lpn_s_gulfport_care_center_gulfport__ms"
     }
   }
 }
