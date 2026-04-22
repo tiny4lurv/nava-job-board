@@ -286,22 +286,22 @@
     }
   },
   "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc": {
-    "signature": "851616f2bc22c903600e7fe36c21d4b4",
-    "addedAt": "2026-03-27T23:40:46.323Z",
+    "signature": "978b711a8c209b4f74cceec327ca784c",
+    "addedAt": "2026-04-22T18:06:16.100Z",
     "finalJson": {
       "roleTitle": "Internal Medicine Physician",
       "location": "Greenville, SC",
-      "facilityType": "Community Health Center",
-      "description": "Join a thriving Community Health Center in Greenville, SC, dedicated to providing exceptional patient care. We are actively seeking a skilled Internal Medicine Physician to become a vital part of our team. This is an outstanding opportunity for a physician looking for a supportive environment and a commitment to professional growth.\n\nThis role offers a highly competitive compensation package, starting at a non-negotiable $210,000 annually, complemented by a robust bonus structure that can reach up to $50,000. This includes a guaranteed bonus of $25,000 and an additional $25,000 in potential bonuses, with $9,000 available as a sign-on/relocation bonus on day one for eligible candidates. We also provide excellent benefits, generous paid time off, and a revamped compensation and raise structure designed to reward your dedication. We are open to candidates requiring travel or relocation assistance.\n\nWe are reviewing all qualified Physician candidates, with a preference for full-time commitment. If you are an MD or DO specializing in Internal Medicine, Family Medicine, or Med/Ped, and are passionate about making a difference in a community setting, we encourage you to apply.",
+      "facilityType": "Family Health Service Provider",
+      "description": "Join a premier family health service provider in Greenville, SC, as an Internal Medicine Physician. This is an exceptional opportunity for a dedicated MD or DO to contribute to a vibrant community and benefit from a highly competitive compensation package. We are seeking passionate physicians, preferably with a background in Family Medicine, Internal Medicine, or Med/Ped, who are committed to delivering high-quality patient care.\n\nThis role offers a robust compensation structure, including a base salary of $210,000, complemented by a guaranteed $25,000 bonus and an additional $25,000 in potential bonuses, bringing the total potential compensation up to $260,000 annually. A significant $9,000 of the bonus is available on payday one for eligible candidates. We also provide excellent benefits, generous paid time off, and are open to supporting travel and relocation for the right candidate. This is a chance to join a facility that values its physicians and offers a supportive environment for professional growth.",
       "contractType": "Full-time",
-      "salaryShort": "$210,000 per year",
+      "salaryShort": "$210,000 - $260,000 per year",
       "requirements": [
         "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-        "Board Certified or Board Eligible in Internal Medicine, Family Medicine, or Med/Ped",
-        "Valid medical license in South Carolina (or ability to obtain)",
+        "Board Certification or Eligibility in Internal Medicine, Family Medicine, or Med/Ped",
+        "Active medical license in South Carolina (or eligibility to obtain)",
         "Commitment to providing high-quality patient care"
       ],
-      "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 annually, with a bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and $25,000 in potential bonuses, of which $9,000 is available as a sign-on/relocation bonus on payday 1 (if a promissory note is signed).",
+      "salaryOrBonusInfo": "$210,000 base salary with a guaranteed $25,000 bonus and an additional $25,000 potential bonus, totaling up to $50,000 in bonuses. $9,000 of the bonus is available on payday 1 with a signed promissory note. Relocation assistance is included.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
     }
@@ -416,28 +416,6 @@
       "id": "marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
     }
   },
-  "pt_ft_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "1988814b28de4d5b134f9e15fd6bbc60",
-    "addedAt": "2026-04-06T20:51:59.266Z",
-    "finalJson": {
-      "roleTitle": "Physical Therapist",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "Join a premier skilled nursing facility in beautiful St. Petersburg, FL, offering a supportive environment for both patients and staff. This facility, with 55-59 beds and a current census of 43, is ideally situated on a main street with abundant shopping nearby and a charming neighborhood behind the building. Enjoy the convenience of being just 15 minutes from the beach, making it easy to enjoy Florida's stunning coastline. The facility also features two courtyards, providing pleasant outdoor spaces.\n\nWe are seeking a dedicated Physical Therapist to provide high-quality care to our residents. This role offers the flexibility of both part-time and full-time schedules, allowing you to balance your professional and personal life in a vibrant community. If you are passionate about making a difference in the lives of patients and thrive in a dynamic setting, we encourage you to apply.",
-      "contractType": "Part-time or Full-time",
-      "salaryShort": "$55.00 - $60.00/hr",
-      "requirements": [
-        "Current Physical Therapist (PT) license in Florida",
-        "Experience in a skilled nursing or rehabilitation setting preferred",
-        "Ability to assess, plan, and implement effective treatment programs",
-        "Strong communication and interpersonal skills",
-        "Commitment to patient-centered care"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_ft_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-    }
-  },
   "pt_ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
     "signature": "d829980a07736eaa371d3a44ff9e44eb",
     "addedAt": "2026-04-06T20:51:59.266Z",
@@ -457,28 +435,6 @@
       "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-    }
-  },
-  "pt_ft_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "c1d6f0f245ab4badc83b96ea931b5be7",
-    "addedAt": "2026-04-06T20:51:59.266Z",
-    "finalJson": {
-      "roleTitle": "Occupational Therapist",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "An exciting opportunity awaits a dedicated Occupational Therapist in St. Petersburg, FL. Join a premier health and rehabilitation center committed to providing exceptional patient care and fostering a supportive environment for its team members. This role offers the flexibility of both full-time and part-time schedules.\n\nThis facility, with 55-59 beds and a current census of 43, is ideally situated on a main street with convenient shopping nearby and a pleasant neighborhood behind the building. Enjoy the added benefit of being just 15 minutes from the beach, with two courtyards on-site providing a serene setting for both patients and staff.\n\nWe are seeking a passionate professional to contribute to our team. Compensation for this role is highly competitive, ranging from $55.00 to $60.00 per hour. Apply today to learn more about this rewarding position.",
-      "contractType": "Full-time or Part-time",
-      "salaryShort": "$55.00 - $60.00/hr",
-      "requirements": [
-        "Valid Occupational Therapist (OT) license in Florida",
-        "Master's or Doctorate degree in Occupational Therapy from an accredited program",
-        "Experience in a skilled nursing facility or rehabilitation setting",
-        "Ability to conduct comprehensive patient assessments and develop individualized treatment plans",
-        "Strong documentation and communication skills"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00, based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_ft_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
     }
   },
   "pt_ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
@@ -1225,22 +1181,23 @@
     }
   },
   "family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc": {
-    "signature": "1d3f2510b1f640d673f8f83ea9589131",
-    "addedAt": "2026-04-17T23:51:28.230Z",
+    "signature": "ac9f9b4693f49f5724b79a5bb41f68f0",
+    "addedAt": "2026-04-22T18:06:16.100Z",
     "finalJson": {
       "roleTitle": "Family Medicine Physician",
       "location": "Greenville, SC",
-      "facilityType": "A premier community health clinic",
-      "description": "An exceptional opportunity awaits a dedicated Family Medicine Physician in Greenville, SC. Join a premier community health clinic committed to providing high-quality patient care. This role offers a highly competitive compensation package and excellent benefits, making it an attractive prospect for physicians seeking a rewarding career.\n\nThis position features a non-negotiable base salary of $210,000+ per year, complemented by a robust bonus structure. Candidates can expect a guaranteed bonus of $25,000 and an additional potential bonus of $25,000. A significant portion of the bonus, $9,000, is available as a sign-on/relocation bonus, payable on the first payday upon signing a promissory note. This compensation package is notably above the average for Family Medicine Physicians in South Carolina.\n\nEnjoy great benefits, including generous Paid Time Off (PTO). The facility is open to considering candidates interested in travel or relocation.",
+      "facilityType": "Community Health Center",
+      "description": "Join a premier community health center in Greenville, SC, seeking a dedicated Family Medicine Physician. This is an exceptional opportunity to become part of a team committed to providing comprehensive healthcare services to the community. We are looking for physicians who are passionate about patient care and eager to make a significant impact.\n\nThis role offers a highly competitive compensation package, starting at $210,000 per year, complemented by a robust bonus structure that can reach up to $50,000. This includes a guaranteed bonus of $25,000 and an additional $25,000 in potential bonuses, with $9,000 available on the first payday for those who sign a promissory note. The organization also provides excellent benefits, generous paid time off, and is open to supporting candidates requiring relocation. This is a fantastic chance to advance your career with a rewarding compensation and benefits package.",
       "contractType": "Full-time",
       "salaryShort": "$210,000+ per year",
       "requirements": [
         "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-        "Board Certification/Eligibility in Family Medicine, Internal Medicine, or Med/Peds",
-        "Active and unrestricted medical license in South Carolina",
-        "Commitment to providing high-quality patient care"
+        "Board Certification or Eligibility in Family Medicine (preferred), Internal Medicine, or Med/Pediatrics",
+        "Current or eligible for medical licensure in the state of South Carolina",
+        "Open to travel or relocation for the position",
+        "Commitment to full-time practice"
       ],
-      "salaryOrBonusInfo": "This position offers a non-negotiable base salary of $210,000+ per year. The comprehensive bonus structure includes a guaranteed $25,000 bonus and an additional potential $25,000 bonus. A $9,000 sign-on/relocation bonus is available, payable on the first payday upon signing a promissory note.",
+      "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a comprehensive bonus structure up to $50,000. This includes a guaranteed $25,000 bonus and an additional $25,000 in potential bonuses. A $9,000 sign-on/relocation bonus is available on the first payday upon signing a promissory note.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
     }
@@ -1326,49 +1283,6 @@
       "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a guaranteed $25,000 bonus and an additional potential $25,000 bonus. A $9,000 sign-on bonus is available on the first payday with a promissory note.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_prn_contract_med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-    }
-  },
-  "prn_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "b2f42f4bd254cbecf4e0d48004b2f807",
-    "addedAt": "2026-04-17T23:51:28.231Z",
-    "finalJson": {
-      "roleTitle": "PRN Physical Therapist",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "Join a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL, offering a dynamic environment for a dedicated Physical Therapist. This facility, with a capacity of 55-59 beds and a current census of 43, is ideally situated on a main street with convenient shopping nearby and a pleasant neighborhood backdrop. Enjoy the added benefit of being just 15 minutes from the beach, with two inviting courtyards on-site.\n\nWe are seeking a PRN Physical Therapist to provide high-quality patient care, focusing on restoring function and improving mobility for our residents. This is an excellent opportunity for a PT looking for flexible hours and a supportive team environment in a vibrant community. We offer a competitive hourly rate for this crucial role.",
-      "contractType": "PRN",
-      "salaryShort": "$55.00 - $60.00/hr",
-      "requirements": [
-        "Current Physical Therapist (PT) license in the state of Florida.",
-        "Minimum of 1 year of experience in a skilled nursing facility or similar rehabilitation setting.",
-        "Ability to work on a PRN basis, offering flexibility to meet facility needs.",
-        "Strong communication and interpersonal skills.",
-        "Commitment to providing patient-centered care."
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "prn_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-    }
-  },
-  "prn_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
-    "signature": "a3634e0562a8eab458101c8bb88a7949",
-    "addedAt": "2026-04-17T23:51:28.231Z",
-    "finalJson": {
-      "roleTitle": "PRN Occupational Therapist",
-      "location": "St. Petersburg, FL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "Join a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL, as a PRN Occupational Therapist. This facility, boasting 55-59 beds with a current census of 43, offers a vibrant and supportive environment for both patients and staff. Located conveniently on a main street with ample shopping nearby and nestled in a nice neighborhood, it provides an ideal setting just 15 minutes from the beach.\n\nAs a PRN Occupational Therapist, you will play a crucial role in providing high-quality rehabilitative care, helping patients regain independence and improve their quality of life. The facility features two courtyards, offering pleasant outdoor spaces. This is an excellent opportunity for a dedicated professional seeking flexible hours in a welcoming community.",
-      "contractType": "PRN",
-      "salaryShort": "$55.00 - $60.00/hr",
-      "requirements": [
-        "Current Occupational Therapist (OT) license in Florida",
-        "Experience working in a skilled nursing or rehabilitation facility",
-        "Ability to commit to PRN hours as needed",
-        "Strong clinical assessment and treatment planning skills"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "prn_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
     }
   },
   "prn_slp_eagle_lake_nursing_and_rehab_st__petersburg__fl": {
