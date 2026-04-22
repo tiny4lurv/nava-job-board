@@ -1,5 +1,41 @@
 [
   {
+    "roleTitle": "HR Director",
+    "location": "",
+    "facilityType": "Corporate Office",
+    "description": "We are seeking a highly skilled and experienced HR Director to join a premier healthcare management group. This pivotal role involves overseeing all human resources functions, ensuring alignment with organizational goals, and fostering a positive and productive work environment. The ideal candidate will be a strategic partner, driving initiatives in talent acquisition, employee relations, compensation, benefits, and HR compliance.\n\nAs HR Director, you will be instrumental in developing and implementing HR policies and programs that support our dedicated staff across various facilities. This is an excellent opportunity for a seasoned HR professional to make a significant impact within a dynamic healthcare organization, contributing to both operational excellence and employee satisfaction.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Human Resources, Business Administration, or a related field",
+      "Minimum of 5 years of progressive HR leadership experience, preferably within healthcare",
+      "Strong knowledge of federal and state employment laws and regulations",
+      "Demonstrated ability to develop and implement HR strategies and initiatives",
+      "Excellent communication, interpersonal, and leadership skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "hr_director_corporate___regional_"
+  },
+  {
+    "roleTitle": "Payroll Director",
+    "location": "",
+    "facilityType": "Corporate Office",
+    "description": "We are seeking an experienced and dedicated Payroll Director to join the corporate team of a leading healthcare organization. This pivotal role involves overseeing all aspects of payroll operations, ensuring accuracy, compliance, and efficiency for a large workforce across multiple facilities. The ideal candidate will be a strategic leader with a strong understanding of payroll systems and regulations.\n\nAs Payroll Director, you will be responsible for managing the payroll team, implementing best practices, and ensuring timely and accurate processing of payroll. This is an excellent opportunity for a detail-oriented professional to make a significant impact within a dynamic and growing healthcare environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Accounting, Finance, Human Resources, or a related field",
+      "Minimum of 5 years of progressive experience in payroll management, preferably in a multi-state environment",
+      "Strong knowledge of federal and state payroll laws and regulations",
+      "Proficiency with major payroll software systems (e.g., ADP, Workday)",
+      "Excellent leadership, communication, and organizational skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "payroll_director_corporate___regional_"
+  },
+  {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "location": "Des Moines, IA",
     "facilityType": "Skilled Nursing Facility",
@@ -51,186 +87,6 @@
     "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (SLP)",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier skilled nursing facility in beautiful Venice, FL, as a dedicated Speech-Language Pathologist. This facility, recently under new ownership, is committed to providing exceptional patient care and fostering a supportive environment for its clinical team. We are seeking a passionate professional eager to contribute to a dynamic and evolving healthcare setting.\n\nIn this vital role, you will be responsible for assessing, diagnosing, and treating residents with communication, cognitive, and swallowing disorders. We value individuals who are dedicated to improving the quality of life for our residents and are prepared to offer competitive compensation for the right candidate who brings expertise and commitment to our team.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Master's Degree in Speech-Language Pathology",
-      "Current and valid Florida SLP license",
-      "Certificate of Clinical Competence (CCC) from ASHA",
-      "Experience working in a skilled nursing or rehabilitation facility",
-      "Excellent clinical, interpersonal, and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "slp_the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "PRN/Part-time Licensed Practical Nurse (LPN)",
-    "location": "Lawrenceville, GA",
-    "facilityType": "Community Healthcare Provider",
-    "description": "We are urgently seeking dedicated and skilled PRN/Part-time Licensed Practical Nurses (LPNs) to join a leading community healthcare provider in Lawrenceville, GA. This is an excellent opportunity for LPNs looking for flexible, per-case work as an independent contractor (1099).\n\nIn this vital role, you will provide essential patient care on a per-case basis, with the flexibility to manage your schedule while committing to a minimum of 3 cases per week. This position offers competitive compensation per case, allowing you to maximize your earning potential while making a significant impact on patient well-being.",
-    "contractType": "PRN/Part-time (1099 Contract)",
-    "salaryShort": "$90 - $120 per case",
-    "requirements": [
-      "Current and unrestricted LPN license in the state of Georgia.",
-      "Valid CPR certification.",
-      "Reliable transportation and willingness to travel to patient homes.",
-      "Ability to commit to a minimum of 3 cases per week.",
-      "Strong clinical skills and ability to work independently."
-    ],
-    "salaryOrBonusInfo": "This is a 1099 independent contractor role offering $90 - $120 per case, with an expectation of handling 3 or more cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_lawrenceville__ga"
-  },
-  {
-    "roleTitle": "LPN (Licensed Practical Nurse)",
-    "location": "Dacula, GA",
-    "facilityType": "Home Health Agency",
-    "description": "An urgent opportunity has arisen for a dedicated PRN/Part-time Licensed Practical Nurse (LPN) in Dacula, GA. This role offers the flexibility of an independent contractor (1099) position, allowing you to manage your schedule while providing essential patient care within the community. We are seeking highly motivated professionals ready to make an immediate impact.\n\nThis position offers competitive compensation ranging from $90 to $120 per case, with an expectation of handling 3 or more cases per week. If you are an LPN looking for a flexible, per-case opportunity to utilize your skills and contribute to patient well-being, we encourage you to apply.",
-    "contractType": "PRN/Part-time",
-    "salaryShort": "$90-$120 per case",
-    "requirements": [
-      "Current and unrestricted LPN license in the state of Georgia",
-      "Proven experience as an LPN, preferably in a home health or community-based setting",
-      "Ability to work independently as a 1099 contractor",
-      "Commitment to completing a minimum of 3 cases per week",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation is $90-$120 per case, with an expectation of 3+ cases per week.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_dacula__ga"
-  },
-  {
-    "roleTitle": "Commercial HVAC Field Manager",
-    "location": "Chicago, IL",
-    "facilityType": "Commercial HVAC Service Company",
-    "description": "Join a highly reputable commercial HVAC service company known for its exceptional employee retention, where professionals build long-term careers. We are seeking experienced Commercial HVAC Field Managers to oversee operations and service delivery across the vibrant Chicago Metropolitan Area, encompassing Illinois, Wisconsin, and Indiana. This role offers a unique opportunity to manage diverse commercial projects and contribute to a team-oriented environment.\n\nAs a Commercial HVAC Field Manager, you will be responsible for leading field teams, ensuring high-quality service, and managing projects involving various commercial HVAC systems, including boilers and chillers. This position requires a proactive leader with a strong technical background and a commitment to operational excellence. If you thrive in a dynamic, travel-oriented role within a supportive company culture, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$50.00 - $65.00/hr",
-    "requirements": [
-      "Minimum of 5-7 years of experience in the HVAC industry.",
-      "At least 3 years of dedicated commercial HVAC experience, specifically with boilers and chillers.",
-      "Demonstrated leadership and field management capabilities.",
-      "Ability to travel extensively within the Chicago Metropolitan Area (IL, WI & IN).",
-      "Experience working with Skilled Nursing Facilities (SNF) is considered a significant plus."
-    ],
-    "salaryOrBonusInfo": "Hourly rate ranges from $50.00 to $65.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
-    "roleTitle": "HR Director",
-    "location": "",
-    "facilityType": "Corporate Office",
-    "description": "We are seeking a highly skilled and experienced HR Director to join a premier healthcare management group. This pivotal role involves overseeing all human resources functions, ensuring alignment with organizational goals, and fostering a positive and productive work environment. The ideal candidate will be a strategic partner, driving initiatives in talent acquisition, employee relations, compensation, benefits, and HR compliance.\n\nAs HR Director, you will be instrumental in developing and implementing HR policies and programs that support our dedicated staff across various facilities. This is an excellent opportunity for a seasoned HR professional to make a significant impact within a dynamic healthcare organization, contributing to both operational excellence and employee satisfaction.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Bachelor's degree in Human Resources, Business Administration, or a related field",
-      "Minimum of 5 years of progressive HR leadership experience, preferably within healthcare",
-      "Strong knowledge of federal and state employment laws and regulations",
-      "Demonstrated ability to develop and implement HR strategies and initiatives",
-      "Excellent communication, interpersonal, and leadership skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "hr_director_corporate___regional_"
-  },
-  {
-    "roleTitle": "Payroll Director",
-    "location": "",
-    "facilityType": "Corporate Office",
-    "description": "We are seeking an experienced and dedicated Payroll Director to join the corporate team of a leading healthcare organization. This pivotal role involves overseeing all aspects of payroll operations, ensuring accuracy, compliance, and efficiency for a large workforce across multiple facilities. The ideal candidate will be a strategic leader with a strong understanding of payroll systems and regulations.\n\nAs Payroll Director, you will be responsible for managing the payroll team, implementing best practices, and ensuring timely and accurate processing of payroll. This is an excellent opportunity for a detail-oriented professional to make a significant impact within a dynamic and growing healthcare environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Bachelor's degree in Accounting, Finance, Human Resources, or a related field",
-      "Minimum of 5 years of progressive experience in payroll management, preferably in a multi-state environment",
-      "Strong knowledge of federal and state payroll laws and regulations",
-      "Proficiency with major payroll software systems (e.g., ADP, Workday)",
-      "Excellent leadership, communication, and organizational skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "payroll_director_corporate___regional_"
-  },
-  {
-    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
-    "location": "Cantonsville, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility in Cantonsville, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on resident care and facility success.In this pivotal role, you will oversee all aspects of facility management, ensuring compliance with state and federal regulations, optimizing operational efficiency, and fostering a positive environment for both residents and staff. The ideal candidate will possess a strong commitment to quality care and a proven track record in healthcare administration.Join a compassionate team dedicated to providing outstanding rehabilitation and long-term care services. This full-time position offers a competitive salary and the chance to contribute to a thriving healthcare community.",
-    "contractType": "Full-time",
-    "salaryShort": "$115,000 - $145,000 per year",
-    "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing facility.",
-      "Demonstrated leadership abilities and strong operational management skills.",
-      "Thorough knowledge of state and federal regulations governing long-term care facilities.",
-      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field."
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
-  },
-  {
-    "roleTitle": "RN MDS Coordinator",
-    "location": "Missouri Valley, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) MDS Coordinator to join a premier skilled nursing facility in Missouri Valley, IA. This is a fantastic opportunity for a full-time, permanent position where you can make a significant impact on resident care and facility compliance.\n\nAs an RN MDS Coordinator, you will be responsible for coordinating and completing the Resident Assessment Instrument (RAI) process, including MDS assessments, care plans, and ensuring compliance with federal and state regulations. Your expertise will be crucial in accurately reflecting the care needs of residents and optimizing reimbursement.\n\nThis full-time role offers a competitive annual salary ranging from $65,000 to $75,000, commensurate with your experience and qualifications. If you are looking for a stable and rewarding career opportunity in a supportive environment, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$65,000 - $75,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa.",
-      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility.",
-      "Proficiency with MDS 3.0 and care planning.",
-      "Strong knowledge of federal and state regulations related to long-term care.",
-      "RAC-CT certification is a plus."
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $65,000 to $75,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "location": "Frostburg, MD",
-    "facilityType": "Rehab Center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Frostburg, MD, as an Assistant Director of Nursing (ADON). This pivotal leadership role offers an exciting opportunity to contribute to high-quality patient care and operational excellence within a supportive environment. We are seeking a passionate and experienced nursing professional to help guide our clinical team.As ADON, you will play a crucial role in assisting the Director of Nursing with the overall management of nursing services. Your responsibilities will include supervising nursing staff, ensuring compliance with regulatory standards, and participating in the development and implementation of resident care plans. This position is ideal for an RN looking to advance their career in a dynamic rehabilitation setting.We offer a competitive annual salary ranging from $75,000 to $90,000, commensurate with your experience. If you are a motivated leader committed to delivering exceptional care, we encourage you to apply and become a vital part of our compassionate team.",
-    "contractType": "Full-time",
-    "salaryShort": "$75,000 - $90,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license.",
-      "Previous experience in a supervisory nursing role.",
-      "Experience in a skilled nursing or rehabilitation facility preferred.",
-      "Strong understanding of healthcare regulations and best practices.",
-      "Excellent leadership, communication, and organizational skills."
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $75,000 to $90,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
-  },
-  {
-    "roleTitle": "Night Supervisor",
-    "location": "Frostburg, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "Join a dedicated team at a premier rehabilitation center in Frostburg, MD, as a Night Supervisor. This vital role offers an opportunity to lead and support our night staff, ensuring exceptional patient care and smooth operations during overnight hours. We are seeking a compassionate and skilled professional to oversee clinical and administrative functions throughout the night shift.\n\nWe are looking for an experienced individual, with a preference for a Registered Nurse, to provide guidance and support to our team. This position offers a competitive hourly rate of $29-$39, reflecting your expertise and commitment to quality care. If you are a proactive leader ready to make a significant impact in a supportive environment, we encourage you to apply.\n\nThis is an excellent opportunity to contribute to a facility dedicated to patient recovery and well-being, working a consistent night schedule.",
-    "contractType": "Full-time",
-    "salaryShort": "$29-$39 per hour",
-    "requirements": [
-      "Active Registered Nurse (RN) license, preferred",
-      "Proven experience in a supervisory or leadership role within a healthcare setting",
-      "Ability to effectively manage and oversee night shift operations",
-      "Strong clinical judgment and problem-solving skills",
-      "Experience in a rehabilitation or skilled nursing facility environment"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $29-$39",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "night_supervisor__rn_preferred___29__39_per_hour__frostburg_rehab_center_frostburg__md"
   },
   {
     "roleTitle": "Certified Nursing Assistant (CNA)",
@@ -322,73 +178,22 @@
     "id": "2_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
   },
   {
-    "roleTitle": "Registered Nurse Director of Nursing (RN DON)",
+    "roleTitle": "Speech-Language Pathologist (SLP)",
     "location": "Venice, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "An exceptional opportunity awaits a dedicated Registered Nurse Director of Nursing (RN DON) in Venice, FL. Join a premier skilled nursing facility that has recently undergone new ownership, marking an exciting new chapter focused on enhancing patient care and operational excellence. This pivotal leadership role offers the chance to shape the future of nursing services within a supportive environment.As the RN DON, you will be instrumental in overseeing all aspects of nursing operations, ensuring the highest standards of clinical care, and fostering a positive environment for both residents and staff. This role is ideal for a visionary leader ready to make a significant impact.We are seeking a highly qualified individual who is passionate about long-term care and committed to achieving outstanding outcomes. This position offers a highly competitive compensation package for the right candidate, reflecting the importance of this leadership role.",
+    "description": "Join a premier skilled nursing facility in beautiful Venice, FL, as a dedicated Speech-Language Pathologist. This facility, recently under new ownership, is committed to providing exceptional patient care and fostering a supportive environment for its clinical team. We are seeking a passionate professional eager to contribute to a dynamic and evolving healthcare setting.\n\nIn this vital role, you will be responsible for assessing, diagnosing, and treating residents with communication, cognitive, and swallowing disorders. We value individuals who are dedicated to improving the quality of life for our residents and are prepared to offer competitive compensation for the right candidate who brings expertise and commitment to our team.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Minimum of 3-5 years of nursing leadership experience, preferably as a Director of Nursing or Assistant Director of Nursing in a skilled nursing facility",
-      "Strong knowledge of state and federal regulations governing long-term care",
-      "Proven ability to lead and manage a nursing team effectively"
+      "Master's Degree in Speech-Language Pathology",
+      "Current and valid Florida SLP license",
+      "Certificate of Clinical Competence (CCC) from ASHA",
+      "Experience working in a skilled nursing or rehabilitation facility",
+      "Excellent clinical, interpersonal, and documentation skills"
     ],
-    "salaryOrBonusInfo": "Compensation is highly competitive and based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don__confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "location": "Venice, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dynamic team at a recently acquired, premier skilled nursing facility in Venice, FL. This 120-bed center is undergoing exciting new developments, offering a unique opportunity for an Assistant Director of Nursing to make a significant impact. We are seeking a dedicated and experienced nursing leader to contribute to our commitment to exceptional patient care and operational excellence.\n\nWe value our team members and are committed to providing a supportive and rewarding work environment. This role is perfect for a professional looking to grow with a forward-thinking organization. If you are passionate about making a difference in the lives of residents and thrive in a collaborative setting, we encourage you to apply. This is an urgent hire for the right candidate.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Florida.",
-      "Minimum of 2-3 years of nursing experience, preferably in a Skilled Nursing Facility (SNF) or Long-Term Care (LTC) setting.",
-      "Previous leadership or supervisory experience in a healthcare setting.",
-      "Strong understanding of state and federal regulations for SNFs.",
-      "Excellent clinical, communication, and organizational skills."
-    ],
-    "salaryOrBonusInfo": "Highly competitive compensation for the right candidate, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "adon_the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON)",
-    "location": "Reading, MA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An urgent and exciting opportunity awaits a dedicated Director of Nursing (DON) at a premier health and rehabilitation center in Reading, MA. This pivotal leadership role is perfect for an experienced nursing professional ready to oversee all aspects of nursing operations and ensure the highest standards of patient care.\n\nWe are seeking a dynamic leader to join our team immediately. This role offers a competitive salary and the chance to make a significant impact on resident well-being and staff development. If you are a compassionate and skilled DON looking for your next challenge, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "Up to $160,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Massachusetts",
-      "Minimum of 2-3 years of nursing leadership experience (e.g., ADON, DON)",
-      "Experience in a skilled nursing or long-term care environment",
-      "Strong understanding of state and federal healthcare regulations"
-    ],
-    "salaryOrBonusInfo": "Compensation up to $160,000 per year, based on experience. This is an urgent opening.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "don__urgent__up_to__160k__reading_center_for_health_and_rehab_reading__ma"
-  },
-  {
-    "roleTitle": "Family Medicine Physician",
-    "location": "Greenville, SC",
-    "facilityType": "Family Health Services",
-    "description": "We are seeking a dedicated and compassionate Physician to join a reputable family health services provider in Greenville, SC. This role offers a unique opportunity to make a significant impact on patient care within a supportive environment. We are open to considering candidates for full-time, part-time, PRN, or contract arrangements, providing flexibility to suit your professional goals.\n\nThis position comes with a highly competitive compensation package, starting at $210,000 annually, complemented by a robust bonus structure that can add up to $50,000. This includes a guaranteed $25,000 bonus and an additional $25,000 in potential bonuses. A $9,000 sign-on bonus is available on your first payday, and relocation assistance is offered for those looking to make a move. Enjoy excellent benefits and generous paid time off, ensuring a healthy work-life balance.",
-    "contractType": "Contract",
-    "salaryShort": "$210,000 - $260,000 per year",
-    "requirements": [
-      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification or Eligibility in Family Medicine (preferred), Internal Medicine, or Med/Pediatrics",
-      "Current, unrestricted South Carolina medical license (or eligible for licensure)",
-      "Open to travel or relocation for the position"
-    ],
-    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with an additional guaranteed $25,000 bonus and a potential $25,000 bonus. A $9,000 sign-on bonus is available on payday one with a promissory note. Relocation assistance is also available.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+    "id": "slp_the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
     "roleTitle": "Internal Medicine Physician",
@@ -406,94 +211,6 @@
     "salaryOrBonusInfo": "$210,000 per year base salary. This role includes a $25,000 guaranteed bonus and an additional $25,000 potential bonus. A $9,000 sign-on bonus is available on payday 1 with a promissory note.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Nurse Practitioner or Physician Assistant",
-    "location": "Crescent City, CA",
-    "facilityType": "Primary and Urgent Care Facility",
-    "description": "An urgent opportunity is available for a dedicated Nurse Practitioner or Physician Assistant to join a growing primary and urgent care facility in Crescent City, CA. This role offers a unique compensation package designed to reward high productivity, with a target annual salary of $200,000. We are seeking a provider who is ready to contribute to our expanding services, including the upcoming launch of urgent care.\n\nThe ideal candidate will work a structured schedule consisting of two 12-hour shifts and two 6-hour shifts per pay period. This position is crucial for our team as we enhance our capacity to serve the community. Relocation assistance of up to $9,000 is available for qualified candidates.",
-    "contractType": "Full-time",
-    "salaryShort": "$200,000 per year",
-    "requirements": [
-      "Certified Nurse Practitioner (NP) or Physician Assistant (PA) licensure",
-      "Ability to work a schedule of two 12-hour shifts and two 6-hour shifts",
-      "Experience in primary care or urgent care settings",
-      "Strong focus on patient encounters and productivity"
-    ],
-    "salaryOrBonusInfo": "This compensation package is designed to enable providers to achieve a target salary of $200,000, aligning with a productivity standard of 72 encounters per 2-week pay period. It includes a base salary of $100,000, a per-encounter bonus of $25/encounter for the first 12 encounters per 2-week pay period, and a per-encounter bonus of $50/encounter for encounters 13 and above. Relocation reimbursement of up to $9,000 is also offered.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "np_or_pa__urgent___100k_base___another__100k_if_they_see_average_hourly_patients__2_5___for_a_total_of_around__200k__stallant_health_crescent_city_crescent_city__ca"
-  },
-  {
-    "roleTitle": "Physical Therapist",
-    "location": "Winslow, AZ",
-    "facilityType": "Hospital and Clinic",
-    "description": "We are seeking a dedicated Physical Therapist to join a dynamic healthcare team in Winslow, AZ. This role offers a unique opportunity to provide comprehensive care across diverse settings, working with both inpatient and outpatient populations within a Critical Access Hospital and an affiliated stand-alone clinic.\n\nThis position is ideal for a clinician who thrives in a varied environment and is passionate about making a significant impact on patient recovery and well-being. You will be an integral part of a community-focused facility, contributing to the health of both acute and long-term care patients.",
-    "contractType": "Full-time or Part-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Physical Therapist license in Arizona",
-      "Experience working with inpatient populations",
-      "Experience working with outpatient populations",
-      "Ability to work effectively in a Critical Access Hospital setting",
-      "Strong clinical and communication skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt_little_colorado_medical_center_winslow__az"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking dedicated Full-time Registered Nurses for immediate hire to join a premier health and rehabilitation center in St. Petersburg, FL. This role involves working consistent 12-hour AM shifts, from 7 AM to 7 PM, providing essential care in a supportive environment. If you are a compassionate and skilled nurse looking for a stable full-time opportunity, we encourage you to apply.\n\nOur facility is a welcoming 55-59 bed center, currently serving a census of 43 residents. Conveniently located on a main street with abundant shopping options nearby and nestled in a pleasant neighborhood, the facility offers a great work environment. Enjoy the added benefit of being just 15 minutes from the beach, with two inviting courtyards on-site for residents and staff.\n\nThis position offers a competitive hourly rate along with an attractive shift differential. Join a team committed to providing high-quality patient care and enjoy a rewarding career in a vibrant Florida community.",
-    "contractType": "Full-time",
-    "salaryShort": "$30.00 - $37.00/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Experience in a skilled nursing or long-term care setting preferred",
-      "Ability to work 12-hour AM shifts (7 AM - 7 PM)",
-      "Strong clinical assessment and critical thinking skills",
-      "Current Basic Life Support (BLS) certification"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00, with an additional $2.00 per hour shift differential for eligible shifts.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated Registered Nurses for both full-time and part-time opportunities in a premier health and rehabilitation center located in beautiful St. Petersburg, FL. This role offers a competitive hourly rate and the chance to join a compassionate team committed to providing exceptional patient care.\n\nThis facility is ideally situated on a main street with convenient access to shopping and is nestled in a nice neighborhood. Enjoy the benefit of being just 15 minutes from the beach, offering a fantastic work-life balance. The center features two courtyards, providing a pleasant environment for both residents and staff.",
-    "contractType": "Full-time, Part-time",
-    "salaryShort": "$55.00 - $60.00/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Florida",
-      "Current BLS/CPR certification",
-      "Experience in a Skilled Nursing Facility or long-term care setting preferred",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PT/FT)",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "An exciting opportunity awaits a dedicated Physical Therapist Assistant (PTA) to join a premier skilled nursing facility in St. Petersburg, FL. This role offers both part-time and full-time options, providing flexibility for the right candidate. You will play a crucial role in patient recovery and well-being, contributing to a supportive and dynamic rehabilitation team. We are seeking a compassionate and skilled professional eager to make a significant impact on our patients' lives.\n\nOur facility is a 55-59 bed center, currently serving a manageable census of 43 patients. Strategically located on a main street with abundant shopping nearby and nestled in a pleasant neighborhood, the facility offers a convenient and appealing work environment. Enjoy the added perk of being just 15 minutes from the beautiful beaches, perfect for unwinding. The facility also features two inviting courtyards, enhancing the serene atmosphere for both patients and staff.",
-    "contractType": "Part-time or Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
-    "requirements": [
-      "Current and valid Physical Therapist Assistant (PTA) license in Florida.",
-      "Experience working in a skilled nursing facility (SNF) or similar rehabilitation setting.",
-      "Strong clinical skills and a commitment to patient-centered care.",
-      "Excellent communication and interpersonal abilities.",
-      "Ability to work effectively as part of a multidisciplinary team."
-    ],
-    "salaryOrBonusInfo": "$38.00 - $48.00 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   },
   {
     "roleTitle": "Occupational Therapist",
@@ -550,6 +267,42 @@
     "id": "coo_susan_strauss_design_lakewood__nj"
   },
   {
+    "roleTitle": "PRN/Part-time Licensed Practical Nurse (LPN)",
+    "location": "Lawrenceville, GA",
+    "facilityType": "Community Healthcare Provider",
+    "description": "We are urgently seeking dedicated and skilled PRN/Part-time Licensed Practical Nurses (LPNs) to join a leading community healthcare provider in Lawrenceville, GA. This is an excellent opportunity for LPNs looking for flexible, per-case work as an independent contractor (1099).\n\nIn this vital role, you will provide essential patient care on a per-case basis, with the flexibility to manage your schedule while committing to a minimum of 3 cases per week. This position offers competitive compensation per case, allowing you to maximize your earning potential while making a significant impact on patient well-being.",
+    "contractType": "PRN/Part-time (1099 Contract)",
+    "salaryShort": "$90 - $120 per case",
+    "requirements": [
+      "Current and unrestricted LPN license in the state of Georgia.",
+      "Valid CPR certification.",
+      "Reliable transportation and willingness to travel to patient homes.",
+      "Ability to commit to a minimum of 3 cases per week.",
+      "Strong clinical skills and ability to work independently."
+    ],
+    "salaryOrBonusInfo": "This is a 1099 independent contractor role offering $90 - $120 per case, with an expectation of handling 3 or more cases per week.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_lawrenceville__ga"
+  },
+  {
+    "roleTitle": "LPN (Licensed Practical Nurse)",
+    "location": "Dacula, GA",
+    "facilityType": "Home Health Agency",
+    "description": "An urgent opportunity has arisen for a dedicated PRN/Part-time Licensed Practical Nurse (LPN) in Dacula, GA. This role offers the flexibility of an independent contractor (1099) position, allowing you to manage your schedule while providing essential patient care within the community. We are seeking highly motivated professionals ready to make an immediate impact.\n\nThis position offers competitive compensation ranging from $90 to $120 per case, with an expectation of handling 3 or more cases per week. If you are an LPN looking for a flexible, per-case opportunity to utilize your skills and contribute to patient well-being, we encourage you to apply.",
+    "contractType": "PRN/Part-time",
+    "salaryShort": "$90-$120 per case",
+    "requirements": [
+      "Current and unrestricted LPN license in the state of Georgia",
+      "Proven experience as an LPN, preferably in a home health or community-based setting",
+      "Ability to work independently as a 1099 contractor",
+      "Commitment to completing a minimum of 3 cases per week",
+      "Strong clinical assessment and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Compensation is $90-$120 per case, with an expectation of 3+ cases per week.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_dacula__ga"
+  },
+  {
     "roleTitle": "Housekeeper",
     "location": "Bastrop, TX",
     "facilityType": "Residential Facility",
@@ -584,6 +337,24 @@
     "salaryOrBonusInfo": "No pay limit (as long as request is reasonable) for the right person.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+  },
+  {
+    "roleTitle": "Commercial HVAC Field Manager",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial HVAC Service Company",
+    "description": "Join a highly reputable commercial HVAC service company known for its exceptional employee retention, where professionals build long-term careers. We are seeking experienced Commercial HVAC Field Managers to oversee operations and service delivery across the vibrant Chicago Metropolitan Area, encompassing Illinois, Wisconsin, and Indiana. This role offers a unique opportunity to manage diverse commercial projects and contribute to a team-oriented environment.\n\nAs a Commercial HVAC Field Manager, you will be responsible for leading field teams, ensuring high-quality service, and managing projects involving various commercial HVAC systems, including boilers and chillers. This position requires a proactive leader with a strong technical background and a commitment to operational excellence. If you thrive in a dynamic, travel-oriented role within a supportive company culture, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50.00 - $65.00/hr",
+    "requirements": [
+      "Minimum of 5-7 years of experience in the HVAC industry.",
+      "At least 3 years of dedicated commercial HVAC experience, specifically with boilers and chillers.",
+      "Demonstrated leadership and field management capabilities.",
+      "Ability to travel extensively within the Chicago Metropolitan Area (IL, WI & IN).",
+      "Experience working with Skilled Nursing Facilities (SNF) is considered a significant plus."
+    ],
+    "salaryOrBonusInfo": "Hourly rate ranges from $50.00 to $65.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
     "roleTitle": "Registered Nurse Director of Nursing (DON)",
