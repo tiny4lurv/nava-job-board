@@ -372,6 +372,24 @@
     "id": "1_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
   },
   {
+    "roleTitle": "Night Shift Nurse (RN/LPN)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join the team at a premier health and rehabilitation center in Vernon, AL. This vital role involves providing exceptional patient care during the overnight hours, ensuring the comfort and well-being of residents.\n\nThe Night Shift Nurse will be responsible for administering medications, monitoring patient conditions, performing assessments, and accurately documenting care. You will play a crucial role in responding to patient needs, collaborating with the healthcare team, and maintaining a safe and therapeutic environment throughout the night.\n\nThis is an excellent opportunity for a committed nursing professional to contribute to a facility focused on high-quality patient outcomes and a supportive work environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and valid RN or LPN license in the state of Alabama",
+      "Current CPR certification",
+      "Minimum of 1 year of experience in a skilled nursing facility or long-term care setting preferred",
+      "Ability to work night shifts, including weekends and holidays as needed",
+      "Strong assessment, communication, and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
     "roleTitle": "Director of Nursing (DON)",
     "location": "Sebrings, FL",
     "facilityType": "Skilled Nursing Facility",
@@ -1366,23 +1384,5 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "3_pm_lpn_s_gulfport_care_center_gulfport__ms"
-  },
-  {
-    "roleTitle": "Night Shift Nurse (RN/LPN)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join the team at a premier health and rehabilitation center in Vernon, AL. This vital role involves providing exceptional patient care during the overnight hours, ensuring the comfort and well-being of residents.\n\nThe Night Shift Nurse will be responsible for administering medications, monitoring patient conditions, performing assessments, and accurately documenting care. You will play a crucial role in responding to patient needs, collaborating with the healthcare team, and maintaining a safe and therapeutic environment throughout the night.\n\nThis is an excellent opportunity for a committed nursing professional to contribute to a facility focused on high-quality patient outcomes and a supportive work environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and valid RN or LPN license in the state of Alabama",
-      "Current CPR certification",
-      "Minimum of 1 year of experience in a skilled nursing facility or long-term care setting preferred",
-      "Ability to work night shifts, including weekends and holidays as needed",
-      "Strong assessment, communication, and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
   }
 ]
