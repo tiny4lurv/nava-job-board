@@ -462,5 +462,23 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "3_pm_lpn_s_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Part-time Licensed COTA",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Are you a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) seeking a rewarding part-time opportunity? A premier skilled nursing facility in Vernon, AL, is looking for a talented COTA to join their team. This role offers a flexible schedule, working three days a week, allowing for a great work-life balance while making a significant impact on patients' lives.In this vital role, you will work under the supervision of an Occupational Therapist, assisting with the implementation of individualized treatment plans. You will help patients regain independence, improve daily living skills, and enhance their overall quality of life through therapeutic activities and interventions. Your expertise will contribute to a supportive environment focused on patient recovery and well-being.Join a team committed to providing exceptional care and fostering a positive environment for both patients and staff. This is an excellent opportunity to utilize your skills in a dynamic setting and contribute to meaningful patient outcomes.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current state licensure as a Certified Occupational Therapy Assistant (COTA).",
+      "Associate's degree from an accredited COTA program.",
+      "Ability to commit to a part-time schedule, working three days a week.",
+      "Experience in a skilled nursing or rehabilitation setting is preferred.",
+      "Strong communication and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_licensed_cota__3_days_a_week__arabella_health___wellness_of_vernon_vernon__al"
   }
 ]
