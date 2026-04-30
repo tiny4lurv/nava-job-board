@@ -720,5 +720,71 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "vice_president___client_services_everise_headquarters_plantation__fl"
     }
+  },
+  "ceo___300k__500k____drug_rehab___behavior_health_al": {
+    "signature": "f8f40f9e0cf2998147fda53ba343f131",
+    "addedAt": "2026-04-30T16:26:14.550Z",
+    "finalJson": {
+      "roleTitle": "Chief Executive Officer (CEO)",
+      "location": "Alabama",
+      "facilityType": "Behavioral Health Facility",
+      "description": "We are seeking an accomplished and visionary Chief Executive Officer (CEO) to lead a prominent behavioral health facility in Alabama. This pivotal role offers a unique opportunity to shape the strategic direction and operational excellence of a center dedicated to providing high-quality care in drug rehabilitation and behavioral health services. The CEO will be instrumental in driving growth, ensuring regulatory compliance, and fostering a culture of compassionate patient-centered care.\n\nThe ideal candidate will possess exceptional leadership skills, a proven track record in executive management within the healthcare sector, and a deep understanding of behavioral health operations. This role demands a leader who can inspire teams, manage complex financial landscapes, and navigate the evolving challenges of the healthcare industry. Join a dedicated team committed to making a significant impact on the lives of individuals and communities.",
+      "contractType": "Full-time",
+      "salaryShort": "$300,000 - $500,000+ per year",
+      "requirements": [
+        "Proven experience in executive leadership within a healthcare or behavioral health setting",
+        "Strong financial acumen and operational management skills",
+        "Demonstrated ability to drive strategic growth and achieve organizational goals",
+        "Excellent communication and interpersonal skills",
+        "Relevant Master's degree (e.g., MBA, MHA) preferred"
+      ],
+      "salaryOrBonusInfo": "Highly competitive compensation ranging from $300,000 to $500,000+ annually, commensurate with experience and leadership capabilities.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ceo___300k__500k____drug_rehab___behavior_health_al"
+    }
+  },
+  "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la": {
+    "signature": "803af3c9f86cd32f8ad57e4120822aae",
+    "addedAt": "2026-04-30T16:26:14.550Z",
+    "finalJson": {
+      "roleTitle": "Regional Director/VP of Operations",
+      "location": "Los Angeles, CA",
+      "facilityType": "Healthcare System",
+      "description": "An urgent and exceptional opportunity awaits an experienced Regional Director/VP of Operations to lead a dynamic healthcare system. This pivotal role involves overseeing multi-site operations, driving financial performance, and ensuring the highest standards of patient care and regulatory compliance across a portfolio of facilities. We are seeking a visionary leader ready to make an immediate impact.\n\nThis position offers a highly competitive compensation package, ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance for the ideal candidate. If you are a proven leader with a track record of operational excellence and a passion for healthcare, we encourage you to apply promptly.",
+      "contractType": "Full-time",
+      "salaryShort": "$200,000 - $300,000+ per year",
+      "requirements": [
+        "Must be LNHA (Licensed Nursing Home Administrator) certified.",
+        "Proven experience in multi-site healthcare operations leadership.",
+        "Strong financial acumen and P&L management experience.",
+        "Demonstrated ability to drive operational excellence and regulatory compliance.",
+        "Bachelor's degree in Healthcare Administration, Business, or a related field."
+      ],
+      "salaryOrBonusInfo": "Compensation ranges from $200,000 to $300,000+ annually, with relocation assistance available.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la"
+    }
+  },
+  "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky": {
+    "signature": "53edd77c77d7f833108452d969f71cea",
+    "addedAt": "2026-04-30T16:26:14.550Z",
+    "finalJson": {
+      "roleTitle": "Experienced Regional Director/VP of Operations",
+      "location": "Kentucky",
+      "facilityType": "A leading healthcare organization with multiple facilities",
+      "description": "We are urgently seeking an experienced Regional Director/VP of Operations to lead and optimize performance across a network of healthcare facilities in Kentucky. This pivotal role offers a unique opportunity to drive operational excellence, ensure high-quality patient care, and achieve strategic objectives within a dynamic environment.\n\nThe successful candidate will be instrumental in overseeing multi-site operations, fostering a culture of continuous improvement, and ensuring regulatory compliance. This urgent opening comes with a highly competitive salary package, ranging from $200,000 to $300,000+ per year, along with comprehensive relocation assistance for the right leader.",
+      "contractType": "Full-time",
+      "salaryShort": "$200,000 - $300,000+ per year",
+      "requirements": [
+        "Must be LNHA certified",
+        "Proven experience in multi-site healthcare operations management",
+        "Strong leadership and financial management skills",
+        "Demonstrated ability to drive operational efficiency and quality outcomes",
+        "In-depth knowledge of healthcare regulations and compliance"
+      ],
+      "salaryOrBonusInfo": "Compensation ranges from $200,000 to $300,000+ per year, with relocation assistance available.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky"
+    }
   }
 }
