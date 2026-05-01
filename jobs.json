@@ -716,53 +716,54 @@
     "id": "vice_president___client_services_everise_headquarters_plantation__fl"
   },
   {
-    "roleTitle": "Part-Time Medical Billing & Coding Specialist",
+    "roleTitle": "Part-time Medical Billing & Coding Specialist",
     "location": "Remote",
-    "facilityType": "A growing healthcare organization",
-    "description": "Join a dynamic and growing healthcare organization as a Part-Time Medical Billing & Coding Specialist. This remote opportunity offers the flexibility to work from home while contributing to essential revenue cycle operations. We are seeking a detail-oriented professional to ensure accurate and timely processing of medical claims.\n\nIn this role, you will be responsible for coding diagnoses and procedures, submitting claims, and managing any billing inquiries or denials. We offer a competitive hourly rate and the convenience of flexible interview scheduling, including evenings and weekends, to accommodate your current commitments. If you are a skilled medical billing and coding professional looking for a part-time remote position, we encourage you to apply.",
+    "facilityType": "Healthcare Organization",
+    "description": "We are seeking a dedicated Part-time Medical Billing & Coding Specialist to join our team. This remote role offers a competitive hourly rate and the flexibility of working from home. We are looking for a detail-oriented professional to manage medical billing and coding processes efficiently.\n\nThis is an urgent opening, and we are actively scheduling interviews. Candidates can schedule interviews Monday through Friday from 1 PM to 7 PM, with weekend options available as needed. We encourage qualified candidates to apply promptly.",
     "contractType": "Part-time",
-    "salaryShort": "$25.00 - $27.00/hr",
+    "salaryShort": "$25-$27/hr",
     "requirements": [
+      "Certified Professional Coder (CPC) or equivalent certification",
       "Proven experience in medical billing and coding",
-      "Proficiency with medical coding systems (e.g., ICD-10, CPT, HCPCS)",
-      "Relevant certification (e.g., CPC, CCS) preferred",
-      "Strong understanding of healthcare regulations and compliance",
-      "Ability to work independently in a remote setting"
+      "Proficiency with medical coding software and electronic health records (EHR) systems",
+      "Strong understanding of CPT, ICD-10, and HCPCS coding guidelines",
+      "Excellent attention to detail and organizational skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $25.00 - $27.00, based on experience.",
+    "salaryOrBonusInfo": "$25-$27/hr",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_medical_billing___coding___25__27_hr__remote_remote"
   },
   {
-    "roleTitle": "Physical Therapist (PRN)",
+    "roleTitle": "Physical Therapist (PRN/Part-Time)",
     "location": "Helena, AL",
     "facilityType": "Home Health Agency",
-    "description": "Are you a dedicated Physical Therapist seeking a flexible PRN opportunity in Helena, AL? We are urgently seeking a skilled and compassionate Physical Therapist to join our team, providing essential care on a per-visit basis. This role offers the autonomy to manage your schedule while making a significant impact on patients' lives within a community-based setting.\n\nThis is an urgent opening, offering competitive compensation at $50 per visit. If you are looking for a role that provides flexibility and allows you to deliver high-quality physical therapy services, we encourage you to apply today. We are actively scheduling interviews and eager to connect with qualified candidates.",
-    "contractType": "PRN",
+    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist for a PRN/Part-Time opportunity in Helena, AL. This role offers exceptional flexibility and a competitive compensation structure, ideal for a professional looking to make a significant impact on patient recovery and well-being within a dynamic healthcare environment. As a Physical Therapist, you will provide high-quality, individualized care to patients, helping them regain mobility and improve their quality of life. This position offers the chance to work autonomously while being part of a supportive network. We understand the importance of work-life balance and offer flexible scheduling options. Interview slots are available Monday-Friday from 1 PM-7 PM, with additional flexibility over the weekend as needed, to accommodate your schedule.",
+    "contractType": "PRN/Part-time",
     "salaryShort": "$50 per visit",
     "requirements": [
-      "Current and valid Physical Therapist license in Alabama",
-      "Doctor of Physical Therapy (DPT) degree or equivalent",
-      "Previous experience in a home health or community-based setting preferred",
-      "Valid driver's license and reliable transportation",
-      "Strong communication and documentation skills"
+      "Valid Physical Therapist license in Alabama",
+      "Current CPR certification",
+      "Ability to travel to patient homes",
+      "Strong communication and documentation skills",
+      "Experience in a home health or similar setting preferred"
     ],
     "salaryOrBonusInfo": "$50 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_pt__urgent___50_per_visit__traveling_helena__al"
   },
   {
-    "roleTitle": "Occupational Therapist (OT) - Part-time/PRN",
+    "roleTitle": "Occupational Therapist",
     "location": "Helena, AL",
     "facilityType": "Home Health Agency",
-    "description": "We are urgently seeking a dedicated Part-time/PRN Occupational Therapist (OT) to join a dynamic home health team in Helena, AL. This role offers the flexibility of per-visit compensation and the opportunity to make a significant impact on patients' lives within their home environment. If you are passionate about delivering high-quality, patient-centered care and thrive in an autonomous setting, we encourage you to apply.\n\nAs an Occupational Therapist, you will be responsible for assessing, planning, and implementing individualized treatment programs to help patients regain independence in daily living activities. This is an urgent need, and we are offering flexible interview scheduling, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to accommodate your availability. Join a supportive environment where your skills are valued.",
+    "description": "We are urgently seeking a dedicated and compassionate Part-time/PRN Occupational Therapist to join a dynamic healthcare team in Helena, AL. This is an excellent opportunity for an OT looking for flexible scheduling and the ability to make a significant impact on patients' lives within a community-based setting.\nIn this role, you will provide essential occupational therapy services on a per-visit basis, allowing you to manage your own schedule and caseload. We offer competitive compensation at $50 per visit, reflecting the critical nature of this urgent need. If you are passionate about helping patients achieve their highest level of independence and are ready to contribute to a supportive environment, we encourage you to apply.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$50 per visit",
     "requirements": [
-      "Valid Occupational Therapist (OT) license in Alabama",
-      "Experience in a home health or mobile therapy setting preferred",
-      "Reliable transportation and valid driver's license",
-      "Strong clinical assessment and documentation skills"
+      "Current Occupational Therapist (OT) license in Alabama",
+      "Master's or Doctorate degree in Occupational Therapy",
+      "Valid driver's license and reliable transportation",
+      "Strong clinical assessment and documentation skills",
+      "Previous experience in a home health or community-based setting preferred"
     ],
     "salaryOrBonusInfo": "Compensation is $50 per visit.",
     "applyLink": "https://navahc.com/candidates/",
@@ -772,15 +773,17 @@
     "roleTitle": "Registered Nurse",
     "location": "Orlando, FL",
     "facilityType": "Healthcare Facility",
-    "description": "An urgent opportunity is available for a dedicated Full-time Registered Nurse in Orlando, FL, offering a competitive rate of $30 per hour. This role is ideal for an RN looking to make an immediate impact within a dynamic healthcare environment.\n\nWe understand the importance of flexibility in your job search. Interviews can be conveniently scheduled Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed. We are committed to a swift hiring process for the right candidate.\n\nIf you are a compassionate and skilled Registered Nurse ready for a rewarding full-time position, we encourage you to apply today and join a team dedicated to exceptional patient care.",
+    "description": "We are urgently seeking a dedicated Full-time Registered Nurse to join a reputable healthcare facility in Orlando, FL. This is an immediate opening for a compassionate and skilled RN looking to make a significant impact on patient care.\n\nAs a Registered Nurse, you will be responsible for providing high-quality nursing care, administering medications, monitoring patient conditions, and collaborating with a multidisciplinary team to ensure optimal patient outcomes. We are actively scheduling interviews for this role, with availability Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate qualified candidates promptly.\n\nThis full-time position offers a competitive hourly rate of $30.00/hr. If you are a motivated RN ready for a new opportunity, we encourage you to apply today.",
     "contractType": "Full-time",
-    "salaryShort": "$30/hr",
+    "salaryShort": "$30.00/hr",
     "requirements": [
-      "Valid Registered Nurse (RN) license",
+      "Valid Registered Nurse (RN) license in Florida",
       "Current Basic Life Support (BLS) certification",
-      "Ability to work full-time"
+      "Minimum of 1 year of experience as a Registered Nurse",
+      "Ability to work full-time",
+      "Strong clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "$30 per hour",
+    "salaryOrBonusInfo": "$30.00/hr",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_rn__urgent___30_hr__traveling_orlando__fl"
   },
@@ -788,15 +791,16 @@
     "roleTitle": "Part-time/PRN Registered Nurse",
     "location": "Orlando, FL",
     "facilityType": "Healthcare Facility",
-    "description": "We are urgently seeking a dedicated Part-time/PRN Registered Nurse to join a dynamic healthcare facility in Orlando, FL. This is an excellent opportunity for an RN looking for flexible scheduling and a competitive hourly rate.\n\nThis role offers a pay rate of $30/hr, reflecting our commitment to attracting top talent. We understand the importance of work-life balance and are eager to accommodate your schedule for interviews, with availability Monday-Friday from 1PM-7PM and over the weekend as needed. Join our team and make a significant impact on patient care.",
+    "description": "We are urgently seeking a dedicated Part-time/PRN Registered Nurse to join a dynamic healthcare team in Orlando, FL. This role offers a competitive hourly rate of $30.00 and provides an excellent opportunity for nurses looking for flexible scheduling options.\n\nInterviews can be scheduled Monday through Friday from 1PM-7PM, with additional availability over the weekend as needed. If you are a compassionate and skilled RN ready to make an immediate impact, we encourage you to apply.",
     "contractType": "Part-time/PRN",
-    "salaryShort": "$30/hr",
+    "salaryShort": "$30.00/hr",
     "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Current Basic Life Support (BLS) or CPR certification",
-      "Ability to work flexible part-time/PRN shifts"
+      "Valid Registered Nurse (RN) license in Florida",
+      "Current BLS certification",
+      "Minimum 1 year of nursing experience",
+      "Ability to work flexible Part-time/PRN shifts"
     ],
-    "salaryOrBonusInfo": "$30/hr",
+    "salaryOrBonusInfo": "This urgent role offers a competitive hourly rate of $30.00.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_rn__urgent___30_hr__traveling_orlando__fl"
   },
@@ -804,17 +808,16 @@
     "roleTitle": "Home Health Clinician",
     "location": "Orlando, FL",
     "facilityType": "Home Health Agency",
-    "description": "Join a dedicated team providing essential care within the community of Orlando, FL. This flexible role offers the opportunity to make a significant impact on patients' lives by delivering high-quality healthcare services directly in their homes. We are seeking compassionate and skilled clinicians ready to manage a diverse caseload and contribute to patient well-being.\n\nThis position offers competitive per-visit compensation, allowing for excellent earning potential. We understand the importance of work-life balance and are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule and expedite the hiring process.",
-    "contractType": "Full-time or Part-time",
+    "description": "We are seeking dedicated Full-time and Part-time Home Health Clinicians to join a dynamic team in Orlando, FL. This role offers the flexibility of per-visit compensation, allowing you to manage your schedule while providing essential care to patients in their homes.\n\nThis is an excellent opportunity for clinicians looking for a flexible work environment with competitive per-visit pay. We understand the importance of work-life balance and are accommodating with interview scheduling, offering times Monday-Friday from 1PM-7PM, and over the weekend as needed.",
+    "contractType": "Full-time and Part-time",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Active and unrestricted clinical license in the state of Florida (e.g., RN, PT, OT, SLP)",
-      "Minimum of 1 year of experience in a home health setting",
+      "Active professional license in Florida (e.g., RN, PT, OT, SLP)",
+      "Minimum of 1 year of experience in home health or a related clinical setting",
       "Valid driver's license and reliable transportation",
-      "Strong clinical assessment, critical thinking, and documentation skills",
-      "Ability to work independently and manage a flexible schedule"
+      "Excellent clinical assessment and documentation skills"
     ],
-    "salaryOrBonusInfo": "This role offers competitive compensation at $65 per visit, providing excellent earning potential based on your caseload.",
+    "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___65_per_visit__traveling_orlando__fl"
   },
@@ -822,50 +825,51 @@
     "roleTitle": "PRN Physical Therapist",
     "location": "Orlando, FL",
     "facilityType": "Home Health Agency",
-    "description": "Join a leading home health agency in Orlando, FL, as a PRN Physical Therapist. This flexible per-visit opportunity allows you to make a significant impact on patients' lives by providing essential physical therapy services in their homes. You'll enjoy the autonomy of managing your schedule while delivering high-quality, personalized care focused on improving mobility, function, and overall quality of life for your patients.This role offers a competitive compensation of $65 per visit, providing an excellent opportunity to supplement your income or maintain a flexible work-life balance. We are actively scheduling interviews and can accommodate your availability Monday through Friday from 1 PM to 7 PM, with weekend options as needed, to ensure a smooth and convenient hiring process.",
+    "description": "An exciting opportunity awaits a dedicated PRN Physical Therapist in Orlando, FL. Join a reputable home health agency committed to providing high-quality, patient-centered care within the comfort of their homes. This role offers the flexibility to manage your own schedule while making a significant impact on patient recovery and well-being.\n\nThis position offers a competitive per-visit rate, allowing you to maximize your earning potential. We are actively conducting interviews and can accommodate schedules Monday through Friday from 1 PM to 7 PM, with additional weekend availability as needed, to ensure a seamless hiring process.",
     "contractType": "PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Current and unrestricted Physical Therapist license in Florida",
-      "Valid driver's license and reliable transportation",
-      "CPR certification",
-      "Strong clinical assessment and documentation skills",
-      "Ability to work independently and manage a caseload effectively"
+      "Valid and current Physical Therapist license in the state of Florida.",
+      "Current CPR certification.",
+      "Minimum of 1 year of experience as a Physical Therapist, preferably in a home health setting.",
+      "Ability to travel to patient homes within the Orlando area.",
+      "Strong clinical assessment, documentation, and communication skills."
     ],
-    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_pt___65_per_visit__traveling_orlando__fl"
   },
   {
-    "roleTitle": "Occupational Therapist",
+    "roleTitle": "Occupational Therapist (OT)",
     "location": "Orlando, FL",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated Full-time Occupational Therapist to join a leading home health agency in Orlando, FL. This role offers the opportunity to provide essential care to patients in their homes, contributing significantly to their recovery and well-being. This position features a competitive per-visit compensation model.\n\nWe understand the importance of flexibility and are accommodating interview schedules Monday through Friday from 1PM-7PM, with additional availability over the weekend as needed. Join a team committed to patient-centered care and make a meaningful impact in the community.",
+    "facilityType": "A leading home health agency",
+    "description": "We are seeking a dedicated Full-time Occupational Therapist (OT) to join a dynamic home health team in Orlando, FL. This role offers the opportunity to provide essential therapy services to patients in the comfort of their own homes, making a direct and meaningful impact on their recovery and quality of life. This position features a competitive per-visit compensation model.\n\nAs an Occupational Therapist, you will be responsible for assessing, planning, and implementing individualized treatment programs. We value flexibility and are open to scheduling interviews Monday-Friday from 1PM-7PM, with additional availability over the weekend as needed, to accommodate your schedule.",
     "contractType": "Full-time",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Valid Occupational Therapist license in Florida",
-      "Ability to travel to patient homes",
-      "Strong communication and interpersonal skills",
-      "Current CPR certification"
+      "Valid and active Occupational Therapist (OT) license in Florida.",
+      "Master's or Doctorate degree in Occupational Therapy from an accredited program.",
+      "Minimum of 1-2 years of experience as an Occupational Therapist, preferably in a home health setting.",
+      "Strong clinical skills in assessment, treatment planning, and intervention.",
+      "Ability to work independently and manage a caseload effectively."
     ],
-    "salaryOrBonusInfo": "$65 per visit",
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_ot___65_per_visit__traveling_orlando__fl"
   },
   {
     "roleTitle": "PRN Occupational Therapist",
     "location": "Orlando, FL",
-    "facilityType": "Home Health Agency",
-    "description": "Join a dedicated team as a PRN Occupational Therapist in Orlando, FL. This per-visit role offers excellent flexibility, allowing you to manage your schedule while providing essential therapy services to patients in their homes. We are seeking a compassionate and skilled professional eager to make a significant impact on patient recovery and well-being.\n\nThis opportunity is ideal for an Occupational Therapist looking for a flexible work arrangement with competitive per-visit compensation. We value work-life balance and offer scheduling options that can accommodate your needs, including interview availability during evenings and weekends. If you're ready to deliver high-quality, patient-centered care, we encourage you to apply.",
+    "facilityType": "Community-based healthcare",
+    "description": "Join a dynamic healthcare team in Orlando, FL, as a PRN Occupational Therapist. This per-visit role offers exceptional flexibility, allowing you to manage your schedule while providing essential therapy services to patients in a community-based setting. We are seeking a dedicated professional eager to make a significant impact on patient well-being.\n\nThis opportunity provides a competitive per-visit rate, perfect for those seeking to supplement their income or prefer a flexible work arrangement. We understand the demands of your schedule and offer flexible interview times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to accommodate your availability.",
     "contractType": "PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Valid Occupational Therapist (OT) license in the state of Florida",
-      "Previous experience in a home health or mobile healthcare setting preferred",
-      "Ability to travel to patient locations within the Orlando area",
+      "Current Occupational Therapist (OT) license in Florida",
+      "Valid driver's license and reliable transportation",
+      "Ability to travel to patient homes/various locations",
       "Strong clinical assessment and documentation skills",
-      "Excellent communication and interpersonal abilities"
+      "Current CPR certification"
     ],
     "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
@@ -875,49 +879,49 @@
     "roleTitle": "Speech-Language Pathologist",
     "location": "Orlando, FL",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a leading home health agency in Orlando, FL. This role offers the opportunity to provide essential speech and language services to patients in their homes, contributing significantly to their recovery and well-being within a flexible per-visit model.\n\nThis is a full-time position with a competitive per-visit rate. We understand the importance of work-life balance and offer flexible interview scheduling, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to accommodate your current commitments.",
+    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic team providing essential services in the Orlando, FL area. This role offers the opportunity to make a significant impact on patients' lives through direct, per-visit care.\n\nThis position features a competitive per-visit compensation model, allowing for flexibility and control over your earning potential. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule.",
     "contractType": "Full-time",
     "salaryShort": "$65 per visit",
     "requirements": [
       "Master's degree in Speech-Language Pathology",
-      "Current and unrestricted Florida SLP license",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
-      "Valid driver's license and reliable transportation",
-      "Experience in a home health setting preferred"
+      "Current Florida SLP license",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
+      "Experience in a home health or mobile therapy setting preferred",
+      "Valid driver's license and reliable transportation"
     ],
     "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_slp___65_per_visit__traveling_orlando__fl"
   },
   {
-    "roleTitle": "Speech-Language Pathologist (SLP) - PRN",
+    "roleTitle": "Speech-Language Pathologist (SLP)",
     "location": "Orlando, FL",
     "facilityType": "Home Health Agency",
-    "description": "Join a leading home health agency in Orlando, FL, as a PRN Speech-Language Pathologist. This role offers the flexibility to manage your own schedule while providing essential speech and language therapy services to patients in their homes. You will play a crucial role in assessing, diagnosing, and treating communication and swallowing disorders, helping patients regain independence and improve their quality of life.\n\nThis per-visit opportunity is ideal for a dedicated SLP seeking a flexible work arrangement with competitive compensation. We are looking for a compassionate professional committed to delivering high-quality, patient-centered care within a home health setting.",
-    "contractType": "PRN",
+    "description": "We are seeking a dedicated and compassionate Part-time/PRN Speech-Language Pathologist (SLP) to join a dynamic healthcare team in Orlando, FL. This role offers the flexibility of a per-visit model, allowing you to manage your schedule while providing essential speech and language services to patients in their homes.\n\nThis is an excellent opportunity for an SLP looking for flexible hours and competitive per-visit compensation. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule and expedite the hiring process.",
+    "contractType": "Part-time/PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
+      "Current and unrestricted Florida SLP license",
       "Master's degree in Speech-Language Pathology",
-      "Current Florida SLP license",
-      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-      "Valid driver's license and reliable transportation",
-      "Experience in a home health or similar setting preferred"
+      "Certificate of Clinical Competence (CCC-SLP)",
+      "Experience in a home health or community-based setting preferred",
+      "Ability to travel to patient homes within the Orlando area"
     ],
-    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_slp___65_per_visit__traveling_orlando__fl"
   },
   {
     "roleTitle": "Certified Nursing Assistant (CNA)",
     "location": "Orlando, FL",
-    "facilityType": "Private Care Setting",
-    "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Orlando, FL? We are seeking compassionate CNAs to provide exceptional care in a private care setting. This role involves a distinctive live-in schedule, working 7 days on and then enjoying 7 days off, offering a balanced and consistent work-life rhythm.\n\nIn this vital position, you will deliver personalized support to patients, ensuring their comfort and well-being. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with flexibility for weekend interviews as needed. Join a team committed to making a significant difference in patients' lives.",
+    "facilityType": "A patient-focused environment",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team in Orlando, FL. This full-time opportunity involves providing essential care in a patient-focused environment, offering a unique live-in schedule of 7 days on, followed by 7 days off. In this vital role, you will support patients with daily living activities, ensuring their comfort and well-being. We are looking for individuals who are committed to delivering high-quality, personalized care and thrive in a supportive setting. Interview slots are available Monday-Friday from 1 PM-7 PM, and over the weekend as needed.",
     "contractType": "Full-time",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Active Certified Nursing Assistant (CNA) license in Florida",
-      "Ability and willingness to commit to a 7-day live-in schedule with patients",
-      "Proven experience in providing direct patient care",
+      "Current Certified Nursing Assistant (CNA) certification",
+      "Proven experience in direct patient care",
+      "Ability to commit to a 7 days on, 7 days off live-in schedule",
       "Excellent communication and interpersonal skills",
       "Compassionate and patient-centered approach to care"
     ],
@@ -928,52 +932,35 @@
   {
     "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
     "location": "Orlando, FL",
-    "facilityType": "Diverse patient care environments",
-    "description": "We are seeking dedicated and compassionate Traveling Certified Nursing Assistants (CNAs) for Part-time/PRN opportunities in Orlando, FL. This role offers the flexibility to work across various patient care settings, providing essential support and direct care to individuals in need. If you are looking for a dynamic role with competitive hourly compensation, this is an excellent opportunity.\n\nWe are actively scheduling interviews for this urgent opening, with availability Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your schedule. Join a team committed to delivering high-quality patient care and make a meaningful impact in the community.",
+    "facilityType": "Various healthcare settings",
+    "description": "Are you a dedicated Certified Nursing Assistant looking for flexible part-time or PRN opportunities in Orlando, FL? We are seeking compassionate and skilled Traveling CNAs to provide essential patient care across various healthcare settings. This role offers the chance to expand your experience while maintaining a flexible schedule.\n\nWe understand the importance of work-life balance and are committed to accommodating your availability. Interviews can be scheduled Monday through Friday from 1 PM to 7 PM, with weekend options available as needed, demonstrating our flexibility to connect with top talent like you. Join a team that values your dedication and provides opportunities for diverse experiences.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Valid Florida Certified Nursing Assistant (CNA) license",
-      "Current Basic Life Support (BLS) certification",
-      "Reliable transportation and willingness to travel to various patient locations",
-      "Ability to provide compassionate and effective patient care",
-      "Strong communication and interpersonal skills"
+      "Active Certified Nursing Assistant (CNA) certification in Florida",
+      "Ability to travel to different healthcare facilities within the Orlando area",
+      "Proven experience providing direct patient care",
+      "Strong communication and interpersonal skills",
+      "Reliable transportation"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00, based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "2_pt_prn_traveling_cna___19__20_hr__traveling_orlando__fl"
   },
   {
     "roleTitle": "Registered Nurse (RN)",
     "location": "Phoenix, AZ",
-    "facilityType": "A premier healthcare facility",
-    "description": "Join a dedicated team in Phoenix, AZ, as a Full-time Registered Nurse. This is an excellent opportunity for a compassionate and skilled RN to provide high-quality patient care within a dynamic healthcare environment. We are seeking a professional who is committed to making a significant impact on patient well-being. This full-time position offers a competitive hourly rate of $30.00. We understand the importance of work-life balance and offer flexible interview scheduling, with availability Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your schedule. Apply today to learn more about this rewarding role.",
-    "contractType": "Full-time",
-    "salaryShort": "$30.00/hr",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in Arizona",
-      "Current Basic Life Support (BLS) certification",
-      "Strong clinical assessment and critical thinking skills",
-      "Ability to work effectively in a fast-paced healthcare setting"
-    ],
-    "salaryOrBonusInfo": "Compensation is $30.00 per hour.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___30_hr__traveling_phoenix__az"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "location": "Phoenix, AZ",
-    "facilityType": "Healthcare Services Provider",
-    "description": "We are actively seeking a dedicated Part-time/PRN Registered Nurse (RN) to join our team in Phoenix, AZ. This is an excellent opportunity for an RN looking for flexible scheduling options within a dynamic healthcare environment, providing essential patient care and contributing to positive health outcomes.\n\nThis role offers immediate opportunities, and we are actively scheduling interviews. Candidates can schedule interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed. We are committed to finding the right fit quickly and efficiently.",
+    "facilityType": "Healthcare Facility",
+    "description": "We are seeking a dedicated and compassionate Part-time/PRN Registered Nurse (RN) to join a dynamic healthcare team in Phoenix, AZ. This role offers an excellent opportunity for an RN looking for flexible scheduling options and a competitive hourly rate.\n\nAs a Part-time/PRN RN, you will provide high-quality patient care, collaborate with a multidisciplinary team, and contribute to a positive patient experience. We value flexibility and are looking for professionals who can adapt to varying needs within a supportive environment.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$30/hr",
     "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in Arizona",
-      "Ability to commit to part-time/PRN scheduling",
-      "Strong clinical assessment and patient care skills",
-      "Excellent communication and interpersonal abilities"
+      "Current and valid Registered Nurse (RN) license in Arizona",
+      "Current BLS/CPR certification",
+      "Ability to work flexible hours, including weekends as needed",
+      "Strong clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "$30 per hour.",
+    "salaryOrBonusInfo": "$30 per hour",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_rn___30_hr__traveling_phoenix__az"
   },
@@ -981,71 +968,69 @@
     "roleTitle": "Home Health Clinician",
     "location": "Phoenix, AZ",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking dedicated and compassionate Home Health Clinicians to join a leading home health agency in Phoenix, AZ. This role offers the flexibility of both full-time and part-time schedules, providing essential patient care in the comfort of their homes. You will play a vital role in delivering high-quality, patient-centered care, focusing on assessment, treatment, and education to promote health and independence.\n\nThis is an excellent opportunity for clinicians who thrive in an autonomous environment and are passionate about making a direct impact on patients' lives. The compensation structure is based on a per-visit rate, offering competitive earnings for your expertise. We understand the importance of work-life balance and offer flexible interview scheduling, including options during evenings (Mon-Fri 1PM-7PM) and weekends as needed.\n\nJoin a team committed to excellence and patient well-being. If you are a skilled clinician looking for a rewarding role with flexibility, we encourage you to apply.",
-    "contractType": "Full-time",
+    "description": "Join a leading home health agency in Phoenix, AZ, offering flexible full-time and part-time opportunities. This role provides the autonomy to manage your schedule while delivering essential care directly to patients in their homes. We are seeking dedicated professionals who thrive in a dynamic environment and are passionate about making a direct impact on patient well-being.\n\nThis position offers a competitive per-visit compensation model, allowing you to control your earning potential. We understand the importance of work-life balance and offer flexible interview scheduling, including evenings and weekends, to accommodate your current commitments. If you are looking for a rewarding role with significant flexibility, we encourage you to apply.",
+    "contractType": "Full-time or Part-time",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Valid state licensure in a relevant clinical field (e.g., RN, PT, OT, SLP)",
+      "Active professional license in Arizona (e.g., RN, PT, OT, SLP)",
       "Valid driver's license and reliable transportation",
-      "Prior experience in home health or a related clinical setting",
-      "Strong clinical assessment, documentation, and communication skills",
-      "Ability to work independently and manage a patient caseload effectively"
+      "Minimum of one year of clinical experience, preferably in home health",
+      "Excellent communication and organizational skills"
     ],
     "salaryOrBonusInfo": "Compensation is $65 per visit.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___65_per_visit__traveling_phoenix__az"
   },
   {
-    "roleTitle": "PRN Physical Therapist",
+    "roleTitle": "Physical Therapist (PRN)",
     "location": "Phoenix, AZ",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated and compassionate PRN Physical Therapist to join a leading home health agency in Phoenix, AZ. This per-visit opportunity offers excellent flexibility and the chance to make a significant impact on patients' lives within their own homes.\n\nIn this role, you will provide high-quality physical therapy services, developing and implementing individualized treatment plans to help patients regain mobility and improve their quality of life. We value work-life balance and offer flexible scheduling for both patient visits and interviews, with availability for interviews Monday-Friday from 1 PM-7 PM and over the weekend as needed.\n\nThis is an urgent need for a skilled professional ready to contribute to a patient-centered care environment.",
+    "description": "Join a dynamic team as a Per Diem Physical Therapist in Phoenix, AZ. This PRN role offers exceptional flexibility, allowing you to manage your schedule while providing essential therapy services to patients in their homes. You'll have the opportunity to make a significant impact on patient recovery and well-being within a supportive environment.\n\nThis position offers a competitive per-visit rate, perfect for therapists seeking to supplement their income or prefer a flexible work arrangement. Interview scheduling is highly accommodating, with availability Monday-Friday from 1 PM-7 PM and over the weekend as needed, ensuring a smooth and efficient hiring process.",
     "contractType": "PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Current and unrestricted Physical Therapist license in Arizona",
-      "Minimum of 1 year of experience as a Physical Therapist, preferably in a home health setting",
-      "Current CPR certification",
-      "Valid driver's license and reliable transportation",
-      "Excellent clinical, communication, and documentation skills"
+      "Current and unrestricted Physical Therapist (PT) license in Arizona",
+      "Minimum of 1 year of clinical experience as a Physical Therapist",
+      "Valid driver's license and reliable transportation for home visits",
+      "Strong communication and interpersonal skills",
+      "Ability to work independently and manage a caseload effectively"
     ],
-    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "salaryOrBonusInfo": "Earn $65 per visit for flexible PRN assignments.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_pt___65_per_visit__traveling_phoenix__az"
   },
   {
     "roleTitle": "Occupational Therapist",
     "location": "Phoenix, AZ",
-    "facilityType": "Home Health Setting",
-    "description": "We are seeking a dedicated Occupational Therapist for a full-time opportunity in Phoenix, AZ. This role offers the flexibility of a per-visit compensation model, ideal for professionals seeking autonomy in a dynamic environment.\n\nAs an Occupational Therapist, you will provide high-quality therapy services to patients in their homes, focusing on patient-centered care and promoting independence. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed.",
+    "facilityType": "Mobile Healthcare Provider",
+    "description": "An exciting opportunity awaits a dedicated Full-time Occupational Therapist in Phoenix, AZ. Join a dynamic mobile healthcare provider committed to delivering exceptional patient care directly in their homes. This role offers the flexibility of a per-visit compensation model, allowing you to manage your schedule effectively while making a significant impact on patient well-being.\n\nWe are seeking a passionate OT to provide comprehensive therapy services, focusing on improving patients' functional abilities and quality of life within their home environment. We understand the importance of work-life balance, and interview availability is flexible, including Monday-Friday from 1 PM-7 PM and over the weekend as needed.",
     "contractType": "Full-time",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Current Occupational Therapist (OT) license in Arizona",
-      "Master's degree in Occupational Therapy from an accredited program",
-      "Prior experience in a home health or community-based setting preferred",
-      "Strong clinical assessment and documentation skills",
-      "Valid driver's license and reliable transportation"
+      "Valid Occupational Therapist license in Arizona",
+      "Experience in home health or mobile therapy settings",
+      "Ability to travel to patient homes within the Phoenix area",
+      "Strong clinical assessment and treatment skills"
     ],
     "salaryOrBonusInfo": "Compensation is $65 per visit.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_ot___65_per_visit__traveling_phoenix__az"
   },
   {
-    "roleTitle": "Occupational Therapist (OT) - Home Health",
+    "roleTitle": "PRN Occupational Therapist",
     "location": "Phoenix, AZ",
     "facilityType": "Home Health Agency",
-    "description": "Join a leading home health agency in Phoenix, AZ, as a Part-time/PRN Occupational Therapist. This role offers the flexibility of a per-visit model, allowing you to manage your schedule while providing essential care to patients in their homes. We are seeking a dedicated and compassionate OT to deliver high-quality rehabilitation services, helping patients regain independence and improve their quality of life within their familiar environment.This is an excellent opportunity for an Occupational Therapist looking for a flexible work arrangement with competitive per-visit compensation. We are actively scheduling interviews and can accommodate various times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure a smooth and efficient hiring process for qualified candidates.",
-    "contractType": "Part-time/PRN",
+    "description": "Join a dynamic home health agency in Phoenix, AZ, as a PRN Occupational Therapist. This flexible role offers the opportunity to provide essential therapy services on a per-visit basis, allowing you to manage your schedule and make a significant impact on patients' lives within their own homes. We are seeking dedicated professionals who thrive in an autonomous environment and are committed to delivering high-quality care.\n\nThis position offers a competitive rate of $65 per visit, providing excellent earning potential while maintaining work-life balance. We understand the importance of flexibility and are open to scheduling interviews during evenings (Mon-Fri 1PM-7PM) and over weekends to accommodate your current commitments. If you are a compassionate and skilled OT looking for a rewarding PRN opportunity, we encourage you to apply.",
+    "contractType": "PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Current Occupational Therapist (OT) license in Arizona",
-      "Minimum of 1 year of experience as an Occupational Therapist, preferably in a home health setting",
-      "Strong clinical assessment and treatment planning skills",
+      "Active Occupational Therapist (OT) license in Arizona",
+      "Current CPR certification",
       "Valid driver's license and reliable transportation",
-      "Ability to work independently and manage a caseload effectively"
+      "Ability to work independently and manage a flexible schedule",
+      "Prior experience in home health or a similar mobile setting is preferred"
     ],
-    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_ot___65_per_visit__traveling_phoenix__az"
   },
@@ -1053,50 +1038,51 @@
     "roleTitle": "Speech-Language Pathologist",
     "location": "Phoenix, AZ",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic healthcare team in Phoenix, AZ. This role offers a unique opportunity to provide vital speech and language therapy services to patients in their homes, operating on a competitive per-visit compensation model. If you are passionate about making a direct impact on patient well-being and thrive in an autonomous yet supportive environment, this position is for you.This full-time position provides the flexibility and independence that comes with per-visit work, allowing you to manage your schedule effectively while delivering high-quality care. We are actively scheduling interviews and offer flexible times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure we can connect with top talent quickly. Join us and contribute to a team committed to excellence in patient care.",
+    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic team providing rehabilitation services in the Phoenix, AZ area. This role offers the flexibility of a per-visit compensation model, allowing you to manage your caseload effectively while making a significant impact on patient lives.\n\nAs an SLP, you will be responsible for assessing, diagnosing, and treating speech, language, communication, and swallowing disorders. This is an excellent opportunity for a compassionate professional looking to provide high-quality, individualized care within a supportive environment. Interview scheduling is flexible, with availability Monday-Friday from 1 PM-7 PM and over the weekend as needed.",
     "contractType": "Full-time",
     "salaryShort": "$65 per visit",
     "requirements": [
       "Master's degree in Speech-Language Pathology",
-      "Current Arizona state licensure as a Speech-Language Pathologist",
+      "Current Arizona state license as a Speech-Language Pathologist",
       "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-      "Valid driver's license and reliable transportation"
+      "Valid driver's license and reliable transportation",
+      "Previous experience in a home health or per-visit setting preferred"
     ],
     "salaryOrBonusInfo": "$65 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_slp___65_per_visit__traveling_phoenix__az"
   },
   {
-    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleTitle": "Speech-Language Pathologist (SLP) - Part-Time/PRN",
     "location": "Phoenix, AZ",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) for a flexible Part-time/PRN opportunity in Phoenix, AZ. This role offers the chance to provide essential speech therapy services on a per-visit basis, allowing for a work schedule that can adapt to your lifestyle while making a significant impact on patients' lives within their homes.\n\nThis position offers competitive compensation at $65 per visit. We understand the importance of a smooth hiring process and are accommodating interview schedules Monday through Friday from 1PM-7PM, with additional availability over the weekend as needed. Join a supportive team and contribute to improving communication and swallowing functions for individuals in the Phoenix community.",
+    "description": "Join a dynamic home health agency in Phoenix, AZ, as a Part-Time/PRN Speech-Language Pathologist. This per-visit role offers exceptional flexibility, allowing you to manage your schedule while providing vital speech and language therapy services to patients in their homes. We are seeking a dedicated professional eager to make a significant impact on patient recovery and communication skills. This opportunity is perfect for an SLP looking for a flexible work arrangement with competitive per-visit compensation. You'll have the autonomy to schedule your patient visits, contributing to a work-life balance that suits your needs. We are actively scheduling interviews and are flexible to accommodate your availability, including evenings and weekends as needed.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$65 per visit",
     "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current Arizona state license as a Speech-Language Pathologist",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
-      "Experience in a home health or similar setting preferred",
-      "Valid driver's license and reliable transportation"
+      "Master's Degree in Speech-Language Pathology",
+      "Current Arizona SLP license",
+      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+      "Valid driver's license and reliable transportation",
+      "Previous experience in a home health or per-visit setting preferred"
     ],
-    "salaryOrBonusInfo": "$65 per visit",
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_slp___65_per_visit__traveling_phoenix__az"
   },
   {
     "roleTitle": "Certified Nursing Assistant (CNA)",
     "location": "Phoenix, AZ",
-    "facilityType": "Residential Care Setting",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier residential care setting in Phoenix, AZ. This unique full-time opportunity involves a live-in schedule, where you will provide essential care to patients for 7 consecutive days, followed by 7 days off. This structured schedule offers a consistent work-life balance for committed professionals.\n\nIn this vital role, you will be responsible for assisting patients with daily living activities, ensuring their comfort, safety, and well-being. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to fill these urgent positions. If you are a proactive and caring CNA looking for a rewarding live-in position, we encourage you to apply.",
+    "facilityType": "Private Care Setting",
+    "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Phoenix, AZ? We are seeking compassionate CNAs to provide live-in care for patients in a private care setting. This role offers a distinctive schedule of 7 days on, followed by 7 days off, providing an excellent work-life balance.\n\nIn this vital position, you will deliver essential personal care, support daily living activities, and ensure the comfort and well-being of your patients. We are actively scheduling interviews for this urgent opening, with availability Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your schedule.",
     "contractType": "Full-time",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Current and valid Certified Nursing Assistant (CNA) license in Arizona.",
-      "Ability to commit to a 7-day live-in work schedule, followed by 7 days off.",
-      "Proven experience in providing direct patient care and assisting with Activities of Daily Living (ADLs).",
-      "Excellent communication and interpersonal skills.",
-      "Reliable and compassionate approach to patient care."
+      "Valid Certified Nursing Assistant (CNA) certification in Arizona",
+      "Ability to commit to a 7-day on, 7-day off live-in schedule",
+      "Proven experience in providing personal care and assistance with daily living activities",
+      "Strong communication and interpersonal skills",
+      "Compassionate and patient-centered approach to care"
     ],
     "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
@@ -1105,26 +1091,25 @@
   {
     "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
     "location": "Phoenix, AZ",
-    "facilityType": "Various healthcare settings",
-    "description": "We are seeking dedicated and compassionate Traveling Certified Nursing Assistants (CNAs) for part-time and PRN opportunities in Phoenix, AZ. This role offers a competitive hourly rate of $19.00 - $20.00 and the flexibility to work across various healthcare settings, providing essential support to patients in need. We understand the importance of work-life balance and offer flexible interview scheduling, including Monday-Friday from 1 PM-7 PM and over the weekend as needed.\n\nAs a Traveling CNA, you will be responsible for providing direct patient care, assisting with activities of daily living (ADLs), monitoring vital signs, and maintaining accurate documentation. Your ability to adapt to different environments and provide consistent, high-quality care will be crucial in this dynamic role. This is an excellent opportunity for CNAs looking for flexibility and variety in their work.\n\nIf you are a motivated CNA with a passion for helping others and the flexibility to travel, we encourage you to apply. Join our team and make a meaningful impact on the lives of patients across the Phoenix area.",
+    "facilityType": "Multiple healthcare facilities",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) for part-time and PRN traveling opportunities in Phoenix, AZ. This role offers a competitive hourly rate and the flexibility to work across various healthcare settings, providing essential patient care and support where it's needed most. If you thrive in dynamic environments and are committed to making a difference, we encourage you to apply.\n\nAs a Traveling CNA, you will deliver high-quality patient care, assisting with daily living activities, monitoring vital signs, and ensuring patient comfort and safety. This is an excellent opportunity for CNAs looking to expand their experience and enjoy a flexible schedule. Interviews can be scheduled Monday-Friday from 1PM-7PM, with additional availability over the weekend as needed.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Valid Certified Nursing Assistant (CNA) license in Arizona",
-      "Current CPR certification",
-      "Reliable transportation and willingness to travel within the Phoenix area",
-      "Ability to provide compassionate direct patient care",
-      "Strong communication and documentation skills"
+      "Current Certified Nursing Assistant (CNA) certification",
+      "Ability to travel to various healthcare facilities within the Phoenix, AZ area",
+      "Strong patient care and communication skills",
+      "Availability for interviews Monday-Friday 1PM-7PM, and over the weekend as needed"
     ],
     "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "2_pt_prn_traveling_cna___19__20_hr__traveling_phoenix__az"
   },
   {
-    "roleTitle": "Part-time/PRN Driver",
+    "roleTitle": "Driver (Part-time/PRN)",
     "location": "Birmingham, AL",
-    "facilityType": "Healthcare facility",
-    "description": "We are seeking a dedicated Part-time/PRN Driver to join a local healthcare facility in Birmingham, AL. This role offers a flexible schedule, perfect for individuals looking for part-time or as-needed work, with a competitive hourly rate.\n\nAs a Driver, you will be responsible for providing safe and timely transportation services. We offer flexible interview scheduling, available Monday-Friday from 1PM-7PM, and over the weekend as needed, to accommodate your availability.",
+    "facilityType": "Healthcare Facility",
+    "description": "We are seeking a dedicated and reliable Part-time/PRN Driver to join our team in Birmingham, AL. This role offers a flexible schedule and the opportunity to provide essential transportation services within a supportive healthcare environment. If you are a safe driver with a commitment to patient care, we encourage you to apply.\n\nAs a Driver, you will be responsible for safely transporting individuals or materials as needed, ensuring timely and secure arrivals. This is a crucial role that supports the daily operations of our facility and contributes directly to the well-being of those we serve. We are looking for someone who can adapt to varying schedules and maintain a high level of professionalism.\n\nThis position offers an hourly rate of $15.00 - $17.00. Join a team where your contributions are valued and make a difference in the community.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$15.00 - $17.00/hr",
     "requirements": [
@@ -1132,25 +1117,25 @@
       "Clean driving record",
       "Ability to pass a background check and drug screening",
       "Excellent communication and interpersonal skills",
-      "Reliable transportation"
+      "Ability to assist passengers as needed"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $15.00 - $17.00 based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $15.00 - $17.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt__prn_driver___15__17_hr__hwy_280_birminham__al"
   },
   {
     "roleTitle": "Certified Nursing Assistant (CNA)",
     "location": "Birmingham, AL",
-    "facilityType": "Private Care Setting",
-    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join a private care team in Birmingham, AL. This unique full-time opportunity offers a structured live-in schedule, providing consistent and personalized care to patients in a home environment.\n\nThis role operates on a 7 days on, 7 days off live-in schedule, ensuring continuity of care and a balanced work-life rhythm. You will be responsible for providing essential support and assistance with daily living activities, contributing significantly to the well-being and comfort of patients. We are actively scheduling interviews Monday-Friday from 1PM-7PM, with weekend availability as needed.",
+    "facilityType": "Dedicated Patient Care Setting",
+    "description": "Join our dedicated team as a Certified Nursing Assistant (CNA) in a unique live-in patient care setting in Birmingham, AL. This full-time role offers a distinctive schedule of 7 days on, followed by 7 days off, providing an excellent work-life balance while delivering essential care. You will have the opportunity to build strong relationships with patients, ensuring their comfort and well-being in a supportive environment.\n\nWe are seeking compassionate and reliable CNAs eager to make a significant impact. This position offers a competitive hourly rate of $16.00 - $18.00, reflecting your commitment and expertise. If you are looking for a rewarding role with a consistent schedule and the chance to provide personalized, high-quality care, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$16.00 - $18.00/hr",
     "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification",
-      "Ability to commit to a 7 days on, 7 days off live-in schedule",
-      "Proven experience in direct patient care",
+      "Current Certified Nursing Assistant (CNA) certification",
+      "Proven experience in patient care, preferably in a home health or live-in setting",
+      "Ability to commit to a 7-days-on, 7-days-off live-in schedule",
       "Strong communication and interpersonal skills",
-      "Compassionate and patient-centered approach to care"
+      "Compassionate and reliable approach to patient care"
     ],
     "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
@@ -1159,16 +1144,16 @@
   {
     "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
     "location": "Birmingham, AL",
-    "facilityType": "Multiple Healthcare Facilities",
-    "description": "Join our team as a Traveling Certified Nursing Assistant (CNA) in Birmingham, AL. This is a flexible Part-time/PRN opportunity offering a competitive hourly rate of $19.00 - $20.00. We are seeking dedicated professionals who are eager to provide essential patient care across various healthcare settings. This role offers the chance to make a significant impact while enjoying the flexibility of a traveling position.\nAs a Traveling CNA, you will be responsible for assisting patients with daily living activities, monitoring vital signs, and ensuring a comfortable and safe environment. Your ability to adapt to different facility environments and patient needs will be key to your success.\nWe are actively scheduling interviews for this urgent opening, with availability Monday-Friday from 1PM-7PM and over the weekend as needed. Don't miss this chance to advance your career with a dynamic and supportive team.",
+    "facilityType": "Various healthcare facilities",
+    "description": "Join our team as a Traveling Certified Nursing Assistant (CNA) in Birmingham, AL. This is a part-time/PRN opportunity offering flexibility and the chance to work in diverse healthcare environments. We are seeking dedicated and compassionate CNAs to provide essential patient care across various facilities in the region.\n\nThis role offers a competitive hourly rate and the flexibility to manage your schedule. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed. If you are a skilled CNA looking for a dynamic role with excellent compensation, we encourage you to apply today.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification in Alabama",
-      "Proven ability to travel and adapt to new healthcare environments",
-      "Prior experience in patient care within a healthcare setting",
-      "Excellent communication and compassionate patient interaction skills",
-      "Flexible availability for varied shifts"
+      "Current Certified Nursing Assistant (CNA) certification",
+      "Ability to travel to various healthcare facilities",
+      "Minimum of 1 year of experience as a CNA",
+      "Basic Life Support (BLS) certification",
+      "Availability for interviews Mon-Fri 1PM-7PM, and over the weekend as needed"
     ],
     "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
@@ -1178,15 +1163,15 @@
     "roleTitle": "Certified Nursing Assistant (CNA)",
     "location": "Montgomery, AL",
     "facilityType": "Residential Care Facility",
-    "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Montgomery, AL? We are seeking compassionate CNAs to provide essential care in a residential care setting. This role offers a distinctive schedule, allowing for a balanced work-life with 7 days on and 7 days off.\n\nIn this vital position, you will have the chance to build strong relationships with patients while providing direct support with daily living activities. We are looking for individuals who are committed to delivering high-quality, personalized care. Join a team that values your dedication and provides a supportive environment.",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team in Montgomery, AL. This unique full-time opportunity offers a distinctive 7-day on, 7-day off live-in schedule, providing consistent care and building strong relationships with patients in a residential setting. If you are looking for a role that offers both stability and a profound impact on the lives of those you serve, this is an excellent fit.\n\nThis position offers a competitive hourly rate of $16.00 - $18.00, reflecting your commitment and expertise. We value our caregivers and are eager to connect with qualified candidates. Interviews can be scheduled Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your availability.",
     "contractType": "Full-time",
     "salaryShort": "$16.00 - $18.00/hr",
     "requirements": [
-      "Active Certified Nursing Assistant (CNA) certification",
-      "Ability to commit to a 7 days on, 7 days off live-in schedule",
-      "Experience providing direct patient care and assistance with Activities of Daily Living (ADLs)",
+      "Active Certified Nursing Assistant (CNA) certification in Alabama",
+      "Ability to commit to a 7-day on, 7-day off live-in schedule",
+      "Experience providing direct patient care and assistance with daily living activities",
       "Strong communication and interpersonal skills",
-      "Compassionate and reliable approach to patient care"
+      "Reliable and compassionate approach to patient care"
     ],
     "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
@@ -1195,32 +1180,34 @@
   {
     "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
     "location": "Montgomery, AL",
-    "facilityType": "Multiple healthcare facilities",
-    "description": "Are you a dedicated Certified Nursing Assistant looking for flexible part-time and PRN opportunities in Montgomery, AL? We are seeking Traveling CNAs to join our team, offering the chance to work across multiple healthcare facilities and gain diverse experience. This role provides excellent flexibility, allowing you to manage your schedule effectively while making a significant impact on patient care.\n\nAs a Traveling CNA, you will provide essential direct patient care, assisting with daily living activities, monitoring vital signs, and ensuring patient comfort and safety. We offer a competitive hourly rate and are eager to connect with qualified candidates. Interviews can be scheduled Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your availability.",
+    "facilityType": "Various Healthcare Facilities",
+    "description": "Are you a dedicated Certified Nursing Assistant seeking flexible opportunities in Montgomery, AL? We are actively seeking skilled and compassionate CNAs for part-time and PRN traveling assignments. This role offers the chance to work in diverse healthcare settings, providing essential patient care and making a significant impact on the lives of those you serve.\n\nThis is an excellent opportunity for CNAs looking for flexibility in their schedule and the ability to gain experience across various facilities. We are prioritizing candidates who are ready to start and can offer flexible interview times, including weekdays from 1 PM to 7 PM and over the weekend as needed. Join a team that values your dedication and provides a supportive environment for your professional growth.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$19.00 - $20.00/hr",
     "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification",
-      "Ability to travel to various healthcare settings as needed",
-      "Strong communication and interpersonal skills",
-      "Compassionate and patient-focused approach to care"
+      "Active Certified Nursing Assistant (CNA) certification in Alabama",
+      "Valid driver's license and reliable transportation",
+      "Ability to travel to various healthcare facilities within the Montgomery, AL area",
+      "Strong commitment to patient care and excellent communication skills",
+      "Prior experience in a healthcare setting is preferred"
     ],
-    "salaryOrBonusInfo": "This position offers a competitive hourly rate of $19.00 - $20.00, with compensation based on experience and assignment.",
+    "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00, based on experience and assignment.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "12_pt_prn_traveling_cna___19__20_hr__traveling_montgomery__al"
   },
   {
-    "roleTitle": "Traveling Medical Assistant (Part-time/PRN)",
-    "location": "Birmingham / Montgomery, AL",
-    "facilityType": "A mobile healthcare service",
-    "description": "We are seeking a dedicated and flexible Part-time/PRN Medical Assistant to join a dynamic mobile healthcare service covering the Birmingham and Montgomery, AL areas. This role offers the opportunity to provide essential patient care in various settings, contributing to the health and well-being of our community.\n\nThis position is ideal for a Medical Assistant looking for flexible scheduling. We are accommodating with interview times, offering availability Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to fit your schedule.",
+    "roleTitle": "Part-time/PRN Medical Assistant",
+    "location": "Birmingham and Montgomery, AL",
+    "facilityType": "Community Healthcare Provider",
+    "description": "We are seeking a dedicated and flexible Part-time/PRN Medical Assistant to join a dynamic healthcare team serving the Birmingham and Montgomery, AL areas. This is an excellent opportunity for a skilled MA looking for flexible scheduling and the chance to make a meaningful impact in patient care across multiple locations.\n\nIn this role, you will perform essential clinical and administrative duties, including patient intake, taking vital signs, assisting healthcare providers with examinations, and managing patient records. We value work-life balance and offer flexible interview scheduling, including Monday-Friday from 1PM-7PM and over the weekend as needed, to accommodate your availability.",
     "contractType": "Part-time/PRN",
     "salaryShort": "",
     "requirements": [
-      "Medical Assistant certification or diploma",
-      "Current CPR certification",
-      "Valid driver's license and reliable transportation",
-      "Experience in a clinical or mobile healthcare setting"
+      "Medical Assistant certification or diploma from an accredited program",
+      "Proven experience as a Medical Assistant in a clinical setting",
+      "Strong organizational and communication skills",
+      "Ability to travel between Birmingham and Montgomery, AL as required",
+      "Current Basic Life Support (BLS) certification"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
