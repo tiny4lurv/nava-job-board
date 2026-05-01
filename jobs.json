@@ -698,6 +698,24 @@
     "id": "ft_pm_lpn_s___25__28_hr__hillcrest_nursing_center_magee__ms"
   },
   {
+    "roleTitle": "Vice President - Client Services",
+    "location": "Plantation, FL",
+    "facilityType": "A leading client services organization",
+    "description": "Join a leading client services organization in Plantation, FL, as a Vice President - Client Services. This pivotal full-time role is designed for a strategic leader passionate about fostering strong client relationships and driving operational excellence. You will be instrumental in shaping the client experience and contributing to the company's growth.\n\nIn this role, you will take charge of overall client relations, ensuring satisfaction and long-term partnerships. Your expertise will be crucial in enhancing operational effectiveness, optimizing processes to deliver superior service. Furthermore, you will be responsible for driving revenue generation and implementing strategies for robust client retention, directly impacting the organization's success.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Extensive experience in Business Process Outsourcing (BPO)",
+      "Demonstrated success in managing overall client relations",
+      "Proven track record in achieving operational effectiveness",
+      "Strong capabilities in revenue generation and client retention",
+      "Leadership experience in a client-facing executive role"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "vice_president___client_services_everise_headquarters_plantation__fl"
+  },
+  {
     "roleTitle": "Part-time Medical Billing & Coding Specialist",
     "location": "Remote",
     "facilityType": "Healthcare Organization",
@@ -928,6 +946,24 @@
     "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "2_pt_prn_traveling_cna___19__20_hr__traveling_orlando__fl"
+  },
+  {
+    "roleTitle": "Registered Nurse",
+    "location": "Phoenix, AZ",
+    "facilityType": "Healthcare Facility",
+    "description": "Join a premier healthcare facility in Phoenix, AZ, as a dedicated Full-time Registered Nurse. This is an excellent opportunity for an RN looking to make a significant impact in patient care within a supportive environment. We are actively scheduling interviews and are flexible to accommodate your availability, including weekday afternoons and evenings, and over the weekend as needed.\n\nAs a Registered Nurse, you will be responsible for providing high-quality patient care, administering medications, monitoring patient conditions, and collaborating with a multidisciplinary team to ensure optimal patient outcomes. We are seeking a compassionate and skilled professional ready to contribute to our team.",
+    "contractType": "Full-time",
+    "salaryShort": "$30.00/hr",
+    "requirements": [
+      "Valid Registered Nurse (RN) license in Arizona",
+      "Current BLS certification",
+      "Ability to work full-time",
+      "Strong clinical assessment and critical thinking skills",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $30.00.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___30_hr__traveling_phoenix__az"
   },
   {
     "roleTitle": "Registered Nurse (RN)",
@@ -1194,41 +1230,5 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_pt_prn_ma_traveling_birmingham___montgomery__al"
-  },
-  {
-    "roleTitle": "Vice President - Client Services",
-    "location": "Plantation, FL",
-    "facilityType": "A leading client services organization",
-    "description": "Join a leading client services organization in Plantation, FL, as a Vice President - Client Services. This pivotal full-time role is designed for a strategic leader passionate about fostering strong client relationships and driving operational excellence. You will be instrumental in shaping the client experience and contributing to the company's growth.\n\nIn this role, you will take charge of overall client relations, ensuring satisfaction and long-term partnerships. Your expertise will be crucial in enhancing operational effectiveness, optimizing processes to deliver superior service. Furthermore, you will be responsible for driving revenue generation and implementing strategies for robust client retention, directly impacting the organization's success.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Extensive experience in Business Process Outsourcing (BPO)",
-      "Demonstrated success in managing overall client relations",
-      "Proven track record in achieving operational effectiveness",
-      "Strong capabilities in revenue generation and client retention",
-      "Leadership experience in a client-facing executive role"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "vice_president___client_services_everise_headquarters_plantation__fl"
-  },
-  {
-    "roleTitle": "Registered Nurse",
-    "location": "Phoenix, AZ",
-    "facilityType": "Healthcare Facility",
-    "description": "Join a premier healthcare facility in Phoenix, AZ, as a dedicated Full-time Registered Nurse. This is an excellent opportunity for an RN looking to make a significant impact in patient care within a supportive environment. We are actively scheduling interviews and are flexible to accommodate your availability, including weekday afternoons and evenings, and over the weekend as needed.\n\nAs a Registered Nurse, you will be responsible for providing high-quality patient care, administering medications, monitoring patient conditions, and collaborating with a multidisciplinary team to ensure optimal patient outcomes. We are seeking a compassionate and skilled professional ready to contribute to our team.",
-    "contractType": "Full-time",
-    "salaryShort": "$30.00/hr",
-    "requirements": [
-      "Valid Registered Nurse (RN) license in Arizona",
-      "Current BLS certification",
-      "Ability to work full-time",
-      "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $30.00.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___30_hr__traveling_phoenix__az"
   }
 ]
