@@ -196,28 +196,6 @@
       "id": "rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
     }
   },
-  "hr_director_corporate___regional_": {
-    "signature": "13a4851a97a445d56290e1e74f77bb19",
-    "addedAt": "2026-04-22T20:15:25.339Z",
-    "finalJson": {
-      "roleTitle": "HR Director",
-      "location": "",
-      "facilityType": "Corporate Office",
-      "description": "We are seeking a highly skilled and experienced HR Director to join a premier healthcare management group. This pivotal role involves overseeing all human resources functions, ensuring alignment with organizational goals, and fostering a positive and productive work environment. The ideal candidate will be a strategic partner, driving initiatives in talent acquisition, employee relations, compensation, benefits, and HR compliance.\n\nAs HR Director, you will be instrumental in developing and implementing HR policies and programs that support our dedicated staff across various facilities. This is an excellent opportunity for a seasoned HR professional to make a significant impact within a dynamic healthcare organization, contributing to both operational excellence and employee satisfaction.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Bachelor's degree in Human Resources, Business Administration, or a related field",
-        "Minimum of 5 years of progressive HR leadership experience, preferably within healthcare",
-        "Strong knowledge of federal and state employment laws and regulations",
-        "Demonstrated ability to develop and implement HR strategies and initiatives",
-        "Excellent communication, interpersonal, and leadership skills"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "hr_director_corporate___regional_"
-    }
-  },
   "payroll_director_corporate___regional_": {
     "signature": "d24eaddaa7189b56ed2ab5948c5c572e",
     "addedAt": "2026-04-22T20:15:25.339Z",
@@ -854,20 +832,21 @@
     }
   },
   "ft_pt___65_per_visit__traveling_phoenix__az": {
-    "signature": "df001db193bea98ed5153412e0199fec",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "32dc2833a8e600a26a3e741b96682390",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
       "roleTitle": "Home Health Clinician",
       "location": "Phoenix, AZ",
       "facilityType": "Home Health Agency",
-      "description": "Join a premier home health agency in Phoenix, AZ, as a Home Health Clinician. This role offers flexible Full-time and Part-time opportunities, providing patient care within a community setting. You will be compensated on a competitive per-visit basis, allowing for excellent earning potential.\n\nThis is an outstanding opportunity for a dedicated clinician seeking autonomy and a direct impact on patient well-being. Manage your own schedule and caseload while delivering high-quality care in the comfort of patients' homes.",
-      "contractType": "Full-time, Part-time",
+      "description": "We are seeking dedicated and compassionate Home Health Clinicians to join a leading home health agency in Phoenix, AZ. This role offers the flexibility of both full-time and part-time schedules, providing essential patient care in the comfort of their homes. You will play a vital role in delivering high-quality, patient-centered care, focusing on assessment, treatment, and education to promote health and independence.\n\nThis is an excellent opportunity for clinicians who thrive in an autonomous environment and are passionate about making a direct impact on patients' lives. The compensation structure is based on a per-visit rate, offering competitive earnings for your expertise. We understand the importance of work-life balance and offer flexible interview scheduling, including options during evenings (Mon-Fri 1PM-7PM) and weekends as needed.\n\nJoin a team committed to excellence and patient well-being. If you are a skilled clinician looking for a rewarding role with flexibility, we encourage you to apply.",
+      "contractType": "Full-time",
       "salaryShort": "$65 per visit",
       "requirements": [
-        "Active professional license in Arizona",
+        "Valid state licensure in a relevant clinical field (e.g., RN, PT, OT, SLP)",
         "Valid driver's license and reliable transportation",
-        "Ability to work independently and manage a caseload",
-        "Strong communication and documentation skills"
+        "Prior experience in home health or a related clinical setting",
+        "Strong clinical assessment, documentation, and communication skills",
+        "Ability to work independently and manage a patient caseload effectively"
       ],
       "salaryOrBonusInfo": "Compensation is $65 per visit.",
       "applyLink": "https://navahc.com/candidates/",
@@ -875,21 +854,23 @@
     }
   },
   "pt_prn_pt___65_per_visit__traveling_phoenix__az": {
-    "signature": "216e10632c64c08827abda4cacc9d8d5",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "dfd7c3ae056e4ca4332f4cad86bf8ea0",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist (PT)",
+      "roleTitle": "PRN Physical Therapist",
       "location": "Phoenix, AZ",
-      "facilityType": "Home Healthcare Agency",
-      "description": "We are seeking a dedicated Physical Therapist (PT) for a PRN/Part-time opportunity in Phoenix, AZ. This role offers a flexible schedule with compensation on a per-visit basis, ideal for professionals looking for autonomy and impact.\n\nJoin a dynamic team providing essential physical therapy services within a home health setting. This position is perfect for a licensed professional eager to make a significant difference in patient recovery and well-being through personalized care.\n\nIf you are a compassionate and skilled Physical Therapist ready to deliver high-quality care and manage your own caseload, we encourage you to apply.",
+      "facilityType": "Home Health Agency",
+      "description": "We are seeking a dedicated and compassionate PRN Physical Therapist to join a leading home health agency in Phoenix, AZ. This per-visit opportunity offers excellent flexibility and the chance to make a significant impact on patients' lives within their own homes.\n\nIn this role, you will provide high-quality physical therapy services, developing and implementing individualized treatment plans to help patients regain mobility and improve their quality of life. We value work-life balance and offer flexible scheduling for both patient visits and interviews, with availability for interviews Monday-Friday from 1 PM-7 PM and over the weekend as needed.\n\nThis is an urgent need for a skilled professional ready to contribute to a patient-centered care environment.",
       "contractType": "PRN",
       "salaryShort": "$65 per visit",
       "requirements": [
-        "Licensed Physical Therapist (PT)",
-        "Experience in a home health setting",
-        "Strong communication and organizational skills"
+        "Current and unrestricted Physical Therapist license in Arizona",
+        "Minimum of 1 year of experience as a Physical Therapist, preferably in a home health setting",
+        "Current CPR certification",
+        "Valid driver's license and reliable transportation",
+        "Excellent clinical, communication, and documentation skills"
       ],
-      "salaryOrBonusInfo": "$65 per visit",
+      "salaryOrBonusInfo": "Compensation is $65 per visit.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_prn_pt___65_per_visit__traveling_phoenix__az"
     }
@@ -917,63 +898,63 @@
     }
   },
   "pt_prn_ot___65_per_visit__traveling_phoenix__az": {
-    "signature": "32f9ca56bb5fec120be65263a3a5a133",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "aa48f4e174e5f729158f92008726c25c",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist / Occupational Therapist (PRN/Per Visit)",
+      "roleTitle": "Occupational Therapist (OT) - Home Health",
       "location": "Phoenix, AZ",
       "facilityType": "Home Health Agency",
-      "description": "We are seeking a dedicated and compassionate Physical Therapist or Occupational Therapist for a PRN (per visit) opportunity in Phoenix, AZ. This role offers the flexibility to manage your own schedule while providing essential therapy services to patients in their homes, making a direct impact on their recovery and well-being. Join a team committed to delivering high-quality, patient-centered care.\n\nThis position offers a competitive per-visit rate, allowing you to maximize your earning potential while providing valuable services. If you are a licensed therapist looking for a flexible role with a focus on individualized patient care, we encourage you to apply.",
-      "contractType": "PRN",
+      "description": "Join a leading home health agency in Phoenix, AZ, as a Part-time/PRN Occupational Therapist. This role offers the flexibility of a per-visit model, allowing you to manage your schedule while providing essential care to patients in their homes. We are seeking a dedicated and compassionate OT to deliver high-quality rehabilitation services, helping patients regain independence and improve their quality of life within their familiar environment.This is an excellent opportunity for an Occupational Therapist looking for a flexible work arrangement with competitive per-visit compensation. We are actively scheduling interviews and can accommodate various times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure a smooth and efficient hiring process for qualified candidates.",
+      "contractType": "Part-time/PRN",
       "salaryShort": "$65 per visit",
       "requirements": [
-        "Active and unrestricted Arizona Physical Therapist or Occupational Therapist license.",
-        "Graduate of an accredited Physical Therapy or Occupational Therapy program.",
-        "Current CPR certification.",
-        "Valid driver's license and reliable transportation."
+        "Current Occupational Therapist (OT) license in Arizona",
+        "Minimum of 1 year of experience as an Occupational Therapist, preferably in a home health setting",
+        "Strong clinical assessment and treatment planning skills",
+        "Valid driver's license and reliable transportation",
+        "Ability to work independently and manage a caseload effectively"
       ],
-      "salaryOrBonusInfo": "$65 per visit",
+      "salaryOrBonusInfo": "Compensation is $65 per visit.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_prn_ot___65_per_visit__traveling_phoenix__az"
     }
   },
   "ft_slp___65_per_visit__traveling_phoenix__az": {
-    "signature": "4aa1c28c36a06e0e2914c35d3322ee82",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "5f9e4a7451a9a88784172b8db9bc577d",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
       "roleTitle": "Speech-Language Pathologist",
       "location": "Phoenix, AZ",
       "facilityType": "Home Health Agency",
-      "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a leading home health agency in Phoenix, AZ. This role offers the opportunity to provide essential speech and language services to patients in their homes, contributing significantly to their recovery and quality of life. You will manage a caseload, developing and implementing individualized treatment plans.\n\nThis position operates on a per-visit compensation model, providing flexibility while ensuring consistent full-time work. If you are a compassionate and skilled SLP looking to make a direct impact within the community, we encourage you to apply.",
+      "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic healthcare team in Phoenix, AZ. This role offers a unique opportunity to provide vital speech and language therapy services to patients in their homes, operating on a competitive per-visit compensation model. If you are passionate about making a direct impact on patient well-being and thrive in an autonomous yet supportive environment, this position is for you.This full-time position provides the flexibility and independence that comes with per-visit work, allowing you to manage your schedule effectively while delivering high-quality care. We are actively scheduling interviews and offer flexible times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure we can connect with top talent quickly. Join us and contribute to a team committed to excellence in patient care.",
       "contractType": "Full-time",
       "salaryShort": "$65 per visit",
       "requirements": [
         "Master's degree in Speech-Language Pathology",
         "Current Arizona state licensure as a Speech-Language Pathologist",
-        "Certificate of Clinical Competence (CCC) from ASHA",
-        "Valid driver's license and reliable transportation",
-        "Experience in a home health or community-based setting preferred"
+        "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+        "Valid driver's license and reliable transportation"
       ],
-      "salaryOrBonusInfo": "Compensation is $65 per visit.",
+      "salaryOrBonusInfo": "$65 per visit",
       "applyLink": "https://navahc.com/candidates/",
       "id": "ft_slp___65_per_visit__traveling_phoenix__az"
     }
   },
   "pt_prn_slp___65_per_visit__traveling_phoenix__az": {
-    "signature": "6845733b409e9c144b9f1335aa1983a6",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "e24682b51620310a5c38d9b008a0f697",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
       "roleTitle": "Speech-Language Pathologist (SLP)",
       "location": "Phoenix, AZ",
       "facilityType": "Home Health Agency",
-      "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) for a Part-Time/PRN role in the Phoenix, AZ area. This is an excellent opportunity for an SLP looking for flexibility and the ability to make a significant impact on patients' lives within a home health setting. You will provide essential speech, language, and swallowing therapy services directly in patients' homes.\n\nThis per-visit position offers a competitive rate, allowing you to manage your schedule while delivering high-quality care. Join a supportive team focused on patient well-being and professional growth.",
-      "contractType": "PRN",
+      "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) for a flexible Part-time/PRN opportunity in Phoenix, AZ. This role offers the chance to provide essential speech therapy services on a per-visit basis, allowing for a work schedule that can adapt to your lifestyle while making a significant impact on patients' lives within their homes.\n\nThis position offers competitive compensation at $65 per visit. We understand the importance of a smooth hiring process and are accommodating interview schedules Monday through Friday from 1PM-7PM, with additional availability over the weekend as needed. Join a supportive team and contribute to improving communication and swallowing functions for individuals in the Phoenix community.",
+      "contractType": "Part-time/PRN",
       "salaryShort": "$65 per visit",
       "requirements": [
         "Master's degree in Speech-Language Pathology",
-        "Current Arizona state licensure as a Speech-Language Pathologist",
-        "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-        "Previous experience in a home health setting preferred",
+        "Current Arizona state license as a Speech-Language Pathologist",
+        "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
+        "Experience in a home health or similar setting preferred",
         "Valid driver's license and reliable transportation"
       ],
       "salaryOrBonusInfo": "$65 per visit",
@@ -1026,21 +1007,21 @@
     }
   },
   "8_ft_cna___16__18_hr__traveling_montgomery__al": {
-    "signature": "34c72e8f4407e16886e0a39d640068fc",
-    "addedAt": "2026-04-30T22:05:44.639Z",
+    "signature": "a2113a722cee432f06ef0c42126b7f80",
+    "addedAt": "2026-05-01T04:10:42.741Z",
     "finalJson": {
       "roleTitle": "Certified Nursing Assistant (CNA)",
       "location": "Montgomery, AL",
-      "facilityType": "Home Healthcare Agency",
-      "description": "A leading home healthcare agency in Montgomery, AL is seeking dedicated Certified Nursing Assistants (CNAs) to join their compassionate team. This unique full-time opportunity involves a live-in schedule, providing essential care and support to patients in their homes.\n\nCNAs will work a consistent 7 days on, 7 days off schedule, offering a predictable and structured work-life balance. This role is perfect for individuals committed to making a direct impact on patients' lives by providing personalized care in a home setting. We offer a competitive hourly rate of $16.00 - $18.00.",
+      "facilityType": "Residential Care Facility",
+      "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Montgomery, AL? We are seeking compassionate CNAs to provide essential care in a residential care setting. This role offers a distinctive schedule, allowing for a balanced work-life with 7 days on and 7 days off.\n\nIn this vital position, you will have the chance to build strong relationships with patients while providing direct support with daily living activities. We are looking for individuals who are committed to delivering high-quality, personalized care. Join a team that values your dedication and provides a supportive environment.",
       "contractType": "Full-time",
       "salaryShort": "$16.00 - $18.00/hr",
       "requirements": [
-        "Active Certified Nursing Assistant (CNA) certification in Alabama",
+        "Active Certified Nursing Assistant (CNA) certification",
         "Ability to commit to a 7 days on, 7 days off live-in schedule",
-        "Experience providing direct patient care",
+        "Experience providing direct patient care and assistance with Activities of Daily Living (ADLs)",
         "Strong communication and interpersonal skills",
-        "Compassionate and patient-centered approach to care"
+        "Compassionate and reliable approach to patient care"
       ],
       "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
       "applyLink": "https://navahc.com/candidates/",
@@ -1431,6 +1412,94 @@
       "salaryOrBonusInfo": "Hourly rate of $15.00 - $17.00 based on experience.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt__prn_driver___15__17_hr__hwy_280_birminham__al"
+    }
+  },
+  "experienced_cfo_in_home_health___225k__300k__remote__but_ideally_fl_remote___fl": {
+    "signature": "c684835cbdf9e711b3851664c28d1417",
+    "addedAt": "2026-05-01T04:10:42.740Z",
+    "finalJson": {
+      "roleTitle": "Chief Financial Officer (CFO) - Home Health",
+      "location": "Remote / FL",
+      "facilityType": "Home Health Agency",
+      "description": "We are seeking an exceptional and highly experienced Chief Financial Officer (CFO) to join a leading home health agency. This is a critical leadership role for a top-tier financial professional with a proven track record in the home health sector. The ideal candidate will be a strategic financial leader capable of driving fiscal health and growth.\n\nThis opportunity offers a competitive salary range of $225,000 - $300,000 per year, reflecting the importance and demands of this senior executive position. We are looking for the best of the best to contribute to our continued success.",
+      "contractType": "Full-time",
+      "salaryShort": "$225,000 - $300,000 per year",
+      "requirements": [
+        "Proven track record as a top-tier CFO in the home health sector",
+        "Extensive experience in financial leadership within home health",
+        "Strong understanding of home health financial regulations and reimbursement models",
+        "Expertise in strategic financial planning and operational oversight",
+        "Exceptional leadership and communication skills"
+      ],
+      "salaryOrBonusInfo": "$225,000 - $300,000 per year, compensation based on experience and qualifications",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "experienced_cfo_in_home_health___225k__300k__remote__but_ideally_fl_remote___fl"
+    }
+  },
+  "2_pm_ldrp___newborn___medsurge_rns__7pm_7am___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az": {
+    "signature": "80a6b3cdb5e7794b2eeba6ce18bbb975",
+    "addedAt": "2026-05-01T04:10:42.741Z",
+    "finalJson": {
+      "roleTitle": "LDRP + Newborn & MedSurge Registered Nurse",
+      "location": "Winslow, AZ",
+      "facilityType": "A reputable medical center",
+      "description": "Join a reputable medical center in Winslow, AZ, as an LDRP + Newborn & MedSurge Registered Nurse. This is an exceptional opportunity for dedicated RNs seeking a night shift role (7 PM - 7 AM) to make a significant impact across multiple specialties.\n\nWe are offering a competitive base rate ranging from $43.68 to $62.44 per hour, with additional differentials for evening, night, and weekend shifts. A generous sign-on bonus of up to $12,000 is available for a two-year commitment, along with a $6,000 relocation package for eligible candidates. Compensation is based on your experience and commitment to our team.\n\nIn this dynamic role, you will be responsible for labor, delivery, recovery, and postpartum care, including newborn nursery duties. You will also be expected to provide support in the MedSurg unit as needed, ensuring comprehensive patient care.",
+      "contractType": "Full-time",
+      "salaryShort": "$43.68 - $62.44/hr",
+      "requirements": [
+        "Active Registered Nurse (RN) license",
+        "Minimum 2 years of experience in Labor and Delivery (LDRP)",
+        "At least 6 months of MedSurg experience in a hospital setting",
+        "NRP (Neonatal Resuscitation Program) certification and Advanced Fetal Monitoring certification",
+        "Willingness to commit to a two-year term"
+      ],
+      "salaryOrBonusInfo": "Base hourly rate of $43.68 - $62.44, depending on experience. Additional differentials include 8% for 3 PM - 11 PM shifts, 16% for 11:01 PM - 7 AM shifts, and 4% for weekend shifts (Friday 7 PM - Monday 7 AM). A $12,000 sign-on bonus is offered for a 2-year commitment, paid after a 90-day probation period. A $6,000 relocation bonus is also available for candidates relocating within 30 miles, paid after 90-day probation.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_pm_ldrp___newborn___medsurge_rns__7pm_7am___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az"
+    }
+  },
+  "ft_pt_little_colorado_medical_center_winslow__az": {
+    "signature": "cd47fa20c0c7d38bea2aa72b34cf3865",
+    "addedAt": "2026-05-01T04:10:42.741Z",
+    "finalJson": {
+      "roleTitle": "Physical Therapist (Full-time/Part-time)",
+      "location": "Winslow, AZ",
+      "facilityType": "Hospital and Clinic",
+      "description": "Join a dedicated team as a Physical Therapist in a community hospital and stand-alone clinic setting in Winslow, AZ. This unique opportunity allows you to provide comprehensive physical therapy services to both inpatient and outpatient populations, making a significant impact on patient recovery and well-being within a Critical Access Hospital environment. We are seeking a versatile and compassionate professional to deliver high-quality, patient-centered care.\n\nThis role offers flexibility with both full-time and part-time options available, catering to your professional needs. If you are a skilled Physical Therapist looking for a dynamic role where you can apply your expertise across diverse patient settings, we encourage you to apply.",
+      "contractType": "Full-time/Part-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current Physical Therapist license in Arizona",
+        "Experience working with both inpatient and outpatient populations",
+        "Ability to thrive in a Critical Access Hospital and clinic setting",
+        "Strong clinical assessment and treatment skills",
+        "Excellent communication and interpersonal abilities"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_pt_little_colorado_medical_center_winslow__az"
+    }
+  },
+  "8_ft_cna___16__18_hr__traveling_birminham__al": {
+    "signature": "3ab45547dfb23341c79ed2896d86a685",
+    "addedAt": "2026-05-01T04:10:42.741Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "location": "Birmingham, AL",
+      "facilityType": "Private Care Setting",
+      "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join a private care team in Birmingham, AL. This unique full-time opportunity offers a structured live-in schedule, providing consistent and personalized care to patients in a home environment.\n\nThis role operates on a 7 days on, 7 days off live-in schedule, ensuring continuity of care and a balanced work-life rhythm. You will be responsible for providing essential support and assistance with daily living activities, contributing significantly to the well-being and comfort of patients. We are actively scheduling interviews Monday-Friday from 1PM-7PM, with weekend availability as needed.",
+      "contractType": "Full-time",
+      "salaryShort": "$16.00 - $18.00/hr",
+      "requirements": [
+        "Active Certified Nursing Assistant (CNA) certification",
+        "Ability to commit to a 7 days on, 7 days off live-in schedule",
+        "Proven experience in direct patient care",
+        "Strong communication and interpersonal skills",
+        "Compassionate and patient-centered approach to care"
+      ],
+      "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "8_ft_cna___16__18_hr__traveling_birminham__al"
     }
   }
 }

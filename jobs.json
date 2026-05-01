@@ -1,23 +1,5 @@
 [
   {
-    "roleTitle": "HR Director",
-    "location": "",
-    "facilityType": "Corporate Office",
-    "description": "We are seeking a highly skilled and experienced HR Director to join a premier healthcare management group. This pivotal role involves overseeing all human resources functions, ensuring alignment with organizational goals, and fostering a positive and productive work environment. The ideal candidate will be a strategic partner, driving initiatives in talent acquisition, employee relations, compensation, benefits, and HR compliance.\n\nAs HR Director, you will be instrumental in developing and implementing HR policies and programs that support our dedicated staff across various facilities. This is an excellent opportunity for a seasoned HR professional to make a significant impact within a dynamic healthcare organization, contributing to both operational excellence and employee satisfaction.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Bachelor's degree in Human Resources, Business Administration, or a related field",
-      "Minimum of 5 years of progressive HR leadership experience, preferably within healthcare",
-      "Strong knowledge of federal and state employment laws and regulations",
-      "Demonstrated ability to develop and implement HR strategies and initiatives",
-      "Excellent communication, interpersonal, and leadership skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "hr_director_corporate___regional_"
-  },
-  {
     "roleTitle": "Payroll Director",
     "location": "",
     "facilityType": "Corporate Office",
@@ -89,6 +71,24 @@
     "id": "rn_gna_instructor___75k__85k__dennett_rehab_center_oakland__md"
   },
   {
+    "roleTitle": "RN MDS Coordinator",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier skilled nursing facility in Red Bay, AL as an MDS Coordinator. This vital role involves ensuring the accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for developing comprehensive care plans and securing appropriate reimbursement for resident services.As an MDS Coordinator, you will play a key role in interdisciplinary team meetings, collaborating with various departments to ensure all aspects of resident care are accurately documented and reflected in the MDS. Your expertise will directly impact the quality of care provided to residents and the operational success of the facility.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in the state of Alabama.",
+      "Proven experience as an MDS Coordinator, preferably with 1-2 years in a skilled nursing facility setting.",
+      "Comprehensive knowledge of MDS 3.0, the Resident Assessment Instrument (RAI) process, and current Medicare/Medicaid regulations.",
+      "Exceptional organizational, assessment, and documentation skills.",
+      "Ability to work collaboratively within an interdisciplinary team."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
     "roleTitle": "Speech-Language Pathologist",
     "location": "Red Bay, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -125,6 +125,24 @@
     "id": "ft_pt_arabella_health___wellness_of_red_bay_red_bay__al"
   },
   {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and wellness center in Red Bay, AL. This is an excellent opportunity for two full-time CNAs to provide essential care and support to residents during the evening shift. You will play a vital role in enhancing the quality of life for our residents, working within a supportive and collaborative team environment.In this full-time PM shift role, you will assist residents with daily living activities, ensure their comfort and safety, and contribute to a positive and caring atmosphere. We are looking for individuals who are passionate about patient care and committed to making a difference in the lives of others.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Valid Certified Nursing Assistant (CNA) certification in Alabama",
+      "High School Diploma or GED",
+      "Ability to work full-time on PM shifts",
+      "Strong communication and interpersonal skills",
+      "Compassionate and patient-centered approach to care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
     "roleTitle": "PM Nurse (12-hour Shift)",
     "location": "Red Bay, AL",
     "facilityType": "Skilled Nursing Facility",
@@ -141,6 +159,77 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_pm_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) or Licensed Practical Nurse (LPN) - Night Shift",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) or Licensed Practical Nurse (LPN) to join the night shift team at a premier health and wellness center in Red Bay, AL. This role involves providing high-quality patient care during a 12-hour shift, starting at 2 AM.\n\nAs a vital member of our nursing staff, you will be responsible for ensuring the well-being and comfort of residents, administering medications, monitoring patient conditions, and collaborating with the healthcare team to deliver exceptional care. We are looking for a professional who is committed to making a positive impact on the lives of our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Valid RN or LPN license in the state of Alabama",
+      "Current BLS/CPR certification",
+      "Previous experience in a skilled nursing or long-term care environment preferred",
+      "Ability to work 12-hour night shifts, including weekends and holidays as needed"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, committed to providing exceptional care to residents. We are seeking compassionate and skilled Certified Nursing Assistants to join our team for full-time AM shifts. This is an excellent opportunity to make a significant impact on the daily lives of our residents, contributing to their comfort and well-being.In this vital role, you will assist residents with activities of daily living, monitor their health status, and ensure a supportive and respectful environment. We value teamwork and a commitment to high-quality patient care. If you are a motivated CNA looking for a rewarding full-time position with consistent AM hours, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Certified Nursing Assistant (CNA) certification in Alabama",
+      "Ability to work full-time AM shifts",
+      "Compassionate and patient-centered approach to care",
+      "Strong communication and interpersonal skills",
+      "Ability to assist residents with activities of daily living and perform physical tasks as required"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join a premier skilled nursing facility in Vernon, AL. This is a full-time position for the PM shift, offering a vital opportunity to provide direct patient care and support to residents in a nurturing environment.As a CNA, you will be responsible for assisting residents with activities of daily living (ADLs), including personal hygiene, mobility, and feeding. You will play a crucial role in monitoring residents' conditions, documenting observations, and ensuring their comfort and safety. Your commitment will directly contribute to the well-being and quality of life for those under your care.Join a supportive team committed to delivering exceptional healthcare services. This role is ideal for a proactive and empathetic individual eager to make a significant impact on the lives of residents while advancing their career in a dynamic healthcare setting.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active and unencumbered Certified Nursing Assistant (CNA) license in the state of Alabama.",
+      "High school diploma or GED.",
+      "Current Basic Life Support (BLS) certification.",
+      "Ability to work the PM shift as scheduled.",
+      "Prior experience in a skilled nursing or long-term care facility is preferred."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
+  },
+  {
+    "roleTitle": "Night Shift Nurse (RN/LPN)",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join a reputable skilled nursing facility in Vernon, AL. This vital role involves providing exceptional patient care during the early morning hours, ensuring the well-being and comfort of residents. As a Night Shift Nurse, you will be responsible for administering medications, monitoring patient conditions, documenting care, and collaborating with the healthcare team to implement care plans. Your expertise will contribute significantly to maintaining a high standard of care and a safe environment for our residents. This is an excellent opportunity for a nurse who thrives in an independent setting and is committed to making a difference in the lives of others. Join a supportive team dedicated to providing quality care.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and valid RN or LPN license in the state of Alabama",
+      "Basic Life Support (BLS) certification",
+      "Prior experience in a skilled nursing or long-term care setting preferred",
+      "Ability to work the night/early morning shift",
+      "Strong clinical assessment and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
   },
   {
     "roleTitle": "Physical Therapist (PRN)",
@@ -519,6 +608,24 @@
     "id": "experienced_rn_don___85k__95k__sardis_community_nursing_home_sardis__ms"
   },
   {
+    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time opportunity for the evening shift, offering a competitive hourly rate and the chance to provide essential patient care in a supportive environment.\n\nAs an LPN on the evening shift (3 PM - 11 PM), you will play a crucial role in delivering high-quality care to residents. Responsibilities include medication administration, wound care, monitoring patient conditions, and accurate documentation. We are looking for individuals committed to making a positive impact on the lives of our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$25.00 - $28.00/hr",
+    "requirements": [
+      "Current LPN license in the state of Mississippi",
+      "Ability to work the 3 PM - 11 PM evening shift",
+      "Previous experience in a skilled nursing or long-term care setting is preferred",
+      "Strong clinical assessment and patient care skills",
+      "Basic Life Support (BLS) certification"
+    ],
+    "salaryOrBonusInfo": "$25.00 - $28.00 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_ft_pm_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
+  },
+  {
     "roleTitle": "Licensed Practical Nurse (LPN) - PM Shift",
     "location": "Magee, MS",
     "facilityType": "Skilled Nursing Facility",
@@ -553,131 +660,6 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "vice_president___client_services_everise_headquarters_plantation__fl"
-  },
-  {
-    "roleTitle": "RN MDS Coordinator",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier skilled nursing facility in Red Bay, AL as an MDS Coordinator. This vital role involves ensuring the accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for developing comprehensive care plans and securing appropriate reimbursement for resident services.As an MDS Coordinator, you will play a key role in interdisciplinary team meetings, collaborating with various departments to ensure all aspects of resident care are accurately documented and reflected in the MDS. Your expertise will directly impact the quality of care provided to residents and the operational success of the facility.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in the state of Alabama.",
-      "Proven experience as an MDS Coordinator, preferably with 1-2 years in a skilled nursing facility setting.",
-      "Comprehensive knowledge of MDS 3.0, the Resident Assessment Instrument (RAI) process, and current Medicare/Medicaid regulations.",
-      "Exceptional organizational, assessment, and documentation skills.",
-      "Ability to work collaboratively within an interdisciplinary team."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and wellness center in Red Bay, AL. This is an excellent opportunity for two full-time CNAs to provide essential care and support to residents during the evening shift. You will play a vital role in enhancing the quality of life for our residents, working within a supportive and collaborative team environment.In this full-time PM shift role, you will assist residents with daily living activities, ensure their comfort and safety, and contribute to a positive and caring atmosphere. We are looking for individuals who are passionate about patient care and committed to making a difference in the lives of others.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid Certified Nursing Assistant (CNA) certification in Alabama",
-      "High School Diploma or GED",
-      "Ability to work full-time on PM shifts",
-      "Strong communication and interpersonal skills",
-      "Compassionate and patient-centered approach to care"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN) or Licensed Practical Nurse (LPN) - Night Shift",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) or Licensed Practical Nurse (LPN) to join the night shift team at a premier health and wellness center in Red Bay, AL. This role involves providing high-quality patient care during a 12-hour shift, starting at 2 AM.\n\nAs a vital member of our nursing staff, you will be responsible for ensuring the well-being and comfort of residents, administering medications, monitoring patient conditions, and collaborating with the healthcare team to deliver exceptional care. We are looking for a professional who is committed to making a positive impact on the lives of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid RN or LPN license in the state of Alabama",
-      "Current BLS/CPR certification",
-      "Previous experience in a skilled nursing or long-term care environment preferred",
-      "Ability to work 12-hour night shifts, including weekends and holidays as needed"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, committed to providing exceptional care to residents. We are seeking compassionate and skilled Certified Nursing Assistants to join our team for full-time AM shifts. This is an excellent opportunity to make a significant impact on the daily lives of our residents, contributing to their comfort and well-being.In this vital role, you will assist residents with activities of daily living, monitor their health status, and ensure a supportive and respectful environment. We value teamwork and a commitment to high-quality patient care. If you are a motivated CNA looking for a rewarding full-time position with consistent AM hours, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current Certified Nursing Assistant (CNA) certification in Alabama",
-      "Ability to work full-time AM shifts",
-      "Compassionate and patient-centered approach to care",
-      "Strong communication and interpersonal skills",
-      "Ability to assist residents with activities of daily living and perform physical tasks as required"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "4_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Certified Nursing Assistant (CNA)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join a premier skilled nursing facility in Vernon, AL. This is a full-time position for the PM shift, offering a vital opportunity to provide direct patient care and support to residents in a nurturing environment.As a CNA, you will be responsible for assisting residents with activities of daily living (ADLs), including personal hygiene, mobility, and feeding. You will play a crucial role in monitoring residents' conditions, documenting observations, and ensuring their comfort and safety. Your commitment will directly contribute to the well-being and quality of life for those under your care.Join a supportive team committed to delivering exceptional healthcare services. This role is ideal for a proactive and empathetic individual eager to make a significant impact on the lives of residents while advancing their career in a dynamic healthcare setting.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unencumbered Certified Nursing Assistant (CNA) license in the state of Alabama.",
-      "High school diploma or GED.",
-      "Current Basic Life Support (BLS) certification.",
-      "Ability to work the PM shift as scheduled.",
-      "Prior experience in a skilled nursing or long-term care facility is preferred."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Night Shift Nurse (RN/LPN)",
-    "location": "Vernon, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join a reputable skilled nursing facility in Vernon, AL. This vital role involves providing exceptional patient care during the early morning hours, ensuring the well-being and comfort of residents. As a Night Shift Nurse, you will be responsible for administering medications, monitoring patient conditions, documenting care, and collaborating with the healthcare team to implement care plans. Your expertise will contribute significantly to maintaining a high standard of care and a safe environment for our residents. This is an excellent opportunity for a nurse who thrives in an independent setting and is committed to making a difference in the lives of others. Join a supportive team dedicated to providing quality care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Current and valid RN or LPN license in the state of Alabama",
-      "Basic Life Support (BLS) certification",
-      "Prior experience in a skilled nursing or long-term care setting preferred",
-      "Ability to work the night/early morning shift",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "3_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
-    "location": "Gulfport, MS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time opportunity for the evening shift, offering a competitive hourly rate and the chance to provide essential patient care in a supportive environment.\n\nAs an LPN on the evening shift (3 PM - 11 PM), you will play a crucial role in delivering high-quality care to residents. Responsibilities include medication administration, wound care, monitoring patient conditions, and accurate documentation. We are looking for individuals committed to making a positive impact on the lives of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "$25.00 - $28.00/hr",
-    "requirements": [
-      "Current LPN license in the state of Mississippi",
-      "Ability to work the 3 PM - 11 PM evening shift",
-      "Previous experience in a skilled nursing or long-term care setting is preferred",
-      "Strong clinical assessment and patient care skills",
-      "Basic Life Support (BLS) certification"
-    ],
-    "salaryOrBonusInfo": "$25.00 - $28.00 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "3_ft_pm_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
   },
   {
     "roleTitle": "Part-Time Medical Billing & Coding Specialist",
@@ -1064,5 +1046,184 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_pt_prn_ma_traveling_birmingham___montgomery__al"
+  },
+  {
+    "roleTitle": "Chief Financial Officer (CFO) - Home Health",
+    "location": "Remote / FL",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking an exceptional and highly experienced Chief Financial Officer (CFO) to join a leading home health agency. This is a critical leadership role for a top-tier financial professional with a proven track record in the home health sector. The ideal candidate will be a strategic financial leader capable of driving fiscal health and growth.\n\nThis opportunity offers a competitive salary range of $225,000 - $300,000 per year, reflecting the importance and demands of this senior executive position. We are looking for the best of the best to contribute to our continued success.",
+    "contractType": "Full-time",
+    "salaryShort": "$225,000 - $300,000 per year",
+    "requirements": [
+      "Proven track record as a top-tier CFO in the home health sector",
+      "Extensive experience in financial leadership within home health",
+      "Strong understanding of home health financial regulations and reimbursement models",
+      "Expertise in strategic financial planning and operational oversight",
+      "Exceptional leadership and communication skills"
+    ],
+    "salaryOrBonusInfo": "$225,000 - $300,000 per year, compensation based on experience and qualifications",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_cfo_in_home_health___225k__300k__remote__but_ideally_fl_remote___fl"
+  },
+  {
+    "roleTitle": "LDRP + Newborn & MedSurge Registered Nurse",
+    "location": "Winslow, AZ",
+    "facilityType": "A reputable medical center",
+    "description": "Join a reputable medical center in Winslow, AZ, as an LDRP + Newborn & MedSurge Registered Nurse. This is an exceptional opportunity for dedicated RNs seeking a night shift role (7 PM - 7 AM) to make a significant impact across multiple specialties.\n\nWe are offering a competitive base rate ranging from $43.68 to $62.44 per hour, with additional differentials for evening, night, and weekend shifts. A generous sign-on bonus of up to $12,000 is available for a two-year commitment, along with a $6,000 relocation package for eligible candidates. Compensation is based on your experience and commitment to our team.\n\nIn this dynamic role, you will be responsible for labor, delivery, recovery, and postpartum care, including newborn nursery duties. You will also be expected to provide support in the MedSurg unit as needed, ensuring comprehensive patient care.",
+    "contractType": "Full-time",
+    "salaryShort": "$43.68 - $62.44/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license",
+      "Minimum 2 years of experience in Labor and Delivery (LDRP)",
+      "At least 6 months of MedSurg experience in a hospital setting",
+      "NRP (Neonatal Resuscitation Program) certification and Advanced Fetal Monitoring certification",
+      "Willingness to commit to a two-year term"
+    ],
+    "salaryOrBonusInfo": "Base hourly rate of $43.68 - $62.44, depending on experience. Additional differentials include 8% for 3 PM - 11 PM shifts, 16% for 11:01 PM - 7 AM shifts, and 4% for weekend shifts (Friday 7 PM - Monday 7 AM). A $12,000 sign-on bonus is offered for a 2-year commitment, paid after a 90-day probation period. A $6,000 relocation bonus is also available for candidates relocating within 30 miles, paid after 90-day probation.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_pm_ldrp___newborn___medsurge_rns__7pm_7am___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az"
+  },
+  {
+    "roleTitle": "Physical Therapist (Full-time/Part-time)",
+    "location": "Winslow, AZ",
+    "facilityType": "Hospital and Clinic",
+    "description": "Join a dedicated team as a Physical Therapist in a community hospital and stand-alone clinic setting in Winslow, AZ. This unique opportunity allows you to provide comprehensive physical therapy services to both inpatient and outpatient populations, making a significant impact on patient recovery and well-being within a Critical Access Hospital environment. We are seeking a versatile and compassionate professional to deliver high-quality, patient-centered care.\n\nThis role offers flexibility with both full-time and part-time options available, catering to your professional needs. If you are a skilled Physical Therapist looking for a dynamic role where you can apply your expertise across diverse patient settings, we encourage you to apply.",
+    "contractType": "Full-time/Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Physical Therapist license in Arizona",
+      "Experience working with both inpatient and outpatient populations",
+      "Ability to thrive in a Critical Access Hospital and clinic setting",
+      "Strong clinical assessment and treatment skills",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt_little_colorado_medical_center_winslow__az"
+  },
+  {
+    "roleTitle": "Home Health Clinician",
+    "location": "Phoenix, AZ",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking dedicated and compassionate Home Health Clinicians to join a leading home health agency in Phoenix, AZ. This role offers the flexibility of both full-time and part-time schedules, providing essential patient care in the comfort of their homes. You will play a vital role in delivering high-quality, patient-centered care, focusing on assessment, treatment, and education to promote health and independence.\n\nThis is an excellent opportunity for clinicians who thrive in an autonomous environment and are passionate about making a direct impact on patients' lives. The compensation structure is based on a per-visit rate, offering competitive earnings for your expertise. We understand the importance of work-life balance and offer flexible interview scheduling, including options during evenings (Mon-Fri 1PM-7PM) and weekends as needed.\n\nJoin a team committed to excellence and patient well-being. If you are a skilled clinician looking for a rewarding role with flexibility, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Valid state licensure in a relevant clinical field (e.g., RN, PT, OT, SLP)",
+      "Valid driver's license and reliable transportation",
+      "Prior experience in home health or a related clinical setting",
+      "Strong clinical assessment, documentation, and communication skills",
+      "Ability to work independently and manage a patient caseload effectively"
+    ],
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt___65_per_visit__traveling_phoenix__az"
+  },
+  {
+    "roleTitle": "PRN Physical Therapist",
+    "location": "Phoenix, AZ",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate PRN Physical Therapist to join a leading home health agency in Phoenix, AZ. This per-visit opportunity offers excellent flexibility and the chance to make a significant impact on patients' lives within their own homes.\n\nIn this role, you will provide high-quality physical therapy services, developing and implementing individualized treatment plans to help patients regain mobility and improve their quality of life. We value work-life balance and offer flexible scheduling for both patient visits and interviews, with availability for interviews Monday-Friday from 1 PM-7 PM and over the weekend as needed.\n\nThis is an urgent need for a skilled professional ready to contribute to a patient-centered care environment.",
+    "contractType": "PRN",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Current and unrestricted Physical Therapist license in Arizona",
+      "Minimum of 1 year of experience as a Physical Therapist, preferably in a home health setting",
+      "Current CPR certification",
+      "Valid driver's license and reliable transportation",
+      "Excellent clinical, communication, and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_pt___65_per_visit__traveling_phoenix__az"
+  },
+  {
+    "roleTitle": "Occupational Therapist (OT) - Home Health",
+    "location": "Phoenix, AZ",
+    "facilityType": "Home Health Agency",
+    "description": "Join a leading home health agency in Phoenix, AZ, as a Part-time/PRN Occupational Therapist. This role offers the flexibility of a per-visit model, allowing you to manage your schedule while providing essential care to patients in their homes. We are seeking a dedicated and compassionate OT to deliver high-quality rehabilitation services, helping patients regain independence and improve their quality of life within their familiar environment.This is an excellent opportunity for an Occupational Therapist looking for a flexible work arrangement with competitive per-visit compensation. We are actively scheduling interviews and can accommodate various times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure a smooth and efficient hiring process for qualified candidates.",
+    "contractType": "Part-time/PRN",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Current Occupational Therapist (OT) license in Arizona",
+      "Minimum of 1 year of experience as an Occupational Therapist, preferably in a home health setting",
+      "Strong clinical assessment and treatment planning skills",
+      "Valid driver's license and reliable transportation",
+      "Ability to work independently and manage a caseload effectively"
+    ],
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_ot___65_per_visit__traveling_phoenix__az"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist",
+    "location": "Phoenix, AZ",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic healthcare team in Phoenix, AZ. This role offers a unique opportunity to provide vital speech and language therapy services to patients in their homes, operating on a competitive per-visit compensation model. If you are passionate about making a direct impact on patient well-being and thrive in an autonomous yet supportive environment, this position is for you.This full-time position provides the flexibility and independence that comes with per-visit work, allowing you to manage your schedule effectively while delivering high-quality care. We are actively scheduling interviews and offer flexible times, including Monday-Friday from 1 PM-7 PM and over the weekend as needed, to ensure we can connect with top talent quickly. Join us and contribute to a team committed to excellence in patient care.",
+    "contractType": "Full-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current Arizona state licensure as a Speech-Language Pathologist",
+      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+      "Valid driver's license and reliable transportation"
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_slp___65_per_visit__traveling_phoenix__az"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "location": "Phoenix, AZ",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) for a flexible Part-time/PRN opportunity in Phoenix, AZ. This role offers the chance to provide essential speech therapy services on a per-visit basis, allowing for a work schedule that can adapt to your lifestyle while making a significant impact on patients' lives within their homes.\n\nThis position offers competitive compensation at $65 per visit. We understand the importance of a smooth hiring process and are accommodating interview schedules Monday through Friday from 1PM-7PM, with additional availability over the weekend as needed. Join a supportive team and contribute to improving communication and swallowing functions for individuals in the Phoenix community.",
+    "contractType": "Part-time/PRN",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current Arizona state license as a Speech-Language Pathologist",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
+      "Experience in a home health or similar setting preferred",
+      "Valid driver's license and reliable transportation"
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_slp___65_per_visit__traveling_phoenix__az"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Birmingham, AL",
+    "facilityType": "Private Care Setting",
+    "description": "We are seeking a dedicated and compassionate Certified Nursing Assistant (CNA) to join a private care team in Birmingham, AL. This unique full-time opportunity offers a structured live-in schedule, providing consistent and personalized care to patients in a home environment.\n\nThis role operates on a 7 days on, 7 days off live-in schedule, ensuring continuity of care and a balanced work-life rhythm. You will be responsible for providing essential support and assistance with daily living activities, contributing significantly to the well-being and comfort of patients. We are actively scheduling interviews Monday-Friday from 1PM-7PM, with weekend availability as needed.",
+    "contractType": "Full-time",
+    "salaryShort": "$16.00 - $18.00/hr",
+    "requirements": [
+      "Active Certified Nursing Assistant (CNA) certification",
+      "Ability to commit to a 7 days on, 7 days off live-in schedule",
+      "Proven experience in direct patient care",
+      "Strong communication and interpersonal skills",
+      "Compassionate and patient-centered approach to care"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "8_ft_cna___16__18_hr__traveling_birminham__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "location": "Montgomery, AL",
+    "facilityType": "Residential Care Facility",
+    "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Montgomery, AL? We are seeking compassionate CNAs to provide essential care in a residential care setting. This role offers a distinctive schedule, allowing for a balanced work-life with 7 days on and 7 days off.\n\nIn this vital position, you will have the chance to build strong relationships with patients while providing direct support with daily living activities. We are looking for individuals who are committed to delivering high-quality, personalized care. Join a team that values your dedication and provides a supportive environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$16.00 - $18.00/hr",
+    "requirements": [
+      "Active Certified Nursing Assistant (CNA) certification",
+      "Ability to commit to a 7 days on, 7 days off live-in schedule",
+      "Experience providing direct patient care and assistance with Activities of Daily Living (ADLs)",
+      "Strong communication and interpersonal skills",
+      "Compassionate and reliable approach to patient care"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $16.00 - $18.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "8_ft_cna___16__18_hr__traveling_montgomery__al"
   }
 ]
