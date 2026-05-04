@@ -240,21 +240,20 @@
     }
   },
   "1_pm_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "2c54e8581fee134e1f8a693688a5b2e3",
-    "addedAt": "2026-04-22T20:15:25.339Z",
+    "signature": "523db849a41a3e991fae2290d55ac98e",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
-      "roleTitle": "PM Nurse (12-hour Shift)",
+      "roleTitle": "PM Nurse",
       "location": "Red Bay, AL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "Join a dedicated team at a premier skilled nursing facility in Red Bay, AL, as a PM Nurse. This vital role involves providing comprehensive care during 12-hour evening/night shifts, ensuring the well-being and comfort of residents. As a PM Nurse, you will be responsible for medication administration, direct patient care, accurate documentation, and effective communication with healthcare providers. You will play a crucial role in maintaining a safe and supportive environment for our residents.",
+      "description": "We are seeking a dedicated and compassionate PM Nurse to join a premier health and rehabilitation center in Red Bay, AL. This full-time position involves working 12-hour shifts, starting at 1 PM, providing essential care and support to residents during the evening and overnight hours.In this vital role, you will be responsible for administering medications, performing treatments, monitoring patient conditions, and ensuring accurate documentation. You will play a key part in maintaining the highest standards of patient care and contributing to a supportive and professional environment.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Alabama RN or LPN license",
-        "Current BLS/CPR certification",
-        "Previous experience in a skilled nursing or long-term care setting preferred",
-        "Ability to work 12-hour PM shifts",
-        "Strong clinical assessment and communication skills"
+        "Active Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in Alabama.",
+        "Current BLS/CPR certification.",
+        "Minimum of 1 year of nursing experience, preferably in a skilled nursing or long-term care setting.",
+        "Ability to work 12-hour PM shifts."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -306,21 +305,21 @@
     }
   },
   "pt_prn_slp_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "a8e147f4bb081ef91327ce1e9d126a44",
-    "addedAt": "2026-04-24T15:17:28.053Z",
+    "signature": "30d93f8e9a7c76dc07cf621891bdd39d",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
       "roleTitle": "Speech-Language Pathologist",
       "location": "Red Bay, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated Part-Time/PRN Speech-Language Pathologist (SLP) to join a premier health and rehabilitation center in Red Bay, AL. This is an excellent opportunity for an SLP to make a significant impact on the lives of patients by providing essential speech, language, and swallowing therapy services within a supportive environment.\n\nIn this flexible Part-Time/PRN role, you will be responsible for assessing, diagnosing, and treating communication and swallowing disorders, developing individualized treatment plans, and collaborating with an interdisciplinary team to ensure comprehensive patient care. Your expertise will contribute directly to improving the quality of life for our residents. We are looking for a compassionate professional ready to provide high-quality care.",
+      "facilityType": "Health and Wellness Center",
+      "description": "We are seeking a dedicated and compassionate Part-time/PRN Speech-Language Pathologist to join our team at a reputable health and wellness center in Red Bay, AL. In this vital role, you will provide comprehensive speech, language, and swallowing therapy services to our residents, helping them regain and improve their communication and swallowing abilities.As a Speech-Language Pathologist, you will be responsible for conducting assessments, developing individualized treatment plans, and implementing therapeutic interventions. You will collaborate closely with an interdisciplinary team to ensure holistic patient care and contribute to a positive and supportive environment for our residents. This is an excellent opportunity for an SLP looking for flexible hours to make a significant impact on patients' lives.",
       "contractType": "Part-time/PRN",
       "salaryShort": "",
       "requirements": [
-        "Master's degree in Speech-Language Pathology",
+        "Master's Degree in Speech-Language Pathology",
         "Certificate of Clinical Competence (CCC-SLP) from ASHA",
         "Current Alabama state licensure as a Speech-Language Pathologist",
-        "Experience working with adult and geriatric populations, preferably in a skilled nursing or rehabilitation setting",
-        "Strong documentation and communication skills"
+        "CPR certification",
+        "Experience in a skilled nursing or rehabilitation setting preferred"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -328,21 +327,21 @@
     }
   },
   "ft_pt_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "259d6246bbaa956d1fa8da49a77c30c9",
-    "addedAt": "2026-04-24T15:17:28.053Z",
+    "signature": "20b2a358f4c17d0ab190366c13b2e834",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist",
+      "roleTitle": "Healthcare Professional",
       "location": "Red Bay, AL",
       "facilityType": "Health and Wellness Center",
-      "description": "We are seeking a dedicated and compassionate Physical Therapist to join a premier health and wellness center in Red Bay, AL. This is an excellent opportunity for a professional looking to make a significant impact on patient recovery and well-being within a supportive environment. We are open to both full-time and part-time candidates.\n\nIn this role, you will be responsible for assessing, planning, and implementing individualized treatment programs to help patients regain mobility, reduce pain, and improve their overall quality of life. You will work collaboratively with a multidisciplinary team to ensure comprehensive and coordinated care, utilizing evidence-based practices to achieve optimal outcomes.\n\nIf you are a motivated Physical Therapist committed to delivering exceptional patient care and are looking for a flexible opportunity, we encourage you to apply. Join a team that values your expertise and supports your professional growth.",
-      "contractType": "Full-time or Part-time",
+      "description": "An esteemed health and wellness center in Red Bay, AL, is seeking dedicated Healthcare Professionals to join its compassionate team. We are offering flexible full-time and part-time opportunities, providing an excellent chance to contribute to patient well-being while balancing your personal and professional life. This is a chance to become part of a supportive environment focused on delivering exceptional care.\n\nIn this vital role, you will contribute to the daily operations and patient support within our facility, ensuring a high standard of health and wellness services. We value individuals who are committed to making a positive difference in the lives of our residents and patients, fostering a nurturing and recovery-focused atmosphere.\n\nIf you are a compassionate and skilled healthcare professional looking for a rewarding opportunity with flexible scheduling options, we encourage you to apply. Join a team that prioritizes both patient care and employee satisfaction.",
+      "contractType": "Full-time and Part-time",
       "salaryShort": "",
       "requirements": [
-        "Doctor of Physical Therapy (DPT) degree from an accredited program",
-        "Current and unrestricted Physical Therapist license in the state of Alabama",
-        "CPR certification",
-        "Strong clinical assessment and treatment skills",
-        "Excellent communication and interpersonal abilities"
+        "High school diploma or equivalent",
+        "Prior experience in a healthcare setting preferred",
+        "Ability to work flexible full-time or part-time shifts",
+        "Strong communication and interpersonal skills",
+        "Commitment to patient-centered care"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1072,21 +1071,21 @@
     }
   },
   "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "401d6f7b7aaa2bb6ac1c3282509d64d7",
-    "addedAt": "2026-05-01T00:01:26.145Z",
+    "signature": "0b0692c415fb54f7febee2e6c6ac4f53",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
       "roleTitle": "RN MDS Coordinator",
       "location": "Red Bay, AL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier skilled nursing facility in Red Bay, AL as an MDS Coordinator. This vital role involves ensuring the accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for developing comprehensive care plans and securing appropriate reimbursement for resident services.As an MDS Coordinator, you will play a key role in interdisciplinary team meetings, collaborating with various departments to ensure all aspects of resident care are accurately documented and reflected in the MDS. Your expertise will directly impact the quality of care provided to residents and the operational success of the facility.",
+      "description": "A premier skilled nursing facility in Red Bay, AL, is seeking a dedicated and experienced Registered Nurse (RN) for the vital role of MDS Coordinator. This position offers a unique opportunity to significantly impact resident care by ensuring accurate assessments and comprehensive care planning within a supportive environment.\n\nThe MDS Coordinator plays a crucial role in the interdisciplinary team, responsible for completing and transmitting accurate Minimum Data Set (MDS) assessments. You will collaborate with various departments to develop individualized care plans, ensure regulatory compliance, and optimize reimbursement, ultimately contributing to the highest quality of life for our residents.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active and unrestricted Registered Nurse (RN) license in the state of Alabama.",
-        "Proven experience as an MDS Coordinator, preferably with 1-2 years in a skilled nursing facility setting.",
-        "Comprehensive knowledge of MDS 3.0, the Resident Assessment Instrument (RAI) process, and current Medicare/Medicaid regulations.",
-        "Exceptional organizational, assessment, and documentation skills.",
-        "Ability to work collaboratively within an interdisciplinary team."
+        "Active Registered Nurse (RN) license in Alabama",
+        "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+        "Proficiency with MDS 3.0 and associated regulatory guidelines",
+        "Strong assessment, documentation, and communication skills",
+        "RAC-CT certification preferred"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1094,21 +1093,21 @@
     }
   },
   "2_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "20d15fb0fdb4a6e2e2320617da2fa2c4",
-    "addedAt": "2026-05-01T00:01:26.145Z",
+    "signature": "f5320123bb64711bf22d1241d43c95e9",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
       "roleTitle": "Certified Nursing Assistant (CNA)",
       "location": "Red Bay, AL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and wellness center in Red Bay, AL. This is an excellent opportunity for two full-time CNAs to provide essential care and support to residents during the evening shift. You will play a vital role in enhancing the quality of life for our residents, working within a supportive and collaborative team environment.In this full-time PM shift role, you will assist residents with daily living activities, ensure their comfort and safety, and contribute to a positive and caring atmosphere. We are looking for individuals who are passionate about patient care and committed to making a difference in the lives of others.",
+      "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and wellness center in Red Bay, AL. This is a full-time opportunity for individuals committed to providing exceptional care during the PM shift. If you are passionate about making a difference in residents' lives, we encourage you to apply.\n\nIn this vital role, you will assist residents with activities of daily living, including bathing, dressing, grooming, and feeding. You will also be responsible for monitoring vital signs, documenting observations, and reporting any changes in resident condition to the nursing staff. Your commitment to providing a supportive and respectful environment will be key to our residents' well-being.\n\nJoin a team that values your dedication and provides a supportive work environment. This is an excellent opportunity for CNAs looking for stable full-time employment on the evening shift.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Valid Certified Nursing Assistant (CNA) certification in Alabama",
-        "High School Diploma or GED",
-        "Ability to work full-time on PM shifts",
-        "Strong communication and interpersonal skills",
-        "Compassionate and patient-centered approach to care"
+        "Current Certified Nursing Assistant (CNA) certification in Alabama",
+        "High school diploma or GED",
+        "Ability to work full-time PM shifts",
+        "Prior experience in a skilled nursing or long-term care environment is preferred",
+        "Strong communication and interpersonal skills"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1116,20 +1115,21 @@
     }
   },
   "2_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "0fa6b336e7b62125b48b64825ffed755",
-    "addedAt": "2026-05-01T00:01:26.145Z",
+    "signature": "dbe8d02fbc83c2096497e5e26b5a00a5",
+    "addedAt": "2026-05-04T18:23:01.774Z",
     "finalJson": {
-      "roleTitle": "Registered Nurse (RN) or Licensed Practical Nurse (LPN) - Night Shift",
+      "roleTitle": "Night Shift Nurse (RN/LPN)",
       "location": "Red Bay, AL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) or Licensed Practical Nurse (LPN) to join the night shift team at a premier health and wellness center in Red Bay, AL. This role involves providing high-quality patient care during a 12-hour shift, starting at 2 AM.\n\nAs a vital member of our nursing staff, you will be responsible for ensuring the well-being and comfort of residents, administering medications, monitoring patient conditions, and collaborating with the healthcare team to deliver exceptional care. We are looking for a professional who is committed to making a positive impact on the lives of our residents.",
+      "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join a premier skilled nursing facility in Red Bay, AL. This full-time position involves working 12-hour shifts, providing essential care and support to residents during the overnight hours. This is an excellent opportunity to contribute to a supportive team environment focused on patient well-being.\n\nThe Night Shift Nurse will be responsible for administering medications, performing treatments, monitoring patient conditions, and documenting care accurately. You will play a crucial role in ensuring the comfort and safety of residents, responding to emergencies, and collaborating with other healthcare professionals to deliver high-quality care.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Valid RN or LPN license in the state of Alabama",
-        "Current BLS/CPR certification",
-        "Previous experience in a skilled nursing or long-term care environment preferred",
-        "Ability to work 12-hour night shifts, including weekends and holidays as needed"
+        "Active RN or LPN license in the state of Alabama",
+        "Minimum of 1 year of experience in a skilled nursing or long-term care setting preferred",
+        "Ability to work 12-hour night shifts",
+        "Current Basic Life Support (BLS) certification",
+        "Strong assessment and critical thinking skills"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
