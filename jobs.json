@@ -895,6 +895,23 @@
     "id": "pt_prn_ot__urgent___50_per_visit__traveling_helena__al"
   },
   {
+    "roleTitle": "Registered Nurse",
+    "location": "Orlando, FL",
+    "facilityType": "Healthcare Facility",
+    "description": "We are urgently seeking a dedicated Full-time Registered Nurse to join a dynamic healthcare team in Orlando, FL. This is an excellent opportunity for an RN looking for a competitive hourly rate of $47/hr and immediate placement. We are actively scheduling interviews for this role, with availability Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your schedule.\n\nAs a Registered Nurse, you will provide high-quality patient care, collaborate with a multidisciplinary team, and contribute to a positive patient experience. This role offers a chance to make a significant impact in a fast-paced environment. Apply today to learn more about this urgent opening.",
+    "contractType": "Full-time",
+    "salaryShort": "$47/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Florida",
+      "Current BLS certification",
+      "Minimum of 1 year of nursing experience",
+      "Ability to work full-time hours"
+    ],
+    "salaryOrBonusInfo": "$47/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn__urgent___47_hr__traveling_orlando__fl"
+  },
+  {
     "roleTitle": "Part-time/PRN Registered Nurse",
     "location": "Orlando, FL",
     "facilityType": "Healthcare Facility",
@@ -1480,22 +1497,5 @@
     "salaryOrBonusInfo": "$100,000 - $110,000 annually, plus bonus potential. Compensation will be higher for the right candidate based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "regional_mds____100k__110k___bonus__6_facilities_in_ok_okc___tulsa__ok"
-  },
-  {
-    "roleTitle": "Registered Nurse",
-    "location": "Orlando, FL",
-    "facilityType": "Healthcare Facility",
-    "description": "We are urgently seeking a dedicated Full-time Registered Nurse to join a dynamic healthcare team in Orlando, FL. This is an excellent opportunity for an RN looking for a competitive hourly rate of $47/hr and immediate placement. We are actively scheduling interviews for this role, with availability Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your schedule.\n\nAs a Registered Nurse, you will provide high-quality patient care, collaborate with a multidisciplinary team, and contribute to a positive patient experience. This role offers a chance to make a significant impact in a fast-paced environment. Apply today to learn more about this urgent opening.",
-    "contractType": "Full-time",
-    "salaryShort": "$47/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Florida",
-      "Current BLS certification",
-      "Minimum of 1 year of nursing experience",
-      "Ability to work full-time hours"
-    ],
-    "salaryOrBonusInfo": "$47/hr",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn__urgent___47_hr__traveling_orlando__fl"
   }
 ]
