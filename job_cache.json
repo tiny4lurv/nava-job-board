@@ -764,202 +764,6 @@
       "id": "pt_prn_slp___65_per_visit__traveling_orlando__fl"
     }
   },
-  "2_ft_cna___19__20_hr__traveling_orlando__fl": {
-    "signature": "3904901c73952ac501d89e01df6c03e9",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Certified Nursing Assistant (CNA)",
-      "location": "Orlando, FL",
-      "facilityType": "A patient-focused environment",
-      "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team in Orlando, FL. This full-time opportunity involves providing essential care in a patient-focused environment, offering a unique live-in schedule of 7 days on, followed by 7 days off. In this vital role, you will support patients with daily living activities, ensuring their comfort and well-being. We are looking for individuals who are committed to delivering high-quality, personalized care and thrive in a supportive setting. Interview slots are available Monday-Friday from 1 PM-7 PM, and over the weekend as needed.",
-      "contractType": "Full-time",
-      "salaryShort": "$19.00 - $20.00/hr",
-      "requirements": [
-        "Current Certified Nursing Assistant (CNA) certification",
-        "Proven experience in direct patient care",
-        "Ability to commit to a 7 days on, 7 days off live-in schedule",
-        "Excellent communication and interpersonal skills",
-        "Compassionate and patient-centered approach to care"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_ft_cna___19__20_hr__traveling_orlando__fl"
-    }
-  },
-  "2_pt_prn_traveling_cna___19__20_hr__traveling_orlando__fl": {
-    "signature": "4015bc7a6a0fd7ba50bfd8329742e42b",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
-      "location": "Orlando, FL",
-      "facilityType": "Various healthcare settings",
-      "description": "Are you a dedicated Certified Nursing Assistant looking for flexible part-time or PRN opportunities in Orlando, FL? We are seeking compassionate and skilled Traveling CNAs to provide essential patient care across various healthcare settings. This role offers the chance to expand your experience while maintaining a flexible schedule.\n\nWe understand the importance of work-life balance and are committed to accommodating your availability. Interviews can be scheduled Monday through Friday from 1 PM to 7 PM, with weekend options available as needed, demonstrating our flexibility to connect with top talent like you. Join a team that values your dedication and provides opportunities for diverse experiences.",
-      "contractType": "Part-time/PRN",
-      "salaryShort": "$19.00 - $20.00/hr",
-      "requirements": [
-        "Active Certified Nursing Assistant (CNA) certification in Florida",
-        "Ability to travel to different healthcare facilities within the Orlando area",
-        "Proven experience providing direct patient care",
-        "Strong communication and interpersonal skills",
-        "Reliable transportation"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_pt_prn_traveling_cna___19__20_hr__traveling_orlando__fl"
-    }
-  },
-  "ft_pt___65_per_visit__traveling_phoenix__az": {
-    "signature": "6954bceb40422b46dbc8292b0fec5dc7",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Home Health Clinician",
-      "location": "Phoenix, AZ",
-      "facilityType": "Home Health Agency",
-      "description": "Join a leading home health agency in Phoenix, AZ, offering flexible full-time and part-time opportunities. This role provides the autonomy to manage your schedule while delivering essential care directly to patients in their homes. We are seeking dedicated professionals who thrive in a dynamic environment and are passionate about making a direct impact on patient well-being.\n\nThis position offers a competitive per-visit compensation model, allowing you to control your earning potential. We understand the importance of work-life balance and offer flexible interview scheduling, including evenings and weekends, to accommodate your current commitments. If you are looking for a rewarding role with significant flexibility, we encourage you to apply.",
-      "contractType": "Full-time or Part-time",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Active professional license in Arizona (e.g., RN, PT, OT, SLP)",
-        "Valid driver's license and reliable transportation",
-        "Minimum of one year of clinical experience, preferably in home health",
-        "Excellent communication and organizational skills"
-      ],
-      "salaryOrBonusInfo": "Compensation is $65 per visit.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "ft_pt___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "pt_prn_pt___65_per_visit__traveling_phoenix__az": {
-    "signature": "5ed7d4b28db284c9697bdf9f0e90a74e",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Physical Therapist (PRN)",
-      "location": "Phoenix, AZ",
-      "facilityType": "Home Health Agency",
-      "description": "Join a dynamic team as a Per Diem Physical Therapist in Phoenix, AZ. This PRN role offers exceptional flexibility, allowing you to manage your schedule while providing essential therapy services to patients in their homes. You'll have the opportunity to make a significant impact on patient recovery and well-being within a supportive environment.\n\nThis position offers a competitive per-visit rate, perfect for therapists seeking to supplement their income or prefer a flexible work arrangement. Interview scheduling is highly accommodating, with availability Monday-Friday from 1 PM-7 PM and over the weekend as needed, ensuring a smooth and efficient hiring process.",
-      "contractType": "PRN",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Current and unrestricted Physical Therapist (PT) license in Arizona",
-        "Minimum of 1 year of clinical experience as a Physical Therapist",
-        "Valid driver's license and reliable transportation for home visits",
-        "Strong communication and interpersonal skills",
-        "Ability to work independently and manage a caseload effectively"
-      ],
-      "salaryOrBonusInfo": "Earn $65 per visit for flexible PRN assignments.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_prn_pt___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "ft_ot___65_per_visit__traveling_phoenix__az": {
-    "signature": "b2e229cfeebecbaa405a5beef3604283",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Occupational Therapist",
-      "location": "Phoenix, AZ",
-      "facilityType": "Mobile Healthcare Provider",
-      "description": "An exciting opportunity awaits a dedicated Full-time Occupational Therapist in Phoenix, AZ. Join a dynamic mobile healthcare provider committed to delivering exceptional patient care directly in their homes. This role offers the flexibility of a per-visit compensation model, allowing you to manage your schedule effectively while making a significant impact on patient well-being.\n\nWe are seeking a passionate OT to provide comprehensive therapy services, focusing on improving patients' functional abilities and quality of life within their home environment. We understand the importance of work-life balance, and interview availability is flexible, including Monday-Friday from 1 PM-7 PM and over the weekend as needed.",
-      "contractType": "Full-time",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Valid Occupational Therapist license in Arizona",
-        "Experience in home health or mobile therapy settings",
-        "Ability to travel to patient homes within the Phoenix area",
-        "Strong clinical assessment and treatment skills"
-      ],
-      "salaryOrBonusInfo": "Compensation is $65 per visit.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "ft_ot___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "pt_prn_ot___65_per_visit__traveling_phoenix__az": {
-    "signature": "54aa7e2920f4109118df6a102a0932f8",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "PRN Occupational Therapist",
-      "location": "Phoenix, AZ",
-      "facilityType": "Home Health Agency",
-      "description": "Join a dynamic home health agency in Phoenix, AZ, as a PRN Occupational Therapist. This flexible role offers the opportunity to provide essential therapy services on a per-visit basis, allowing you to manage your schedule and make a significant impact on patients' lives within their own homes. We are seeking dedicated professionals who thrive in an autonomous environment and are committed to delivering high-quality care.\n\nThis position offers a competitive rate of $65 per visit, providing excellent earning potential while maintaining work-life balance. We understand the importance of flexibility and are open to scheduling interviews during evenings (Mon-Fri 1PM-7PM) and over weekends to accommodate your current commitments. If you are a compassionate and skilled OT looking for a rewarding PRN opportunity, we encourage you to apply.",
-      "contractType": "PRN",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Active Occupational Therapist (OT) license in Arizona",
-        "Current CPR certification",
-        "Valid driver's license and reliable transportation",
-        "Ability to work independently and manage a flexible schedule",
-        "Prior experience in home health or a similar mobile setting is preferred"
-      ],
-      "salaryOrBonusInfo": "$65 per visit",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_prn_ot___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "ft_slp___65_per_visit__traveling_phoenix__az": {
-    "signature": "ec285d1181fdf1e70f8a379fc61efbe8",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Speech-Language Pathologist",
-      "location": "Phoenix, AZ",
-      "facilityType": "Home Health Agency",
-      "description": "We are seeking a dedicated Full-time Speech-Language Pathologist to join a dynamic team providing rehabilitation services in the Phoenix, AZ area. This role offers the flexibility of a per-visit compensation model, allowing you to manage your caseload effectively while making a significant impact on patient lives.\n\nAs an SLP, you will be responsible for assessing, diagnosing, and treating speech, language, communication, and swallowing disorders. This is an excellent opportunity for a compassionate professional looking to provide high-quality, individualized care within a supportive environment. Interview scheduling is flexible, with availability Monday-Friday from 1 PM-7 PM and over the weekend as needed.",
-      "contractType": "Full-time",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Master's degree in Speech-Language Pathology",
-        "Current Arizona state license as a Speech-Language Pathologist",
-        "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-        "Valid driver's license and reliable transportation",
-        "Previous experience in a home health or per-visit setting preferred"
-      ],
-      "salaryOrBonusInfo": "$65 per visit",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "ft_slp___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "pt_prn_slp___65_per_visit__traveling_phoenix__az": {
-    "signature": "ca64761d3e4db5222744bd5ccb1f251d",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP) - Part-Time/PRN",
-      "location": "Phoenix, AZ",
-      "facilityType": "Home Health Agency",
-      "description": "Join a dynamic home health agency in Phoenix, AZ, as a Part-Time/PRN Speech-Language Pathologist. This per-visit role offers exceptional flexibility, allowing you to manage your schedule while providing vital speech and language therapy services to patients in their homes. We are seeking a dedicated professional eager to make a significant impact on patient recovery and communication skills. This opportunity is perfect for an SLP looking for a flexible work arrangement with competitive per-visit compensation. You'll have the autonomy to schedule your patient visits, contributing to a work-life balance that suits your needs. We are actively scheduling interviews and are flexible to accommodate your availability, including evenings and weekends as needed.",
-      "contractType": "Part-time/PRN",
-      "salaryShort": "$65 per visit",
-      "requirements": [
-        "Master's Degree in Speech-Language Pathology",
-        "Current Arizona SLP license",
-        "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-        "Valid driver's license and reliable transportation",
-        "Previous experience in a home health or per-visit setting preferred"
-      ],
-      "salaryOrBonusInfo": "Compensation is $65 per visit.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_prn_slp___65_per_visit__traveling_phoenix__az"
-    }
-  },
-  "2_ft_cna___19__20_hr__traveling_phoenix__az": {
-    "signature": "ab6d2b66c4c22425f5f65f8b45bcb7aa",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Certified Nursing Assistant (CNA)",
-      "location": "Phoenix, AZ",
-      "facilityType": "Private Care Setting",
-      "description": "Are you a dedicated Certified Nursing Assistant looking for a unique and rewarding full-time opportunity in Phoenix, AZ? We are seeking compassionate CNAs to provide live-in care for patients in a private care setting. This role offers a distinctive schedule of 7 days on, followed by 7 days off, providing an excellent work-life balance.\n\nIn this vital position, you will deliver essential personal care, support daily living activities, and ensure the comfort and well-being of your patients. We are actively scheduling interviews for this urgent opening, with availability Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your schedule.",
-      "contractType": "Full-time",
-      "salaryShort": "$19.00 - $20.00/hr",
-      "requirements": [
-        "Valid Certified Nursing Assistant (CNA) certification in Arizona",
-        "Ability to commit to a 7-day on, 7-day off live-in schedule",
-        "Proven experience in providing personal care and assistance with daily living activities",
-        "Strong communication and interpersonal skills",
-        "Compassionate and patient-centered approach to care"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00, based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_ft_cna___19__20_hr__traveling_phoenix__az"
-    }
-  },
   "12_pt_prn_traveling_cna___19__20_hr__traveling_birminham__al": {
     "signature": "7334083f1c6419840e058235e208562f",
     "addedAt": "2026-05-01T19:25:36.971Z",
@@ -1288,27 +1092,6 @@
       "salaryOrBonusInfo": "Compensation is $65 per visit.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "ft_ot___65_per_visit__traveling_orlando__fl"
-    }
-  },
-  "2_pt_prn_traveling_cna___19__20_hr__traveling_phoenix__az": {
-    "signature": "f5f73c1bfc4350a0ef065dd81f74a9c0",
-    "addedAt": "2026-05-01T19:25:36.971Z",
-    "finalJson": {
-      "roleTitle": "Traveling Certified Nursing Assistant (CNA)",
-      "location": "Phoenix, AZ",
-      "facilityType": "Multiple healthcare facilities",
-      "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) for part-time and PRN traveling opportunities in Phoenix, AZ. This role offers a competitive hourly rate and the flexibility to work across various healthcare settings, providing essential patient care and support where it's needed most. If you thrive in dynamic environments and are committed to making a difference, we encourage you to apply.\n\nAs a Traveling CNA, you will deliver high-quality patient care, assisting with daily living activities, monitoring vital signs, and ensuring patient comfort and safety. This is an excellent opportunity for CNAs looking to expand their experience and enjoy a flexible schedule. Interviews can be scheduled Monday-Friday from 1PM-7PM, with additional availability over the weekend as needed.",
-      "contractType": "Part-time/PRN",
-      "salaryShort": "$19.00 - $20.00/hr",
-      "requirements": [
-        "Current Certified Nursing Assistant (CNA) certification",
-        "Ability to travel to various healthcare facilities within the Phoenix, AZ area",
-        "Strong patient care and communication skills",
-        "Availability for interviews Monday-Friday 1PM-7PM, and over the weekend as needed"
-      ],
-      "salaryOrBonusInfo": "Hourly rate of $19.00 - $20.00 based on experience.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_pt_prn_traveling_cna___19__20_hr__traveling_phoenix__az"
     }
   },
   "pt__prn_driver___15__17_hr__hwy_280_birminham__al": {
@@ -1662,28 +1445,6 @@
       "id": "financial_controller_corporate_office_in_ny___corporate_south_in_northeast_pa_binghamton__ny___pittston__pa"
     }
   },
-  "marketer___marketing_director_remote_remote": {
-    "signature": "36d148a89a53733738e9af82163dec71",
-    "addedAt": "2026-05-05T17:44:39.782Z",
-    "finalJson": {
-      "roleTitle": "Marketing Director",
-      "location": "Remote",
-      "facilityType": "A leading healthcare organization",
-      "description": "We are seeking a dynamic and experienced Marketing Director to join our team. This remote role offers the opportunity to lead comprehensive marketing initiatives, driving brand awareness and engagement for a premier healthcare organization. You will be instrumental in shaping our market presence and connecting with our audience through innovative strategies.\n\nThis position offers flexibility for interviews, with scheduling available Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your schedule. We are looking for a proactive leader ready to make a significant impact in a fast-paced environment.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Bachelor's degree in Marketing, Business, or a related field",
-        "5+ years of progressive experience in marketing, with leadership responsibilities",
-        "Proven track record of developing and executing successful marketing strategies",
-        "Strong understanding of digital marketing, content creation, and brand management",
-        "Excellent communication, analytical, and project management skills"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "marketer___marketing_director_remote_remote"
-    }
-  },
   "pt_prn_rn__urgent___47_hr__traveling_orlando__fl": {
     "signature": "0e87d5fb739f932f227add1830b5f73d",
     "addedAt": "2026-05-05T19:47:03.422Z",
@@ -1702,50 +1463,6 @@
       "salaryOrBonusInfo": "Competitive hourly rate of $47/hr.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_prn_rn__urgent___47_hr__traveling_orlando__fl"
-    }
-  },
-  "ft_rn___47_hr__traveling_phoenix__az": {
-    "signature": "559503f6b0969481de5b12b708d090ad",
-    "addedAt": "2026-05-05T19:47:03.423Z",
-    "finalJson": {
-      "roleTitle": "Registered Nurse (RN)",
-      "location": "Phoenix, AZ",
-      "facilityType": "Healthcare Facility",
-      "description": "Join a dedicated team at a reputable healthcare facility in Phoenix, AZ, as a Full-time Registered Nurse. This is an excellent opportunity for a compassionate and skilled RN to provide high-quality patient care in a dynamic environment. We are actively seeking candidates who are passionate about making a difference in patients' lives.\n\nWe understand the importance of work-life balance and offer flexible interview scheduling, including weekdays from 1 PM to 7 PM and over the weekend as needed, to accommodate your availability. This role offers a competitive hourly rate, reflecting our commitment to attracting top talent. If you are ready to advance your nursing career, we encourage you to apply today.",
-      "contractType": "Full-time",
-      "salaryShort": "$47.00/hr",
-      "requirements": [
-        "Current Registered Nurse (RN) license in Arizona",
-        "Minimum of 1 year of experience as a Registered Nurse",
-        "BLS certification",
-        "Strong clinical assessment and critical thinking skills",
-        "Ability to work effectively in a fast-paced healthcare setting"
-      ],
-      "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $47.00.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "ft_rn___47_hr__traveling_phoenix__az"
-    }
-  },
-  "pt_prn_rn___47_hr__traveling_phoenix__az": {
-    "signature": "41e82c3810a440479031c02b968dea31",
-    "addedAt": "2026-05-05T19:47:03.423Z",
-    "finalJson": {
-      "roleTitle": "Registered Nurse (RN)",
-      "location": "Phoenix, AZ",
-      "facilityType": "Various Healthcare Settings",
-      "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) for a Part-time/PRN opportunity in Phoenix, AZ. This role offers a competitive hourly rate and the flexibility to manage your schedule while providing essential patient care across various healthcare environments.\n\nThis position is ideal for an RN looking for flexible hours, including evenings and weekends as needed. We offer convenient interview scheduling Monday through Friday from 1PM-7PM, with weekend options available to accommodate your availability. Join a team committed to delivering high-quality care.",
-      "contractType": "Part-time/PRN",
-      "salaryShort": "$47/hr",
-      "requirements": [
-        "Valid Registered Nurse (RN) license in Arizona",
-        "Current BLS certification",
-        "Minimum of 1 year of clinical nursing experience",
-        "Ability to work flexible hours, including evenings and weekends as needed",
-        "Strong patient assessment and critical thinking skills"
-      ],
-      "salaryOrBonusInfo": "This Part-time/PRN role offers a competitive hourly rate of $47/hr.",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "pt_prn_rn___47_hr__traveling_phoenix__az"
     }
   },
   "ft_pt___65_per_visit__traveling_alpine__al": {
@@ -1832,6 +1549,49 @@
       "salaryOrBonusInfo": "$47/hr",
       "applyLink": "https://navahc.com/candidates/",
       "id": "ft_rn__urgent___47_hr__traveling_orlando__fl"
+    }
+  },
+  "ft_marketer___marketing_director__70_80k__remote_remote": {
+    "signature": "b5d9c77ae7e6061045e48923f445cff2",
+    "addedAt": "2026-05-06T18:24:59.900Z",
+    "finalJson": {
+      "roleTitle": "Marketing Director",
+      "location": "Remote",
+      "facilityType": "Healthcare Organization",
+      "description": "We are seeking a dedicated and experienced Full-time Marketing Director to join our team. This is a fully remote opportunity, offering the flexibility to work from anywhere while contributing to a dynamic healthcare environment. We are looking for a strategic thinker with a passion for driving marketing initiatives.\n\nThis role offers a competitive annual salary. We understand the importance of work-life balance and offer flexible interview scheduling, including Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your availability.",
+      "contractType": "Full-time",
+      "salaryShort": "$70,000 - $80,000 per year",
+      "requirements": [
+        "Proven experience in marketing, preferably within the healthcare sector",
+        "Demonstrated ability to develop and execute marketing strategies",
+        "Strong communication and interpersonal skills",
+        "Ability to work independently in a remote environment",
+        "Bachelor's degree in Marketing, Business, or a related field"
+      ],
+      "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_marketer___marketing_director__70_80k__remote_remote"
+    }
+  },
+  "pt_prn_pta__urgent___35_per_visit__traveling_helena__al": {
+    "signature": "10751f920ad522513bc165e9b385d9a6",
+    "addedAt": "2026-05-06T18:24:59.901Z",
+    "finalJson": {
+      "roleTitle": "Physical Therapist Assistant (PTA)",
+      "location": "Helena, AL",
+      "facilityType": "Home Health Setting",
+      "description": "We are urgently seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join our team in Helena, AL. This is an excellent opportunity for a motivated professional looking for a flexible Part-time/PRN role, offering a competitive rate of $35 per visit. \n\nIn this role, you will provide essential physical therapy services to patients in a home health setting, helping them regain mobility, reduce pain, and improve their overall quality of life. You will work collaboratively with a multidisciplinary team to implement individualized treatment plans, ensuring patient-centered care and positive outcomes.",
+      "contractType": "Part-time/PRN",
+      "salaryShort": "$35 per visit",
+      "requirements": [
+        "Current Physical Therapist Assistant (PTA) license in Alabama",
+        "CPR certification",
+        "Valid driver's license and reliable transportation",
+        "Experience in a home health or community-based setting preferred"
+      ],
+      "salaryOrBonusInfo": "$35 per visit",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "pt_prn_pta__urgent___35_per_visit__traveling_helena__al"
     }
   }
 }
