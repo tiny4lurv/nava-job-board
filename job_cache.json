@@ -634,45 +634,45 @@
     }
   },
   "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la": {
-    "signature": "803af3c9f86cd32f8ad57e4120822aae",
-    "addedAt": "2026-04-30T16:26:14.550Z",
+    "signature": "9c35308c9187046c97e5f8e2aa8e1b92",
+    "addedAt": "2026-05-06T23:57:38.170Z",
     "finalJson": {
       "roleTitle": "Regional Director/VP of Operations",
       "location": "Los Angeles, CA",
-      "facilityType": "Healthcare System",
-      "description": "An urgent and exceptional opportunity awaits an experienced Regional Director/VP of Operations to lead a dynamic healthcare system. This pivotal role involves overseeing multi-site operations, driving financial performance, and ensuring the highest standards of patient care and regulatory compliance across a portfolio of facilities. We are seeking a visionary leader ready to make an immediate impact.\n\nThis position offers a highly competitive compensation package, ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance for the ideal candidate. If you are a proven leader with a track record of operational excellence and a passion for healthcare, we encourage you to apply promptly.",
+      "facilityType": "Multi-facility Healthcare Organization",
+      "description": "An urgent and exceptional opportunity awaits an experienced Regional Director/VP of Operations to lead a network of healthcare facilities in the vibrant Los Angeles area. This critical role is perfect for a visionary leader ready to drive operational excellence and strategic growth across multiple sites, with a highly competitive compensation package and relocation support.\n\nWe are seeking a dynamic and results-oriented professional who can ensure top-tier performance and foster a culture of quality and efficiency. This is a chance to make a significant impact within a premier organization, offering substantial career advancement and the stability of a full-time, non-traveling position.",
       "contractType": "Full-time",
       "salaryShort": "$200,000 - $300,000+ per year",
       "requirements": [
-        "Must be LNHA (Licensed Nursing Home Administrator) certified.",
+        "Must be local to or willing to relocate to the Los Angeles area (no travel required).",
+        "Current LNHA (Licensed Nursing Home Administrator) certification is required.",
         "Proven experience in multi-site healthcare operations leadership.",
-        "Strong financial acumen and P&L management experience.",
-        "Demonstrated ability to drive operational excellence and regulatory compliance.",
-        "Bachelor's degree in Healthcare Administration, Business, or a related field."
+        "Strong background in financial management and operational efficiency.",
+        "Demonstrated ability to drive performance and achieve strategic goals."
       ],
-      "salaryOrBonusInfo": "Compensation ranges from $200,000 to $300,000+ annually, with relocation assistance available.",
+      "salaryOrBonusInfo": "This urgent opportunity offers a highly competitive compensation package ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la"
     }
   },
   "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky": {
-    "signature": "53edd77c77d7f833108452d969f71cea",
-    "addedAt": "2026-04-30T16:26:14.550Z",
+    "signature": "64f81860143c10cd95b971a45aad9b1c",
+    "addedAt": "2026-05-06T23:57:38.170Z",
     "finalJson": {
       "roleTitle": "Experienced Regional Director/VP of Operations",
       "location": "Kentucky",
-      "facilityType": "A leading healthcare organization with multiple facilities",
-      "description": "We are urgently seeking an experienced Regional Director/VP of Operations to lead and optimize performance across a network of healthcare facilities in Kentucky. This pivotal role offers a unique opportunity to drive operational excellence, ensure high-quality patient care, and achieve strategic objectives within a dynamic environment.\n\nThe successful candidate will be instrumental in overseeing multi-site operations, fostering a culture of continuous improvement, and ensuring regulatory compliance. This urgent opening comes with a highly competitive salary package, ranging from $200,000 to $300,000+ per year, along with comprehensive relocation assistance for the right leader.",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are urgently seeking an experienced and dynamic Regional Director/VP of Operations to oversee multiple facilities within Kentucky. This critical leadership role offers a unique opportunity to drive operational excellence and strategic growth for a premier skilled nursing and rehabilitation organization.\n\nThis position comes with a highly competitive compensation package, ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance for qualified candidates. We are looking for a leader who is either local to Kentucky or willing to relocate, as this role requires no travel.\n\nIf you are a proven leader with a passion for delivering exceptional patient care and operational results, we encourage you to apply. This is an urgent hire, and we are looking to fill this vital position quickly.",
       "contractType": "Full-time",
       "salaryShort": "$200,000 - $300,000+ per year",
       "requirements": [
-        "Must be LNHA certified",
-        "Proven experience in multi-site healthcare operations management",
-        "Strong leadership and financial management skills",
-        "Demonstrated ability to drive operational efficiency and quality outcomes",
-        "In-depth knowledge of healthcare regulations and compliance"
+        "Must be local to Kentucky or willing to relocate",
+        "Current and active LNHA (Licensed Nursing Home Administrator) certification",
+        "Proven experience in a multi-facility regional leadership role (e.g., Regional Director, VP of Operations)",
+        "Strong background in skilled nursing or long-term care operations",
+        "Demonstrated ability to drive financial performance and operational efficiency"
       ],
-      "salaryOrBonusInfo": "Compensation ranges from $200,000 to $300,000+ per year, with relocation assistance available.",
+      "salaryOrBonusInfo": "Highly competitive salary ranging from $200,000 - $300,000+ per year, plus comprehensive relocation assistance.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky"
     }
@@ -1592,6 +1592,50 @@
       "salaryOrBonusInfo": "$35 per visit",
       "applyLink": "https://navahc.com/candidates/",
       "id": "pt_prn_pta__urgent___35_per_visit__traveling_helena__al"
+    }
+  },
+  "pt_prn_cota__urgent___35_per_visit__traveling_helena__al": {
+    "signature": "3864d96fac421635b20f9c63bb7034b1",
+    "addedAt": "2026-05-06T23:57:38.170Z",
+    "finalJson": {
+      "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+      "location": "Helena, AL",
+      "facilityType": "Home Health Agency",
+      "description": "We are urgently seeking a dedicated Part-time/PRN Certified Occupational Therapy Assistant (COTA) to join a community-based healthcare provider in Helena, AL. This is an excellent opportunity for a COTA looking for flexible scheduling and the ability to make a direct impact on patients' lives within their home environment.\n\nIn this vital role, you will assist occupational therapists in implementing treatment plans, providing therapeutic interventions, and documenting patient progress. We offer competitive compensation at $35 per visit. Interview scheduling is flexible, available Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your schedule.",
+      "contractType": "PRN",
+      "salaryShort": "$35 per visit",
+      "requirements": [
+        "Current COTA licensure in Alabama",
+        "Associate's degree from an accredited COTA program",
+        "Experience working as a COTA, preferably in a home health or community setting",
+        "Ability to work independently and manage a caseload",
+        "Valid driver's license and reliable transportation"
+      ],
+      "salaryOrBonusInfo": "Compensation is $35 per visit.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "pt_prn_cota__urgent___35_per_visit__traveling_helena__al"
+    }
+  },
+  "pt_prn_nurse__urgent___35__47_per_visit__traveling_helena__al": {
+    "signature": "286a725c059a6873feaf393bc51680f3",
+    "addedAt": "2026-05-06T23:57:38.170Z",
+    "finalJson": {
+      "roleTitle": "PRN/Part-Time Nurse",
+      "location": "Helena, AL",
+      "facilityType": "A leading home health agency",
+      "description": "We are urgently seeking a dedicated and compassionate PRN/Part-Time Nurse to join our team in Helena, AL. This role offers excellent per-visit compensation and the flexibility to manage your schedule while providing essential care to patients in their homes. If you are looking for a rewarding opportunity with immediate impact, we encourage you to apply.\n\nThis position is ideal for nurses seeking flexible hours and competitive pay. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule and expedite the hiring process. Join a team committed to patient well-being and professional growth.",
+      "contractType": "Part-time/PRN",
+      "salaryShort": "$35-$47 per visit",
+      "requirements": [
+        "Active and unrestricted RN or LPN license in Alabama",
+        "Prior experience in home health or a similar community-based setting",
+        "Reliable transportation and ability to travel to patient homes",
+        "Strong clinical assessment, documentation, and communication skills",
+        "Current BLS/CPR certification"
+      ],
+      "salaryOrBonusInfo": "$35-$47 per visit",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "pt_prn_nurse__urgent___35__47_per_visit__traveling_helena__al"
     }
   }
 }
