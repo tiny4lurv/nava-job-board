@@ -680,24 +680,6 @@
     "id": "experienced_rn_don___85k__95k__sardis_community_nursing_home_sardis__ms"
   },
   {
-    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
-    "location": "Gulfport, MS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time opportunity for the evening shift, offering a competitive hourly rate and the chance to provide essential patient care in a supportive environment.\n\nAs an LPN on the evening shift (3 PM - 11 PM), you will play a crucial role in delivering high-quality care to residents. Responsibilities include medication administration, wound care, monitoring patient conditions, and accurate documentation. We are looking for individuals committed to making a positive impact on the lives of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "$25.00 - $28.00/hr",
-    "requirements": [
-      "Current LPN license in the state of Mississippi",
-      "Ability to work the 3 PM - 11 PM evening shift",
-      "Previous experience in a skilled nursing or long-term care setting is preferred",
-      "Strong clinical assessment and patient care skills",
-      "Basic Life Support (BLS) certification"
-    ],
-    "salaryOrBonusInfo": "$25.00 - $28.00 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "3_ft_pm_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
-  },
-  {
     "roleTitle": "Licensed Practical Nurse (LPN) - PM Shift",
     "location": "Magee, MS",
     "facilityType": "Skilled Nursing Facility",
@@ -1125,59 +1107,6 @@
     "id": "1_pt_prn_ma_traveling_birmingham___montgomery__al"
   },
   {
-    "roleTitle": "Home Health Clinician",
-    "location": "Alpine, AL",
-    "facilityType": "Home Health Agency",
-    "description": "Join a dedicated team providing essential home health services to patients in Alpine, AL and surrounding areas. This role offers the unique opportunity to deliver personalized care in a comfortable home setting, making a direct impact on patient well-being and recovery. We are seeking compassionate and skilled clinicians ready to embrace the flexibility and autonomy of home-based care.\n\nThis position is available for both full-time and part-time commitments, with a competitive per-visit compensation model. We understand the importance of work-life balance and offer flexible scheduling to accommodate your needs. Interviews can be conveniently scheduled Monday through Friday from 1 PM to 7 PM, with weekend options available as needed, to ensure a smooth and efficient hiring process.",
-    "contractType": "Full-time and Part-time",
-    "salaryShort": "$65 per visit",
-    "requirements": [
-      "Active professional license in Alabama (e.g., RN, LPN, PT, OT, SLP)",
-      "Prior experience in home health or community-based care",
-      "Valid driver's license and reliable transportation",
-      "Excellent clinical assessment and documentation skills",
-      "Ability to work independently and manage a flexible schedule"
-    ],
-    "salaryOrBonusInfo": "Compensation is structured at $65 per visit, offering excellent earning potential based on caseload.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt___65_per_visit__traveling_alpine__al"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "location": "Alpine, AL",
-    "facilityType": "Healthcare Facility",
-    "description": "We are seeking a dedicated and compassionate Full-time Registered Nurse (RN) to join our team in Alpine, AL. This is an excellent opportunity for an RN looking for a stable full-time position with competitive hourly pay. You will play a vital role in providing high-quality patient care and contributing to a positive healthcare environment.\n\nWe understand the importance of a smooth hiring process. Interviews can be scheduled flexibly, Monday through Friday from 1 PM to 7 PM, with weekend availability as needed, to accommodate your schedule. We are eager to connect with qualified candidates who are ready to make an immediate impact.",
-    "contractType": "Full-time",
-    "salaryShort": "$47.00/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Alabama",
-      "Current BLS certification",
-      "Strong clinical assessment and patient care skills",
-      "Ability to work effectively in a fast-paced healthcare environment"
-    ],
-    "salaryOrBonusInfo": "$47.00 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___47_hr__traveling_alpine__al"
-  },
-  {
-    "roleTitle": "Full-time Occupational Therapist",
-    "location": "Alpine, AL",
-    "facilityType": "Home Health Agency",
-    "description": "Join a dedicated team as a Full-time Occupational Therapist, providing essential care in a community-based setting. This role offers the opportunity to make a significant impact on patients' lives by delivering high-quality occupational therapy services directly to them.\n\nWe are seeking a passionate and skilled professional to manage a caseload, focusing on patient-centered care and rehabilitation goals. The compensation structure is attractive, offering $65 per visit, reflecting the value of your expertise and commitment. We understand the importance of flexibility and are available to schedule interviews Monday through Friday from 1 PM to 7 PM, with weekend options available as needed, to accommodate your schedule.",
-    "contractType": "Full-time",
-    "salaryShort": "$65 per visit",
-    "requirements": [
-      "Current state licensure as an Occupational Therapist",
-      "Proven experience in occupational therapy, preferably in a home health setting",
-      "Ability to travel to patient homes within the Alpine, AL area",
-      "Strong clinical assessment and documentation skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "$65 per visit",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_ot___65_per_visit__traveling_alpine__al"
-  },
-  {
     "roleTitle": "Vice President of Operations",
     "location": "OKC + Tulsa, OK",
     "facilityType": "Multi-Facility Healthcare Organization",
@@ -1268,18 +1197,36 @@
     "id": "regional_mds____100k__110k___bonus__6_facilities_in_ok_okc___tulsa__ok"
   },
   {
+    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time opportunity offering a competitive hourly rate of $25-$28/hr for evening shifts. As an LPN, you will provide essential patient care, administer medications, and collaborate with the healthcare team to ensure the well-being of residents. The evening shift runs from 3 PM to 11 PM, providing a consistent schedule for those looking to make a significant impact during these crucial hours. This role is ideal for LPNs committed to delivering high-quality care in a supportive environment. Join a team that values your expertise and dedication to patient health.",
+    "contractType": "Full-time",
+    "salaryShort": "$25-$28/hr",
+    "requirements": [
+      "Active and unrestricted Licensed Practical Nurse (LPN) license in Mississippi",
+      "Ability to work full-time evening shifts (3 PM - 11 PM)",
+      "Current CPR certification",
+      "Strong clinical skills and a commitment to patient-centered care",
+      "Minimum of 1 year of experience in a skilled nursing or long-term care setting preferred"
+    ],
+    "salaryOrBonusInfo": "$25-$28/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_ft_pm_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
+  },
+  {
     "roleTitle": "Marketing Director",
     "location": "Remote",
-    "facilityType": "Healthcare Organization",
-    "description": "We are seeking a dedicated and experienced Full-time Marketing Director to join our team. This is a fully remote opportunity, offering the flexibility to work from anywhere while contributing to a dynamic healthcare environment. We are looking for a strategic thinker with a passion for driving marketing initiatives.\n\nThis role offers a competitive annual salary. We understand the importance of work-life balance and offer flexible interview scheduling, including Monday through Friday from 1 PM to 7 PM, and over the weekend as needed, to accommodate your availability.",
+    "facilityType": "A leading healthcare organization",
+    "description": "We are seeking a dynamic and experienced Marketing Director to join our team in a fully remote capacity. This is an exciting opportunity to lead marketing initiatives for a growing healthcare organization, driving brand awareness and engagement across various platforms. If you are a results-oriented marketing professional with a passion for healthcare, we encourage you to apply and contribute to our mission.\n\nIn this pivotal role, you will be responsible for developing and executing comprehensive marketing strategies, managing digital campaigns, and collaborating with internal teams to achieve organizational goals. We offer flexible interview scheduling, including weekdays from 1 PM to 7 PM and over weekends as needed, to accommodate your availability and expedite the hiring process.",
     "contractType": "Full-time",
     "salaryShort": "$70,000 - $80,000 per year",
     "requirements": [
-      "Proven experience in marketing, preferably within the healthcare sector",
-      "Demonstrated ability to develop and execute marketing strategies",
-      "Strong communication and interpersonal skills",
-      "Ability to work independently in a remote environment",
-      "Bachelor's degree in Marketing, Business, or a related field"
+      "Bachelor's degree in Marketing, Business, or a related field",
+      "3+ years of progressive marketing experience, preferably in the healthcare sector",
+      "Proven ability to develop and execute successful marketing strategies",
+      "Strong digital marketing skills, including SEO, SEM, and social media management",
+      "Excellent communication and interpersonal skills, with the ability to work effectively in a remote environment"
     ],
     "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000.",
     "applyLink": "https://navahc.com/candidates/",
@@ -1288,18 +1235,71 @@
   {
     "roleTitle": "Physical Therapist Assistant (PTA)",
     "location": "Helena, AL",
-    "facilityType": "Home Health Setting",
-    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join our team in Helena, AL. This is an excellent opportunity for a motivated professional looking for a flexible Part-time/PRN role, offering a competitive rate of $35 per visit. \n\nIn this role, you will provide essential physical therapy services to patients in a home health setting, helping them regain mobility, reduce pain, and improve their overall quality of life. You will work collaboratively with a multidisciplinary team to implement individualized treatment plans, ensuring patient-centered care and positive outcomes.",
+    "facilityType": "Home Health Services",
+    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join our team in Helena, AL. This is an excellent opportunity for a professional looking for a flexible per-visit role, offering competitive compensation for each patient interaction.\n\nIn this role, you will provide essential physical therapy services to patients in their homes, contributing to their recovery and improved quality of life. We value flexibility and are accommodating interview schedules Monday-Friday from 1PM-7PM, with weekend options available as needed. If you are a motivated PTA ready to make an immediate impact, we encourage you to apply.",
     "contractType": "Part-time/PRN",
     "salaryShort": "$35 per visit",
     "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Alabama",
-      "CPR certification",
-      "Valid driver's license and reliable transportation",
-      "Experience in a home health or community-based setting preferred"
+      "Current and valid Physical Therapist Assistant (PTA) license in Alabama",
+      "Prior experience in home health or a similar mobile therapy setting preferred",
+      "Ability to travel to patient locations within the Helena area",
+      "Strong clinical assessment and documentation skills",
+      "Excellent interpersonal and communication abilities"
     ],
     "salaryOrBonusInfo": "$35 per visit",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pt_prn_pta__urgent___35_per_visit__traveling_helena__al"
+  },
+  {
+    "roleTitle": "Home Health Nurse (FT/PT)",
+    "location": "Alpine, AL",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking dedicated and compassionate Home Health Nurses to join a dynamic team serving patients in Alpine, AL. This is an excellent opportunity for both full-time and part-time professionals looking for flexibility and a rewarding per-visit compensation model. You will play a crucial role in providing high-quality, patient-centered care in the comfort of their homes, fostering independence and improving overall well-being.This role offers a competitive pay structure of $65 per visit, recognizing your expertise and commitment. We understand the demands of your schedule, and to accommodate, interviews can be conveniently scheduled Monday through Friday from 1 PM to 7 PM, with weekend options available as needed. Join a supportive environment where your skills are valued, and you can make a tangible difference in the lives of individuals within the community.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Valid nursing license (RN or LPN) in Alabama",
+      "Experience in home health or a related clinical setting",
+      "Valid driver's license and reliable transportation",
+      "Ability to work independently and manage a caseload"
+    ],
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt___65_per_visit__traveling_alpine__al"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "location": "Alpine, AL",
+    "facilityType": "Healthcare Facility",
+    "description": "We are seeking a dedicated Full-time Registered Nurse (RN) to join a dynamic healthcare team in Alpine, AL. This role offers a competitive hourly rate and the opportunity to provide essential patient care within a supportive environment.\n\nAs a Full-time RN, you will be responsible for delivering high-quality nursing care, assessing patient needs, and collaborating with other healthcare professionals to ensure optimal patient outcomes. We value nurses who are passionate about their work and committed to making a difference in patients' lives.\n\nWe understand the importance of flexibility for our candidates. Interviews can be conveniently scheduled Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule.",
+    "contractType": "Full-time",
+    "salaryShort": "$47.00/hr",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Ability to work full-time",
+      "Commitment to providing high-quality patient care",
+      "Effective communication skills"
+    ],
+    "salaryOrBonusInfo": "Competitive hourly rate of $47.00 per hour.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___47_hr__traveling_alpine__al"
+  },
+  {
+    "roleTitle": "Occupational Therapist",
+    "location": "Alpine, AL",
+    "facilityType": "Home Health Agency",
+    "description": "Join a leading home health agency dedicated to providing exceptional care to patients in Alpine, AL and surrounding areas. We are seeking a passionate and skilled Full-time Occupational Therapist to deliver high-quality, patient-centered therapy services in a home-based setting. This role offers the opportunity to make a significant impact on patients' lives by helping them regain independence and improve their quality of life within their own homes.\n\nThis full-time position offers a competitive rate of $65 per visit, providing excellent earning potential for dedicated professionals. We value work-life balance and offer flexibility in scheduling. The hiring manager is available for interviews Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your schedule and expedite the hiring process. If you are an Occupational Therapist looking for a rewarding role with a focus on patient well-being and professional autonomy, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Valid Occupational Therapist (OT) license in Alabama",
+      "Previous experience in home health or a similar setting preferred",
+      "Strong clinical assessment and documentation skills",
+      "Ability to work independently and manage a caseload effectively",
+      "Current CPR certification"
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_ot___65_per_visit__traveling_alpine__al"
   }
 ]
