@@ -217,27 +217,6 @@
       "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
     }
   },
-  "1_pm_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "523db849a41a3e991fae2290d55ac98e",
-    "addedAt": "2026-05-04T18:23:01.774Z",
-    "finalJson": {
-      "roleTitle": "PM Nurse",
-      "location": "Red Bay, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated and compassionate PM Nurse to join a premier health and rehabilitation center in Red Bay, AL. This full-time position involves working 12-hour shifts, starting at 1 PM, providing essential care and support to residents during the evening and overnight hours.In this vital role, you will be responsible for administering medications, performing treatments, monitoring patient conditions, and ensuring accurate documentation. You will play a key part in maintaining the highest standards of patient care and contributing to a supportive and professional environment.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Active Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in Alabama.",
-        "Current BLS/CPR certification.",
-        "Minimum of 1 year of nursing experience, preferably in a skilled nursing or long-term care setting.",
-        "Ability to work 12-hour PM shifts."
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "1_pm_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
-    }
-  },
   "coo_susan_strauss_design_lakewood__nj": {
     "signature": "1a388072f9cc8f5b17ba8e795bd769a3",
     "addedAt": "2026-04-22T20:15:25.339Z",
@@ -851,72 +830,6 @@
       "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
     }
   },
-  "2_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "f5320123bb64711bf22d1241d43c95e9",
-    "addedAt": "2026-05-04T18:23:01.774Z",
-    "finalJson": {
-      "roleTitle": "Certified Nursing Assistant (CNA)",
-      "location": "Red Bay, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and wellness center in Red Bay, AL. This is a full-time opportunity for individuals committed to providing exceptional care during the PM shift. If you are passionate about making a difference in residents' lives, we encourage you to apply.\n\nIn this vital role, you will assist residents with activities of daily living, including bathing, dressing, grooming, and feeding. You will also be responsible for monitoring vital signs, documenting observations, and reporting any changes in resident condition to the nursing staff. Your commitment to providing a supportive and respectful environment will be key to our residents' well-being.\n\nJoin a team that values your dedication and provides a supportive work environment. This is an excellent opportunity for CNAs looking for stable full-time employment on the evening shift.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Current Certified Nursing Assistant (CNA) certification in Alabama",
-        "High school diploma or GED",
-        "Ability to work full-time PM shifts",
-        "Prior experience in a skilled nursing or long-term care environment is preferred",
-        "Strong communication and interpersonal skills"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al"
-    }
-  },
-  "2_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
-    "signature": "dbe8d02fbc83c2096497e5e26b5a00a5",
-    "addedAt": "2026-05-04T18:23:01.774Z",
-    "finalJson": {
-      "roleTitle": "Night Shift Nurse (RN/LPN)",
-      "location": "Red Bay, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join a premier skilled nursing facility in Red Bay, AL. This full-time position involves working 12-hour shifts, providing essential care and support to residents during the overnight hours. This is an excellent opportunity to contribute to a supportive team environment focused on patient well-being.\n\nThe Night Shift Nurse will be responsible for administering medications, performing treatments, monitoring patient conditions, and documenting care accurately. You will play a crucial role in ensuring the comfort and safety of residents, responding to emergencies, and collaborating with other healthcare professionals to deliver high-quality care.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Active RN or LPN license in the state of Alabama",
-        "Minimum of 1 year of experience in a skilled nursing or long-term care setting preferred",
-        "Ability to work 12-hour night shifts",
-        "Current Basic Life Support (BLS) certification",
-        "Strong assessment and critical thinking skills"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "2_am_nurse__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
-    }
-  },
-  "4_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al": {
-    "signature": "21fc898145386bd3d5ee7b95ba3326d3",
-    "addedAt": "2026-05-01T00:01:26.145Z",
-    "finalJson": {
-      "roleTitle": "Certified Nursing Assistant (CNA)",
-      "location": "Vernon, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, committed to providing exceptional care to residents. We are seeking compassionate and skilled Certified Nursing Assistants to join our team for full-time AM shifts. This is an excellent opportunity to make a significant impact on the daily lives of our residents, contributing to their comfort and well-being.In this vital role, you will assist residents with activities of daily living, monitor their health status, and ensure a supportive and respectful environment. We value teamwork and a commitment to high-quality patient care. If you are a motivated CNA looking for a rewarding full-time position with consistent AM hours, we encourage you to apply.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Current Certified Nursing Assistant (CNA) certification in Alabama",
-        "Ability to work full-time AM shifts",
-        "Compassionate and patient-centered approach to care",
-        "Strong communication and interpersonal skills",
-        "Ability to assist residents with activities of daily living and perform physical tasks as required"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "4_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
-    }
-  },
   "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al": {
     "signature": "4367636089e799ab54d1df5125e58b49",
     "addedAt": "2026-05-01T00:01:26.145Z",
@@ -937,28 +850,6 @@
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
       "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
-    }
-  },
-  "3_am_nurse_arabella_health___wellness_of_vernon_vernon__al": {
-    "signature": "1aa7329d89c0c6a7e6f5d2a105d33506",
-    "addedAt": "2026-05-01T00:01:26.145Z",
-    "finalJson": {
-      "roleTitle": "Night Shift Nurse (RN/LPN)",
-      "location": "Vernon, AL",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join a reputable skilled nursing facility in Vernon, AL. This vital role involves providing exceptional patient care during the early morning hours, ensuring the well-being and comfort of residents. As a Night Shift Nurse, you will be responsible for administering medications, monitoring patient conditions, documenting care, and collaborating with the healthcare team to implement care plans. Your expertise will contribute significantly to maintaining a high standard of care and a safe environment for our residents. This is an excellent opportunity for a nurse who thrives in an independent setting and is committed to making a difference in the lives of others. Join a supportive team dedicated to providing quality care.",
-      "contractType": "Full-time",
-      "salaryShort": "",
-      "requirements": [
-        "Current and valid RN or LPN license in the state of Alabama",
-        "Basic Life Support (BLS) certification",
-        "Prior experience in a skilled nursing or long-term care setting preferred",
-        "Ability to work the night/early morning shift",
-        "Strong clinical assessment and documentation skills"
-      ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/",
-      "id": "3_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
     }
   },
   "pt_medical_billing___coding___25__27_hr__remote_remote": {
@@ -1916,6 +1807,376 @@
       "salaryOrBonusInfo": "Hourly rate of $25-$28, based on experience.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "3_ft_am_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
+    }
+  },
+  "1_ft_housekeepers_arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "3e1d735b4131df61e6afb5c83a1294ae",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Housekeeper",
+      "location": "Red Bay, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated Full-time Housekeeper to join a premier skilled nursing facility in Red Bay, AL. This is an excellent opportunity for an individual committed to maintaining a clean, safe, and welcoming environment for residents, staff, and visitors.\n\nIn this vital role, you will be responsible for performing a variety of cleaning tasks to ensure the facility meets the highest standards of hygiene and sanitation. Your duties will include cleaning resident rooms, common areas, and offices, as well as handling waste disposal and maintaining equipment. Your attention to detail will directly contribute to the comfort and well-being of our residents.\n\nIf you are a meticulous and reliable professional looking to make a significant impact in a supportive healthcare setting, we encourage you to apply. Join a team that values your contribution to a positive living and working environment.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "High School Diploma or GED preferred",
+        "Previous experience in housekeeping, preferably in a healthcare or long-term care setting",
+        "Knowledge of cleaning chemicals and equipment",
+        "Ability to follow safety and sanitation protocols",
+        "Physical ability to stand, walk, bend, and lift as required"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_housekeepers_arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "3_ft_am_cna_s_arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "bcb403e4c35c7e876263d23226005b82",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "location": "Red Bay, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "Join a premier skilled nursing facility in Red Bay, AL, dedicated to providing exceptional care to its residents. We are actively seeking three dedicated Certified Nursing Assistants to join our compassionate team on a full-time basis for morning shifts. This is an excellent opportunity to make a significant impact in a supportive environment.As a CNA, you will play a vital role in assisting residents with daily living activities, ensuring their comfort, and contributing to a positive and healing atmosphere. We are looking for individuals who are passionate about patient care and eager to contribute to a team-oriented setting. Apply today to learn more about this immediate opening.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current Certified Nursing Assistant (CNA) certification in Alabama",
+        "High school diploma or GED",
+        "Ability to work full-time morning shifts",
+        "Strong communication and interpersonal skills",
+        "Commitment to providing compassionate patient care"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "3_ft_am_cna_s_arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "1_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "ff42a5683748191f68d0ff89d56981b4",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "location": "Red Bay, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated and compassionate Full-time Certified Nursing Assistant (CNA) to join our team for PM shifts at a reputable skilled nursing facility in Red Bay, AL. This is an excellent opportunity to provide essential care and support to residents, contributing significantly to their well-being and quality of life.In this vital role, you will assist residents with activities of daily living, monitor vital signs, and ensure a safe and comfortable environment. We are looking for individuals who are passionate about patient care and eager to make a positive impact every day. Join a supportive team committed to delivering exceptional healthcare services.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Certified Nursing Assistant (CNA) license in Alabama.",
+        "Ability to work full-time PM shifts.",
+        "Prior experience in a skilled nursing or long-term care setting preferred.",
+        "Strong communication and interpersonal skills.",
+        "Compassionate and patient-centered approach to care."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_pm_cna_s_arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "e4e1341634e75b31e92313f9f05c7341",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "PM Nurse",
+      "location": "Red Bay, AL",
+      "facilityType": "Health and Rehabilitation Center",
+      "description": "We are urgently seeking a dedicated PM Nurse to join a premier health and rehabilitation center in Red Bay, AL. This full-time role involves working 12-hour shifts, providing essential care and support to our residents during the evening and night hours. If you are a compassionate and skilled nurse looking for an immediate opportunity to make a significant impact, we encourage you to apply.\n\nIn this vital position, you will be responsible for medication administration, patient assessments, wound care, and collaborating with a multidisciplinary team to ensure the highest quality of patient care. We are looking for a proactive individual who thrives in a fast-paced environment and is committed to upholding excellent standards of nursing practice. Join a team that values your expertise and dedication.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active RN or LPN license in the state of Alabama.",
+        "Minimum of 1 year of experience in a skilled nursing facility or long-term care setting.",
+        "Ability to work 12-hour PM shifts, including weekends and holidays as needed.",
+        "Strong clinical assessment, critical thinking, and communication skills.",
+        "Current BLS certification."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "2_am_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "b3659c7f449652423f6acc60bdf39fb5",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Registered Nurse (RN)",
+      "location": "Red Bay, AL",
+      "facilityType": "Health and Rehabilitation Center",
+      "description": "We are urgently seeking a dedicated Registered Nurse (RN) to join a premier health and rehabilitation center in Red Bay, AL. This is an immediate opening for a compassionate and skilled nurse ready to make a significant impact on patient care.The ideal candidate will thrive in a fast-paced environment, providing high-quality nursing care during 12-hour shifts, starting at 2 AM. Responsibilities include medication administration, patient assessments, care plan implementation, and collaborating with a multidisciplinary team to ensure optimal patient outcomes.This is an excellent opportunity for an RN looking for a challenging yet rewarding role with a focus on patient well-being.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Valid Alabama Registered Nurse (RN) license",
+        "Current BLS certification",
+        "Minimum of 1 year of experience in a skilled nursing or rehabilitation setting preferred",
+        "Ability to work 12-hour night shifts, starting at 2 AM",
+        "Strong clinical assessment and documentation skills"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_am_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "1_pt__diatery_cook_arabella_health___wellness_of_red_bay_red_bay__al": {
+    "signature": "feb4ac276c26b4f067d3160023a53ea6",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Part-Time Dietary Cook",
+      "location": "Red Bay, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated Part-Time Dietary Cook to join a premier health and wellness center in Red Bay, AL. This role offers an excellent opportunity for a culinary professional to contribute to the well-being of residents by preparing nutritious and appealing meals.\n\nAs a key member of the dietary team, you will play an important part in ensuring high-quality food service. This part-time position is ideal for someone looking for a flexible schedule in a supportive environment.\n\nIf you are passionate about food preparation and eager to make a difference in a healthcare setting, we encourage you to apply.",
+      "contractType": "Part-time",
+      "salaryShort": "",
+      "requirements": [
+        "Experience in food preparation",
+        "Understanding of food safety principles",
+        "Ability to follow instructions and recipes",
+        "Reliable and punctual"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_pt__diatery_cook_arabella_health___wellness_of_red_bay_red_bay__al"
+    }
+  },
+  "lcsw__urgent__arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "4713c2096bd1f1503566e65c2d5247b4",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Licensed Clinical Social Worker",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are urgently seeking a dedicated and compassionate Licensed Clinical Social Worker (LCSW) to join a premier health and rehabilitation center in Vernon, AL. This is a critical opportunity to make a significant impact on the lives of residents by providing essential psychosocial support and guidance.\n\nIn this vital role, you will conduct psychosocial assessments, provide counseling, assist with discharge planning, and collaborate with an interdisciplinary team to ensure comprehensive patient care. We are looking for a proactive professional ready to contribute to a supportive and dynamic environment.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Master's Degree in Social Work (MSW)",
+        "Active Licensed Clinical Social Worker (LCSW) license in Alabama",
+        "Experience in a healthcare or skilled nursing facility setting preferred",
+        "Strong communication and interpersonal skills"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "lcsw__urgent__arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "5_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "3b3bb8d0f13f80cce79de615b59ad71e",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "Join a dedicated team at a premier skilled nursing facility in Vernon, AL, as a Full-time Certified Nursing Assistant (CNA) for the AM shift. This is an excellent opportunity to provide essential direct patient care and support the daily needs of residents, contributing significantly to their well-being and quality of life.\n\nIn this vital role, you will assist residents with activities of daily living, including personal hygiene, mobility, and feeding, while maintaining a compassionate and respectful environment. We are seeking individuals who are committed to delivering high-quality care and working collaboratively within a supportive healthcare setting.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Certified Nursing Assistant (CNA) certification in Alabama",
+        "High school diploma or equivalent",
+        "Ability to work the AM shift on a full-time basis",
+        "Strong communication and interpersonal skills",
+        "Commitment to providing compassionate patient care"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "5_ft_am_cna_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "1_ft_floor_tech_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "1f4e1cfc433d8b1f12842078c458fc2b",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Floor Technician",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "Join a premier skilled nursing facility in Vernon, AL, as a dedicated Full-time Floor Technician. In this vital role, you will be responsible for maintaining the cleanliness and appearance of all floor surfaces, ensuring a safe and welcoming environment for residents, staff, and visitors. This full-time position offers a stable opportunity to contribute to a compassionate care setting.As a Floor Technician, you will perform a variety of floor care tasks, including sweeping, mopping, waxing, buffing, and stripping floors. You will operate various floor care equipment and adhere to all safety and infection control protocols. We are seeking a detail-oriented individual with a strong work ethic to uphold our high standards of facility maintenance.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "High School Diploma or GED.",
+        "Proven experience in floor care, preferably within a healthcare or similar institutional setting.",
+        "Ability to operate floor care equipment (e.g., buffers, scrubbers).",
+        "Physical ability to stand, walk, bend, and lift throughout the shift.",
+        "Strong attention to detail and commitment to cleanliness."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_floor_tech_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "1_pt_floor_tech_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "fdcc001caecb2345b2938e05994afbad",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Floor Technician",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "Join a premier skilled nursing facility in Vernon, AL, as a Part-time Floor Technician. In this vital role, you will be responsible for maintaining the cleanliness and appearance of all floor surfaces, contributing significantly to a safe and welcoming environment for residents and staff. We are seeking a dedicated individual with a keen eye for detail and a commitment to high standards. You will perform various floor care duties, including stripping, waxing, buffing, and general cleaning, utilizing appropriate equipment and techniques. This is an excellent opportunity to make a direct impact on the daily lives of those we serve.",
+      "contractType": "Part-time",
+      "salaryShort": "",
+      "requirements": [
+        "High School Diploma or GED",
+        "Prior experience in floor care or environmental services, preferably in a healthcare setting",
+        "Proficiency in operating floor care equipment (e.g., buffers, scrubbers)",
+        "Ability to perform physical tasks including lifting, standing, and walking for extended periods",
+        "Strong commitment to maintaining a clean, safe, and sanitary environment"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_pt_floor_tech_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "2_am_nurse_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "cc068af293b4dacacbdbb04362f014ef",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Night Shift Nurse (RN/LPN)",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated and compassionate Night Shift Nurse (RN/LPN) to join the team at a premier health and rehabilitation center in Vernon, AL. This vital role involves providing high-quality patient care during the overnight hours, ensuring the comfort and safety of residents.\n\nAs a Night Shift Nurse, you will be responsible for medication administration, patient assessments, accurate documentation, and responding to any emergent needs. You will collaborate with the healthcare team to maintain a supportive and therapeutic environment, contributing significantly to the well-being of our residents.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active and unrestricted Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in Alabama.",
+        "Current Basic Life Support (BLS) certification.",
+        "Ability to work night shifts.",
+        "Strong clinical assessment and critical thinking skills.",
+        "Experience in a skilled nursing or long-term care setting preferred."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_am_nurse_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "prn_registered_pt_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "5451e09b2acd1dffe3cf35dfcc6b8b00",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "PRN Registered Physical Therapist",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "We are seeking a dedicated and compassionate PRN Registered Physical Therapist to join our team at a premier health and rehabilitation center in Vernon, AL. In this role, you will have the opportunity to make a significant impact on the lives of our residents, providing essential physical therapy services on an as-needed basis.\n\nAs a PRN Physical Therapist, you will be responsible for evaluating patients, developing individualized treatment plans, and implementing therapeutic interventions to help residents regain mobility, reduce pain, and improve their overall quality of life. This is an excellent opportunity for a skilled professional seeking flexibility and a chance to contribute to a supportive healthcare environment.",
+      "contractType": "PRN",
+      "salaryShort": "",
+      "requirements": [
+        "Valid and active Physical Therapist license in the state of Alabama",
+        "Doctorate or Master's degree in Physical Therapy from an accredited program",
+        "Current CPR certification",
+        "Ability to work independently and manage a caseload effectively",
+        "Experience in a skilled nursing or rehabilitation setting preferred"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "prn_registered_pt_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "pt_ot_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "65add23f9392d8827c5faea51fd83ab4",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Physical Therapist / Occupational Therapist",
+      "location": "Vernon, AL",
+      "facilityType": "Rehabilitation Center",
+      "description": "We are seeking a dedicated and compassionate Physical Therapist or Occupational Therapist to join a premier health and rehabilitation center in Vernon, AL. This is an excellent opportunity to make a significant impact on patients' lives, helping them regain independence and improve their quality of life within a supportive and dynamic environment.\n\nIn this role, you will be responsible for assessing patients, developing individualized treatment plans, and implementing therapeutic interventions. You will work with a diverse patient population, utilizing your expertise to restore function, reduce pain, and prevent disability through evidence-based practices.\n\nJoin a team committed to delivering exceptional patient care and fostering professional growth. This position offers the chance to contribute to a positive and healing atmosphere while advancing your career in a facility dedicated to wellness and recovery.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current Alabama state license as a Physical Therapist or Occupational Therapist",
+        "Doctorate or Master's degree from an accredited Physical Therapy or Occupational Therapy program",
+        "Strong clinical assessment and treatment skills",
+        "Ability to work collaboratively in a multidisciplinary team",
+        "Current CPR certification"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "pt_ot_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "ft_ot_arabella_health___wellness_of_vernon_vernon__al": {
+    "signature": "7449392acda85c2d4350699f5020102f",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Occupational Therapist",
+      "location": "Vernon, AL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "Join a dedicated team at a premier health and rehabilitation center in Vernon, AL, committed to providing exceptional patient care. We are seeking a passionate and skilled Occupational Therapist to contribute to our mission of enhancing the quality of life for our residents. This full-time role offers an opportunity to make a significant impact through comprehensive rehabilitation services.\n\nAs an Occupational Therapist, you will be responsible for assessing, planning, and implementing individualized treatment programs to help patients regain independence in daily living activities. You will collaborate with a multidisciplinary team to ensure holistic care and achieve optimal outcomes for each resident. We are looking for a professional who is dedicated to patient well-being and continuous improvement.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Master's or Doctorate degree in Occupational Therapy from an accredited program",
+        "Current and valid Occupational Therapist license in the state of Alabama",
+        "CPR certification",
+        "Previous experience in a skilled nursing or rehabilitation setting preferred",
+        "Strong communication and interpersonal skills"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_ot_arabella_health___wellness_of_vernon_vernon__al"
+    }
+  },
+  "experienced_mri_technician_little_colorado_medical_center_winslow__az": {
+    "signature": "0a336018ca60405d50e789ddf129d4f6",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Experienced MRI Technician",
+      "location": "Winslow, AZ",
+      "facilityType": "Medical Center",
+      "description": "Join a premier medical center in Winslow, AZ, as an Experienced MRI Technician. This is a unique opportunity to be at the forefront of a new initiative, as our facility will be installing its very first MRI machine by November 2026. We are seeking a skilled professional to play a pivotal role in developing and establishing this new program from the ground up.The ideal candidate will bring extensive knowledge of MRI safety protocols and operational best practices. You will be instrumental in ensuring the successful launch and ongoing excellence of our new imaging services. We are looking to fill this critical position by late summer or early fall at the latest, so interested candidates are encouraged to apply promptly.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "A few years of experience as an MRI Technician",
+        "Demonstrated expertise in MRI safety protocols",
+        "Ability to contribute to the development of a new MRI program",
+        "ARRT (MR) certification or equivalent"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "experienced_mri_technician_little_colorado_medical_center_winslow__az"
+    }
+  },
+  "ft_pta___35_per_visit__traveling_alpine__al": {
+    "signature": "7e2f02cea36cfa5215f2bb27037b3581",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Physical Therapist Assistant",
+      "location": "Alpine, AL",
+      "facilityType": "Home Health Services",
+      "description": "We are seeking a dedicated Full-time Physical Therapist Assistant to join a reputable home health services provider in Alpine, AL. This role offers the opportunity to provide essential rehabilitation services to patients in their homes, contributing to their recovery and improved quality of life. The compensation structure is based on a per-visit model, providing a clear and direct earning potential.\n\nCandidates will appreciate the flexibility offered for scheduling interviews, with availability Monday through Friday from 1PM-7PM, and over the weekend as needed. This is an excellent opportunity for a motivated PTA looking for a full-time position with a focus on patient-centered care in a home health setting.",
+      "contractType": "Full-time",
+      "salaryShort": "$35 per visit",
+      "requirements": [
+        "Current Physical Therapist Assistant (PTA) license in Alabama",
+        "Associate's degree from an accredited PTA program",
+        "Valid driver's license and reliable transportation",
+        "Current CPR certification",
+        "Ability to work independently and manage a caseload"
+      ],
+      "salaryOrBonusInfo": "Compensation is $35 per visit.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_pta___35_per_visit__traveling_alpine__al"
+    }
+  },
+  "ft_cota___35_per_visit__traveling_alpine__al": {
+    "signature": "4e476febe3bbac5de6c125869bd1160f",
+    "addedAt": "2026-05-07T20:22:23.745Z",
+    "finalJson": {
+      "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+      "location": "Alpine, AL",
+      "facilityType": "Home Health Agency",
+      "description": "We are seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join a dynamic healthcare team in Alpine, AL. This role offers the opportunity to provide essential therapy services on a per-visit basis, allowing for flexibility and direct impact on patient well-being within a community setting.\n\nThis is an excellent opportunity for a COTA looking for a full-time position with a competitive per-visit compensation model. We are actively scheduling interviews and can accommodate candidates Monday through Friday from 1 PM to 7 PM, as well as over the weekend as needed, to ensure a smooth and timely hiring process.",
+      "contractType": "Full-time",
+      "salaryShort": "$35 per visit",
+      "requirements": [
+        "Current Certified Occupational Therapy Assistant (COTA) license in Alabama",
+        "Experience in home health or community-based therapy preferred",
+        "Ability to travel to patient homes within the Alpine, AL area",
+        "Strong communication and organizational skills"
+      ],
+      "salaryOrBonusInfo": "Compensation is $35 per visit.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_cota___35_per_visit__traveling_alpine__al"
     }
   }
 }
