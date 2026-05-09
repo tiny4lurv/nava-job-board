@@ -1033,24 +1033,6 @@
     "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
-    "roleTitle": "Office Manager / HR Management",
-    "location": "Chicago, IL",
-    "facilityType": "Professional Services Firm",
-    "description": "We are seeking a highly organized and proactive Office Manager / HR Management professional to join a dynamic professional services firm in the vibrant Chicago metropolitan area. This pivotal role is perfect for an individual who thrives in a fast-paced environment and is eager to take on a broad spectrum of responsibilities.\n\nThis position goes beyond traditional payroll and benefits administration. We are looking for someone who can truly \"handle everything\" – from comprehensive office administration and streamlining onboarding processes to managing all aspects of human resources operations. If you are a self-starter with exceptional organizational skills and a desire to ensure smooth daily operations, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience in an Office Manager or HR Management role",
-      "Demonstrated ability to manage comprehensive office administration",
-      "Experience with payroll and benefits administration",
-      "Proficiency in employee onboarding and HR processes",
-      "Strong organizational and multitasking skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rockstar_office_manager___hr_management_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
     "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
     "location": "Sardis, MS",
     "facilityType": "Skilled Nursing Facility",
@@ -1778,5 +1760,23 @@
     "salaryOrBonusInfo": "$100,000 - $110,000 annually, plus bonus potential. Compensation will be higher for the right candidate based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "regional_mds____100k__110k___bonus__6_facilities_in_ok_okc___tulsa__ok"
+  },
+  {
+    "roleTitle": "Operations & HR Coordinator",
+    "location": "Chicago, IL",
+    "facilityType": "Service-based organization",
+    "description": "We are seeking a dynamic and highly organized Operations & HR Coordinator to join a growing service-based organization in the Chicago metropolitan area. This pivotal role is essential for ensuring smooth daily operations and supporting our human resources functions.\n\nThe ideal candidate will be a proactive individual capable of managing a wide range of responsibilities beyond traditional payroll and benefits administration. Key duties will include comprehensive office administration, seamless employee onboarding, and taking ownership of various operational tasks to support the team effectively. This is an excellent opportunity for a versatile professional looking to make a significant impact in a fast-paced environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in an Operations and/or HR Coordinator role",
+      "Strong background in office administration and managing diverse operational tasks",
+      "Demonstrated ability to handle employee onboarding processes efficiently",
+      "Exceptional organizational skills and attention to detail",
+      "Experience within the HVAC industry is a significant advantage"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rockstar_operations___hr_coordinator_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   }
 ]
