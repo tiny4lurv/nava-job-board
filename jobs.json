@@ -979,24 +979,6 @@
     "id": "1_prn_pt_lpn_s__urgent__1099_s___90__120_per_case__3__cases_per_week__travel_dacula__ga"
   },
   {
-    "roleTitle": "Housekeeper",
-    "location": "Bastrop, TX",
-    "facilityType": "Residential Facility",
-    "description": "We are seeking a dedicated and reliable Part-time/PRN Housekeeper to join our team at a residential facility in Bastrop, TX. This role offers flexible hours, typically 6-8 hours per week with potential for more, and provides an excellent opportunity for individuals seeking a flexible work schedule. The compensation for this position is competitive, ranging from $16 to $22 per hour.\n\nThis is an ideal opportunity for someone looking for consistent part-time work with the flexibility to adjust hours as needed. We value attention to detail and a commitment to maintaining a clean and organized environment.",
-    "contractType": "Part-time/PRN",
-    "salaryShort": "$16-$22 per hour",
-    "requirements": [
-      "Experience in housekeeping or a similar role",
-      "Ability to work independently and manage time effectively",
-      "Strong attention to detail and commitment to cleanliness",
-      "Must be able to work as a 1099 independent contractor",
-      "Reliability and punctuality are essential"
-    ],
-    "salaryOrBonusInfo": "$16-$22 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_housekeeper___16__22_per_hour__home_bastrop__tx"
-  },
-  {
     "roleTitle": "Financial Controller",
     "location": "Binghamton, NY / Pittston, PA",
     "facilityType": "Corporate Office",
@@ -1031,24 +1013,6 @@
     "salaryOrBonusInfo": "Hourly rate ranges from $50.00 to $65.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
-  },
-  {
-    "roleTitle": "Operations & HR Coordinator",
-    "location": "Chicago, IL",
-    "facilityType": "Service-based organization",
-    "description": "We are seeking a dynamic and highly organized Operations & HR Coordinator to join a growing service-based organization in the Chicago metropolitan area. This pivotal role is essential for ensuring smooth daily operations and supporting our human resources functions.\n\nThe ideal candidate will be a proactive individual capable of managing a wide range of responsibilities beyond traditional payroll and benefits administration. Key duties will include comprehensive office administration, seamless employee onboarding, and taking ownership of various operational tasks to support the team effectively. This is an excellent opportunity for a versatile professional looking to make a significant impact in a fast-paced environment.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience in an Operations and/or HR Coordinator role",
-      "Strong background in office administration and managing diverse operational tasks",
-      "Demonstrated ability to handle employee onboarding processes efficiently",
-      "Exceptional organizational skills and attention to detail",
-      "Experience within the HVAC industry is a significant advantage"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rockstar_operations___hr_coordinator_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
     "roleTitle": "Director of Nursing (DON) - Registered Nurse (RN)",
@@ -1778,5 +1742,23 @@
     "salaryOrBonusInfo": "$100,000 - $110,000 annually, plus bonus potential. Compensation will be higher for the right candidate based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "regional_mds____100k__110k___bonus__6_facilities_in_ok_okc___tulsa__ok"
+  },
+  {
+    "roleTitle": "Operations & HR Coordinator",
+    "location": "Skokie, IL",
+    "facilityType": "Corporate Office",
+    "description": "We are seeking a highly organized and proactive Operations & HR Coordinator to join a growing company in Skokie, IL. This pivotal role is perfect for a dynamic individual ready to manage a broad spectrum of administrative and human resources responsibilities, contributing significantly to our daily operations.\n\nBeyond traditional payroll and benefits administration, you will be instrumental in comprehensive office management, seamless onboarding of new team members, and ensuring the smooth functioning of all administrative processes. This is an excellent opportunity to take initiative and make a tangible impact within a supportive environment. Experience in the HVAC industry is a significant advantage, demonstrating a valuable understanding of our operational context.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in Human Resources functions, including payroll, benefits, and onboarding.",
+      "Strong background in office administration and general operations management.",
+      "Exceptional organizational skills and the ability to manage multiple priorities effectively.",
+      "Demonstrated ability to take initiative and handle a wide range of responsibilities.",
+      "Experience within the HVAC industry is highly advantageous."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rockstar_operations___hr_coordinator_hq_skokie__il"
   }
 ]
