@@ -20,6 +20,10 @@ const responseSchema = {
       type: SchemaType.STRING,
       description: "A clean, professional job title extracted or inferred from the provided details."
     },
+    roleType: {
+      type: SchemaType.STRING,
+      description: "The category of the role. Must be one of: 'Floor Staff', 'Leadership', 'Support', 'Therapy/Rehabilitation', or 'Other'."
+    },
     location: {
       type: SchemaType.STRING,
       description: "The city and state of the job."
@@ -54,7 +58,7 @@ const responseSchema = {
       description: "Always return exact string 'https://navahc.com/candidates/'"
     }
   },
-  required: ["roleTitle", "location", "facilityType", "description", "contractType", "salaryShort", "requirements", "salaryOrBonusInfo", "applyLink"]
+  required: ["roleTitle", "roleType", "location", "facilityType", "description", "contractType", "salaryShort", "requirements", "salaryOrBonusInfo", "applyLink"]
 };
 
 // We use the gemini-2.5-flash model
@@ -84,6 +88,7 @@ async function generateJobDetails(job) {
     - Location: ${job.location}
     - Hiring Manager Notes / Requirements: ${job.notes}
     - Primary Responsibilities / Contact: ${job.responsibility}
+    - Is Confidential: ${job.isConfidential ? "Yes" : "No"}
 
     Please generate a professional, brief job posting according to the required JSON schema. 
     
@@ -96,6 +101,9 @@ async function generateJobDetails(job) {
     6. Salary Short: Extract the exact pay rate for the card header (e.g., "$160,000 per year" or "$38.00 - $48.00/hr"). If not found, leave it blank. Always prioritize the spreadsheet's notes if there is a conflict.
     7. Apply Link: Must ALWAYS be exactly "https://navahc.com/candidates/".
     8. Requirements: Extract specific requirements (like WCB certification, RN preferred, etc.) from the 'Notes', 'Title' fields, or your live web search into the bulleted list. Always prioritize the spreadsheet's notes.
+    9. Confidential Location: If "Is Confidential" is "Yes", you MUST look up the county for the given location and list ONLY the county (e.g., "Cook County, IL" instead of "Chicago, IL") in the location field.
+    10. Role Type Categorization: Categorize the role into exactly one of the following: "Floor Staff", "Leadership", "Support", "Therapy/Rehabilitation", or "Other".
+    11. Standardize Role Titles: Standardize common role titles. Examples: "Registered Nurse (RN)", "Licensed Nursing Home Administrator (LNHA)", "Licensed Clinical Social Worker (LCSW)", "Licensed Practical Nurse (LPN)", "Certified Nursing Assistant (CNA)", "Director of Nursing (DON)", "Assistant Director of Nursing (ADON)". Do not include full-time/part-time status in the title itself.
     `;
 
     try {

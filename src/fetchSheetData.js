@@ -106,23 +106,22 @@ async function getActiveJobs(spreadsheetId, rangeName) {
             const location = getStrVal(4);
             const responsibility = getStrVal(5);
             const notes = getStrVal(6);
+
             // Check if any of the relevant fields contain 'confidential' (case-insensitive)
             const isConfidential = [client, contact, title, facility, location, responsibility, notes]
                 .some(val => val.toLowerCase().includes('confidential'));
-            if (!isConfidential) {
-                activeJobs.push({
-                   rowIndex: i + 1, // 1-indexed for logging/debugging
-                   client,
-                   contact,
-                   position: title,
-                   facility,
-                   location,
-                   responsibility,
-                   notes
-                });
-            } else {
-                console.log(`Skipping confidential job at row ${i + 1}: ${title}`);
-            }
+
+            activeJobs.push({
+               rowIndex: i + 1, // 1-indexed for logging/debugging
+               client,
+               contact,
+               position: title,
+               facility,
+               location,
+               responsibility,
+               notes,
+               isConfidential
+            });
         }
     }
     

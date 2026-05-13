@@ -18,7 +18,7 @@ function generateJobId(job) {
  */
 function generateJobSignature(job) {
     const rawString = `${job.position}_${job.facility}_${job.location}_${job.client}_${job.contact}_${job.responsibility}_${job.notes}`;
-    return crypto.createHash('md5').update(rawString).digest('hex');
+    return crypto.createHash('md5').update(rawString + "_v2").digest('hex');
 }
 
 /**
