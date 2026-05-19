@@ -1,151 +1,21 @@
 [
   {
-    "roleTitle": "Payroll Director",
-    "roleType": "Support",
-    "location": "",
-    "facilityType": "Corporate Office",
-    "description": "We are seeking a highly skilled and experienced Payroll Director to join a corporate team supporting a network of healthcare facilities. In this pivotal role, you will be responsible for overseeing all aspects of payroll operations, ensuring accuracy, compliance, and efficiency for a large employee base. This is an excellent opportunity to lead a critical function within a dynamic organization.\n\nThe ideal candidate will possess a deep understanding of payroll systems, tax regulations, and best practices. You will play a key role in developing and implementing payroll policies and procedures, managing payroll staff, and collaborating with HR and finance departments to streamline processes. We are looking for a leader who can drive continuous improvement and maintain the highest standards of payroll integrity.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Bachelor's degree in Accounting, Finance, Business Administration, or a related field",
-      "5+ years of progressive experience in payroll management, with at least 2-3 years in a leadership role",
-      "Extensive knowledge of federal and state payroll laws and regulations",
-      "Proficiency with major payroll software systems",
-      "Strong analytical, organizational, and communication skills"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "payroll_director_corporate___regional_"
-  },
-  {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact resident care and support the Director of Nursing in maintaining high standards of clinical excellence and operational efficiency.As an ADON, you will play a crucial role in supervising nursing staff, overseeing daily patient care, and ensuring compliance with all regulatory guidelines. This position is ideal for a compassionate leader committed to fostering a positive and supportive environment for both residents and staff. Compensation for this full-time role is competitive, ranging from $60,000 to $75,000 per year, depending on experience.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing clinical operations and ensuring the highest standards of patient care within a skilled nursing facility environment. If you are a compassionate leader with a commitment to excellence, we encourage you to apply.This full-time position offers a competitive salary ranging from $60,000 to $75,000 per year, reflecting your valuable experience and qualifications. As an ADON, you will play a crucial role in staff supervision, quality assurance, and maintaining regulatory compliance, contributing significantly to the well-being of our residents.Take the next step in your nursing leadership career. We are looking for a professional who is ready to make a significant impact and foster a supportive and high-quality care environment. Apply today to learn more about this exciting opportunity.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license preferred",
-      "Minimum of 2-3 years of nursing experience, with at least 1 year in a supervisory or leadership capacity",
-      "Strong understanding of long-term care regulations and best practices",
-      "Excellent clinical assessment, organizational, and communication skills",
-      "Ability to lead, mentor, and motivate a team of nursing professionals"
+      "Registered Nurse (RN) license (preferred)",
+      "Previous experience in a supervisory or leadership role within a skilled nursing facility",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal healthcare regulations",
+      "Excellent communication and interpersonal abilities"
     ],
     "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN Preferred)",
-    "roleType": "Support",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator, with an RN license preferred, to join a premier health and rehabilitation center in Olathe, KS. This full-time role offers a competitive hourly rate of $32.00 - $36.00, providing an excellent opportunity to contribute to high-quality resident care.\n\nAs an MDS Coordinator, you will be responsible for conducting comprehensive assessments, developing individualized care plans, and ensuring compliance with federal and state regulations. Your expertise will be crucial in accurately reflecting the care needs of our residents and optimizing their outcomes.",
-    "contractType": "Full-time",
-    "salaryShort": "$32.00 - $36.00/hr",
-    "requirements": [
-      "Current Registered Nurse (RN) license in Kansas (or ability to obtain)",
-      "Prior experience as an MDS Coordinator in a skilled nursing facility",
-      "Strong understanding of MDS 3.0 and care planning processes",
-      "Excellent assessment, documentation, and communication skills"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $32.00 - $36.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
-    "roleType": "Floor Staff",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing facility in Red Bay, AL, as a Registered Nurse (RN) - MDS Coordinator. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and reimbursement. You will play a key part in maintaining compliance with federal and state regulations, contributing significantly to the quality of care provided to our residents.As an MDS Coordinator, you will collaborate closely with the interdisciplinary team, including nursing, therapy, and social services, to develop comprehensive care plans. Your expertise will directly impact resident outcomes and the facility's operational success. We are seeking a detail-oriented and compassionate RN who is passionate about geriatric care and committed to upholding the highest standards of clinical documentation.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in the state of Alabama.",
-      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility.",
-      "Comprehensive knowledge of MDS 3.0 and the Resident Assessment Instrument (RAI) process.",
-      "Familiarity with Medicare and Medicaid regulations related to MDS.",
-      "Strong organizational, assessment, and communication skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "roleType": "Floor Staff",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier health and rehabilitation center in Red Bay, AL, as a dedicated Licensed Practical Nurse (LPN) for urgent 12-hour evening/night shifts. This is an immediate opportunity to make a significant impact on patient care within a supportive and dynamic environment. We are seeking a compassionate and skilled LPN ready to contribute to our mission of providing exceptional healthcare services.\n\nIn this vital role, you will be responsible for delivering high-quality nursing care, administering medications, monitoring patient conditions, and collaborating with the healthcare team to ensure optimal patient outcomes. Your commitment to patient well-being and your ability to thrive in a fast-paced setting will be key to your success.\n\nThis full-time position offers consistent 12-hour shifts, providing a stable schedule and the chance to become an integral part of our care team. If you are an LPN looking for an urgent and rewarding opportunity to utilize your skills, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Valid LPN license in the state of Alabama",
-      "Minimum of 1 year of experience in a skilled nursing facility or long-term care setting",
-      "Ability to work 12-hour evening/night shifts",
-      "Strong clinical assessment, documentation, and medication administration skills",
-      "Current Basic Life Support (BLS) certification"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Internal Medicine Physician",
-    "roleType": "Other",
-    "location": "Greenville, SC",
-    "facilityType": "Community Health Center",
-    "description": "An exciting opportunity awaits a dedicated Internal Medicine Physician in Greenville, SC. Join a thriving community health center committed to providing comprehensive care to its patients. This role offers significant compensation and a supportive environment for medical professionals.\n\nThis position boasts a highly competitive compensation package, including a base salary of $210,000, a $25,000 guaranteed bonus, and an additional $25,000 in potential bonuses. A $9,000 portion of the bonus is available on payday one with a signed promissory note. The role also comes with excellent benefits and generous paid time off, reflecting a commitment to physician well-being.\n\nWhile full-time is preferred, we are open to considering part-time, PRN, or contract arrangements to find the right fit. We welcome candidates open to travel or relocation to the vibrant Greenville area.",
-    "contractType": "Contract",
-    "salaryShort": "$210,000 - $260,000 per year",
-    "requirements": [
-      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board certification or eligibility in Internal Medicine, Family Medicine, or Med/Peds",
-      "Ability to obtain a medical license in South Carolina",
-      "Openness to travel or relocation"
-    ],
-    "salaryOrBonusInfo": "Compensation includes a $210,000 base salary, a $25,000 guaranteed bonus, and an additional $25,000 in potential bonuses. A $9,000 portion of the bonus is available on payday one with a signed promissory note. Excellent benefits and generous paid time off are also provided.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Helena, AL",
-    "facilityType": "Home Health Agency",
-    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join our team in Helena, AL. This PRN role offers the flexibility to manage your schedule while providing essential therapy services to patients in a home health setting. You will play a crucial part in helping patients regain mobility and improve their quality of life. This is an excellent opportunity for a PTA looking for a flexible schedule and competitive per-visit compensation. We are looking for someone who can hit the ground running and make an immediate impact. If you are passionate about patient care and thrive in an autonomous environment, we encourage you to apply. Join a supportive network committed to delivering exceptional care.",
-    "contractType": "PRN",
-    "salaryShort": "$35 per visit",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant program.",
-      "Current and valid Physical Therapist Assistant (PTA) license in the state of Alabama.",
-      "Current CPR certification.",
-      "Prior experience in a home health or similar setting is preferred.",
-      "Excellent communication and documentation skills."
-    ],
-    "salaryOrBonusInfo": "Compensation is $35 per visit.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_pta__urgent___35_per_visit__traveling_helena__al"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Helena, AL",
-    "facilityType": "Various healthcare settings",
-    "description": "We are urgently seeking a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) for a PRN role in Helena, AL. This is an excellent opportunity to provide essential therapy services across various healthcare settings, making a direct impact on patient recovery and well-being. We value your expertise and offer competitive compensation for your contributions.\n\nThis role offers significant flexibility, allowing you to manage your schedule effectively. We are eager to connect with qualified candidates and can accommodate interview scheduling Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed. Join a team where your skills are highly valued and your work truly makes a difference.",
-    "contractType": "PRN",
-    "salaryShort": "$35 per visit",
-    "requirements": [
-      "Valid Certified Occupational Therapy Assistant (COTA) license in Alabama",
-      "Ability to travel to various patient locations as needed",
-      "Strong communication and interpersonal skills",
-      "Commitment to providing high-quality, patient-centered care"
-    ],
-    "salaryOrBonusInfo": "Compensation is $35 per visit.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_cota__urgent___35_per_visit__traveling_helena__al"
   }
 ]
