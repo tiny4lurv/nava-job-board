@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care, and fostering a positive environment for both residents and staff. The ideal candidate will be a compassionate and skilled leader ready to make a significant impact on our community.\n\nAs an ADON, you will play a crucial role in staff supervision, quality assurance, and compliance with all regulatory standards. This position offers a competitive annual salary range of $60,000 - $75,000, reflecting your experience and qualifications. We are looking for an individual who is passionate about geriatric care and committed to excellence.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment. The ideal candidate will be instrumental in overseeing daily nursing operations and ensuring the highest standards of clinical excellence.\n\nThis position comes with a competitive annual salary range of $60,000 - $75,000. We are particularly interested in candidates who are Registered Nurses (RNs) and possess a strong background in skilled nursing or long-term care. If you are a compassionate leader ready to make a difference, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license (preferred)",
-      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing facility",
-      "Prior supervisory or leadership experience in a healthcare setting",
+      "Current Registered Nurse (RN) license preferred",
+      "Minimum of 2-3 years of nursing experience, with some leadership or supervisory experience",
+      "Experience in a skilled nursing facility or long-term care setting",
       "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal regulations governing long-term care"
+      "Excellent communication and interpersonal abilities"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Dietary Cook",
+    "roleType": "Support",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Part-time Dietary Cook to join the team at a premier health and wellness center. In this vital role, you will be responsible for preparing delicious and nutritious meals that meet the dietary needs and preferences of our residents, ensuring a high standard of culinary service and resident satisfaction. You will play a key part in creating a positive dining experience for those in our care.The ideal candidate will have a passion for cooking and a commitment to food safety and quality. This part-time opportunity offers a chance to contribute to a supportive environment focused on the well-being of our residents.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in food preparation, preferably in a healthcare or institutional setting",
+      "Knowledge of food safety and sanitation regulations",
+      "Ability to follow menus and dietary restrictions accurately",
+      "Strong organizational and time management skills",
+      "Excellent communication and teamwork abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pt__diatery_cook_arabella_health___wellness_of_red_bay_red_bay__al"
   }
 ]
