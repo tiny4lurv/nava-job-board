@@ -4,37 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment. The ideal candidate will be instrumental in overseeing daily nursing operations and ensuring the highest standards of clinical excellence.\n\nThis position comes with a competitive annual salary range of $60,000 - $75,000. We are particularly interested in candidates who are Registered Nurses (RNs) and possess a strong background in skilled nursing or long-term care. If you are a compassionate leader ready to make a difference, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care, and fostering a positive environment for both residents and staff. If you are a compassionate leader with a commitment to excellence, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in maintaining regulatory compliance, developing care plans, and mentoring nursing staff. This position offers a competitive annual salary range of $60,000 - $75,000, reflecting your expertise and contributions to our team. Join a facility that values quality care and professional growth.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license preferred",
-      "Minimum of 2-3 years of nursing experience, with some leadership or supervisory experience",
-      "Experience in a skilled nursing facility or long-term care setting",
+      "Registered Nurse (RN) license preferred",
+      "Previous experience in a skilled nursing facility or long-term care setting",
+      "Demonstrated leadership and supervisory experience in nursing",
       "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
+      "Ability to ensure compliance with all state and federal regulations"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Dietary Cook",
-    "roleType": "Support",
-    "location": "Red Bay, AL",
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "roleType": "Floor Staff",
+    "location": "Vernon, AL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Part-time Dietary Cook to join the team at a premier health and wellness center. In this vital role, you will be responsible for preparing delicious and nutritious meals that meet the dietary needs and preferences of our residents, ensuring a high standard of culinary service and resident satisfaction. You will play a key part in creating a positive dining experience for those in our care.The ideal candidate will have a passion for cooking and a commitment to food safety and quality. This part-time opportunity offers a chance to contribute to a supportive environment focused on the well-being of our residents.",
-    "contractType": "Part-time",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join the team at a premier health and rehabilitation center in Vernon, AL. This full-time position offers the opportunity to provide essential direct patient care during the evening (PM) shift, contributing significantly to the well-being and daily lives of residents.As a CNA, you will play a vital role in assisting residents with activities of daily living, ensuring their comfort, dignity, and safety. This includes personal care, mobility assistance, and maintaining a clean and supportive environment. We are looking for individuals who are committed to delivering high-quality, patient-centered care and thrive in a collaborative setting.",
+    "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Proven experience in food preparation, preferably in a healthcare or institutional setting",
-      "Knowledge of food safety and sanitation regulations",
-      "Ability to follow menus and dietary restrictions accurately",
-      "Strong organizational and time management skills",
-      "Excellent communication and teamwork abilities"
+      "Active Certified Nursing Assistant (CNA) certification in Alabama",
+      "High school diploma or GED",
+      "Ability to work full-time PM shifts",
+      "Strong communication and interpersonal skills",
+      "Commitment to providing compassionate and respectful care"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pt__diatery_cook_arabella_health___wellness_of_red_bay_red_bay__al"
+    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
   }
 ]
