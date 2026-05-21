@@ -4,14 +4,14 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers a unique opportunity to contribute to a supportive environment focused on delivering exceptional patient care and fostering a positive team culture. The ideal candidate will play a crucial role in overseeing nursing operations and ensuring the highest standards of clinical excellence.\n\nThis position offers a competitive annual salary range of $60,000 - $75,000. We are particularly interested in candidates who hold a Registered Nurse (RN) license, bringing a strong clinical background to this leadership opportunity. If you are a compassionate and skilled nursing professional ready to advance your career, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This is an excellent opportunity for a nursing leader to contribute to high-quality patient care and support our clinical team.\n\nIn this vital role, you will assist the Director of Nursing in overseeing daily nursing operations, ensuring compliance with all regulatory standards, and fostering a positive environment for both residents and staff. We are looking for a candidate who is passionate about making a difference in the lives of our residents and is ready to take on a challenging yet rewarding position. The annual salary for this position ranges from $60,000 to $75,000, with Registered Nurse (RN) licensure preferred.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
       "Registered Nurse (RN) license preferred",
       "Previous experience in a skilled nursing facility or long-term care setting",
-      "Demonstrated leadership and supervisory experience in nursing",
-      "Strong understanding of state and federal healthcare regulations",
+      "Demonstrated leadership and supervisory skills",
+      "Strong clinical assessment and critical thinking abilities",
       "Excellent communication and interpersonal skills"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
@@ -19,22 +19,41 @@
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Floor Technician",
-    "roleType": "Floor Staff",
-    "location": "Vernon, AL",
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Full-time Floor Technician to join the team at a premier health and rehabilitation center. In this vital role, you will be responsible for maintaining the cleanliness and appearance of our facility, ensuring a safe and welcoming environment for residents, visitors, and staff. Your commitment to excellence in floor care will contribute significantly to the overall quality of life within our community.The ideal candidate will be proactive, detail-oriented, and possess a strong work ethic. This full-time position offers the opportunity to be an integral part of a supportive team, contributing to the daily operations and aesthetic standards of our center. If you are passionate about maintaining a pristine environment and are looking for a rewarding full-time opportunity, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and fostering a positive environment for both residents and staff.In this pivotal full-time role, you will oversee all aspects of facility management, ensuring compliance with regulatory standards and driving continuous improvement in quality of care and operational efficiency. We are looking for a leader who can inspire teams, manage resources effectively, and uphold the highest standards of service.This position offers a competitive salary ranging from $115,000 to $145,000 per year, reflecting your expertise and commitment. Join a facility dedicated to making a significant impact in the lives of its residents.",
     "contractType": "Full-time",
-    "salaryShort": "",
+    "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "High School Diploma or GED preferred",
-      "Previous experience in floor care or environmental services, preferably in a healthcare setting",
-      "Ability to operate various floor care equipment (buffers, scrubbers, vacuums)",
-      "Knowledge of cleaning chemicals and safety procedures",
-      "Physical ability to stand, walk, bend, and lift for extended periods"
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Proven experience in a leadership role within a skilled nursing or rehabilitation facility.",
+      "Strong understanding of state and federal regulations governing long-term care.",
+      "Demonstrated ability to manage operations, staff, and resident care effectively.",
+      "Excellent communication and interpersonal skills."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_floor_tech_arabella_health___wellness_of_vernon_vernon__al"
+    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Support",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center as an MDS Coordinator in Missouri Valley, IA. This full-time position offers a vital opportunity to contribute to comprehensive resident care through accurate assessment and care planning.\n\nAs an MDS Coordinator, you will play a crucial role in ensuring compliance with regulatory standards and optimizing resident outcomes. We are looking for a committed professional who is not seeking an interim role, but rather a long-term opportunity to make a significant impact within our compassionate team. This role offers an annual salary between $65,000 and $75,000, reflecting your expertise and dedication.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Proven experience as an MDS Coordinator, with strong knowledge of MDS 3.0.",
+      "Demonstrated ability in resident assessment, care planning, and regulatory compliance.",
+      "Previous experience in a skilled nursing or long-term care environment.",
+      "Must be seeking a permanent, full-time position (no interim candidates)."
+    ],
+    "salaryOrBonusInfo": "Annual salary ranging from $65,000 to $75,000, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
   }
 ]
