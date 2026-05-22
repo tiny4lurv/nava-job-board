@@ -4,36 +4,56 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers a competitive salary range of $60,000 - $75,000 per year, reflecting our commitment to attracting top talent.\n\nThe Assistant Director of Nursing will support the Director of Nursing in overseeing daily nursing operations, ensuring the highest standards of patient care and regulatory compliance. This position is ideal for an experienced Registered Nurse looking to advance their career in a supportive and dynamic environment. If you are passionate about quality care and leadership, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment. If you are passionate about clinical excellence and team leadership, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in overseeing nursing operations, ensuring the highest standards of care, and supporting the Director of Nursing. This position is ideal for a Registered Nurse (RN) looking to advance their career in a dynamic healthcare setting. We are offering a competitive annual salary range of $60,000 - $75,000, reflecting your expertise and commitment.\n\nJoin a team that values your contributions and provides a platform for professional growth. This is an urgent opening, and we are actively seeking qualified candidates to fill this vital position.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license, preferred",
-      "Prior experience in a long-term care or skilled nursing facility setting",
-      "Demonstrated leadership or supervisory experience in nursing",
+      "Current Registered Nurse (RN) license, preferred",
+      "Minimum of 2 years of experience in a leadership role within a skilled nursing facility",
       "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
+      "Excellent communication and interpersonal abilities",
+      "Knowledge of state and federal regulations governing long-term care"
     ],
-    "salaryOrBonusInfo": "$60,000 - $75,000 per year",
+    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000 based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Registered Nurse (RN)",
-    "roleType": "Floor Staff",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking two dedicated Full-time AM Registered Nurses to join a premier health and rehabilitation center in St. Petersburg, FL. This role involves 12-hour shifts, from 7 AM to 7 PM, providing essential care to residents in a supportive environment. This is an excellent opportunity for nurses looking to make an immediate impact.\n\nOur facility is a 55-59 bed center, currently serving a census of 43 residents. Located on a main street with abundant shopping nearby and a pleasant neighborhood behind the building, it offers a convenient and appealing setting. Plus, you're just 15 minutes from the beautiful St. Petersburg beaches, and the facility features two inviting courtyards.\n\nWe offer a competitive hourly rate of $30.00 - $35.00, with an additional $2.00 shift differential for AM shifts, reflecting our commitment to valuing our nursing staff.",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "A premier health and rehabilitation center",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a leading health and rehabilitation center in Olathe, KS. This is an excellent opportunity for a Registered Nurse (RN) to step into a pivotal leadership role, contributing significantly to the quality of patient care and staff development.\n\nAs ADON, you will play a crucial role in overseeing nursing operations, ensuring compliance with healthcare regulations, and fostering a supportive environment for both residents and staff. We offer a competitive annual salary range of $75,000 - $85,000 for this full-time position.",
     "contractType": "Full-time",
-    "salaryShort": "$30.00 - $35.00/hr + shift differential",
+    "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "Valid Registered Nurse (RN) license in the state of Florida.",
-      "Current CPR certification.",
-      "Experience in a skilled nursing or long-term care environment preferred.",
-      "Ability to work 12-hour AM shifts (7 AM - 7 PM)."
+      "Current Registered Nurse (RN) license",
+      "Previous experience in a leadership role within a skilled nursing facility",
+      "Strong clinical assessment and critical thinking skills",
+      "Ability to supervise and mentor nursing staff",
+      "Commitment to high-quality patient care"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00 with an additional $2.00 shift differential for AM shifts.",
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_am_nurse_s__urgent__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier health and rehabilitation center in Olathe, KS. This vital role involves coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accurate and timely submission, and contributing to comprehensive care planning for our residents. We are looking for a professional who is passionate about resident care and compliance.The ideal candidate will have a strong understanding of MDS 3.0 guidelines and a commitment to maintaining high standards of documentation. This position offers a competitive hourly rate of $32-$36 per hour, reflecting your expertise and dedication. If you are an RN with a keen eye for detail and a desire to make a significant impact on resident outcomes, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$32-$36 per hour",
+    "requirements": [
+      "Current Registered Nurse (RN) license (preferred)",
+      "Proven experience as an MDS Coordinator in a skilled nursing facility",
+      "In-depth knowledge of MDS 3.0 and associated regulations",
+      "Strong assessment, documentation, and communication skills",
+      "Ability to collaborate effectively with interdisciplinary teams"
+    ],
+    "salaryOrBonusInfo": "$32-$36 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
   }
 ]
