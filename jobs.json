@@ -2,58 +2,39 @@
   {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
-    "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment. If you are passionate about clinical excellence and team leadership, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in overseeing nursing operations, ensuring the highest standards of care, and supporting the Director of Nursing. This position is ideal for a Registered Nurse (RN) looking to advance their career in a dynamic healthcare setting. We are offering a competitive annual salary range of $60,000 - $75,000, reflecting your expertise and commitment.\n\nJoin a team that values your contributions and provides a platform for professional growth. This is an urgent opening, and we are actively seeking qualified candidates to fill this vital position.",
-    "contractType": "Full-time",
-    "salaryShort": "$60,000 - $75,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license, preferred",
-      "Minimum of 2 years of experience in a leadership role within a skilled nursing facility",
-      "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities",
-      "Knowledge of state and federal regulations governing long-term care"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000 based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "roleType": "Leadership",
     "location": "Olathe, KS",
-    "facilityType": "A premier health and rehabilitation center",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a leading health and rehabilitation center in Olathe, KS. This is an excellent opportunity for a Registered Nurse (RN) to step into a pivotal leadership role, contributing significantly to the quality of patient care and staff development.\n\nAs ADON, you will play a crucial role in overseeing nursing operations, ensuring compliance with healthcare regulations, and fostering a supportive environment for both residents and staff. We offer a competitive annual salary range of $75,000 - $85,000 for this full-time position.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Olathe, KS. This vital leadership role offers the opportunity to contribute to high-quality patient care and operational excellence within a supportive environment. If you are an RN with a passion for leadership and clinical oversight, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring compliance with all regulatory standards. This position is ideal for a proactive leader who thrives in a dynamic healthcare setting and is committed to fostering a positive and effective care team.",
     "contractType": "Full-time",
     "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license",
-      "Previous experience in a leadership role within a skilled nursing facility",
-      "Strong clinical assessment and critical thinking skills",
-      "Ability to supervise and mentor nursing staff",
-      "Commitment to high-quality patient care"
+      "Active Registered Nurse (RN) license in Kansas",
+      "Previous experience in a leadership or supervisory nursing role",
+      "Experience within a skilled nursing or long-term care environment",
+      "Strong understanding of state and federal healthcare regulations",
+      "Excellent clinical assessment and communication skills"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience, with a salary range of $75,000 - $85,000 per year.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
   },
   {
-    "roleTitle": "MDS Coordinator (RN Preferred)",
-    "roleType": "Support",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier health and rehabilitation center in Olathe, KS. This vital role involves coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accurate and timely submission, and contributing to comprehensive care planning for our residents. We are looking for a professional who is passionate about resident care and compliance.The ideal candidate will have a strong understanding of MDS 3.0 guidelines and a commitment to maintaining high standards of documentation. This position offers a competitive hourly rate of $32-$36 per hour, reflecting your expertise and dedication. If you are an RN with a keen eye for detail and a desire to make a significant impact on resident outcomes, we encourage you to apply.",
+    "roleTitle": "VP of Clinical",
+    "roleType": "Leadership",
+    "location": "OKC + Tulsa, OK",
+    "facilityType": "Premier Health and Rehabilitation Centers",
+    "description": "We are seeking an accomplished VP of Clinical to oversee clinical operations across multiple health and rehabilitation centers in the OKC and Tulsa, OK regions. This pivotal leadership role offers the opportunity to drive clinical excellence, ensure high-quality patient care, and implement best practices across a network of facilities.\n\nThis is an urgent and high-priority search for a top-tier candidate. We offer a highly competitive compensation package, including a significant bonus potential, and are prepared to offer more for the right individual who can bring exceptional leadership and expertise to our organization.",
     "contractType": "Full-time",
-    "salaryShort": "$32-$36 per hour",
+    "salaryShort": "$120K-$140K + Bonus",
     "requirements": [
-      "Current Registered Nurse (RN) license (preferred)",
-      "Proven experience as an MDS Coordinator in a skilled nursing facility",
-      "In-depth knowledge of MDS 3.0 and associated regulations",
-      "Strong assessment, documentation, and communication skills",
-      "Ability to collaborate effectively with interdisciplinary teams"
+      "Current clinical licensure (e.g., Registered Nurse) in Oklahoma",
+      "Extensive experience in clinical leadership and management roles",
+      "Proven track record of overseeing clinical operations across multiple facilities",
+      "Strong understanding of healthcare regulations, compliance, and quality improvement initiatives",
+      "Demonstrated ability to drive positive clinical outcomes and foster a culture of excellence"
     ],
-    "salaryOrBonusInfo": "$32-$36 per hour",
+    "salaryOrBonusInfo": "Compensation ranges from $120,000 to $140,000 annually, with additional bonus potential. We are prepared to offer more for the ideal candidate.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
+    "id": "vp_of_clinical___120k__140k___bonus__6_facilities_in_ok_okc___tulsa__ok"
   }
 ]
