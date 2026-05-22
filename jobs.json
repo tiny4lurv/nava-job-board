@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Mediapolis, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This is an excellent opportunity for a compassionate nursing leader to contribute to a team committed to providing exceptional patient care and fostering a supportive environment for both residents and staff. The ideal candidate will play a crucial role in upholding clinical standards and operational excellence.\n\nAs an ADON, you will work closely with the Director of Nursing to oversee daily nursing operations, ensure compliance with regulatory standards, and mentor nursing staff. We are particularly interested in candidates who are Registered Nurses (RNs) and possess a strong background in skilled nursing. This role offers a competitive annual salary range of $60,000 - $75,000, reflecting your valuable expertise and commitment.\n\nIf you are a proactive leader with a passion for quality care and staff development, we encourage you to apply. Join a facility where your leadership will directly impact the well-being of residents and the professional growth of your team.",
+    "contractType": "Full-time",
+    "salaryShort": "$60,000 - $75,000 per year",
+    "requirements": [
+      "Registered Nurse (RN) preferred",
+      "Current RN license in the state of Iowa",
+      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing facility",
+      "Prior leadership or supervisory experience in a healthcare setting",
+      "Strong understanding of long-term care regulations and clinical best practices"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  }
+]
