@@ -4,18 +4,56 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers the opportunity to significantly impact patient care and support our nursing team in a dynamic environment.As an ADON, you will play a crucial role in overseeing daily nursing operations, ensuring the highest standards of care, and fostering a collaborative atmosphere. We are looking for a compassionate leader who is committed to clinical excellence and staff development.This position offers an attractive annual salary range of $60,000 - $75,000. While a Registered Nurse (RN) license is preferred, we encourage qualified candidates with strong leadership and clinical backgrounds to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing the clinical operations and ensuring the highest quality of patient care. We are looking for a compassionate leader who can inspire and guide our nursing team.\n\nThis position offers a competitive annual salary ranging from $60,000 to $75,000, based on your experience and qualifications. We highly prefer candidates who are Registered Nurses (RNs) to bring their expertise to our facility. If you are a proactive and skilled nursing professional ready to take on a leadership challenge, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license preferred.",
-      "Minimum of 2-3 years of nursing experience, with at least 1 year in a supervisory or leadership role.",
-      "Experience in a skilled nursing facility or long-term care setting.",
-      "Strong understanding of state and federal healthcare regulations.",
-      "Excellent communication and interpersonal skills."
+      "Registered Nurse (RN) license preferred",
+      "Previous experience in a skilled nursing facility or long-term care setting",
+      "Demonstrated leadership or supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal healthcare regulations"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) for a premier health and rehabilitation center in Des Moines, IA. This is a critical full-time, permanent leadership opportunity for a professional ready to make a significant impact on patient care and facility operations. We are specifically looking for candidates committed to a long-term role, as this is not an interim position.\n\nAs the Director of Nursing, you will lead and manage the nursing department, ensuring the highest standards of care and compliance with all regulatory requirements. This role offers a chance to join a supportive environment where your leadership will directly contribute to the well-being of residents and the professional growth of your team. If you are a visionary leader with a passion for excellence in long-term care, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000 - $105,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa.",
+      "Minimum of 2-3 years of experience in a nursing leadership role, preferably as a DON or ADON.",
+      "Demonstrated commitment to a permanent, full-time position.",
+      "Strong knowledge of state and federal regulations for skilled nursing facilities.",
+      "Excellent leadership, communication, and organizational skills."
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $90,000 - $105,000.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_rn_don___90_105k__urgent__azria_health_park_place_des_moines__ia"
+  },
+  {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility in Frostburg, MD. This pivotal leadership role offers the opportunity to make a significant impact on resident care and facility success. The Administrator will be responsible for the overall management, strategic planning, and daily operations of the facility, ensuring the highest standards of quality care, regulatory compliance, and financial performance. You will foster a positive and supportive environment for both residents and staff, driving continuous improvement initiatives. If you are a visionary leader with a passion for long-term care and a commitment to excellence, we invite you to apply. Join a team dedicated to providing compassionate and comprehensive care to our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
+      "Bachelor's degree in healthcare administration or a related field",
+      "Proven experience in a leadership role within a skilled nursing facility",
+      "Strong understanding of state and federal long-term care regulations",
+      "Excellent leadership, communication, and financial management skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "lnha_mountain_city_rehab_center_frostburg__md"
   }
 ]
