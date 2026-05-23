@@ -4,18 +4,74 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers an excellent opportunity to contribute to a compassionate care environment, supporting the Director of Nursing in overseeing clinical operations and ensuring the highest standards of patient care.\n\nAs an ADON, you will play a crucial role in staff supervision, quality assurance, and maintaining regulatory compliance. We are looking for a leader who is passionate about making a difference in the lives of residents and fostering a supportive team atmosphere. This position offers a competitive annual salary range of $60,000 - $75,000.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers a unique opportunity to contribute to high-quality patient care and support our nursing team in a dynamic environment. If you are a compassionate leader with a commitment to excellence, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in overseeing daily nursing operations, ensuring compliance with healthcare regulations, and fostering a positive work environment. This position offers a competitive annual salary range of $60,000 - $75,000, with a strong preference for candidates who hold a Registered Nurse (RN) license. Join a team that values your expertise and dedication to resident well-being.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license, preferred",
-      "Minimum of 2 years of nursing experience, preferably in a skilled nursing facility",
-      "Prior leadership or supervisory experience in a healthcare setting",
-      "Strong understanding of long-term care regulations and standards",
-      "Excellent communication and organizational skills"
+      "Registered Nurse (RN) license preferred",
+      "Previous experience in a skilled nursing facility or long-term care setting",
+      "Demonstrated leadership and supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Excellent communication and interpersonal abilities"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier health and rehabilitation center in Olathe, KS. This vital role involves managing the Minimum Data Set (MDS) process, ensuring accurate and timely assessments, and developing comprehensive care plans for residents. The ideal candidate will play a key role in maintaining regulatory compliance and optimizing resident outcomes.\n\nThis full-time position offers a competitive hourly rate of $32-$36. We are looking for a professional who is passionate about quality care and has a strong understanding of the MDS process. If you are an RN with a commitment to excellence in long-term care, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$32-$36 per hour",
+    "requirements": [
+      "Current Registered Nurse (RN) license (preferred)",
+      "Proven experience as an MDS Coordinator in a skilled nursing facility",
+      "In-depth knowledge of MDS 3.0 and federal/state regulations",
+      "Strong assessment, care planning, and documentation skills",
+      "Ability to collaborate effectively with interdisciplinary teams"
+    ],
+    "salaryOrBonusInfo": "$32-$36 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Physician, Internal Medicine-Pediatrics",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "A reputable healthcare facility",
+    "description": "We are seeking a dedicated and compassionate Physician specializing in Internal Medicine-Pediatrics to join a reputable healthcare facility in Greenville, SC. This role offers a highly competitive compensation package starting at $210,000 annually, complemented by a robust bonus structure including a $25,000 guaranteed bonus and an additional $25,000 potential bonus. A significant $9,000 portion of the bonus is available on day one upon signing a promissory note.\n\nThis position comes with excellent benefits and generous paid time off, supporting a healthy work-life balance. While full-time is preferred, we are open to considering qualified candidates for part-time or contract arrangements. We welcome physicians open to travel or relocation to the vibrant community of Greenville.",
+    "contractType": "Full-time, Part-time, or Contract",
+    "salaryShort": "$210,000 per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med-Peds",
+      "Current, unrestricted state medical license (or eligible for licensure)",
+      "Willingness to relocate or travel for the position"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a $25,000 guaranteed bonus and an additional $25,000 potential bonus. A $9,000 portion of the bonus is payable on day one upon signing a promissory note.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Winslow, AZ",
+    "facilityType": "Critical Access Hospital",
+    "description": "Join a premier medical center in Winslow, AZ, dedicated to providing exceptional patient care. We are seeking a skilled Physical Therapist to join our dynamic team, offering both full-time and part-time opportunities to fit your lifestyle.In this vital role, you will have the unique opportunity to work across diverse settings, providing comprehensive physical therapy services to both inpatients within our Critical Access Hospital and outpatients at our dedicated stand-alone clinic. This position offers a chance to make a significant impact on patient recovery and well-being in a supportive community environment.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Arizona Physical Therapist (PT) license.",
+      "Doctor of Physical Therapy (DPT) degree or equivalent.",
+      "Experience working with both inpatient and outpatient populations.",
+      "Strong clinical assessment and treatment skills.",
+      "BLS certification."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt_little_colorado_medical_center_winslow__az"
   }
 ]
