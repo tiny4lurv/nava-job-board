@@ -4,37 +4,36 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing clinical operations and ensuring the highest quality of patient care. The ideal candidate will be a compassionate and skilled leader committed to fostering a positive environment for both residents and staff.This full-time position offers an annual salary range of $60,000 - $75,000, commensurate with experience and qualifications. We are particularly interested in candidates who are Registered Nurses, bringing a strong clinical background to this essential leadership role. Join a team dedicated to excellence in patient care and professional growth.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This is an excellent opportunity for a compassionate and skilled nursing professional to contribute to a supportive environment focused on delivering high-quality patient care. The ideal candidate will play a crucial role in overseeing nursing operations and ensuring compliance with all regulatory standards.\n\nAs an ADON, you will assist the Director of Nursing in managing the nursing department, supervising staff, and maintaining exceptional standards of care. We are particularly interested in candidates who are Registered Nurses (RNs) to help lead our team and uphold our commitment to clinical excellence. This role offers a chance to make a significant impact on the lives of our residents and the professional development of our nursing staff.\n\nThis position offers a competitive annual salary range of $60,000 - $75,000, based on experience and qualifications. If you are a motivated leader with a passion for geriatric care and a desire to advance your career, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license preferred",
-      "Minimum of 2-3 years of nursing experience, with some leadership or supervisory experience",
-      "Experience in a skilled nursing facility or long-term care setting",
-      "Strong understanding of clinical best practices and regulatory compliance",
-      "Excellent communication and organizational skills"
+      "Active Registered Nurse (RN) license",
+      "Minimum of 2 years of nursing experience, preferably in a skilled nursing facility",
+      "Prior leadership or supervisory experience in a healthcare setting",
+      "Strong knowledge of state and federal healthcare regulations"
     ],
     "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "MDS Coordinator (RN)",
+    "roleTitle": "Housekeeper",
     "roleType": "Support",
-    "location": "Boonsboro, MD",
+    "location": "Red Bay, AL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Boonsboro, MD, as an MDS Coordinator (RN). This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and facility reimbursement. We are seeking a detail-oriented and compassionate Registered Nurse to contribute to our commitment to exceptional patient outcomes.As an MDS Coordinator, you will play a key role in the interdisciplinary team, collaborating with various departments to gather comprehensive resident information. Your expertise will directly impact the quality of care provided and the financial health of the facility. This is an excellent opportunity for an RN with a passion for clinical documentation and regulatory compliance to make a significant impact.We offer a competitive hourly rate of $43.00 - $46.00, reflecting your valuable skills and experience. If you are ready to advance your career in a supportive and dynamic environment, we encourage you to apply.",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Red Bay, AL, as a Full-time Housekeeper. In this vital role, you will be responsible for maintaining a clean, sanitary, and comfortable environment for our residents, staff, and visitors. Your commitment to cleanliness directly contributes to the health, safety, and well-being of everyone in our community.We are seeking a meticulous and reliable individual to ensure our facility upholds the highest standards of hygiene. This full-time position offers the opportunity to be an integral part of a compassionate care team, providing essential support services that enhance the quality of life for our residents. If you are passionate about creating a pristine and welcoming atmosphere, we encourage you to apply.",
     "contractType": "Full-time",
-    "salaryShort": "$43.00 - $46.00/hr",
+    "salaryShort": "",
     "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in the state of Maryland.",
-      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility.",
-      "Comprehensive understanding of the RAI process, Medicare, and Medicaid regulations.",
-      "Proficiency in electronic health records (EHR) and MDS software.",
-      "Strong organizational, communication, and assessment skills."
+      "High school diploma or equivalent",
+      "Previous experience in housekeeping, preferably in a healthcare setting",
+      "Ability to follow cleaning schedules and protocols",
+      "Strong attention to detail and commitment to cleanliness",
+      "Ability to perform physical tasks such as lifting, bending, and standing for extended periods"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $43.00 - $46.00, based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds___43__46_per_hour__south_mountain_rehab_center_boonsboro__md"
+    "id": "1_ft_housekeepers_arabella_health___wellness_of_red_bay_red_bay__al"
   }
 ]
