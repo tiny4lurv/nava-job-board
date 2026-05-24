@@ -1,39 +1,39 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleTitle": "Assistant Director of Nursing",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This is an excellent opportunity for a compassionate and skilled nursing professional to contribute to a supportive environment focused on delivering high-quality patient care. The ideal candidate will play a crucial role in overseeing nursing operations and ensuring compliance with all regulatory standards.\n\nAs an ADON, you will assist the Director of Nursing in managing the nursing department, supervising staff, and maintaining exceptional standards of care. We are particularly interested in candidates who are Registered Nurses (RNs) to help lead our team and uphold our commitment to clinical excellence. This role offers a chance to make a significant impact on the lives of our residents and the professional development of our nursing staff.\n\nThis position offers a competitive annual salary range of $60,000 - $75,000, based on experience and qualifications. If you are a motivated leader with a passion for geriatric care and a desire to advance your career, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care and regulatory compliance within a supportive environment.\n\nAs an ADON, you will play a crucial role in staff supervision, quality assurance, and fostering a positive clinical culture. This position offers a competitive salary range of $60,000 to $75,000 per year, reflecting your expertise and commitment to excellence in long-term care.\n\nIf you are a compassionate leader with a strong clinical background and a desire to make a significant impact on resident well-being, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license",
-      "Minimum of 2 years of nursing experience, preferably in a skilled nursing facility",
-      "Prior leadership or supervisory experience in a healthcare setting",
-      "Strong knowledge of state and federal healthcare regulations"
+      "Current Registered Nurse (RN) license",
+      "Experience in a skilled nursing or long-term care setting",
+      "Previous supervisory or leadership experience in nursing",
+      "Strong clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Housekeeper",
-    "roleType": "Support",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Red Bay, AL, as a Full-time Housekeeper. In this vital role, you will be responsible for maintaining a clean, sanitary, and comfortable environment for our residents, staff, and visitors. Your commitment to cleanliness directly contributes to the health, safety, and well-being of everyone in our community.We are seeking a meticulous and reliable individual to ensure our facility upholds the highest standards of hygiene. This full-time position offers the opportunity to be an integral part of a compassionate care team, providing essential support services that enhance the quality of life for our residents. If you are passionate about creating a pristine and welcoming atmosphere, we encourage you to apply.",
+    "roleTitle": "Senior Director Legal (Associate General Counsel)",
+    "roleType": "Leadership",
+    "location": "Remote",
+    "facilityType": "a leading remote-first organization",
+    "description": "We are seeking a highly experienced and strategic Senior Director Legal, also serving as an Associate General Counsel, to join a dynamic remote-first organization. This pivotal role involves providing expert legal counsel and guidance on a wide range of corporate matters, ensuring compliance with all applicable laws and regulations, and mitigating legal risks across the business.\n\nThe ideal candidate will play a critical role in shaping legal strategies, managing complex legal projects, and supporting various departments with sound legal advice. This is an excellent opportunity for a seasoned legal professional to contribute significantly to a growing and innovative company.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "High school diploma or equivalent",
-      "Previous experience in housekeeping, preferably in a healthcare setting",
-      "Ability to follow cleaning schedules and protocols",
-      "Strong attention to detail and commitment to cleanliness",
-      "Ability to perform physical tasks such as lifting, bending, and standing for extended periods"
+      "Juris Doctor (JD) degree from an accredited law school",
+      "Active bar admission in at least one U.S. state",
+      "Minimum of 8-10 years of progressive legal experience, with a preference for in-house counsel experience",
+      "Demonstrated expertise in corporate law, contracts, and regulatory compliance",
+      "Exceptional analytical, communication, and negotiation skills"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "1_ft_housekeepers_arabella_health___wellness_of_red_bay_red_bay__al"
+    "id": "senior_director_legal__associate_general_counsel__us__remote__remote"
   }
 ]
