@@ -1,21 +1,75 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleTitle": "Assistant Director of Nursing (RN Preferred)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role supports the Director of Nursing in overseeing the daily operations of the nursing department, ensuring the delivery of high-quality patient care and maintaining regulatory compliance. You will play a key role in staff supervision, development, and the implementation of best practices to foster a compassionate and efficient care environment.\n\nThis is an excellent opportunity for a motivated nursing professional looking to advance their leadership career within a supportive setting. We are looking for someone passionate about making a difference in the lives of residents, contributing to a positive team culture, and upholding the highest standards of care. If you are ready to take on a challenging yet rewarding position, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This leadership role is ideal for a Registered Nurse looking to advance their career and contribute to high-quality patient care within a supportive environment. The facility is committed to fostering a positive atmosphere for both residents and staff.As an ADON, you will play a crucial role in overseeing nursing operations, ensuring compliance with regulatory standards, and supporting the Director of Nursing. This position offers a competitive salary range and the opportunity to make a significant impact on the lives of residents. We are looking for a compassionate leader with a strong clinical background and a passion for excellence in long-term care.If you are an RN with leadership aspirations and a commitment to exceptional patient outcomes, we encourage you to apply. This is a full-time opportunity to join a dynamic team focused on delivering outstanding care.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Registered Nurse (RN) license preferred",
-      "Previous experience in a supervisory or leadership role within a healthcare setting",
-      "Strong understanding of long-term care regulations and standards",
-      "Excellent communication and interpersonal skills",
-      "Ability to lead and mentor nursing staff effectively"
+      "Registered Nurse (RN) license, preferred",
+      "Experience in a skilled nursing or long-term care setting",
+      "Demonstrated leadership experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal regulations"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $60,000 to $75,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Olathe, KS. This is an exceptional opportunity for a seasoned nursing leader to make a significant impact on patient care and operational excellence within a supportive environment. You will play a pivotal role in overseeing all nursing operations, ensuring the highest standards of care, and fostering a positive and productive work culture.\n\nAs the Director of Nursing, you will be responsible for managing and mentoring nursing staff, implementing best practices, and ensuring compliance with all regulatory standards. This position offers a competitive annual salary range of $85,000 - $105,000, reflecting your expertise and commitment to quality healthcare.\n\nIf you are a passionate leader with a proven track record in skilled nursing and are ready to take on a challenging yet rewarding role, we encourage you to apply today. Join a team dedicated to providing outstanding care and support to our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $105,000 per year",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license.",
+      "Minimum of 2-3 years of experience in a nursing leadership role, preferably within a skilled nursing facility.",
+      "Demonstrated knowledge of state and federal long-term care regulations.",
+      "Strong leadership, communication, and organizational skills."
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $105,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_don___85k__105k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Olathe, KS. This is an exceptional opportunity for a Registered Nurse with leadership aspirations to contribute to high-quality patient care and operational excellence. You will play a pivotal role in supervising nursing staff and ensuring the delivery of compassionate and effective services.This leadership position offers a competitive annual salary ranging from $75,000 to $85,000, reflecting your expertise and commitment. If you are a proactive leader with a passion for geriatric care and staff development, we encourage you to apply and become a vital part of our team.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas",
+      "Previous experience in a leadership role within a skilled nursing or long-term care setting",
+      "Demonstrated clinical expertise and strong supervisory skills",
+      "Knowledge of state and federal regulations governing skilled nursing facilities"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $75,000 to $85,000 annually, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to join a premier health and rehabilitation center in Des Moines, IA. This is a critical full-time leadership opportunity for a compassionate and skilled RN ready to make a significant impact on patient care and facility operations. We are looking for a permanent leader, not an interim candidate.\n\nAs the Director of Nursing, you will oversee all nursing services, ensuring the highest standards of care and compliance with all regulatory requirements. This role offers a competitive salary and the chance to lead a dynamic team in a supportive environment. If you are a visionary leader with a passion for excellence in long-term care, we encourage you to apply immediately.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000 - $105,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa",
+      "Proven leadership experience in a skilled nursing facility (SNF) setting",
+      "Strong knowledge of state and federal regulations for long-term care",
+      "Excellent communication and organizational skills"
+    ],
+    "salaryOrBonusInfo": "Competitive annual salary ranging from $90,000 to $105,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_rn_don___90_105k__urgent__azria_health_park_place_des_moines__ia"
   }
 ]
