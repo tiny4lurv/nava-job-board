@@ -1,75 +1,40 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing (RN Preferred)",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This leadership role is ideal for a Registered Nurse looking to advance their career and contribute to high-quality patient care within a supportive environment. The facility is committed to fostering a positive atmosphere for both residents and staff.As an ADON, you will play a crucial role in overseeing nursing operations, ensuring compliance with regulatory standards, and supporting the Director of Nursing. This position offers a competitive salary range and the opportunity to make a significant impact on the lives of residents. We are looking for a compassionate leader with a strong clinical background and a passion for excellence in long-term care.If you are an RN with leadership aspirations and a commitment to exceptional patient outcomes, we encourage you to apply. This is a full-time opportunity to join a dynamic team focused on delivering outstanding care.",
+    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers the opportunity to significantly impact patient care and support our nursing team, ensuring the highest standards of clinical excellence and operational efficiency.\n\nAs an ADON, you will work closely with the Director of Nursing to oversee daily nursing operations, staff supervision, and quality assurance initiatives. This position offers a competitive salary range of $60,000 - $75,000 per year, reflecting your expertise and commitment to providing exceptional care.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Registered Nurse (RN) license, preferred",
-      "Experience in a skilled nursing or long-term care setting",
-      "Demonstrated leadership experience in nursing",
+      "Registered Nurse (RN) license preferred",
+      "Previous experience in a supervisory or leadership nursing role",
+      "Experience within a skilled nursing or long-term care environment",
       "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal regulations"
+      "Knowledge of state and federal healthcare regulations"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Director of Nursing (DON)",
+    "roleTitle": "Unit Manager, Wound Care (RN)",
     "roleType": "Leadership",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Olathe, KS. This is an exceptional opportunity for a seasoned nursing leader to make a significant impact on patient care and operational excellence within a supportive environment. You will play a pivotal role in overseeing all nursing operations, ensuring the highest standards of care, and fostering a positive and productive work culture.\n\nAs the Director of Nursing, you will be responsible for managing and mentoring nursing staff, implementing best practices, and ensuring compliance with all regulatory standards. This position offers a competitive annual salary range of $85,000 - $105,000, reflecting your expertise and commitment to quality healthcare.\n\nIf you are a passionate leader with a proven track record in skilled nursing and are ready to take on a challenging yet rewarding role, we encourage you to apply today. Join a team dedicated to providing outstanding care and support to our residents.",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "Join a dedicated team at a premier rehabilitation center in Frostburg, MD, as a Unit Manager, Wound Care (RN). This vital full-time role offers a unique opportunity to lead a nursing unit while specializing in comprehensive wound care management, ensuring the highest standards of patient recovery and well-being.In this leadership position, you will be responsible for the daily operations of your unit, staff supervision, and the development and implementation of individualized wound care plans. We are seeking a compassionate and skilled Registered Nurse eager to make a significant impact on patient outcomes. The hourly rate for this role is competitive, ranging from $35.00 to $40.00, commensurate with your experience.If you are an experienced RN with a passion for wound care and leadership, we encourage you to apply and become a part of a facility committed to excellence in patient rehabilitation.",
     "contractType": "Full-time",
-    "salaryShort": "$85,000 - $105,000 per year",
+    "salaryShort": "$35.00 - $40.00/hr",
     "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license.",
-      "Minimum of 2-3 years of experience in a nursing leadership role, preferably within a skilled nursing facility.",
-      "Demonstrated knowledge of state and federal long-term care regulations.",
-      "Strong leadership, communication, and organizational skills."
+      "Active Registered Nurse (RN) license in Maryland",
+      "Minimum of 2 years of experience in wound care management",
+      "Previous experience in a leadership or supervisory nursing role",
+      "Strong assessment and critical thinking skills",
+      "Experience in a skilled nursing or rehabilitation setting preferred"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $105,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Hourly rate of $35.00 - $40.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_rn_don___85k__105k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "roleType": "Leadership",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Olathe, KS. This is an exceptional opportunity for a Registered Nurse with leadership aspirations to contribute to high-quality patient care and operational excellence. You will play a pivotal role in supervising nursing staff and ensuring the delivery of compassionate and effective services.This leadership position offers a competitive annual salary ranging from $75,000 to $85,000, reflecting your expertise and commitment. If you are a proactive leader with a passion for geriatric care and staff development, we encourage you to apply and become a vital part of our team.",
-    "contractType": "Full-time",
-    "salaryShort": "$75,000 - $85,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Kansas",
-      "Previous experience in a leadership role within a skilled nursing or long-term care setting",
-      "Demonstrated clinical expertise and strong supervisory skills",
-      "Knowledge of state and federal regulations governing skilled nursing facilities"
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $75,000 to $85,000 annually, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON)",
-    "roleType": "Leadership",
-    "location": "Des Moines, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to join a premier health and rehabilitation center in Des Moines, IA. This is a critical full-time leadership opportunity for a compassionate and skilled RN ready to make a significant impact on patient care and facility operations. We are looking for a permanent leader, not an interim candidate.\n\nAs the Director of Nursing, you will oversee all nursing services, ensuring the highest standards of care and compliance with all regulatory requirements. This role offers a competitive salary and the chance to lead a dynamic team in a supportive environment. If you are a visionary leader with a passion for excellence in long-term care, we encourage you to apply immediately.",
-    "contractType": "Full-time",
-    "salaryShort": "$90,000 - $105,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Proven leadership experience in a skilled nursing facility (SNF) setting",
-      "Strong knowledge of state and federal regulations for long-term care",
-      "Excellent communication and organizational skills"
-    ],
-    "salaryOrBonusInfo": "Competitive annual salary ranging from $90,000 to $105,000, based on experience and qualifications.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "interim_rn_don___90_105k__urgent__azria_health_park_place_des_moines__ia"
+    "id": "unit_manager___wound_care_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
   }
 ]
