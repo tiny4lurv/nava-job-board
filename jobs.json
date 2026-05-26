@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers an annual salary range of $60,000 - $75,000, reflecting your experience and commitment to exceptional patient care. We are particularly interested in candidates who are Registered Nurses (RNs) to ensure the highest standards of clinical oversight and resident well-being.The Assistant Director of Nursing will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the delivery of high-quality care to residents. You will contribute to staff development, maintain regulatory compliance, and foster a positive and supportive environment for both residents and staff. This is an excellent opportunity for a compassionate and skilled nursing leader to make a significant impact within a dynamic healthcare setting.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to significantly impact patient care and operational excellence within a supportive environment. The ideal candidate will be instrumental in overseeing nursing operations and ensuring the highest standards of care.\n\nThis position offers a competitive salary range of $60,000 - $75,000 per year. We are particularly interested in candidates who are Registered Nurses (RNs) and possess a strong commitment to quality and leadership in a skilled nursing setting. Join a team where your expertise is valued, and you can make a tangible difference in the lives of residents.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license is preferred and highly valued for this role.",
-      "Minimum of 2-3 years of nursing experience, with demonstrated leadership or supervisory responsibilities.",
-      "Experience working within a skilled nursing facility or long-term care environment.",
-      "Strong understanding of state and federal regulations governing long-term care.",
-      "Excellent clinical assessment, organizational, and communication skills."
+      "Current Registered Nurse (RN) license in the state of Iowa",
+      "Prior experience in a skilled nursing facility or long-term care setting",
+      "Demonstrated leadership or supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal regulations governing skilled nursing facilities"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "$60,000 - $75,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "roleType": "Floor Staff",
+    "location": "Vernon, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join our team for full-time PM shifts at a premier skilled nursing facility in Vernon, AL. In this vital role, you will provide essential direct care to our residents, ensuring their comfort, safety, and well-being. This is an excellent opportunity to make a significant impact on the lives of those we serve.\n\nAs a CNA, your responsibilities will include assisting residents with activities of daily living (ADLs) such as bathing, dressing, grooming, and mobility. You will also monitor vital signs, document observations, and communicate effectively with the nursing staff to ensure comprehensive and personalized care plans are followed. We are looking for individuals who are passionate about healthcare and committed to fostering a supportive and respectful environment for our residents.\n\nJoin a team that values your dedication and provides a supportive work environment. If you are a certified CNA looking for a rewarding full-time position on the evening shift, we encourage you to apply and become a part of our compassionate care team.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Certified Nursing Assistant (CNA) certification in Alabama",
+      "Prior experience in a skilled nursing or long-term care environment",
+      "Ability to work full-time PM shifts",
+      "Strong communication and interpersonal skills",
+      "Commitment to providing compassionate patient care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_cna_arabella_health___wellness_of_vernon_vernon__al"
   }
 ]
