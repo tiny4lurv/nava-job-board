@@ -3,37 +3,19 @@
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role involves supporting the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care, and fostering a positive and efficient work environment for our nursing team.The ideal candidate will be a compassionate leader with a strong clinical background, committed to enhancing the quality of life for our residents. You will play a key role in staff supervision, training, and development, as well as in maintaining compliance with all regulatory standards. This is an excellent opportunity to contribute to a facility dedicated to excellence in patient care.This full-time position offers a competitive annual salary range of $60,000 - $75,000, reflecting your valuable expertise and commitment. We are looking for a professional who is ready to make an immediate impact and grow with our team.",
+    "facilityType": "A premier health and rehabilitation center",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a leading health and rehabilitation center in Mediapolis, IA. This vital leadership role offers a competitive salary range of $60,000 - $75,000 per year, reflecting your expertise and commitment to exceptional patient care. If you are a Registered Nurse with a passion for leadership and a desire to make a significant impact, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of care for our residents. You will contribute to staff development, maintain regulatory compliance, and foster a positive and supportive environment for both staff and residents. This is an excellent opportunity for an RN looking to advance their career in a dynamic and rewarding setting.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license (preferred)",
-      "Previous experience in a skilled nursing or long-term care facility",
-      "Demonstrated leadership and supervisory experience",
+      "Current Registered Nurse (RN) license, preferred",
+      "Previous experience in a leadership role within a skilled nursing or long-term care facility",
       "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal healthcare regulations"
+      "Knowledge of state and federal regulations governing skilled nursing facilities",
+      "Ability to effectively manage and mentor nursing staff"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $60,000 - $75,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "$60,000 - $75,000 per year, based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
-    "roleType": "Other",
-    "location": "Oakland, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Staff Development Coordinator / Infection Control Nurse (RN) to join a premier Skilled Nursing Facility in Oakland, MD. This vital role offers a competitive hourly rate of $40-$42, providing an excellent opportunity for a skilled professional to make a significant impact on staff competency and patient safety.\n\nIn this dual role, you will be responsible for coordinating staff education and development programs, ensuring all team members are equipped with the necessary skills and knowledge. Additionally, you will lead our infection control initiatives, developing and implementing policies to prevent and manage infections within the facility. Your expertise will be crucial in maintaining a safe and compliant environment for both residents and staff.\n\nIf you are an experienced Registered Nurse with a passion for education and infection prevention, we encourage you to apply. This full-time position offers a chance to contribute to a supportive team dedicated to high-quality care.",
-    "contractType": "Full-time",
-    "salaryShort": "$40-$42 per hour",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Experience as a Staff Development Coordinator or in a similar training role",
-      "Experience in Infection Control within a healthcare setting",
-      "Knowledge of state and federal regulations for long-term care"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $40-$42, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   }
 ]
