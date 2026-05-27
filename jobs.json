@@ -1,21 +1,433 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a compassionate nursing leader to contribute to a high-quality care environment and make a significant impact on resident well-being.As an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the delivery of excellent patient care. We are looking for a professional who is passionate about geriatric care and committed to maintaining the highest standards of clinical practice and regulatory compliance. The compensation for this vital role ranges from $60,000 to $75,000 per year.If you are an RN with leadership aspirations and a desire to work in a supportive and dynamic setting, we encourage you to apply. Join a team that values your expertise and dedication to providing outstanding care.",
+    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This vital leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment.\n\nAs an ADON, you will assist the Director of Nursing in overseeing daily nursing operations, ensuring the highest standards of care, and maintaining regulatory compliance. This position is ideal for an experienced Registered Nurse looking to advance their career in nursing leadership.\n\nIf you are a compassionate and skilled nursing professional ready to take on a challenging yet rewarding leadership position, we encourage you to apply. We offer a competitive salary range of $60,000 - $75,000 per year.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license, highly preferred",
-      "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing facility",
-      "Prior supervisory or leadership experience in a healthcare setting",
-      "Strong understanding of state and federal healthcare regulations",
-      "Excellent communication and organizational skills"
+      "Current Registered Nurse (RN) license (preferred)",
+      "Prior experience in a supervisory or leadership nursing role",
+      "Knowledge of long-term care regulations and standards",
+      "Strong clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "Compensation: $60,000 - $75,000 per year, based on experience.",
+    "salaryOrBonusInfo": "$60,000 - $75,000 per year",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center. This pivotal role involves overseeing all nursing operations, ensuring the highest standards of patient care, and fostering a supportive and efficient work environment. The ideal candidate will be a compassionate leader with a strong commitment to quality outcomes and regulatory compliance.\n\nAs the Director of Nursing, you will be responsible for managing nursing staff, developing and implementing care policies, and maintaining an excellent standard of clinical practice. This is an exceptional opportunity for a seasoned RN to make a significant impact on the lives of residents and contribute to a thriving healthcare community.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $110,000 per year",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in Kansas",
+      "Minimum of 2-3 years of experience in a nursing leadership role (e.g., DON, ADON)",
+      "Experience working within a Skilled Nursing Facility (SNF) setting",
+      "Strong knowledge of state and federal healthcare regulations",
+      "Excellent leadership, communication, and organizational skills"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $110,000, compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_don___85k__110k_hard_cap__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Olathe, KS. This leadership role offers a unique opportunity to contribute to high-quality patient care and staff development within a supportive environment. The ideal candidate will be a Registered Nurse with a passion for clinical excellence and team leadership.This position is crucial for maintaining our standards of care and fostering a positive work culture. We are looking for a professional who can inspire and guide our nursing team, ensuring the best possible outcomes for our residents. This is an excellent chance to advance your career in a dynamic healthcare setting.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license",
+      "Prior experience in a nursing leadership role, preferably within a skilled nursing or long-term care facility",
+      "Demonstrated ability to supervise, educate, and mentor nursing staff",
+      "Strong understanding of regulatory compliance and quality assurance in healthcare"
+    ],
+    "salaryOrBonusInfo": "$75,000 - $85,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier health and rehabilitation center in Olathe, KS. This vital role involves managing the Minimum Data Set (MDS) process to ensure accurate assessments and comprehensive care planning for our residents. We are looking for a professional who is passionate about quality care and compliance.\n\nThis position offers a competitive hourly rate of $32-$36 per hour. We value strong clinical judgment and a commitment to maintaining high standards of resident care and regulatory adherence. If you are an RN with a background in MDS coordination, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$32-$36 per hour",
+    "requirements": [
+      "Current Registered Nurse (RN) license in Kansas (preferred)",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Proficient knowledge of MDS 3.0 and associated regulations",
+      "Strong understanding of federal and state long-term care regulations",
+      "Excellent assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "$32-$36 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_mds__rn_preferred___32__36_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Baltimore County, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a highly skilled and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This confidential opportunity offers a chance to make a significant impact on patient care and facility success within a supportive environment.The ideal candidate will be responsible for overseeing all aspects of facility management, ensuring compliance with state and federal regulations, and fostering a culture of excellence. This role demands strong leadership, operational expertise, and a commitment to delivering high-quality care to residents. We offer a competitive salary range of $115,000 - $145,000 per year, reflecting the importance of this leadership position.",
+    "contractType": "Full-time",
+    "salaryShort": "$115,000 - $145,000 per year",
+    "requirements": [
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland",
+      "Minimum of 3+ years of experience as an LNHA in a skilled nursing or rehabilitation facility",
+      "Demonstrated knowledge of state and federal long-term care regulations",
+      "Proven track record of successful facility management, including financial and operational oversight",
+      "Exceptional leadership, communication, and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Support",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and facility reimbursement.\n\nAs an MDS Coordinator, you will play a key role in the interdisciplinary team, collaborating with nursing, therapy, and other departments to develop comprehensive care plans that meet the individual needs of our residents. Your expertise will ensure compliance with federal and state regulations, contributing significantly to the quality of care provided.\n\nThis is a full-time opportunity offering an annual salary range of $65,000 - $75,000. We are looking for a committed professional to become a long-term member of our team.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing or long-term care setting",
+      "Comprehensive knowledge of the Minimum Data Set (MDS) 3.0, Resident Assessment Instrument (RAI) process, and Medicare/Medicaid regulations",
+      "Strong clinical assessment, critical thinking, and organizational skills",
+      "RAC-CT certification preferred"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Des Moines, IA. This is a critical leadership opportunity for a visionary RN passionate about delivering exceptional patient care and fostering a supportive environment for staff. You will play a pivotal role in shaping the quality of life for our residents and the professional growth of our nursing team.As the Director of Nursing, you will oversee all nursing operations, ensuring compliance with regulatory standards and implementing best practices in patient care. This full-time, permanent position offers a competitive salary and the chance to make a significant impact within a dynamic healthcare setting. We are looking for a leader who can inspire excellence and drive positive outcomes.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000 - $105,000 per year",
+    "requirements": [
+      "Active and unencumbered Registered Nurse (RN) license.",
+      "Proven experience as a Director of Nursing or in a comparable nursing leadership role within a skilled nursing facility.",
+      "Comprehensive understanding of state and federal long-term care regulations.",
+      "Exceptional leadership, communication, and organizational skills.",
+      "This is a permanent, full-time opportunity; interim candidates will not be considered."
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $90,000 to $105,000 annually, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_don___90_105k__urgent__azria_health_park_place_des_moines__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to join a premier skilled nursing facility in Des Moines, IA. This is a critical leadership opportunity for a passionate healthcare professional ready to make a significant impact on patient care and staff development. You will play a pivotal role in overseeing all nursing operations, ensuring the highest standards of clinical excellence and regulatory compliance.\n\nAs the Director of Nursing, you will be responsible for leading, mentoring, and managing the nursing team, developing and implementing care policies, and maintaining a safe and supportive environment for residents. This role requires a visionary leader who can drive quality improvement initiatives and foster a culture of compassion and accountability.\n\nThis is an urgent, full-time opening offering a competitive salary for a committed professional looking for a long-term leadership position.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000 - $105,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa",
+      "Minimum of 2-3 years of experience as a Director of Nursing or in a similar nursing leadership role within a skilled nursing facility",
+      "Comprehensive knowledge of state and federal long-term care regulations",
+      "Demonstrated ability to lead, manage, and develop a nursing team",
+      "Commitment to a permanent, full-time leadership position"
+    ],
+    "salaryOrBonusInfo": "This urgent full-time position offers an annual salary range of $90,000 - $105,000, commensurate with experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_rn_don___90_105k__urgent__azria_health_park_place_des_moines__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Des Moines, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Des Moines, IA. This full-time leadership position offers a unique opportunity to contribute to a compassionate and high-quality care environment, supporting the Director of Nursing in overseeing clinical operations and staff development.This vital role comes with a competitive annual salary ranging from $70,000 to $80,000. We are specifically looking for a candidate committed to a permanent, full-time engagement, bringing stability and expertise to our team. While an RN license is preferred, we value strong leadership and clinical acumen.If you are a proactive and experienced nursing leader ready to make a significant impact on patient care and staff excellence, we encourage you to apply. Join a team dedicated to fostering a supportive and professional atmosphere.",
+    "contractType": "Full-time",
+    "salaryShort": "$70,000 - $80,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license (preferred)",
+      "Prior experience in a leadership capacity within a skilled nursing or long-term care setting",
+      "Demonstrated ability to manage clinical operations and supervise nursing staff",
+      "Strong communication and organizational skills",
+      "Commitment to a full-time, permanent role"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_adon__rn_preferred___70k__80k__azria_health_park_place_des_moines__ia"
+  },
+  {
+    "roleTitle": "Staff Development Coordinator / Infection Control Nurse",
+    "roleType": "Leadership",
+    "location": "Oakland, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse to join a leading skilled nursing facility in Oakland, MD. This pivotal role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nIn this dual capacity, you will be instrumental in fostering a culture of continuous learning and vigilance against infectious diseases. We offer a competitive hourly rate of $40-$42, reflecting the importance of this role within our compassionate and professional environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$40-$42 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Maryland",
+      "Proven experience in staff development or education within a healthcare setting",
+      "Demonstrated experience in infection prevention and control practices",
+      "Strong knowledge of state and federal regulations pertaining to long-term care",
+      "Excellent communication, organizational, and leadership skills"
+    ],
+    "salaryOrBonusInfo": "Compensation: $40-$42 per hour.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "Join a premier health and rehabilitation center in Frostburg, MD, as an Assistant Director of Nursing (ADON). This pivotal leadership role supports the Director of Nursing in overseeing patient care, ensuring compliance with regulations, and fostering a positive environment for both residents and staff. We are seeking a dedicated and compassionate leader to contribute to our mission of providing exceptional care.\nAs an ADON, you will play a crucial role in daily operations, staff supervision, and quality assurance. This full-time position offers a competitive salary range of $75,000 - $90,000 annually, reflecting your experience and commitment to excellence. If you are an experienced Registered Nurse looking to advance your career in a supportive setting, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $90,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license",
+      "Previous experience in a leadership or supervisory role within a healthcare setting",
+      "Strong knowledge of long-term care regulations and standards",
+      "Excellent communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $75,000 - $90,000 annually, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Unit Manager, Wound Care Nurse (RN)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Unit Manager, Wound Care Nurse (RN) to join a premier health and rehabilitation center in Frostburg, MD. This vital role involves overseeing unit operations while providing specialized wound care, ensuring the highest standards of patient care and clinical excellence.\n\nAs a Unit Manager, Wound Care Nurse, you will leverage your expertise to manage patient care, lead a compassionate nursing team, and implement effective wound management protocols. This is an excellent opportunity for an RN with a passion for leadership and specialized wound care to make a significant impact on patient outcomes.\n\nJoin a supportive environment where your skills are valued, and professional growth is encouraged. Apply today to learn more about this rewarding full-time position.",
+    "contractType": "Full-time",
+    "salaryShort": "$35.00 - $40.00/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Maryland (or compact state)",
+      "Minimum of 2-3 years of nursing experience, with demonstrated experience in wound care",
+      "Previous experience in a supervisory or unit management role preferred",
+      "Strong clinical assessment and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $35.00 - $40.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "unit_manager___wound_care_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Frostburg, MD. This pivotal role offers the opportunity to oversee all aspects of facility management, ensuring the highest standards of patient care, regulatory compliance, and operational efficiency.\n\nThe ideal candidate will be a visionary leader with a passion for senior care, committed to fostering a positive environment for both residents and staff. You will be instrumental in driving continuous improvement initiatives and maintaining the facility's reputation for excellence.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Bachelor's degree in healthcare administration or a related field.",
+      "Minimum of 3-5 years of experience in a leadership role within a skilled nursing facility.",
+      "Comprehensive understanding of state and federal long-term care regulations.",
+      "Demonstrated ability to manage financial operations and ensure quality care."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "lnha_mountain_city_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Support",
+    "location": "Boonsboro, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier health and rehabilitation center in Boonsboro, MD. In this vital role, you will be responsible for the timely and accurate completion of the Minimum Data Set (MDS) assessments, ensuring compliance with federal and state regulations and contributing to comprehensive care planning for our residents. This position offers a rewarding opportunity to utilize your clinical expertise in a critical administrative capacity, directly impacting resident care and facility operations.The ideal candidate will possess a strong understanding of the Resident Assessment Instrument (RAI) process and demonstrate exceptional organizational and communication skills. You will collaborate closely with an interdisciplinary team to ensure that resident assessments accurately reflect their needs and drive appropriate reimbursement. Join a team committed to providing high-quality care and making a difference in the lives of those we serve.",
+    "contractType": "Full-time",
+    "salaryShort": "$43.00 - $46.00/hr",
+    "requirements": [
+      "Current and unrestricted Registered Nurse (RN) license",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing or long-term care setting",
+      "Thorough understanding of the Minimum Data Set (MDS) and Resident Assessment Instrument (RAI) process",
+      "Knowledge of Medicare and Medicaid reimbursement regulations",
+      "Strong assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "$43.00 - $46.00 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___43__46_per_hour__south_mountain_rehab_center_boonsboro__md"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Milbank, SD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Milbank, SD. This pivotal leadership role offers the opportunity to oversee all nursing operations, ensuring the highest standards of patient care and regulatory compliance. You will be instrumental in fostering a supportive and professional environment for our nursing staff, contributing significantly to the well-being of our residents.\n\nAs the Director of Nursing, you will be responsible for the overall direction, coordination, and evaluation of nursing services. This includes developing and implementing nursing policies, managing staff, and ensuring adherence to all healthcare regulations. We are looking for a visionary leader who is passionate about quality care and committed to making a positive impact on the lives of our residents and staff.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in South Dakota.",
+      "Minimum of 2-3 years of experience in a nursing leadership role, such as Director of Nursing or Assistant Director of Nursing.",
+      "Prior experience in a skilled nursing facility or long-term care setting.",
+      "Comprehensive knowledge of state and federal regulations governing skilled nursing facilities.",
+      "Demonstrated ability to lead, mentor, and manage a diverse nursing team."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_don_avantara_milbank_milbank__sd"
+  },
+  {
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Rapid City, SD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and detail-oriented MDS Coordinator to join a premier health and rehabilitation center in Rapid City, SD. In this vital role, you will be responsible for the timely and accurate completion of the Minimum Data Set (MDS) assessments, ensuring compliance with federal and state regulations. Your expertise will be crucial in facilitating comprehensive care planning and optimizing reimbursement.\n\nThe ideal candidate will collaborate closely with an interdisciplinary team to develop individualized care plans that reflect the needs of each resident. This position offers an opportunity to significantly impact the quality of care provided, contributing to positive resident outcomes and efficient facility operations.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in South Dakota",
+      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "RAC-CT certification preferred",
+      "Strong understanding of Medicare/Medicaid regulations and PPS",
+      "Excellent organizational, assessment, and communication skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mds_avantara_mountain_view_rapid_city__sd"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Support",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and detail-oriented Registered Nurse (RN) to join a premier health and rehabilitation center as an MDS Coordinator. In this vital role, you will be instrumental in ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are critical for resident care planning and facility reimbursement. Your expertise will directly contribute to the quality of care provided to our residents.\n\nThis position offers an opportunity to leverage your clinical knowledge in a specialized administrative capacity, focusing on regulatory compliance and comprehensive resident assessments. You will collaborate with interdisciplinary teams to develop individualized care plans, ensuring all documentation meets federal and state guidelines. If you are an RN with a passion for precision and a commitment to resident well-being, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in Alabama.",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility.",
+      "Thorough understanding of the RAI process, MDS 3.0, and Medicare/Medicaid regulations.",
+      "Excellent assessment, documentation, and communication skills.",
+      "Proficiency with electronic health record (EHR) systems."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Housekeeper",
+    "roleType": "Support",
+    "location": "Red Bay, AL",
+    "facilityType": "a premier health and rehabilitation center",
+    "description": "Join our dedicated team as a Full-time Housekeeper at a premier health and rehabilitation center in Red Bay, AL. In this vital role, you will be responsible for maintaining a clean, safe, and comfortable environment for our residents, patients, and staff. Your commitment to cleanliness directly contributes to the well-being and satisfaction of everyone in our facility. We are seeking a meticulous and reliable individual who takes pride in their work. This full-time position offers a stable opportunity to become an integral part of a compassionate healthcare community. If you are detail-oriented and dedicated to upholding high standards of hygiene, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "High School Diploma or GED preferred",
+      "Prior experience in housekeeping or environmental services, preferably in a healthcare setting",
+      "Ability to follow all safety and sanitation protocols",
+      "Strong attention to detail and organizational skills",
+      "Physical ability to perform duties including standing, walking, bending, and lifting"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_housekeepers_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) to join a premier health and rehabilitation center in Red Bay, AL. This is a flexible part-time and PRN opportunity, perfect for a professional looking to make a significant impact on patients' lives while maintaining work-life balance. You will be an integral part of a multidisciplinary team, providing essential therapy services to residents.In this role, you will be responsible for assessing, diagnosing, and treating communication and swallowing disorders. Your expertise will help patients regain and improve their speech, language, cognitive, and swallowing functions, enhancing their overall quality of life and independence. You will develop individualized treatment plans, document progress, and collaborate closely with other healthcare professionals, patients, and their families.This position offers the chance to work in a supportive environment focused on patient-centered care. If you are passionate about helping individuals achieve their highest potential and thrive in a dynamic setting, we encourage you to apply.",
+    "contractType": "Part-time, PRN",
+    "salaryShort": "",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology.",
+      "Current and valid Speech-Language Pathologist license in the state of Alabama.",
+      "Certificate of Clinical Competence (CCC) from the American Speech-Language-Hearing Association (ASHA).",
+      "Prior experience working in a skilled nursing facility or rehabilitation setting is preferred.",
+      "Ability to work independently and as part of a collaborative team."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_slp_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Certified Nursing Assistant (CNA)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Certified Nursing Assistants (CNAs) to join a premier health and rehabilitation center in Red Bay, AL. This facility is committed to providing exceptional care and a supportive environment for both residents and staff. We have opportunities for both full-time and part-time schedules, offering flexibility to suit your needs.\n\nAs a CNA, you will play a vital role in the daily lives of our residents, assisting with activities of daily living, monitoring vital signs, and ensuring their comfort and well-being. Your empathy and attention to detail will contribute significantly to the quality of life for those in our care. Join a team that values your contributions and supports your professional growth.\n\nIf you are a caring and reliable CNA looking for a rewarding opportunity to make a difference, we encourage you to apply. We are eager to welcome new team members who share our commitment to excellence in resident care.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Certified Nursing Assistant (CNA) certification in Alabama",
+      "High school diploma or GED",
+      "Ability to provide compassionate and patient-centered care",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) to join a premier health and rehabilitation center in Red Bay, AL. This vital role involves working 12-hour PM shifts, providing essential care and support to our residents. If you are a compassionate and skilled nurse looking to make an immediate impact, we encourage you to apply.\n\nAs an RN, you will be responsible for delivering high-quality patient care, administering medications, monitoring patient conditions, and collaborating with our interdisciplinary team. This is an excellent opportunity to contribute to a supportive environment focused on patient well-being and recovery.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Alabama",
+      "Minimum of 1-2 years of experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work 12-hour PM shifts",
+      "Strong clinical assessment and critical thinking skills",
+      "Current BLS certification"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) / Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) or Licensed Practical Nurse (LPN) to join a premier health and rehabilitation center in Red Bay, AL. This vital full-time role involves working 12-hour night shifts, providing essential care and support to our residents. We are looking for a compassionate and skilled professional ready to make an immediate impact.\n\nIn this role, you will be responsible for comprehensive patient care, including medication administration, accurate documentation, and responding to patient needs throughout your shift. Your expertise will ensure the highest standards of care and contribute significantly to the well-being of our residents during the overnight hours.\n\nIf you are a proactive and caring nurse looking for an urgent opportunity to contribute your skills in a supportive environment, we encourage you to apply. This is a chance to join a team committed to excellence in patient care.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active RN or LPN license in Alabama",
+      "Ability to work 12-hour night shifts",
+      "Minimum of 1 year of experience in a skilled nursing or rehabilitation setting",
+      "Current BLS certification"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_am_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Dietary Cook",
+    "roleType": "Support",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Red Bay, AL, as a Part-time Dietary Cook. In this essential role, you will be responsible for preparing delicious and nutritious meals that meet the dietary needs and preferences of our residents. We are looking for a compassionate individual who takes pride in their culinary skills and contributes to a positive dining experience.As a Dietary Cook, you will play a vital part in the daily well-being of our residents, ensuring meals are prepared safely and efficiently according to established menus and dietary restrictions. This is an excellent opportunity for someone seeking a part-time position to make a meaningful impact in a supportive healthcare environment.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as a cook, preferably in a healthcare or institutional setting",
+      "Knowledge of food preparation techniques and special dietary needs",
+      "Ability to follow recipes and maintain high standards of food quality and presentation",
+      "Understanding of food safety and sanitation regulations",
+      "Strong communication and teamwork skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pt__diatery_cook_arabella_health___wellness_of_red_bay_red_bay__al"
   }
 ]
