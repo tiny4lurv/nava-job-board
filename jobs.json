@@ -1,40 +1,21 @@
 [
   {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleTitle": "Assistant Director of Nursing",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Mediapolis, IA. This leadership role offers a unique opportunity to contribute to a compassionate care environment, supporting the Director of Nursing in overseeing clinical operations and ensuring the highest standards of patient care. If you are passionate about making a difference in the lives of residents and thrive in a supportive team setting, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in staff supervision, quality assurance, and maintaining regulatory compliance. This position is ideal for a proactive leader who is committed to clinical excellence and fostering a positive work culture. We offer a competitive salary range and the chance to grow your career within a reputable organization.\n\nJoin a team where your expertise is valued, and your contributions directly impact the well-being of our residents. We are looking for an individual ready to step into a challenging yet rewarding role.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a compassionate nursing leader to contribute to a high-quality care environment and make a significant impact on resident well-being.As an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the delivery of excellent patient care. We are looking for a professional who is passionate about geriatric care and committed to maintaining the highest standards of clinical practice and regulatory compliance. The compensation for this vital role ranges from $60,000 to $75,000 per year.If you are an RN with leadership aspirations and a desire to work in a supportive and dynamic setting, we encourage you to apply. Join a team that values your expertise and dedication to providing outstanding care.",
     "contractType": "Full-time",
     "salaryShort": "$60,000 - $75,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license, preferred",
-      "Previous experience in a skilled nursing or long-term care setting",
-      "Demonstrated leadership or supervisory experience in nursing",
-      "Strong clinical assessment and critical thinking skills",
-      "Ability to ensure compliance with all state and federal regulations"
+      "Current Registered Nurse (RN) license, highly preferred",
+      "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing facility",
+      "Prior supervisory or leadership experience in a healthcare setting",
+      "Strong understanding of state and federal healthcare regulations",
+      "Excellent communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $60,000 to $75,000 annually, based on experience.",
+    "salaryOrBonusInfo": "Compensation: $60,000 - $75,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___60k__75k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN)",
-    "roleType": "Floor Staff",
-    "location": "Red Bay, AL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Red Bay, AL. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and reimbursement.As an MDS Coordinator, you will play a key role in the interdisciplinary team, collaborating with nursing, therapy, and other departments to gather comprehensive resident information. Your expertise will directly impact the quality of care provided and the facility's operational success.If you are a detail-oriented Registered Nurse with a passion for accurate documentation and improving resident outcomes, we encourage you to apply. Join a team committed to excellence in patient care.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Alabama.",
-      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility.",
-      "Comprehensive understanding of the Resident Assessment Instrument (RAI) process and MDS 3.0.",
-      "Proficiency in electronic health records (EHR) and MDS software.",
-      "Strong organizational, communication, and interpersonal skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds_arabella_health___wellness_of_red_bay_red_bay__al"
   }
 ]
