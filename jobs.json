@@ -4,56 +4,36 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility in Baltimore County, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on resident care and facility success.\n\nAs the LNHA, you will be responsible for overseeing all aspects of facility management, ensuring compliance with regulatory standards, and fostering a positive environment for both residents and staff. Join a team committed to delivering high-quality care and achieving operational excellence.",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) for a confidential opportunity in Baltimore County, MD. This full-time role offers a competitive salary range of $115,000 - $145,000 per year at a premier skilled nursing facility committed to providing exceptional patient care and fostering a supportive environment for both residents and staff.As the LNHA, you will be instrumental in overseeing all operational aspects of the facility, ensuring compliance with all regulatory standards, and driving continuous improvement in quality of care and resident satisfaction. This is an excellent opportunity for a visionary leader to make a significant impact within a reputable organization.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Minimum of 3-5 years of experience in a leadership role within a skilled nursing or long-term care facility.",
-      "Comprehensive knowledge of state and federal regulations governing skilled nursing facilities.",
-      "Demonstrated ability to manage financial, operational, and clinical aspects of a healthcare facility.",
-      "Strong leadership, communication, and interpersonal skills."
+      "Current and valid LNHA license in Maryland",
+      "Proven experience as a Licensed Nursing Home Administrator in a skilled nursing setting",
+      "Strong leadership and operational management skills",
+      "In-depth knowledge of state and federal regulations for skilled nursing facilities"
     ],
-    "salaryOrBonusInfo": "Competitive salary ranging from $115,000 to $145,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation between $115,000 and $145,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "roleType": "Leadership",
-    "location": "Frostburg, MD",
+    "roleTitle": "Registered Nurse (RN) MDS Coordinator",
+    "roleType": "Support",
+    "location": "Missouri Valley, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This vital leadership role offers a competitive salary ranging from $75,000 to $90,000 per year, providing an excellent opportunity for a skilled nursing professional to advance their career.\n\nThe Assistant Director of Nursing will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of patient care. This position is ideal for a compassionate leader who is committed to fostering a positive environment for both residents and staff. While an RN is preferred, we encourage all qualified candidates to apply.",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) MDS Coordinator to join a premier health and rehabilitation center in Missouri Valley, IA. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and facility reimbursement.\n\nThe successful candidate will play a key role in coordinating the interdisciplinary care team, conducting comprehensive assessments, and maintaining compliance with all federal and state regulations related to MDS. This position offers an opportunity to significantly impact resident outcomes and facility operations.\n\nThis is a full-time opportunity with a competitive annual salary. We are looking for a committed professional to join our team permanently.",
     "contractType": "Full-time",
-    "salaryShort": "$75,000 - $90,000 per year",
+    "salaryShort": "$65,000 - $75,000 per year",
     "requirements": [
-      "Registered Nurse (RN) license preferred",
-      "Current RN license in the state of Maryland",
-      "Previous experience in a leadership role within a skilled nursing or rehabilitation setting",
-      "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal regulations governing long-term care"
+      "Active and unrestricted Registered Nurse (RN) license in Iowa.",
+      "Proven experience as an MDS Coordinator, preferably in a skilled nursing facility.",
+      "Strong understanding of MDS 3.0, Medicare, and Medicaid regulations.",
+      "Excellent assessment, documentation, and communication skills.",
+      "Candidates seeking interim positions will not be considered."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $75,000 to $90,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary ranging from $65,000 to $75,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Helena, AL",
-    "facilityType": "Community-based Healthcare Provider",
-    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join our team in Helena, AL. This PRN role offers the flexibility to provide essential therapy services on a per-visit basis, supporting patients in their recovery and rehabilitation journey within a community setting. We are looking for a professional who is ready to make an immediate impact. This is an urgent need, and we are looking to fill this position quickly. Join a team committed to patient-centered care and professional growth. This role offers competitive per-visit compensation, allowing you to manage your schedule while making a significant difference in patients' lives.",
-    "contractType": "PRN",
-    "salaryShort": "$35 per visit",
-    "requirements": [
-      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
-      "Current and valid Alabama PTA licensure",
-      "CPR certification",
-      "Prior experience in home health or community-based therapy preferred",
-      "Excellent communication and documentation skills"
-    ],
-    "salaryOrBonusInfo": "$35 per visit",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_pta__urgent___35_per_visit__traveling_helena__al"
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
   }
 ]
