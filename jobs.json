@@ -1,21 +1,21 @@
 [
   {
-    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
-    "roleType": "Leadership",
-    "location": "Baltimore County, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility located in Baltimore County, MD. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and fostering a supportive environment for both residents and staff.As the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all regulatory standards and driving continuous improvement in quality of care and operational efficiency. This full-time role offers a competitive salary of $115,000 - $145,000 per year, reflecting your expertise and commitment to excellence.",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Alpine, AL",
+    "facilityType": "Home Health Agency",
+    "description": "Join a dedicated team as a Full-time Physical Therapist Assistant (PTA) in Alpine, AL. This role offers the unique opportunity to provide essential therapy services within a home health setting, making a direct impact on patients' lives in their own environments. We are seeking a compassionate and skilled professional ready to deliver high-quality care.As a PTA, you will work under the supervision of a licensed Physical Therapist, implementing individualized treatment plans to help patients regain mobility, reduce pain, and improve their overall functional abilities. This traveling position requires excellent organizational skills and the ability to manage a caseload effectively while providing personalized, one-on-one care.Compensation for this role is structured at $35 per visit, offering a clear and rewarding pay model. Interview scheduling is flexible, with availability Monday-Friday from 1PM-7PM and over the weekend as needed to accommodate your schedule.",
     "contractType": "Full-time",
-    "salaryShort": "$115,000 - $145,000 per year",
+    "salaryShort": "$35 per visit",
     "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or long-term care setting.",
-      "Demonstrated knowledge of state and federal regulations governing skilled nursing facilities.",
-      "Proven leadership and management skills, with a track record of operational success.",
-      "Strong financial acumen and ability to manage budgets effectively."
+      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
+      "Current and valid Physical Therapist Assistant (PTA) license in Alabama",
+      "Current CPR certification",
+      "Valid driver's license and reliable transportation",
+      "Ability to work independently and manage a caseload effectively"
     ],
-    "salaryOrBonusInfo": "This full-time position offers a competitive salary ranging from $115,000 to $145,000 annually, commensurate with experience.",
+    "salaryOrBonusInfo": "$35 per visit",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+    "id": "ft_pta___35_per_visit__traveling_alpine__al"
   }
 ]
