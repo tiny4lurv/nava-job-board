@@ -1,133 +1,57 @@
 [
   {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Baltimore County, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "An exceptional opportunity awaits a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing facility in Baltimore County, MD. This confidential role offers a chance to make a significant impact on resident care and operational excellence within a supportive environment.\n\nAs the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all regulatory standards and fostering a culture of compassion and quality. Your leadership will be crucial in overseeing daily operations, financial performance, and the delivery of high-quality patient care.\n\nWe are seeking a visionary leader with a passion for long-term care. This role offers a competitive salary range of $115,000 - $145,000 per year, commensurate with experience. Join a team committed to providing outstanding care and a positive environment for both residents and staff.",
+    "contractType": "Full-time",
+    "salaryShort": "$115,000 - $145,000 per year",
+    "requirements": [
+      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the state of Maryland.",
+      "Minimum of 3-5 years of experience as an LNHA or in a similar leadership role within a skilled nursing facility.",
+      "Comprehensive knowledge of state and federal regulations (e.g., CMS, OBRA) pertaining to long-term care.",
+      "Demonstrated ability to manage facility operations, financial performance, and staff development effectively.",
+      "Strong leadership, communication, and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This full-time position offers a competitive salary range of $65,000 - $75,000 per year, reflecting your expertise and commitment to quality patient care. We are looking for a permanent team member to contribute to our mission of providing exceptional health and rehabilitation services.As an MDS Coordinator, you will play a crucial role in the resident assessment process, ensuring accurate and timely completion of the Minimum Data Set (MDS). Your responsibilities will include coordinating care plans, collaborating with interdisciplinary teams, and maintaining compliance with all federal and state regulations. This is an excellent opportunity for an RN with a passion for comprehensive resident care and strong organizational skills to make a significant impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa or a compact state",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Proficient knowledge of the Resident Assessment Instrument (RAI) process and Medicare/Medicaid regulations",
+      "Strong assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "$65,000 - $75,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Frostburg, MD",
     "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This vital leadership role offers an excellent opportunity to contribute to high-quality patient care and operational excellence within a supportive environment.\n\nAs an ADON, you will play a crucial role in overseeing nursing operations, ensuring compliance with regulatory standards, and fostering a positive work environment for nursing staff. You will collaborate closely with the Director of Nursing to implement best practices and maintain exceptional standards of care for our residents.\n\nIf you are a compassionate and skilled nursing leader looking to make a significant impact, we encourage you to apply. This position offers a chance to advance your career in a dynamic healthcare setting.",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier rehabilitation center in Frostburg, MD. This leadership role offers a significant opportunity to contribute to patient care excellence and operational efficiency within a supportive environment. The ideal candidate will play a crucial part in overseeing nursing operations and ensuring the highest standards of quality care.As an ADON, you will work closely with the Director of Nursing to manage daily clinical activities, supervise nursing staff, and implement patient care policies. This position is perfect for an RN with proven leadership skills looking to advance their career in a dynamic rehabilitation setting. Compensation for this vital role is competitive, with an annual salary ranging from $75,000 to $90,000, based on experience and qualifications.",
     "contractType": "Full-time",
     "salaryShort": "$75,000 - $90,000 per year",
     "requirements": [
-      "Valid Registered Nurse (RN) license in Maryland (or eligibility for licensure)",
-      "Minimum of 2-3 years of nursing experience, preferably in a long-term care or rehabilitation setting",
-      "Prior leadership or supervisory experience in a healthcare environment",
-      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
-      "Excellent communication, organizational, and interpersonal skills"
+      "Active Registered Nurse (RN) license (preferred)",
+      "Minimum of 2 years of experience in a leadership or supervisory nursing role",
+      "Clinical experience in a rehabilitation or skilled nursing facility setting",
+      "Strong understanding of nursing best practices and regulatory compliance"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 - $90,000 based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $90,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
-  },
-  {
-    "roleTitle": "Licensed Practical Nurse (LPN)",
-    "roleType": "Floor Staff",
-    "location": "Red Bay, AL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "An urgent opportunity has arisen for a dedicated Licensed Practical Nurse (LPN) to join a premier health and rehabilitation center in Red Bay, AL. This vital role involves providing compassionate and skilled nursing care to residents, ensuring their well-being and contributing to a positive healing environment. We are seeking a professional who is ready to make an immediate impact.\nThis position requires commitment to 12-hour PM shifts, addressing an urgent need within our facility. You will be an integral part of a supportive team, working to uphold the highest standards of patient care and safety. Your expertise will be crucial in monitoring patient conditions, administering medications, and collaborating with other healthcare professionals.\nIf you are an experienced LPN looking for a challenging yet rewarding full-time role with immediate availability, we encourage you to apply. Join a team that values your dedication and provides a supportive environment for professional growth.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Active LPN license in Alabama",
-      "Experience in a skilled nursing or long-term care setting",
-      "Ability to work 12-hour PM shifts",
-      "Strong clinical assessment and documentation skills",
-      "Current BLS/CPR certification"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
-  },
-  {
-    "roleTitle": "Operations & HR Coordinator",
-    "roleType": "Support",
-    "location": "Skokie, IL",
-    "facilityType": "a dynamic corporate office",
-    "description": "Join a dynamic corporate office in Skokie, IL, as an Operations & HR Coordinator. This pivotal role is perfect for a proactive and highly organized professional eager to manage a broad spectrum of responsibilities beyond traditional HR functions. You will be instrumental in ensuring smooth daily operations, handling everything from office administration to critical HR tasks, including payroll, benefits, and onboarding.\n\nWe are seeking a versatile individual who thrives in a fast-paced environment and can seamlessly manage diverse tasks. This position offers the opportunity to be the central point for operational efficiency and employee support, making a significant impact on our team's success. Experience with HVAC operations or related facilities management is a significant advantage for this role.\n\nIf you possess a strong administrative background and are ready to take on a comprehensive role where no two days are the same, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience in an Operations and/or HR Coordinator role.",
-      "Demonstrated ability to manage comprehensive office administration tasks.",
-      "Experience with payroll, benefits administration, and employee onboarding processes.",
-      "Exceptional organizational skills and a proactive approach to problem-solving.",
-      "Prior experience or strong understanding of HVAC operations or facilities management is highly desirable."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rockstar_operations___hr_coordinator_hq_skokie__il"
-  },
-  {
-    "roleTitle": "Vice President - Client Services",
-    "roleType": "Leadership",
-    "location": "Plantation, FL",
-    "facilityType": "A leading client services organization",
-    "description": "We are seeking a dynamic and experienced Vice President - Client Services to join a leading client services organization in Plantation, FL. This pivotal full-time role is responsible for overseeing overall client relations, ensuring operational effectiveness, driving revenue generation, and fostering strong client retention.\n\nThe ideal candidate will be a strategic leader with a proven track record in managing key client accounts and contributing to business growth. This is an excellent opportunity to make a significant impact within a forward-thinking organization.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Demonstrated experience in Business Process Outsourcing (BPO) is highly preferred.",
-      "Proven ability to manage and enhance overall client relations.",
-      "Strong background in driving operational effectiveness.",
-      "Track record of successful revenue generation and client retention."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "vice_president___client_services_everise_headquarters_plantation__fl"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "roleType": "Floor Staff",
-    "location": "Alpine, AL",
-    "facilityType": "Healthcare Facility",
-    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join our team at a premier healthcare facility in Alpine, AL. This full-time position offers a competitive hourly rate of $47/hr, reflecting our commitment to attracting top talent. We value our nurses and provide a supportive environment where you can make a significant impact on patient care.\n\nThis role offers excellent flexibility for interviews, with availability Monday through Friday from 1 PM to 7 PM, and over the weekend as needed. We understand the demands of your schedule and are eager to connect with qualified candidates promptly. If you are an RN looking for a rewarding opportunity with a focus on patient well-being, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$47/hr",
-    "requirements": [
-      "Valid Registered Nurse (RN) license in Alabama",
-      "Ability to work flexible shifts, including weekends as needed",
-      "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
-    ],
-    "salaryOrBonusInfo": "$47/hr",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___47_hr__traveling_alpine__al"
-  },
-  {
-    "roleTitle": "Occupational Therapist (OT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Alpine, AL",
-    "facilityType": "Community-based care provider",
-    "description": "Join a dedicated team as a Full-time Occupational Therapist in Alpine, AL, providing essential therapy services in a community-based care setting. This role offers the flexibility of a per-visit compensation model, allowing you to manage your schedule while making a significant impact on patients' lives. We are seeking a passionate professional ready to deliver high-quality, individualized care.\n\nThis is an excellent opportunity for an Occupational Therapist who thrives in an autonomous environment and is committed to patient well-being. We value your expertise and offer competitive compensation at $65 per visit. Interview scheduling is flexible, with availability Monday-Friday from 1 PM-7 PM and over the weekend as needed, to accommodate your current commitments.\n\nIf you are a skilled OT looking for a rewarding full-time position with a focus on patient-centered care and flexible scheduling, we encourage you to apply. Make a difference in the Alpine community by helping individuals achieve their highest level of independence and quality of life.",
-    "contractType": "Full-time",
-    "salaryShort": "$65 per visit",
-    "requirements": [
-      "Current Alabama state licensure as an Occupational Therapist (OT)",
-      "Master's degree in Occupational Therapy from an accredited program",
-      "Prior experience in a home health or community-based therapy setting preferred",
-      "Excellent clinical, communication, and organizational skills",
-      "Ability to work independently and manage a caseload effectively"
-    ],
-    "salaryOrBonusInfo": "Compensation is $65 per visit.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_ot___65_per_visit__traveling_alpine__al"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Alpine, AL",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated Full-time Physical Therapist Assistant (PTA) to join a dynamic team providing essential therapy services in the Alpine, AL area. This role offers the unique opportunity to deliver personalized care directly to patients in their homes, fostering a supportive and impactful therapeutic environment.\n\nThis position offers a competitive compensation structure of $35 per visit, allowing for earning potential based on your caseload. We are actively scheduling interviews and can accommodate availability Monday through Friday from 1PM-7PM, with additional flexibility for weekend interviews as needed. Join us in making a significant difference in the lives of those you serve.",
-    "contractType": "Full-time",
-    "salaryShort": "$35 per visit",
-    "requirements": [
-      "Active Physical Therapist Assistant (PTA) license in Alabama",
-      "Prior experience in a home health or mobile therapy setting preferred",
-      "Strong clinical skills and ability to work independently",
-      "Excellent communication and interpersonal abilities",
-      "Valid driver's license and reliable transportation"
-    ],
-    "salaryOrBonusInfo": "Compensation is $35 per visit.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta___35_per_visit__traveling_alpine__al"
   }
 ]
