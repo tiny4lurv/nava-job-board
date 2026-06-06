@@ -3,19 +3,76 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are conducting a confidential search for a highly motivated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is an exceptional opportunity for a dedicated professional committed to delivering outstanding patient care and operational excellence.\n\nThe successful candidate will be responsible for overseeing all aspects of facility management, ensuring strict compliance with state and federal regulatory standards, and cultivating a positive and supportive environment for both residents and staff. This role offers the chance to make a significant impact on the quality of life for residents and the overall success of the facility.\n\nJoin a team that is deeply committed to providing top-tier rehabilitation services and fostering a strong community. We are seeking a visionary leader prepared to drive continuous improvement and uphold the highest standards of care.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "An exceptional opportunity awaits a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This confidential search is for a visionary leader committed to upholding the highest standards of resident care and operational excellence.\n\nAs the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all state and federal regulations. Your leadership will foster a positive environment for both residents and staff, driving continuous improvement in quality of care, financial performance, and community engagement.\n\nWe are seeking a dynamic professional ready to make a significant impact. This role offers a chance to join a supportive organization focused on delivering outstanding healthcare services. Compensation for this full-time position is highly competitive, reflecting the importance of this leadership role.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Minimum of 3-5 years of experience in a leadership role within a skilled nursing or rehabilitation facility.",
-      "Comprehensive knowledge of state and federal regulations governing long-term care.",
-      "Demonstrated ability to manage financial performance, human resources, and quality assurance programs.",
-      "Strong leadership, communication, and interpersonal skills."
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in the State of Maryland.",
+      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation setting.",
+      "Comprehensive knowledge of state and federal regulations governing long-term care facilities.",
+      "Demonstrated ability to lead, manage operations, and achieve positive resident outcomes."
     ],
-    "salaryOrBonusInfo": "Competitive salary ranging from $115,000 to $145,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Rapid City, SD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and detail-oriented MDS Coordinator to join a premier health and rehabilitation center in Rapid City, SD. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning, reimbursement, and regulatory compliance.As an MDS Coordinator, you will play a key role in the interdisciplinary team, collaborating with nursing, therapy, and other departments to gather comprehensive resident information. Your expertise will directly impact the quality of care provided and the facility's operational success.If you are passionate about patient advocacy, possess strong clinical assessment skills, and are committed to maintaining high standards of documentation, we encourage you to apply. Join a team that values your contributions and supports professional growth.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current RN or LPN license in South Dakota.",
+      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility.",
+      "Proficient in MDS 3.0 and the Resident Assessment Instrument (RAI) process.",
+      "Strong understanding of Medicare and Medicaid regulations.",
+      "Excellent organizational and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mds_avantara_mountain_view_rapid_city__sd"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) to join a premier health and rehabilitation center in Red Bay, AL. This vital role involves working 12-hour night shifts, providing essential care and support to our residents. If you are a compassionate and skilled nurse looking to make an immediate impact, we encourage you to apply.\n\nAs an RN, you will be responsible for delivering high-quality patient care, administering medications, monitoring patient conditions, and collaborating with the healthcare team to ensure optimal outcomes. This is an excellent opportunity to contribute to a supportive environment focused on resident well-being and recovery.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Alabama",
+      "Minimum of 1 year of experience in a skilled nursing or rehabilitation setting",
+      "Ability to work 12-hour night shifts",
+      "Strong clinical assessment and documentation skills",
+      "Current BLS certification"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_am_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Nurse (RN/LPN)",
+    "roleType": "Floor Staff",
+    "location": "Birmingham, AL",
+    "facilityType": "a premier healthcare facility",
+    "description": "We are seeking dedicated and compassionate Part-time/PRN Nurses (RN/LPN) to join our team in Birmingham, AL. This is an excellent opportunity for healthcare professionals looking for flexible scheduling options while providing high-quality patient care within a premier healthcare facility. As a PRN Nurse, you will have the flexibility to pick up shifts that fit your schedule, supporting our commitment to continuous, excellent patient care. Your responsibilities will include direct patient care, medication administration, and collaborating with the healthcare team to ensure optimal patient outcomes. We understand the importance of work-life balance and offer flexible interview scheduling, available Monday-Friday from 1 PM-7 PM, and over the weekend as needed, to accommodate your availability.",
+    "contractType": "PRN",
+    "salaryShort": "",
+    "requirements": [
+      "Valid RN or LPN license in the state of Alabama",
+      "Current CPR certification",
+      "Minimum of 1 year of nursing experience, preferably in a similar setting",
+      "Ability to work flexible shifts as needed",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_nurses_traveling_birminham__al"
   }
 ]
