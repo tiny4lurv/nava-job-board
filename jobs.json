@@ -4,18 +4,36 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "An exceptional opportunity awaits a dedicated Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing and rehabilitation center in Baltimore County, MD. This confidential role offers a chance to make a significant impact on patient care and operational excellence within a supportive environment. We are seeking a visionary leader committed to upholding the highest standards of quality and compliance.As the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring efficient operations, financial stability, and superior resident outcomes. Your leadership will foster a positive culture for both staff and residents, driving continuous improvement in all aspects of care delivery and regulatory adherence.This is an urgent and highly compensated position, offering a competitive salary range of $115,000 - $145,000 per year. If you are a seasoned LNHA looking for a challenging yet rewarding role where your expertise will be valued, we encourage you to apply today.",
+    "description": "We are seeking a highly motivated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility located in Baltimore County, MD. This is a confidential opportunity for a visionary leader to drive excellence in patient care, operational efficiency, and regulatory compliance.\nThe ideal candidate will possess a strong commitment to quality and a proven track record in managing long-term care facilities. This full-time role offers a competitive salary, providing an excellent opportunity for an accomplished LNHA to make a significant impact within a supportive environment. Join a team dedicated to providing exceptional care and fostering a positive community for residents and staff.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the State of Maryland.",
-      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation setting.",
-      "Comprehensive knowledge of state and federal regulations governing long-term care facilities.",
-      "Demonstrated ability to manage financial operations, human resources, and quality assurance programs.",
-      "Strong leadership, communication, and interpersonal skills."
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland",
+      "Proven experience as an LNHA in a skilled nursing or rehabilitation setting",
+      "Demonstrated leadership and operational management expertise",
+      "Comprehensive understanding of state and federal long-term care regulations",
+      "Strong financial acumen and ability to manage facility budgets"
     ],
-    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year, based on experience.",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Home Health Nurse",
+    "roleType": "Floor Staff",
+    "location": "Orlando, FL",
+    "facilityType": "Home Health Agency",
+    "description": "Join a leading home health agency in Orlando, FL, dedicated to providing exceptional patient care in the comfort of their homes. This flexible Full-time/Part-time role offers a competitive compensation of $65 per visit, allowing you to manage your schedule while making a significant impact on patient well-being. We are seeking compassionate and skilled clinicians to deliver high-quality care across the Orlando area.\n\nThis is an urgent opening, and we are actively scheduling interviews. We offer flexible interview slots Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule. If you are looking for a rewarding opportunity with autonomy and excellent per-visit pay, we encourage you to apply.",
+    "contractType": "Full-time/Part-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Active Florida RN or LPN license",
+      "Prior experience in home health or a similar community-based setting",
+      "Valid driver's license and reliable transportation",
+      "Excellent clinical assessment and documentation skills"
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt___65_per_visit__traveling_orlando__fl"
   }
 ]
