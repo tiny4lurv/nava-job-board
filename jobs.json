@@ -3,19 +3,74 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is a confidential opportunity for a visionary leader committed to delivering exceptional patient care and operational excellence. Join a team focused on fostering a supportive and high-quality environment for both residents and staff.\n\nAs the LNHA, you will be responsible for the overall management and success of the facility, ensuring compliance with all state and federal regulations while driving continuous improvement in clinical outcomes, resident satisfaction, and financial performance. This role offers a chance to make a significant impact within a reputable organization.\n\nIf you are a proven leader with a passion for long-term care and rehabilitation, we invite you to explore this confidential opportunity. We are looking for an individual who can inspire a team and uphold the highest standards of care.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This confidential opportunity offers a chance to make a significant impact on resident care and facility success. The ideal candidate will be a visionary leader with a passion for delivering exceptional healthcare services.\n\nIn this pivotal role, you will oversee all aspects of facility management, ensuring compliance with state and federal regulations while fostering a positive and supportive environment for both residents and staff. You will be responsible for strategic planning, financial management, and maintaining high standards of quality care.\n\nThis position offers a competitive salary ranging from $115,000 to $145,000 per year, commensurate with experience. Join a team committed to excellence and contribute to a facility renowned for its compassionate care and rehabilitative services.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
-      "Proven experience in a leadership role within a skilled nursing or rehabilitation facility",
-      "Strong understanding of state and federal regulations for long-term care",
-      "Demonstrated ability to manage operations, financial performance, and quality outcomes",
-      "Excellent communication and interpersonal skills"
+      "Active and unrestricted LNHA license in Maryland",
+      "Proven experience as a Nursing Home Administrator in a skilled nursing or rehabilitation facility",
+      "Comprehensive knowledge of state and federal regulations (e.g., CMS, DOH)",
+      "Strong financial acumen and operational management skills",
+      "Excellent leadership, communication, and interpersonal abilities"
     ],
-    "salaryOrBonusInfo": "Compensation based on experience, ranging from $115,000 to $145,000 annually.",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This leadership role offers a significant opportunity to contribute to patient care excellence and support our nursing team in a dynamic environment. The ideal candidate will play a crucial role in maintaining high standards of care and operational efficiency.\n\nAs an ADON, you will assist the Director of Nursing in overseeing daily nursing operations, ensuring compliance with all regulatory standards, and fostering a positive work environment. This position is perfect for a compassionate leader who is passionate about making a difference in the lives of residents. We offer a competitive annual salary range of $75,000 - $90,000, commensurate with experience, for this vital full-time position.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $90,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license, preferably in Maryland",
+      "Minimum of 2-3 years of nursing experience, with some leadership or supervisory experience",
+      "Experience in a skilled nursing facility or rehabilitation center setting",
+      "Strong understanding of nursing best practices and regulatory compliance"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $90,000, commensurate with experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) to join a compassionate team at a premier health and rehabilitation center in Red Bay, AL. This is an immediate opportunity for a professional who is passionate about providing high-quality patient care in a supportive environment.\nIn this vital role, you will be responsible for administering medications, performing treatments, and overseeing the care provided by other nursing staff. You will play a crucial part in assessing patient conditions, developing care plans, and ensuring accurate documentation, all while maintaining a focus on patient well-being and safety.\nThis position requires commitment to 12-hour shifts, offering a consistent schedule to those ready to make an immediate impact. Join a facility dedicated to excellence in patient care and become a valued member of a team that prioritizes both resident health and staff support.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Alabama",
+      "Minimum of one year of experience in a skilled nursing or long-term care setting",
+      "Ability to work 12-hour shifts, including evenings and weekends as needed",
+      "Strong clinical assessment, critical thinking, and communication skills",
+      "Current Basic Life Support (BLS) certification"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Magee, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier health and rehabilitation center in Magee, MS. This full-time, permanent position offers an excellent opportunity to provide high-quality patient care in a supportive environment.\n\nThis role involves working desirable PM shifts, specifically from 7:00 PM to 7:00 AM, on a consistent 3/2 split schedule. We are looking for professionals who are committed to making a difference in the lives of residents and contributing to a positive team atmosphere.",
+    "contractType": "Full-time",
+    "salaryShort": "$25.00 - $28.00/hr",
+    "requirements": [
+      "Current and valid Licensed Practical Nurse (LPN) license in the state of Mississippi",
+      "Ability to work full-time PM shifts (7:00 PM - 7:00 AM) on a 3/2 split schedule",
+      "Prior experience in a skilled nursing or long-term care facility is preferred",
+      "Strong clinical assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $25.00 - $28.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pm_lpn_s___25__28_hr__hillcrest_nursing_center_magee__ms"
   }
 ]
