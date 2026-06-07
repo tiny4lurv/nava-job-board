@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Baltimore County, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This pivotal leadership role offers the opportunity to oversee all aspects of facility management, ensuring the highest standards of patient care, regulatory compliance, and operational efficiency.\n\nThe successful candidate will be responsible for fostering a positive environment for both residents and staff, driving continuous improvement initiatives, and managing financial performance. Join a team committed to excellence and making a significant impact on the lives of those we serve.",
+    "contractType": "Full-time",
+    "salaryShort": "$115,000 - $145,000 per year",
+    "requirements": [
+      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Bachelor's degree in Healthcare Administration, Business Management, or a related field.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation facility.",
+      "Demonstrated knowledge of state and federal regulations governing long-term care.",
+      "Strong leadership, communication, and financial management skills."
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and skilled Physical Therapist (PT) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity for a compassionate professional to make a significant impact on patient recovery and well-being. The role offers a competitive hourly rate of $38 - $48, reflecting our commitment to attracting top talent.As a Physical Therapist, you will be responsible for providing comprehensive therapy services, developing individualized treatment plans, and collaborating with a multidisciplinary team to achieve optimal patient outcomes. We are looking for someone who is passionate about rehabilitation and eager to contribute to a supportive and dynamic environment.If you are a licensed Physical Therapist looking for an urgent and rewarding full-time position in Gainesville, we encourage you to apply today and become a vital part of our patient care team.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Current and unrestricted Physical Therapist (PT) license in the state of Florida.",
+      "Minimum of 1 year of experience as a Physical Therapist, preferably in a skilled nursing or rehabilitation setting.",
+      "Strong clinical assessment, treatment, and documentation skills.",
+      "Ability to work collaboratively within a multidisciplinary team.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Compensation: $38 - $48 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "physical_therapist__pt___38____48__urgent__parklands_care_center_gainesville__fl"
+  }
+]
