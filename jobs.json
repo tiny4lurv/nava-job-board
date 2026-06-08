@@ -3,19 +3,38 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center located in Baltimore County, MD. This confidential role offers a unique opportunity to oversee all aspects of facility management, ensuring the highest standards of patient care, regulatory compliance, and operational efficiency.The ideal candidate will be a visionary leader with a passion for enhancing the lives of residents and fostering a positive work environment for staff. You will be responsible for strategic planning, financial oversight, and maintaining a culture of excellence. This is a critical leadership position that requires a proactive approach to problem-solving and a commitment to continuous improvement.This full-time position offers a competitive salary ranging from $115,000 to $145,000 per year, commensurate with experience. Join a team dedicated to providing exceptional care and making a significant impact in the community.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing and rehabilitation facility in Baltimore County, MD. This is a confidential opportunity for a visionary leader committed to delivering exceptional patient care and operational excellence.The successful candidate will be responsible for overseeing all aspects of facility management, ensuring compliance with state and federal regulations, and fostering a positive environment for both residents and staff. This role requires a leader who can drive quality outcomes, manage financial performance, and inspire a high-performing team.This full-time position offers a competitive annual salary ranging from $115,000 to $145,000, commensurate with experience. If you are a proven leader looking to make a significant impact in a supportive environment, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the state of Maryland.",
-      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field.",
-      "Minimum of 3-5 years of experience as an LNHA or in a similar leadership role within a skilled nursing or rehabilitation facility.",
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation setting.",
       "Demonstrated knowledge of state and federal regulations governing long-term care facilities.",
-      "Strong leadership, financial management, and interpersonal communication skills."
+      "Proven track record of successful operational and financial management.",
+      "Strong leadership, communication, and interpersonal skills."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $115,000 - $145,000, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Orthopedic Surgeon",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Medical Center",
+    "description": "We are seeking a highly skilled and experienced Orthopedic Surgeon to join a premier medical center in NYC, NY. This is an exceptional opportunity for a dedicated professional to contribute to a dynamic healthcare environment, focusing on patient care and surgical excellence. The role offers a competitive compensation package, with a strong emphasis on performance-based bonuses. We are looking for a surgeon who thrives in a challenging yet rewarding setting.The ideal candidate will possess a minimum of 5 years of experience in orthopedic surgery, with a specialized background in handling Workers' Compensation and No-Fault cases. This position is crucial for our continued commitment to providing top-tier orthopedic care to our community. If you are a board-certified or board-eligible Orthopedic Surgeon looking for a role where your expertise is valued and generously rewarded, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000 - $350,000 per year",
+    "requirements": [
+      "Medical Doctor (MD or DO) degree from an accredited institution",
+      "Board Certification or Board Eligibility in Orthopedic Surgery",
+      "Valid New York State medical license",
+      "Minimum of 5 years of experience as a practicing Orthopedic Surgeon",
+      "Demonstrated experience with Workers' Compensation and No-Fault cases"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $300,000 to $350,000 per year, with a significant emphasis on performance-based bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "orthopedic_surgeon___300k__350k__citimed__based_on_candidate_s_location__nyc__ny"
   }
 ]
