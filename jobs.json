@@ -3,38 +3,38 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are conducting a confidential search for a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on resident care and facility success.The ideal candidate will be responsible for overseeing all aspects of facility management, ensuring compliance with all regulatory standards, and fostering a positive and supportive environment for both residents and staff. This role offers a competitive salary and the chance to join a facility committed to excellence in patient care.If you are a proven leader with a passion for long-term care and rehabilitation, we encourage you to apply. This is a full-time position offering a salary range of $115,000 to $145,000 per year.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and fostering a supportive environment for staff.\n\nThe successful candidate will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all state and federal regulations while upholding the highest standards of quality and operational efficiency. You will guide a team of healthcare professionals, manage budgets, and drive initiatives that enhance resident satisfaction and outcomes.\n\nThis role offers a competitive salary and the chance to make a significant impact within a reputable organization. If you are a proven leader with a commitment to excellence in long-term care, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
       "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Proven experience in a leadership role within a skilled nursing or rehabilitation facility.",
+      "Proven experience as an LNHA in a skilled nursing or rehabilitation facility.",
+      "Strong leadership, financial management, and operational skills.",
       "Comprehensive knowledge of state and federal regulations governing long-term care.",
-      "Strong financial management, operational, and leadership skills.",
-      "Demonstrated ability to foster a positive and compliant environment."
+      "Demonstrated ability to foster a positive and compliant work environment."
     ],
-    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year, based on experience.",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 annually, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
-    "roleTitle": "Remote Radiologist",
-    "roleType": "Other",
-    "location": "Remote",
-    "facilityType": "Diagnostic Imaging Center",
-    "description": "Join a specialized diagnostic imaging center as a Part-time Remote Radiologist, focusing on Musculoskeletal (MSK) readings. This unique opportunity allows you to leverage your expertise in Workers Compensation and No-Fault (NF) cases from the comfort of your home. We are seeking a dedicated professional to contribute to our mission of providing accurate and timely diagnostic services.\n\nThis role offers a flexible part-time schedule, including weekend availability, which is essential for our operational needs. Compensation is heavily bonus-driven, providing an excellent earning potential based on your case volume. If you thrive in a fast-paced environment and are looking for a role with a direct impact, this is an ideal opportunity.\n\nWe are specifically looking for radiologists who are comfortable working outside of major medical insurance, Medicare, and Medicaid frameworks, focusing exclusively on Workers Compensation and No-Fault cases. This position is perfect for a radiologist seeking autonomy and a performance-based compensation model.",
-    "contractType": "Part-time",
-    "salaryShort": "$50/MRI, $30/CT, $10/XRay",
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Support",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This full-time role offers a competitive salary of $65,000 - $75,000 per year, providing an excellent opportunity for a professional committed to resident care and accurate documentation. We are looking for a permanent team member, not an interim placement.As an MDS Coordinator, you will be responsible for the timely and accurate completion of the Minimum Data Set (MDS) assessments, ensuring compliance with all federal and state regulations. Your expertise will be crucial in coordinating the interdisciplinary care planning process and optimizing reimbursement. Join a supportive environment where your skills are valued and contribute to the well-being of our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
     "requirements": [
-      "Current New York State (NYS) Radiologist license",
-      "Proficiency in Musculoskeletal (MSK) imaging interpretation",
-      "Demonstrated experience with Workers Compensation and No-Fault (NF) cases",
-      "Ability to work weekends",
-      "NY WCB number preferred"
+      "Active Registered Nurse (RN) license in Iowa or a compact state",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Strong understanding of the Resident Assessment Instrument (RAI) process and Medicare/Medicaid regulations",
+      "RAC-CT certification preferred",
+      "Excellent organizational and communication skills"
     ],
-    "salaryOrBonusInfo": "Compensation is structured with a strong emphasis on bonuses, with specific rates of $50 per MRI, $30 per CT, and $10 per X-Ray. This role is less focused on a traditional salary structure. Candidates should note that the facility does not work with major medical insurances, Medicare, or Medicaid.",
+    "salaryOrBonusInfo": "$65,000 - $75,000 per year",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
   }
 ]
