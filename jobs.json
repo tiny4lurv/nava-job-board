@@ -1,21 +1,322 @@
 [
   {
-    "roleTitle": "Chief Operating Officer (COO)",
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Other",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier skilled nursing facility as an MDS Coordinator in Missouri Valley, IA. In this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accuracy and compliance with federal and state regulations. Your expertise will be crucial in developing comprehensive care plans that reflect the needs of our residents.\n\nThis is a full-time opportunity offering a competitive salary range of $65,000 - $75,000 per year. We are looking for a professional who is passionate about quality care and meticulous documentation. If you are an RN with a strong background in MDS and a commitment to excellence, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa",
+      "Proven experience as an MDS Coordinator, preferably with MDS 3.0",
+      "Strong understanding of federal and state regulations related to long-term care",
+      "Excellent assessment, organizational, and communication skills",
+      "This is a permanent, full-time position; interim candidates will not be considered"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $65,000 to $75,000 per year, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
-    "location": "Lakewood, NJ",
-    "facilityType": "A premier organization",
-    "description": "We are seeking a highly experienced and strategic Chief Operating Officer (COO) to join a premier organization in Lakewood, NJ. This pivotal leadership role is responsible for overseeing the company's day-to-day operations, ensuring efficiency, productivity, and the achievement of business objectives. The COO will play a critical role in driving operational excellence and fostering a culture of continuous improvement.\n\nThe ideal candidate will be a visionary leader with a proven track record of success in managing complex operations and implementing strategic initiatives. This is an exceptional opportunity to contribute to the growth and success of a dynamic team, shaping the future direction of the organization through effective operational management and strategic planning.",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This pivotal leadership role offers the opportunity to significantly impact patient care and support our nursing team, ensuring the highest standards of clinical excellence and regulatory compliance. We are looking for a compassionate leader who is passionate about fostering a positive environment for both residents and staff.This is a full-time position offering a competitive annual salary range of $75,000 - $90,000, depending on experience and qualifications. If you are an RN with a passion for leadership in long-term care, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $90,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license, preferably in Maryland",
+      "Minimum of 2-3 years of nursing experience, with some leadership or supervisory experience preferred",
+      "Experience in a skilled nursing facility or rehabilitation center setting",
+      "Strong understanding of long-term care regulations and clinical best practices",
+      "Excellent communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $90,000, commensurate with experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Rapid City, SD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and detail-oriented MDS Coordinator to join a premier health and rehabilitation center in Rapid City, SD. In this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accurate and timely submission to comply with federal and state regulations. Your expertise will be crucial in facilitating comprehensive care planning and optimizing resident outcomes.\n\nThis position offers an opportunity to work collaboratively within an interdisciplinary team, contributing significantly to the quality of care provided. If you are passionate about clinical documentation, regulatory compliance, and enhancing the lives of residents, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Minimum of 7-10 years of progressive experience in a senior leadership or operations management role.",
-      "Demonstrated expertise in strategic planning, operational efficiency, and business development.",
-      "Strong financial acumen and experience with budget management.",
-      "Exceptional leadership, communication, and interpersonal skills.",
-      "Bachelor's degree in Business Administration, Management, or a related field; MBA or advanced degree preferred."
+      "Current Registered Nurse (RN) license in South Dakota",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Strong understanding of the RAI process, Medicare/Medicaid regulations, and CMI",
+      "Excellent organizational and communication skills",
+      "RAC-CT certification preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mds_avantara_mountain_view_rapid_city__sd"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Red Bay, AL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Red Bay, AL. This pivotal role involves supporting the Director of Nursing in overseeing all aspects of patient care, ensuring the highest standards of clinical excellence and regulatory compliance. You will play a crucial part in maintaining a positive and efficient working environment for our nursing team.\n\nThe ideal candidate will be a seasoned Registered Nurse with a passion for leadership and a commitment to quality care. This is an excellent opportunity to contribute to a compassionate environment focused on resident well-being and staff development. Join a team where your expertise will make a significant impact on the lives of residents and the success of the nursing department.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and valid Registered Nurse (RN) license in Alabama",
+      "Minimum of 2-3 years of nursing leadership experience, preferably as an ADON or Nurse Supervisor",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal regulations for long-term care facilities",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_adon_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Regional Director of Operations",
+    "roleType": "Leadership",
+    "location": "Los Angeles, CA",
+    "facilityType": "Skilled Nursing Facility Network",
+    "description": "Are you an accomplished and results-driven leader in the healthcare sector? A premier network of skilled nursing facilities is urgently seeking an experienced Regional Director of Operations to oversee its operations in the Los Angeles, CA area. This critical role offers a unique opportunity to drive operational excellence and strategic growth within a dynamic environment. We are looking for a visionary leader who can ensure top-tier patient care and efficient facility management across multiple sites.\n\nThis is an urgent, full-time opportunity with a highly competitive salary and a generous relocation package available for the right candidate. We require a leader who is either local to the Los Angeles area or willing to relocate, as this role does not involve travel. If you are passionate about making a significant impact and possess a proven track record in regional healthcare leadership, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$200,000 - $300,000+ per year",
+    "requirements": [
+      "Must be local to the Los Angeles, CA area or willing to relocate",
+      "Current Licensed Nursing Home Administrator (LNHA) certification",
+      "Proven experience in multi-facility operational oversight within skilled nursing or similar healthcare settings",
+      "Strong leadership, financial management, and strategic planning abilities",
+      "Demonstrated ability to drive operational excellence and achieve key performance indicators"
+    ],
+    "salaryOrBonusInfo": "Highly competitive salary ranging from $200,000 to $300,000+ per year, plus a generous relocation package.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la"
+  },
+  {
+    "roleTitle": "Regional Director of Operations",
+    "roleType": "Leadership",
+    "location": "Louisville, KY",
+    "facilityType": "Multi-Facility Healthcare Organization",
+    "description": "An urgent and exceptional opportunity awaits a seasoned healthcare leader as a Regional Director of Operations in Kentucky. This pivotal role offers the chance to oversee and optimize operations across multiple facilities, driving excellence and ensuring high standards of patient care and operational efficiency.\n\nWe are seeking a dynamic professional ready to make an immediate impact. This position comes with a highly attractive compensation package, ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance for qualified candidates. This is a unique chance to advance your career within a supportive and forward-thinking organization.\n\nIf you are a results-oriented leader with a passion for healthcare operations and a desire to contribute to a growing network of facilities, we encourage you to apply. This role offers significant influence and the opportunity to shape the future of healthcare delivery in the region.",
+    "contractType": "Full-time",
+    "salaryShort": "$200,000 - $300,000+ per year",
+    "requirements": [
+      "Licensed Nursing Home Administrator (LNHA) certification required",
+      "Proven experience in multi-facility healthcare operations leadership",
+      "Ability to relocate to Kentucky or currently reside locally",
+      "Strong financial acumen and operational management skills",
+      "Demonstrated success in driving performance and achieving strategic goals"
+    ],
+    "salaryOrBonusInfo": "Highly competitive salary ranging from $200,000 to $300,000+ annually, with relocation assistance available.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky"
+  },
+  {
+    "roleTitle": "Chief Operating Officer (COO)",
+    "roleType": "Leadership",
+    "location": "Lakewood, NJ",
+    "facilityType": "a premier organization",
+    "description": "We are seeking a highly strategic and results-oriented Chief Operating Officer (COO) to join a leading organization in Lakewood, NJ. This pivotal leadership role is responsible for overseeing the day-to-day administrative and operational functions of the company, ensuring efficiency, productivity, and sustained growth. The COO will play a critical role in shaping the organization's future by implementing strategic initiatives and optimizing operational processes.\n\nThe ideal candidate will be a visionary leader with a proven track to drive operational excellence and foster a culture of continuous improvement. You will be instrumental in managing resources, developing operational strategies, and ensuring that all departments work cohesively towards achieving organizational goals. This is an urgent opportunity to make a significant impact within a dynamic and growing environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in a senior leadership or Chief Operating Officer (COO) role",
+      "Strong background in operational management and strategic planning",
+      "Exceptional leadership, communication, and interpersonal skills",
+      "Demonstrated ability to drive organizational efficiency and growth",
+      "Bachelor's degree in Business Administration, Management, or a related field; Master's degree preferred"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "coo_susan_strauss_design_lakewood__nj"
+  },
+  {
+    "roleTitle": "Highly Experienced Montessori Teacher",
+    "roleType": "Other",
+    "location": "Bastrop County, TX",
+    "facilityType": "Private Educational Institution",
+    "description": "We are seeking a highly experienced and dedicated Montessori Teacher to join a premier educational institution in Bastrop County, TX. This is a unique opportunity for a passionate educator to make a significant impact within a supportive and innovative learning environment. The ideal candidate will embody the Montessori philosophy and be committed to fostering a nurturing and stimulating classroom.\n\nThis role offers an exceptional compensation package, with no pay limit for the right candidate, reflecting our commitment to attracting top talent. If you are a seasoned Montessori professional looking for a rewarding full-time position where your expertise is truly valued, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Montessori certification from an accredited program",
+      "Significant experience (5+ years preferred) as a lead Montessori Teacher",
+      "Bachelor's degree in Early Childhood Education or a related field",
+      "Deep understanding and commitment to the Montessori philosophy",
+      "Excellent classroom management and communication skills"
+    ],
+    "salaryOrBonusInfo": "Highly competitive compensation with no pay limit for the right candidate, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+  },
+  {
+    "roleTitle": "Financial Controller",
+    "roleType": "Leadership",
+    "location": "Binghamton, NY / Pittston, PA",
+    "facilityType": "Corporate Office",
+    "description": "We are seeking a dedicated Financial Controller to join our corporate team, with a strong preference for candidates located in Northeast Pennsylvania. This pivotal role involves overseeing financial operations and contributing to the strategic financial health of our organization.\n\nThe ideal candidate will possess a solid understanding of payer mix, including Medicare and Medicaid, and be adept at navigating reimbursement trends within the healthcare sector. You will be responsible for analyzing monthly and quarterly financial results, providing critical insights to support decision-making.\n\nThis is an excellent opportunity for a finance professional looking to make a significant impact in a dynamic corporate setting. Experience within a Skilled Nursing Facility (SNF) environment is highly valued.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Accounting, Finance, or a related field",
+      "Proven experience as a Financial Controller or in a similar senior accounting role",
+      "Experience with Payer Mix (Medicare/Medicaid) and understanding of reimbursement trends",
+      "Ability to analyze monthly and quarterly financial results effectively",
+      "Prior experience in a Skilled Nursing Facility (SNF) setting is a plus"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "financial_controller_corporate_office_in_ny___corporate_south_in_northeast_pa_binghamton__ny___pittston__pa"
+  },
+  {
+    "roleTitle": "Commercial HVAC Field Manager",
+    "roleType": "Leadership",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial and Healthcare Facilities",
+    "description": "Join a highly reputable company known for its exceptional employee retention, where professionals build long-lasting careers. We are seeking a skilled Commercial HVAC Field Manager to oversee operations across the vibrant Chicago Metropolitan Area, encompassing Illinois, Wisconsin, and Indiana. This role offers a unique opportunity to manage diverse commercial and healthcare facility projects, ensuring top-tier HVAC system performance and client satisfaction.\n\nThis full-time position provides a competitive hourly rate of $50-$65, reflecting your expertise and dedication. You will be an integral part of a team that values quality workmanship and professional growth, contributing to the comfort and safety of various facilities within the region. If you are a seasoned HVAC professional looking for a stable and rewarding career with a company that truly values its employees, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50-$65/hr",
+    "requirements": [
+      "5-7 years of experience in HVAC",
+      "At least 3 years of commercial HVAC experience, including boilers and chillers",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI & IN)",
+      "Valid driver's license and clean driving record"
+    ],
+    "salaryOrBonusInfo": "Compensation: $50-$65 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Operations & HR Coordinator",
+    "roleType": "Support",
+    "location": "Skokie, IL",
+    "facilityType": "Administrative Headquarters",
+    "description": "We are seeking a highly organized and proactive Operations & HR Coordinator to join our dynamic administrative team. This pivotal role goes beyond traditional payroll and benefits administration, requiring a hands-on professional capable of managing a wide array of office administration tasks, overseeing onboarding processes, and providing comprehensive operational support.\n\nThe ideal candidate will be a versatile individual who thrives in a fast-paced environment and can effectively 'handle everything' to ensure smooth daily operations. Experience with HVAC systems or facility management is a significant advantage, demonstrating a broad skill set and readiness to tackle diverse challenges. If you are a detail-oriented problem-solver looking for a role where you can make a substantial impact, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in office administration and operational support",
+      "Familiarity with HR functions, including onboarding, payroll, and benefits administration",
+      "Strong organizational skills and the ability to manage multiple priorities effectively",
+      "Excellent communication and interpersonal skills",
+      "Experience with HVAC systems or facility management is a significant plus"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rockstar_operations___hr_coordinator_hq_skokie__il"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Sardis, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Sardis, MS. This is an exceptional opportunity for a seasoned Registered Nurse with a passion for leadership and delivering outstanding patient care.\n\nAs the DON, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and fostering a supportive environment for both staff and residents. We are looking for a leader who can inspire excellence and maintain the highest standards of clinical quality. This role offers a competitive salary and the chance to make a significant impact on our community.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $95,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Mississippi",
+      "Minimum of 3-5 years of experience as a Director of Nursing or in a similar leadership role",
+      "Proven experience in a skilled nursing or long-term care environment",
+      "Comprehensive understanding of state and federal healthcare regulations"
+    ],
+    "salaryOrBonusInfo": "Compensation: $85,000 - $95,000 per year, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_don___85k__95k__sardis_community_nursing_home_sardis__ms"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated and compassionate Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time, permanent position offering a consistent PM shift from 3:00 PM to 11:00 PM. We are looking for professionals who are committed to providing exceptional patient care and are comfortable with this specific evening schedule.\n\nIn this vital role, you will contribute to a supportive and dynamic healthcare environment, ensuring the well-being and comfort of residents. This is an excellent opportunity for LPNs looking for stable full-time employment with competitive hourly rates. We value your commitment and are eager to welcome you to our team.",
+    "contractType": "Full-time",
+    "salaryShort": "$25-$28/hr",
+    "requirements": [
+      "Current and valid Licensed Practical Nurse (LPN) license in the state of Mississippi.",
+      "Ability to work the full-time PM shift (3:00 PM - 11:00 PM).",
+      "Prior experience in a skilled nursing or long-term care setting is preferred.",
+      "Strong clinical skills and a commitment to patient-centered care.",
+      "Basic Life Support (BLS) certification."
+    ],
+    "salaryOrBonusInfo": "$25-$28/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Licensed Practical Nurse (LPN) to join a premier skilled nursing facility in Gulfport, MS. This is a full-time opportunity for the AM shift, working 8-hour shifts from 7:00 AM to 3:00 PM. You will play a vital role in providing direct patient care and ensuring the well-being of our residents.\n\nThis position offers a competitive hourly rate and requires a commitment to full-time employment. We are looking for an LPN who is ready to contribute to a supportive team environment and provide exceptional care to our residents during the morning hours.",
+    "contractType": "Full-time",
+    "salaryShort": "$25.00 - $28.00/hr",
+    "requirements": [
+      "Current and valid Licensed Practical Nurse (LPN) license in Mississippi.",
+      "Ability to work full-time, 8-hour shifts from 7:00 AM to 3:00 PM.",
+      "Experience in a skilled nursing or long-term care setting is preferred.",
+      "Strong commitment to patient care and teamwork."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $25.00 - $28.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_am_lpn_s___25__28_hr__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Occupational Therapist (OT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Orlando, FL",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate PRN Occupational Therapist (OT) to join a premier home health agency in Orlando, FL. This is an excellent opportunity for a therapist looking for flexibility and the ability to make a significant impact on patients' lives within their home environment.\n\nIn this role, you will provide essential occupational therapy services, developing and implementing individualized treatment plans to help patients achieve their highest level of independence. Enjoy the autonomy of a per-visit compensation model, allowing you to manage your schedule effectively.",
+    "contractType": "PRN",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Current and valid Occupational Therapist (OT) license in Florida.",
+      "Master's or Doctorate degree in Occupational Therapy from an accredited program.",
+      "Current CPR certification.",
+      "Prior experience in a home health setting is preferred."
+    ],
+    "salaryOrBonusInfo": "Compensation is $65 per visit.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_ot___65_per_visit__traveling_orlando__fl"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Orlando, FL",
+    "facilityType": "a leading home health provider",
+    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist (SLP) to join a dynamic team in Orlando, FL. This role offers the opportunity to provide essential therapy services on a per-visit basis, allowing for a flexible and impactful career path. You will work with a diverse patient population, helping individuals regain and improve their communication and swallowing abilities.\n\nThis is an excellent opportunity for an SLP looking for autonomy and a rewarding career in a home health setting. We are actively scheduling interviews Monday through Friday from 1 PM to 7 PM, with additional availability over the weekend as needed, to accommodate your schedule and expedite the hiring process.",
+    "contractType": "Full-time",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Current and unrestricted Speech-Language Pathologist (SLP) license in Florida",
+      "Master's degree in Speech-Language Pathology",
+      "Experience in a home health or mobile therapy environment",
+      "Strong clinical assessment and treatment planning skills",
+      "Ability to manage a caseload and travel within the Orlando area"
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_slp___65_per_visit__traveling_orlando__fl"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Orlando, FL",
+    "facilityType": "various healthcare settings",
+    "description": "We are seeking a dedicated and compassionate Speech-Language Pathologist (SLP) for a PRN opportunity in Orlando, FL. This role offers the flexibility to manage your schedule while providing essential therapy services to patients in various healthcare settings. Join a team committed to delivering high-quality patient care and making a meaningful impact on individuals' lives.\n\nAs a PRN Speech-Language Pathologist, you will be responsible for assessing, diagnosing, and treating speech, language, communication, and swallowing disorders. This per-visit role allows you to work independently, providing personalized care plans and collaborating with other healthcare professionals to achieve optimal patient outcomes. Enjoy the autonomy and competitive compensation of $65 per visit.",
+    "contractType": "PRN",
+    "salaryShort": "$65 per visit",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology.",
+      "Current and valid Florida SLP license.",
+      "Certificate of Clinical Competence (CCC) from ASHA.",
+      "Prior experience as a Speech-Language Pathologist, preferably in a home health or rehabilitation setting.",
+      "Excellent clinical, communication, and documentation skills."
+    ],
+    "salaryOrBonusInfo": "$65 per visit",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_slp___65_per_visit__traveling_orlando__fl"
   }
 ]
