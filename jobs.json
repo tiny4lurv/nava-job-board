@@ -4,18 +4,55 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This confidential opportunity is ideal for a visionary leader passionate about delivering exceptional patient care and fostering a supportive environment for both residents and staff.As the LNHA, you will be responsible for the overall operational management of the facility, ensuring compliance with all state and federal regulations. You will play a critical role in maintaining high standards of quality care, optimizing financial performance, and cultivating a positive culture that promotes resident well-being and staff engagement. Join a team committed to excellence and make a significant impact on the lives of those we serve.",
+    "description": "We are seeking a dynamic and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing facility in Baltimore County, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on resident care and operational excellence within a supportive environment.The successful candidate will be responsible for overseeing all aspects of facility operations, ensuring compliance with all regulatory standards, and fostering a positive and compassionate environment for residents and staff. You will drive strategic initiatives, manage financial performance, and uphold the highest standards of quality care.This full-time position offers a competitive salary package, reflecting the importance of this leadership role. Join a team dedicated to providing outstanding care and a fulfilling work experience.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Proven experience as an LNHA in a skilled nursing or rehabilitation facility.",
-      "Comprehensive knowledge of state and federal healthcare regulations.",
-      "Strong leadership, financial management, and communication skills.",
-      "Commitment to quality patient care and operational excellence."
+      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
+      "Proven leadership experience in a skilled nursing or long-term care setting",
+      "Strong understanding of state and federal regulations",
+      "Excellent communication and interpersonal skills",
+      "Demonstrated ability to manage operations and financial performance"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience, ranging from $115,000 to $145,000 annually.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Internal Medicine MD",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Specialized Medical Practice",
+    "description": "Join a specialized medical practice in New York City, NY, dedicated to providing exceptional care within the workers' compensation and no-fault/lien sectors. We are seeking a highly motivated Internal Medicine MD to become a vital part of our team, focusing on patient cases that do not involve major medical insurances, Medicare, or Medicaid. This is a unique opportunity to apply your expertise in a focused environment where your contributions directly impact patient recovery and legal processes.\n\nThis role offers a competitive compensation package, heavily weighted towards performance-based bonuses, providing significant earning potential beyond the base salary. Candidates must be prepared for weekend work, ensuring comprehensive patient coverage and timely case management. If you are an Internal Medicine physician looking for a challenging yet rewarding role with a strong bonus structure and a specific patient demographic, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree and valid New York State medical license",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Proven experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends as required"
+    ],
+    "salaryOrBonusInfo": "Compensation includes a base salary around $180,000 per year, with a significant portion of total earnings derived from a robust bonus structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated Part-time Licensed Practical Nurse (LPN) to join a premier skilled nursing facility in St. Petersburg, FL. This role offers a consistent 12-hour PM shift, from 7 PM to 7 AM, providing essential care to residents in a supportive environment. This is a unique opportunity to contribute to a facility known for its welcoming atmosphere and commitment to patient well-being.\n\nOur facility is a well-regarded center with a capacity of 55-59 beds, currently serving a census of 43 residents. Located conveniently on a main street with ample shopping nearby and nestled in a nice neighborhood, it offers a pleasant work-life balance, just 15 minutes from the beach. The center features two courtyards, providing a serene setting for both residents and staff.\n\nWe are looking for a compassionate professional who thrives in a fast-paced setting and is committed to delivering high-quality care. Please note, this position is not PRN and requires a commitment to the specified part-time schedule.",
+    "contractType": "Part-time",
+    "salaryShort": "$30.00 - $35.00/hr + $2.00 shift differential",
+    "requirements": [
+      "Active and unrestricted Licensed Practical Nurse (LPN) license in Florida.",
+      "Minimum of 1 year of experience in a skilled nursing facility or long-term care setting.",
+      "Ability to work 12-hour PM shifts (7 PM - 7 AM).",
+      "Current CPR certification.",
+      "Strong clinical assessment and documentation skills."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $30.00 - $35.00, plus an additional $2.00 per hour shift differential for PM shifts.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pt_pm_nurse_s__urgent__no_prn__12hr_shift_7_7___30__35___2_for_shift_diff__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   }
 ]
