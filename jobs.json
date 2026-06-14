@@ -3,19 +3,38 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are conducting a confidential search for an experienced and dedicated Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on resident care and facility success.\n\nThe ideal candidate will be responsible for overseeing all aspects of facility management, ensuring compliance with state and federal regulations, and fostering a positive environment for both residents and staff. Join a team committed to delivering high-quality care and operational excellence.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and operational excellence.\n\nIn this pivotal role, you will oversee all aspects of facility management, ensuring compliance with state and federal regulations while fostering a positive and supportive environment for both residents and staff. You will be instrumental in driving quality outcomes and maintaining high standards of service.\n\nThis full-time position offers a competitive salary and the chance to make a significant impact within a reputable organization committed to community health.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
-      "Proven experience in a leadership role within a skilled nursing or rehabilitation setting",
-      "Strong understanding of state and federal regulations governing long-term care",
-      "Demonstrated ability to manage operations, finances, and staff effectively",
-      "Excellent communication and interpersonal skills"
+      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation facility.",
+      "Demonstrated leadership abilities with a strong track record of operational success.",
+      "Comprehensive knowledge of state and federal regulations governing long-term care.",
+      "Excellent communication, interpersonal, and financial management skills."
     ],
-    "salaryOrBonusInfo": "$115,000 - $145,000 annually, based on experience",
+    "salaryOrBonusInfo": "Annual salary ranging from $115,000 to $145,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Rapid City, SD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Rapid City, SD, as an MDS Coordinator. This vital role is instrumental in ensuring accurate and timely patient assessments, contributing significantly to the quality of care and operational success of our facility.As an MDS Coordinator, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, developing comprehensive care plans, and ensuring compliance with federal and state regulations. Your expertise will directly impact patient outcomes and facility reimbursement.We are seeking a detail-oriented and compassionate professional eager to make a difference in the lives of our residents. If you are passionate about patient advocacy and skilled in clinical documentation, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) or Licensed Practical Nurse (LPN) license in South Dakota.",
+      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility.",
+      "Proficiency with MDS 3.0 assessment and care planning processes.",
+      "Thorough understanding of Medicare and Medicaid reimbursement regulations.",
+      "Excellent organizational and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mds_avantara_mountain_view_rapid_city__sd"
   }
 ]
