@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a highly skilled and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is a confidential opportunity for a visionary leader dedicated to upholding the highest standards of patient care and operational excellence.As the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all regulatory requirements and fostering a positive environment for both residents and staff. Your leadership will be crucial in driving quality outcomes, optimizing financial performance, and enhancing the resident experience.This full-time position offers a competitive salary and the chance to make a significant impact within a supportive and dynamic healthcare environment. If you are a results-oriented administrator with a passion for senior care, we encourage you to apply.",
+    "description": "We are seeking a highly motivated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier health and rehabilitation center in Baltimore County, MD. This is a confidential opportunity for a visionary leader dedicated to providing exceptional patient care and fostering a positive environment for both residents and staff.The successful candidate will oversee all aspects of facility management, ensuring compliance with state and federal regulations while driving operational excellence and financial performance. This role offers a significant opportunity to make a lasting impact within a supportive and dynamic healthcare setting, supported by a competitive compensation package.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in the State of Maryland.",
-      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field.",
-      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or long-term care facility.",
-      "Demonstrated knowledge of state and federal regulations governing skilled nursing facilities.",
-      "Strong leadership, financial management, and interpersonal communication skills."
+      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the State of Maryland.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation facility.",
+      "Demonstrated leadership abilities with a strong track record of operational success and regulatory compliance.",
+      "Excellent communication, interpersonal, and organizational skills.",
+      "Proficiency in financial management and budget oversight."
     ],
-    "salaryOrBonusInfo": "Competitive salary range of $115,000 - $145,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Competitive salary ranging from $115,000 to $145,000 annually, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Specialized Diagnostic Imaging Practice",
+    "description": "We are seeking a dedicated and experienced Remote Radiologist to join our specialized diagnostic imaging practice. This full-time role focuses exclusively on Workers' Compensation and No-Fault (NF) cases, offering a unique opportunity to apply your expertise in a focused environment. We do not handle major medical insurances or Medicare/Medicaid, allowing for streamlined operations and a clear case focus.\n\nThis position offers a compensation structure that is heavily bonus-driven, with attractive per-read rates. Candidates must be able to work weekends to meet case demands. We are looking for a professional who thrives in a remote setting and is committed to providing high-quality diagnostic interpretations for our specific patient population.",
+    "contractType": "Full-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-Ray",
+    "requirements": [
+      "Current New York State Radiologist license",
+      "Proficiency in Musculoskeletal (MSK) imaging interpretation",
+      "Demonstrated experience with Workers' Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily bonus-driven, with per-read rates of $50 for MRI, $30 for CT, and $10 for X-Ray. Experience in Workers' Compensation or No-Fault/Lien cases is essential.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
   }
 ]
