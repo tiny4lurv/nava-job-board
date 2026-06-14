@@ -4,75 +4,396 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a highly motivated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This confidential opportunity offers a chance to make a significant impact on patient care and operational excellence within a dynamic environment.As the LNHA, you will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all regulatory standards and fostering a positive, resident-centered culture. This role demands a visionary leader committed to delivering exceptional healthcare services and achieving outstanding outcomes. We offer a competitive salary and the chance to join a dedicated team focused on rehabilitation and long-term care.",
+    "description": "We are conducting a confidential search for a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing and rehabilitation center in Baltimore County, MD. This is an exceptional opportunity for a visionary leader to make a significant impact on patient care, staff development, and overall facility success.The ideal candidate will possess a strong commitment to quality care and operational excellence. This full-time role offers a competitive annual salary ranging from $115,000 to $145,000, reflecting your expertise and contributions to our mission. Join a team committed to fostering a supportive and high-performing environment.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the State of Maryland.",
-      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation facility.",
-      "Demonstrated success in financial management, regulatory compliance, and staff development.",
-      "Strong understanding of state and federal healthcare regulations.",
-      "Excellent leadership, communication, and interpersonal skills."
+      "Current and active Licensed Nursing Home Administrator (LNHA) license",
+      "Minimum of 3-5 years of experience as an Administrator in a skilled nursing or rehabilitation facility",
+      "Demonstrated success in regulatory compliance and survey readiness",
+      "Strong financial acumen and operational management skills",
+      "Exceptional leadership, communication, and interpersonal abilities"
     ],
     "salaryOrBonusInfo": "Competitive annual salary ranging from $115,000 to $145,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "a premier health and rehabilitation center",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join our team as an MDS Coordinator at a premier health and rehabilitation center in Missouri Valley, IA. This vital role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and facility reimbursement. You will play a key part in maintaining compliance with federal and state regulations, contributing significantly to the quality of care provided to our residents.\n\nAs an MDS Coordinator, you will collaborate closely with an interdisciplinary team to develop comprehensive care plans that reflect the individual needs of each resident. This position offers a competitive salary range of $65,000 - $75,000 per year, reflecting the importance of this specialized role. We are looking for a professional who is passionate about geriatric care and committed to upholding the highest standards of clinical excellence.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 1-2 years of experience as an MDS Coordinator",
+      "Proficient knowledge of MDS 3.0 and associated regulations",
+      "Strong assessment, organizational, and communication skills",
+      "Ability to work effectively within an interdisciplinary team"
+    ],
+    "salaryOrBonusInfo": "$65,000 - $75,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Frostburg, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. In this pivotal leadership role, you will support the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care, and fostering a positive environment for both residents and staff. This is an excellent opportunity to contribute to a team committed to excellence in rehabilitation services.\n\nThe ideal candidate will be a compassionate leader with a strong clinical background, ready to make a significant impact on the lives of our residents. You will play a crucial role in staff development, quality assurance, and maintaining compliance with all regulatory standards. Join us and advance your career in a supportive and dynamic setting.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Frostburg, MD. This pivotal leadership role offers the opportunity to significantly impact patient care and staff development within a supportive environment. The ADON will work closely with the Director of Nursing to ensure the highest standards of clinical excellence and operational efficiency.The ideal candidate will be a compassionate leader with a strong clinical background, committed to fostering a positive and productive work atmosphere. This is an excellent opportunity for an RN looking to advance their career in nursing leadership and contribute to a team focused on resident well-being and recovery.",
     "contractType": "Full-time",
     "salaryShort": "$75,000 - $90,000 per year",
     "requirements": [
-      "Registered Nurse (RN) license preferred",
-      "Previous experience in a leadership role within a skilled nursing or rehabilitation facility",
-      "Strong clinical assessment and critical thinking skills",
-      "Knowledge of state and federal healthcare regulations",
-      "Excellent communication and interpersonal abilities"
+      "Active Registered Nurse (RN) license in Maryland",
+      "Previous experience in a supervisory or leadership nursing role",
+      "Experience in a skilled nursing or rehabilitation facility preferred",
+      "Strong understanding of state and federal regulations"
     ],
-    "salaryOrBonusInfo": "$75,000 - $90,000 per year",
+    "salaryOrBonusInfo": "Annual salary ranging from $75,000 to $90,000, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "adon__rn_preferred___75k__90k__frostburg_rehab_center_frostburg__md"
   },
   {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Rapid City, SD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist (PT) to join a premier health and rehabilitation center in Gainesville, FL. This is an exceptional opportunity to make a significant impact on patients' lives, helping them regain mobility and improve their quality of life in a supportive and dynamic environment. We are looking for a professional who is passionate about delivering high-quality, patient-centered care.\n\nIn this vital role, you will be responsible for assessing, planning, and implementing individualized physical therapy programs. You will work collaboratively with a multidisciplinary team to ensure comprehensive care and optimal patient outcomes. This urgent opening offers a competitive hourly rate and the chance to contribute immediately to a facility committed to excellence in patient rehabilitation.",
+    "description": "We are seeking a dedicated and detail-oriented MDS Coordinator to join a premier skilled nursing facility in Rapid City, SD. This is an excellent opportunity for a professional committed to ensuring high-quality resident care through accurate assessment and care planning.\n\nAs an MDS Coordinator, you will be responsible for the timely and accurate completion of the Minimum Data Set (MDS) assessments, developing comprehensive care plans, and ensuring compliance with federal and state regulations. You will collaborate closely with the interdisciplinary team to facilitate optimal resident outcomes and maintain regulatory adherence.\n\nIf you are passionate about making a difference in the lives of residents and possess the required expertise, we encourage you to apply immediately. This is an urgent opening for a vital role within our team.",
     "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
+    "salaryShort": "",
     "requirements": [
-      "Current and valid Physical Therapist (PT) license in the state of Florida.",
-      "Master's or Doctorate degree in Physical Therapy from an accredited program.",
-      "Experience in a skilled nursing or rehabilitation setting preferred.",
-      "Strong clinical assessment and treatment planning skills.",
-      "Ability to work effectively as part of a multidisciplinary team."
+      "Active RN or LPN license in South Dakota",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "RAC-CT certification preferred",
+      "Thorough knowledge of Medicare/Medicaid regulations and the RAI process",
+      "Strong organizational and communication skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate ranges from $38.00 to $48.00, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "physical_therapist__pt___38____48__urgent__parklands_care_center_gainesville__fl"
+    "id": "mds_avantara_mountain_view_rapid_city__sd"
   },
   {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Marianna, FL",
+    "roleTitle": "Assistant Director of Nursing (ADON) - RN",
+    "roleType": "Leadership",
+    "location": "Red Bay, AL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and compassionate Physical Therapist (PT) to join a premier skilled nursing facility in Marianna, FL. This is an excellent opportunity to make a significant impact on patients' lives, providing essential rehabilitation services in a supportive and dynamic environment. We are looking for a professional who is ready to hit the ground running and contribute to a team focused on exceptional patient outcomes.\n\nIn this vital role, you will be responsible for assessing, planning, and implementing individualized treatment programs for residents, helping them regain mobility, reduce pain, and improve their overall quality of life. You will collaborate with a multidisciplinary team to ensure comprehensive care, utilizing your expertise to develop and adapt therapy plans as needed. This position offers a chance to work in a facility committed to high standards of care and continuous improvement. Due to the urgent nature of this opening, we encourage immediate applications.",
+    "description": "We are seeking an experienced and dedicated Assistant Director of Nursing (ADON) - RN to join a premier skilled nursing facility in Red Bay, AL. This vital leadership role involves supporting the Director of Nursing in overseeing clinical operations, ensuring high standards of patient care, and fostering a positive environment for both residents and staff.The ideal candidate will play a crucial role in maintaining regulatory compliance, developing nursing staff, and implementing best practices to enhance the quality of life for our residents. This is an excellent opportunity for a seasoned RN leader to make a significant impact within a supportive and dynamic healthcare setting.",
     "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
+    "salaryShort": "",
     "requirements": [
-      "Current Physical Therapist (PT) license in Florida",
-      "Doctor of Physical Therapy (DPT) degree or equivalent",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Strong communication and interpersonal skills",
-      "Ability to work effectively in a team-oriented environment"
+      "Active and unrestricted Registered Nurse (RN) license",
+      "Minimum of 2-3 years of nursing leadership experience, preferably as an ADON",
+      "Experience within a Skilled Nursing Facility (SNF) environment",
+      "Demonstrated ability to lead and mentor nursing staff",
+      "Strong understanding of state and federal regulations for long-term care"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00 based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "physical_therapist__pt___38____48__urgent__courtyard_healthcare_center_marianna__fl"
+    "id": "experienced_rn_adon_arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) to join a premier health and rehabilitation center in Red Bay, AL. This is an immediate opportunity for a compassionate and skilled nurse ready to make a significant impact on patient care within a supportive environment.In this vital role, you will be responsible for providing comprehensive nursing care, administering medications, monitoring patient conditions, and collaborating with a multidisciplinary team to ensure the highest standards of health and wellness. Your expertise will be crucial in maintaining patient safety and promoting recovery.This position involves working 12-hour shifts, offering a consistent schedule and the chance to become an integral part of our committed team. If you are a proactive nurse looking for an urgent and rewarding full-time role, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and active Registered Nurse (RN) license in Alabama.",
+      "Minimum of 1 year of experience in a skilled nursing or rehabilitation setting preferred.",
+      "Ability to work 12-hour shifts, including evenings and weekends as needed.",
+      "Strong clinical assessment, critical thinking, and documentation skills.",
+      "Current BLS certification."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician (MD)",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Multi-specialty Medical Group",
+    "description": "Join a dynamic multi-specialty medical group serving communities across New York City. We are seeking a dedicated Internal Medicine Physician (MD) to provide exceptional care within our specialized practice. This role offers a unique opportunity to focus on workers' compensation and no-fault/lien cases, operating outside of major medical, Medicare, and Medicaid insurance frameworks.\n\nThis position comes with a competitive compensation package, with an estimated annual earning potential of $180,000. We emphasize a bonus-heavy structure, rewarding your contributions significantly. Candidates must be prepared to work weekends to meet patient needs.\n\nIf you are an Internal Medicine Physician with expertise in workers' compensation and a commitment to patient-centered care, we encourage you to apply. This is an urgent opening for a professional ready to make an immediate impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree from an accredited institution",
+      "Current and unrestricted medical license in New York State",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Proven experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends as required"
+    ],
+    "salaryOrBonusInfo": "Compensation around $180,000 per year, with significant bonus potential as the role is very heavy on bonuses and less on base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "Family Medicine MD",
+    "roleType": "Floor Staff",
+    "location": "NYC, NY",
+    "facilityType": "Multi-location Healthcare Provider",
+    "description": "Join a dynamic and growing multi-location healthcare provider in New York City, NY, seeking a dedicated Family Medicine MD. This is an exceptional opportunity for a physician who thrives in a fast-paced environment and is passionate about patient care within a specialized practice model.\n\nThis role offers a compensation structure heavily weighted towards bonuses, with an estimated annual earning potential around $180,000. We are looking for a physician with specific experience in workers' compensation or no-fault/lien cases, as our practice does not engage with major medical insurances, Medicare, or Medicaid. The ability to work weekends is a key requirement for this position. If you are a WCB certified physician looking for a unique and rewarding practice, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree and valid New York State medical license",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Proven experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends as part of the regular schedule",
+      "Comfortable practicing in a model that does not accept major medical insurance, Medicare, or Medicaid"
+    ],
+    "salaryOrBonusInfo": "Very heavy on bonuses, less on salary. Compensation around $180,000 per year.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Queens, NY",
+    "facilityType": "Network of Rehabilitation Facilities",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic network of rehabilitation facilities in Queens, NY. This unique opportunity involves working across multiple sites, typically 1-2 days a week at each, providing specialized care to patients.\n\nThis role offers a competitive compensation package ranging from $250,000 to $275,000 annually, with a significant emphasis on performance-based bonuses. Candidates must be prepared to work weekends and possess a strong background in workers' compensation cases, as the practice does not engage with major medical insurances, Medicare, or Medicaid.\n\nIf you are a WCB-certified PM&R Physician with a passion for rehabilitation and a proven track record in workers' compensation or no-fault/lien cases, we encourage you to apply. This is an excellent opportunity to leverage your expertise in a focused and rewarding environment.",
+    "contractType": "Part-time",
+    "salaryShort": "$250,000 - $275,000 per year",
+    "requirements": [
+      "Board Certified/Eligible in Physical Medicine & Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certification required",
+      "Minimum of 2 years of experience in Workers' Compensation, No-Fault, or Lien cases",
+      "Ability to work weekends",
+      "Comfortable working exclusively with Workers' Compensation, No-Fault, and Lien cases (no major medical, Medicare, or Medicaid)"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $250,000 - $275,000 per year, with a compensation structure heavily weighted towards bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___250k__275k__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Bronx/Westchester, NY",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team in the Bronx/Westchester, NY area. This role offers a competitive salary range of $250,000 - $275,000 per year, with a unique compensation structure heavily weighted towards bonuses, providing significant earning potential for the right candidate. This is a non-traveling role in the sense of long-distance travel, but requires local rotation between a few facilities within the Bronx/Westchester area, typically 1-2 days per week at each location.\n\nThe ideal candidate will have a strong background in Workers' Compensation, No-Fault (NF), and Lien cases, as our practice does not work with major medical insurances, Medicare, or Medicaid. Weekend availability is a key requirement for this position. If you are a WCB certified physician with a passion for rehabilitation and a focus on specialized case types, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$250,000 - $275,000 per year",
+    "requirements": [
+      "Board Certified/Eligible in Physical Medicine & Rehabilitation",
+      "Current New York State Medical License",
+      "WCB (Workers' Compensation Board) certification required",
+      "Minimum of 2+ years of experience with Workers' Compensation, No-Fault (NF), or Lien cases",
+      "Willingness to work weekends and ability to rotate between local facilities in the Bronx/Westchester area"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $250,000 - $275,000 per year, with a compensation structure heavily weighted towards bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___250k__275k__non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Brooklyn, NY",
+    "facilityType": "Specialized Medical Practice",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a specialized medical practice in Brooklyn, NY. This role offers a unique compensation structure heavily weighted towards bonuses, providing significant earning potential for the right candidate. You will be an integral part of a team focused on delivering high-quality care to patients within the Workers' Compensation and No-Fault/Lien systems.\n\nThis is an excellent opportunity for a physician who thrives in a dynamic environment and is committed to patient recovery. The position requires flexibility, including the ability to work weekends, to meet the needs of our patient population. If you are passionate about rehabilitation medicine and possess the required expertise, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$250,000 - $275,000 per year",
+    "requirements": [
+      "Board Certified/Board Eligible in Physical Medicine & Rehabilitation",
+      "WCB (Workers' Compensation Board) certification is required",
+      "Minimum of 2 years of experience in Workers' Compensation or No-Fault/Lien cases",
+      "Ability to work weekends as needed",
+      "Current New York State Physician license"
+    ],
+    "salaryOrBonusInfo": "Very heavy on bonuses, less on salary",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___250k__275k__for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote, NY",
+    "facilityType": "a premier diagnostic imaging center",
+    "description": "Join a premier diagnostic imaging center as a Remote Radiologist, specializing in Musculoskeletal (MSK) imaging. This full-time opportunity allows you to work from anywhere, focusing exclusively on Workers' Compensation and No-Fault cases. We are seeking a dedicated professional who thrives in a bonus-heavy compensation model and is available to work weekends. This role offers a unique chance to contribute your expertise without the complexities of major medical, Medicare, or Medicaid insurances.\n\nWe value radiologists who are proficient in MSK reads and have a strong background in workers' compensation and no-fault claims. This position is ideal for someone looking for a flexible yet impactful role, providing critical diagnostic services to a specialized patient population. If you are a New York State licensed Radiologist ready to make a significant contribution, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/XRay",
+    "requirements": [
+      "Current New York State Radiologist license",
+      "Proficiency in Musculoskeletal (MSK) imaging reads",
+      "Demonstrated experience with Workers' Compensation and No-Fault cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with rates of $50 per MRI, $30 per CT, and $10 per X-Ray. This role focuses exclusively on Workers' Compensation and No-Fault cases, without involvement in major medical, Medicare, or Medicaid insurances.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Regional Director of Operations",
+    "roleType": "Leadership",
+    "location": "Los Angeles, CA",
+    "facilityType": "Skilled Nursing Facility Network",
+    "description": "An urgent and exceptional opportunity awaits a highly experienced Regional Director of Operations in the vibrant Los Angeles area. This pivotal leadership role offers a chance to oversee a network of facilities, driving operational excellence and strategic growth within a premier healthcare organization. We are seeking a dynamic leader ready to make an immediate impact.\n\nThis role comes with a highly competitive salary and comprehensive relocation assistance for the right candidate. We are looking for a dedicated professional who is either local to the Los Angeles area or committed to relocating, as this position requires no travel, allowing you to focus entirely on regional oversight and success.",
+    "contractType": "Full-time",
+    "salaryShort": "$200,000 - $300,000+ per year",
+    "requirements": [
+      "Must be a Licensed Nursing Home Administrator (LNHA) certified.",
+      "Proven experience in multi-facility operational leadership within the healthcare sector.",
+      "Ability to relocate to the Los Angeles area if not currently local.",
+      "Strong track record of driving operational excellence and achieving strategic goals.",
+      "Commitment to a non-travel role focused on regional oversight."
+    ],
+    "salaryOrBonusInfo": "Highly competitive salary ranging from $200,000 to $300,000+ annually, with comprehensive relocation assistance available for qualified candidates.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_la"
+  },
+  {
+    "roleTitle": "Regional Director/VP of Operations",
+    "roleType": "Leadership",
+    "location": "Kentucky",
+    "facilityType": "Skilled Nursing Facilities",
+    "description": "An urgent and exceptional opportunity has arisen for a highly experienced Regional Director/VP of Operations to lead multi-facility operations across Kentucky. This pivotal leadership role offers the chance to significantly impact the success and quality of care within a network of skilled nursing facilities.\n\nWe are seeking a dynamic leader who is either local to Kentucky or willing to relocate, as this role requires no travel outside the region. This urgent position comes with a highly competitive compensation package, ranging from $200,000 to $300,000+ annually, along with comprehensive relocation assistance for the right candidate.\n\nJoin a premier organization dedicated to excellence in patient care and operational efficiency. This is a unique chance to leverage your expertise in a challenging yet rewarding environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$200,000 - $300,000+ per year",
+    "requirements": [
+      "Current and active Licensed Nursing Home Administrator (LNHA) certification.",
+      "Proven experience in multi-facility leadership within skilled nursing or long-term care.",
+      "Ability to be local to Kentucky or willingness to relocate.",
+      "Strong operational and financial management skills.",
+      "Demonstrated success in improving facility performance and patient outcomes."
+    ],
+    "salaryOrBonusInfo": "Highly competitive annual salary ranging from $200,000 to $300,000+, with comprehensive relocation assistance provided.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_regional_director_vp_of_ops__urgent__200k_300k______relocation__regional_ky"
+  },
+  {
+    "roleTitle": "Chief Operating Officer (COO)",
+    "roleType": "Leadership",
+    "location": "Lakewood, NJ",
+    "facilityType": "A leading healthcare organization",
+    "description": "We are seeking a highly strategic and results-oriented Chief Operating Officer (COO) to join a dynamic organization. This pivotal leadership role will be responsible for overseeing all operational aspects, ensuring efficiency, and driving organizational performance.\n\nThe COO will play a critical role in strategic planning, implementing best practices, and fostering a culture of excellence. This is an exceptional opportunity to contribute to the growth and success of a forward-thinking enterprise.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Business Administration, Healthcare Management, or a related field",
+      "Minimum of 7-10 years of progressive leadership experience in operations, preferably within a healthcare setting",
+      "Demonstrated expertise in strategic planning, financial management, and operational optimization",
+      "Exceptional leadership, communication, and interpersonal skills",
+      "Proven ability to drive organizational performance and achieve strategic objectives"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "coo_susan_strauss_design_lakewood__nj"
+  },
+  {
+    "roleTitle": "Highly Experienced Montessori Teacher",
+    "roleType": "Other",
+    "location": "Bastrop County, TX",
+    "facilityType": "An educational institution",
+    "description": "We are seeking a highly experienced and passionate Montessori Teacher to join a dedicated team at a reputable educational institution in Bastrop County, TX. This is a unique opportunity for a seasoned professional to make a significant impact on young minds within a supportive and innovative learning environment.The ideal candidate will be deeply committed to the Montessori philosophy, possessing a proven track record of fostering independence, curiosity, and a love for learning in children. You will be instrumental in creating a prepared environment that encourages exploration and self-discovery, guiding students through their developmental journey.This role offers a truly exceptional compensation package, with no set pay limit for the right individual who brings unparalleled experience and dedication. If you are a highly skilled Montessori educator looking for an opportunity where your expertise is truly valued and rewarded, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Montessori certification (AMI or AMS preferred)",
+      "Bachelor's degree in Early Childhood Education or a related field",
+      "Significant experience as a Montessori Teacher",
+      "Strong understanding and commitment to the Montessori philosophy",
+      "Ability to create and maintain a nurturing and stimulating classroom environment"
+    ],
+    "salaryOrBonusInfo": "Highly competitive compensation with no set pay limit for the right candidate, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "highly_experienced_montessori_teacher__confidential__ad_astra_elementary_school__highly_confidential__bastrop__tx"
+  },
+  {
+    "roleTitle": "Chief Operating Officer (COO)",
+    "roleType": "Leadership",
+    "location": "Lackawanna County, PA",
+    "facilityType": "Corporate Office",
+    "description": "We are seeking a strategic and experienced Chief Operating Officer (COO) to join a corporate office supporting healthcare operations. This pivotal leadership role is based in Northeast Pennsylvania, with a preference for candidates residing within the state to foster strong regional engagement and oversight. The ideal candidate will drive operational excellence and contribute significantly to the organization's strategic goals.\nThe COO will be responsible for analyzing monthly and quarterly financial results, identifying trends, and implementing strategies to optimize performance. A key focus will be on navigating complex payer mixes, including Medicare and Medicaid, and understanding reimbursement trends to ensure financial health and compliance. This role offers the opportunity to shape the future of healthcare services within a dynamic environment.\nIf you are a visionary leader with a proven track record in healthcare operations and a deep understanding of financial analysis and payer dynamics, we encourage you to apply. Join a team dedicated to delivering high-quality care and operational efficiency.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven leadership experience in healthcare operations.",
+      "Strong experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends.",
+      "Demonstrated ability to analyze monthly and quarterly financial results.",
+      "Prior experience within a Skilled Nursing Facility (SNF) environment is highly preferred.",
+      "Excellent strategic planning and analytical skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "coo__not_urgent__corporate_office_in_ny___corporate_south_in_northeast_pa_confidential"
+  },
+  {
+    "roleTitle": "Financial Controller",
+    "roleType": "Leadership",
+    "location": "Binghamton, NY / Pittston, PA",
+    "facilityType": "Skilled Nursing Facility System",
+    "description": "We are seeking a dedicated Financial Controller to join a leading healthcare organization, with a preference for candidates located in Northeast Pennsylvania. This pivotal role offers the opportunity to contribute to the financial health and strategic direction of a dynamic system, supporting operations across multiple facilities. While the corporate office is located in NY and PA, candidates in Northeast Pennsylvania are highly encouraged to apply to cast a wider net of candidates.\n\nAs Financial Controller, you will be instrumental in analyzing monthly and quarterly financial results, providing critical insights to leadership. Your expertise in payer mix, including Medicare and Medicaid, and understanding of reimbursement trends will be highly valued in optimizing financial performance. This role is ideal for a professional eager to make a significant impact within the healthcare sector.\n\nJoin a team committed to excellence and patient care, where your financial leadership will directly support the mission of providing high-quality services. This is an urgent opportunity for a skilled financial professional to advance their career.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Experience with Payer Mix (Medicare/Medicaid) and Reimbursement trends",
+      "Ability to analyze monthly and quarterly financial results",
+      "Prior experience in a Skilled Nursing Facility (SNF) environment is a plus",
+      "Strong financial acumen and analytical skills",
+      "Preference for candidates located in Northeast Pennsylvania"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "financial_controller_corporate_office_in_ny___corporate_south_in_northeast_pa_binghamton__ny___pittston__pa"
+  },
+  {
+    "roleTitle": "Commercial HVAC Field Manager",
+    "roleType": "Leadership",
+    "location": "Chicago, IL",
+    "facilityType": "Various Commercial Facilities",
+    "description": "We are seeking an experienced Commercial HVAC Field Manager to join a highly stable company where employees build long-term careers. This is an excellent opportunity for a dedicated professional to lead HVAC operations across the vibrant Chicago Metropolitan Area.\n\nIn this role, you will be responsible for managing commercial HVAC projects and teams, ensuring efficient service delivery for a diverse client base, including facilities with complex boiler and chiller systems. The position requires travel within Illinois, Wisconsin, and Indiana to oversee various commercial sites.\n\nIf you are a seasoned HVAC professional looking for a rewarding career with a company known for employee retention, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50.00 - $65.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of experience in HVAC.",
+      "At least 3 years of commercial HVAC experience, including boilers and chillers.",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI, IN).",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Operations & HR Coordinator",
+    "roleType": "Support",
+    "location": "Skokie, IL",
+    "facilityType": "Administrative Headquarters",
+    "description": "Are you a highly organized and proactive professional ready to take on a pivotal role in operations and human resources? We are seeking a dynamic Operations & HR Coordinator to join our administrative headquarters in Skokie, IL. This is an exciting opportunity for an individual who thrives in a fast-paced environment and is eager to manage a broad spectrum of responsibilities.\n\nIn this role, you will be instrumental in ensuring the smooth daily operations of our office, going beyond traditional payroll and benefits administration. Your responsibilities will encompass comprehensive office administration, seamless employee onboarding, and managing various critical tasks to support our team. Candidates with HVAC experience will find this a significant advantage.\n\nIf you are a self-starter with a knack for handling diverse tasks and a commitment to excellence, we encourage you to apply. Join a team where your contributions are valued and your ability to 'handle everything' makes a real impact.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in office administration and human resources coordination",
+      "Proficiency in managing payroll, benefits, and employee onboarding processes",
+      "Demonstrated ability to handle a wide range of operational tasks",
+      "Strong organizational skills and attention to detail",
+      "HVAC experience is a significant plus"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rockstar_operations___hr_coordinator_hq_skokie__il"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Sardis, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility. This pivotal leadership role offers the opportunity to oversee all nursing operations, ensuring the highest standards of patient care and regulatory compliance.\n\nThe ideal candidate will be a compassionate leader with a strong clinical background, committed to fostering a supportive environment for both residents and staff. Join a team dedicated to making a significant impact on the lives of those they serve.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $95,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in the state of Mississippi",
+      "Minimum of 2-3 years of experience as a Director of Nursing or Assistant Director of Nursing in a skilled nursing facility",
+      "Demonstrated leadership and management abilities in a long-term care setting",
+      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
+      "Excellent communication, organizational, and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $85,000 to $95,000 annually, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_rn_don___85k__95k__sardis_community_nursing_home_sardis__ms"
   }
 ]
