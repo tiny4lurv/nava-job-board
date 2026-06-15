@@ -3,57 +3,38 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a highly motivated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This is a confidential opportunity for a visionary leader dedicated to upholding the highest standards of patient care and operational excellence. You will play a pivotal role in shaping the future of our facility, ensuring a supportive environment for both residents and staff.\n\nThis full-time position offers a competitive annual salary ranging from $115,000 to $145,000, commensurate with experience. We are looking for a dynamic individual who can drive positive outcomes, foster a culture of continuous improvement, and maintain compliance with all regulatory standards. If you are a proven leader ready to make a significant impact, we encourage you to apply.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing facility in Baltimore County, MD. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and operational excellence. Join a team committed to fostering a supportive environment for both residents and staff.As the LNHA, you will be responsible for the overall management and success of the facility, ensuring compliance with all state and federal regulations while upholding the highest standards of quality care. This pivotal role offers a competitive salary range of $115,000 to $145,000 per year, reflecting your expertise and contributions. We are looking for a leader who can inspire staff, optimize operations, and drive positive outcomes for our residents.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in the state of Maryland.",
-      "Minimum of 3-5 years of progressive leadership experience in a skilled nursing or rehabilitation facility.",
-      "Comprehensive knowledge of state and federal regulations governing long-term care.",
-      "Demonstrated ability to manage financial performance, operational efficiency, and staff development.",
-      "Strong commitment to quality patient care and resident satisfaction."
+      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
+      "Proven experience in a skilled nursing facility or long-term care setting",
+      "Strong understanding of state and federal regulations (e.g., CMS, OBRA)",
+      "Demonstrated leadership and operational management skills",
+      "Excellent communication and interpersonal abilities"
     ],
-    "salaryOrBonusInfo": "Competitive annual salary ranging from $115,000 to $145,000, commensurate with experience.",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 annually, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
-    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
-    "roleType": "Floor Staff",
-    "location": "Missouri Valley, IA",
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Marianna, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center as an MDS Coordinator. In this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accurate and timely submission in accordance with federal and state regulations. Your expertise will be crucial in developing comprehensive care plans that reflect the needs of our residents.\n\nThis position offers a unique opportunity to leverage your clinical assessment skills and regulatory knowledge to positively impact patient care and facility operations. We are looking for a professional who is committed to excellence and thrives in a collaborative environment.\n\nJoin a team where your contributions are valued, and you play a key role in maintaining high standards of care and compliance.",
+    "description": "We are urgently seeking a dedicated Physical Therapist (PT) to join a premier health and rehabilitation center in Marianna, FL. This is an exceptional opportunity to make a significant impact on patients' lives, helping them regain mobility and improve their overall quality of life within a supportive and dynamic environment. Your expertise will be crucial in developing and implementing personalized treatment plans.\n\nThis role offers a competitive hourly rate of $38.00 - $48.00, reflecting our commitment to attracting top talent. If you are a compassionate and skilled Physical Therapist looking for an immediate and rewarding opportunity, we encourage you to apply.",
     "contractType": "Full-time",
-    "salaryShort": "$65,000 - $75,000 per year",
+    "salaryShort": "$38.00 - $48.00/hr",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa",
-      "Minimum of 1 year experience as an MDS Coordinator",
-      "Proficiency with MDS 3.0 assessment and care planning",
-      "Strong understanding of federal and state long-term care regulations",
-      "Excellent organizational and communication skills"
+      "Current and valid Physical Therapist (PT) license in the state of Florida",
+      "Doctor of Physical Therapy (DPT) degree or equivalent",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Strong clinical assessment and treatment planning skills",
+      "Ability to work effectively as part of a multidisciplinary team"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
-  },
-  {
-    "roleTitle": "Family Medicine MD",
-    "roleType": "Floor Staff",
-    "location": "NYC, NY",
-    "facilityType": "Specialty Medical Clinic",
-    "description": "We are seeking a dedicated Family Medicine MD to join a network of specialty medical clinics across New York City. This role offers a unique opportunity to focus on workers' compensation and no-fault/lien cases, providing essential care to a specific patient demographic.\n\nThe ideal candidate will thrive in an environment that prioritizes patient recovery and efficient case management. This position is structured with a compensation model that is very heavy on bonuses, offering significant earning potential beyond the base salary. Weekend availability is a key requirement for this role.\n\nJoin a team committed to making a difference in the lives of patients navigating workers' compensation and personal injury claims. We are looking for a physician who is passionate about this specialized area of medicine and ready to contribute to a dynamic healthcare setting.",
-    "contractType": "Full-time",
-    "salaryShort": "$180,000 per year",
-    "requirements": [
-      "Doctor of Medicine (MD) degree and valid New York medical license",
-      "Must be Workers' Compensation Board (WCB) certified",
-      "Proven experience with workers' compensation or no-fault/lien cases",
-      "Ability to work weekends as required",
-      "Comfortable working in a practice that does not accept major medical insurances, Medicare, or Medicaid"
-    ],
-    "salaryOrBonusInfo": "Compensation is approximately $180,000 per year, with a structure that is very heavy on bonuses and less on base salary.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+    "id": "physical_therapist__pt___38____48__urgent__courtyard_healthcare_center_marianna__fl"
   }
 ]
