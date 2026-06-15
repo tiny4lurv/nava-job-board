@@ -3,38 +3,75 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing facility in Baltimore County, MD. This is a confidential opportunity for a visionary leader passionate about delivering exceptional patient care and operational excellence. Join a team committed to fostering a supportive environment for both residents and staff.As the LNHA, you will be responsible for the overall management and success of the facility, ensuring compliance with all state and federal regulations while upholding the highest standards of quality care. This pivotal role offers a competitive salary range of $115,000 to $145,000 per year, reflecting your expertise and contributions. We are looking for a leader who can inspire staff, optimize operations, and drive positive outcomes for our residents.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are conducting a confidential search for a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This pivotal role offers an exceptional opportunity to oversee all operational aspects, ensuring the highest standards of patient care, regulatory compliance, and financial performance.The successful LNHA will be responsible for fostering a positive and supportive environment for both residents and staff. You will guide a compassionate team, implement strategic initiatives, and drive continuous improvement in all areas of the facility. This is a chance to make a significant impact within a reputable organization committed to excellence in post-acute care.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active Licensed Nursing Home Administrator (LNHA) license in Maryland",
-      "Proven experience in a skilled nursing facility or long-term care setting",
-      "Strong understanding of state and federal regulations (e.g., CMS, OBRA)",
-      "Demonstrated leadership and operational management skills",
-      "Excellent communication and interpersonal abilities"
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or rehabilitation facility.",
+      "Demonstrated success in facility operations, financial management, and regulatory compliance.",
+      "Strong leadership abilities with a focus on quality patient care and staff development."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $115,000 - $145,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
   },
   {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Marianna, FL",
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Physical Therapist (PT) to join a premier health and rehabilitation center in Marianna, FL. This is an exceptional opportunity to make a significant impact on patients' lives, helping them regain mobility and improve their overall quality of life within a supportive and dynamic environment. Your expertise will be crucial in developing and implementing personalized treatment plans.\n\nThis role offers a competitive hourly rate of $38.00 - $48.00, reflecting our commitment to attracting top talent. If you are a compassionate and skilled Physical Therapist looking for an immediate and rewarding opportunity, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This is a fantastic opportunity for a Registered Nurse with a passion for patient assessment and care planning to make a significant impact. We are looking for a permanent team member, not an interim candidate, who is ready to contribute to a supportive and dynamic environment.\n\nIn this vital role, you will be responsible for coordinating the Minimum Data Set (MDS) assessment process, ensuring accurate and timely completion of assessments in accordance with federal and state regulations. Your expertise will be crucial in developing comprehensive care plans that reflect the individual needs of our residents, contributing to their overall well-being and quality of life.\n\nThis full-time position offers a competitive salary range of $65,000 - $75,000 per year, commensurate with your experience and qualifications. Join a team committed to excellence in resident care and professional growth.",
     "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
+    "salaryShort": "$65,000 - $75,000 per year",
     "requirements": [
-      "Current and valid Physical Therapist (PT) license in the state of Florida",
-      "Doctor of Physical Therapy (DPT) degree or equivalent",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Strong clinical assessment and treatment planning skills",
-      "Ability to work effectively as part of a multidisciplinary team"
+      "Current Registered Nurse (RN) license in Iowa",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Strong understanding of the Resident Assessment Instrument (RAI) process and Medicare/Medicaid regulations",
+      "Excellent organizational and communication skills",
+      "Ability to work collaboratively within a multidisciplinary team"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "salaryOrBonusInfo": "$65,000 - $75,000 per year",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "physical_therapist__pt___38____48__urgent__courtyard_healthcare_center_marianna__fl"
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Red Bay, AL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated Registered Nurse (RN) for a full-time, 12-hour PM shift position at a premier health and rehabilitation center in Red Bay, AL. This is an immediate opening for a compassionate and skilled nurse ready to make a significant impact on patient care.\n\nIn this vital role, you will be responsible for providing comprehensive nursing care, administering medications, monitoring patient conditions, and collaborating with the healthcare team to ensure the highest standards of resident well-being. Your commitment to excellence will directly contribute to a positive and healing environment.\n\nIf you are an experienced RN looking for a challenging yet rewarding opportunity with consistent 12-hour shifts, we encourage you to apply today and join a team dedicated to exceptional patient outcomes.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Alabama",
+      "Minimum of one year of nursing experience, preferably in a skilled nursing or rehabilitation setting",
+      "Ability to work 12-hour evening/night shifts",
+      "Strong clinical assessment and documentation skills",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_pm_nurse__urgent__12hrs__arabella_health___wellness_of_red_bay_red_bay__al"
+  },
+  {
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Remote",
+    "facilityType": "A leading healthcare organization",
+    "description": "We are seeking a dynamic and experienced Marketing Director to join our growing healthcare organization. This is a fully remote opportunity, allowing you to contribute your expertise from anywhere. You will be instrumental in shaping our brand presence and driving strategic marketing initiatives.\n\nIn this pivotal role, you will be responsible for developing and implementing comprehensive marketing strategies to enhance our reach and engagement. Your efforts will directly support our mission to provide exceptional healthcare services, working collaboratively to achieve organizational goals.\n\nThis full-time position offers an annual salary range of $70,000 - $80,000. We are actively scheduling interviews Monday-Friday from 1 PM-7 PM, with weekend availability as needed, to accommodate qualified candidates.",
+    "contractType": "Full-time",
+    "salaryShort": "$70,000 - $80,000 per year",
+    "requirements": [
+      "Proven experience as a Marketing Director, preferably within the healthcare sector",
+      "Demonstrated ability to develop and execute successful marketing strategies",
+      "Excellent communication, leadership, and interpersonal skills",
+      "Proficiency in digital marketing tools and analytics",
+      "Bachelor's degree in Marketing, Business Administration, or a related field"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $70,000 - $80,000.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_marketer___marketing_director__70_80k__remote_remote"
   }
 ]
