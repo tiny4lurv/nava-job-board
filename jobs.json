@@ -3,19 +3,55 @@
     "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dynamic and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier health and rehabilitation center in Baltimore County, MD. This confidential opportunity is ideal for a visionary leader dedicated to upholding the highest standards of patient care and operational excellence. You will be instrumental in guiding our facility's strategic direction, ensuring regulatory compliance, and fostering a positive environment for both residents and staff.\n\nAs the LNHA, you will oversee all aspects of facility operations, including clinical services, financial management, and human resources. This role offers a chance to make a significant impact within a supportive and forward-thinking organization. We are looking for a leader who can inspire teams, drive quality outcomes, and maintain a strong commitment to community engagement. Compensation for this vital role is competitive, reflecting your expertise and leadership capabilities.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are conducting a confidential search for a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing facility. This is an exceptional opportunity for a visionary leader to make a significant impact on patient care and facility success.The successful candidate will be responsible for the overall management and strategic direction of the facility, ensuring the highest standards of quality care, regulatory compliance, and operational efficiency. This role demands strong leadership, financial acumen, and a commitment to fostering a positive environment for both residents and staff.Join a team committed to excellence and compassionate care. We offer a competitive salary and the chance to advance your career in a supportive setting.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Minimum of 3-5 years of experience as an LNHA or in a similar leadership capacity within a skilled nursing or rehabilitation facility.",
-      "Demonstrated knowledge of state and federal regulations governing long-term care facilities.",
-      "Proven track record in financial management, operational oversight, and staff development.",
-      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field."
+      "Active and unrestricted Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Bachelor's degree in Healthcare Administration, Business Administration, or a related field.",
+      "Minimum of 3-5 years of experience as an LNHA in a skilled nursing or long-term care setting.",
+      "Comprehensive knowledge of state and federal regulations governing skilled nursing facilities.",
+      "Demonstrated leadership abilities and strong communication skills."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience.",
+    "salaryOrBonusInfo": "Competitive salary ranging from $115,000 to $145,000 annually, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier skilled nursing facility in Missouri Valley, IA. This is an excellent opportunity for a Registered Nurse with a passion for patient assessment and care planning to make a significant impact within a supportive environment. We are looking for a long-term commitment, as this is not an interim position.\n\nIn this vital role, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, ensuring accuracy and compliance with federal and state regulations. You will collaborate closely with the interdisciplinary team to develop comprehensive, individualized care plans that reflect the needs of our residents. Your expertise will be crucial in optimizing resident outcomes and ensuring appropriate reimbursement.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2 years of experience as an MDS Coordinator in a skilled nursing facility",
+      "Proficient knowledge of MDS 3.0 and the Resident Assessment Instrument (RAI) process",
+      "Strong understanding of Medicare and Medicaid regulations related to MDS"
+    ],
+    "salaryOrBonusInfo": "$65,000 - $75,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Commercial HVAC Field Manager",
+    "roleType": "Leadership",
+    "location": "Chicago, IL",
+    "facilityType": "Various Commercial Facilities",
+    "description": "Join a highly reputable company known for its exceptional employee retention, where professionals build long-lasting careers. We are seeking a dedicated Commercial HVAC Field Manager to oversee operations across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This role offers a unique opportunity to manage critical HVAC systems in diverse commercial settings.\n\nThis position involves travel within the specified region, providing essential leadership and technical expertise. If you are a seasoned HVAC professional looking for a stable and rewarding career with a company that values its employees, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50.00 - $65.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of experience in HVAC.",
+      "At least 3 years of commercial HVAC experience, including boilers and chillers.",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI & IN).",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   }
 ]
