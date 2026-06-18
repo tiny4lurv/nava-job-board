@@ -4,18 +4,54 @@
     "roleType": "Leadership",
     "location": "Baltimore County, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead a premier skilled nursing facility in Baltimore County, MD. This is a confidential opportunity for a visionary leader ready to make a significant impact on resident care and facility operations. The role offers a competitive salary range of $115,000 - $145,000 per year.\n\nAs the LNHA, you will be responsible for the overall management and success of the facility, ensuring compliance with all state and federal regulations while fostering a positive and supportive environment for both residents and staff. This is an excellent chance to join a facility committed to providing high-quality care and operational excellence.\n\nWe are looking for a leader who can drive performance, inspire teams, and maintain the highest standards of care. If you are passionate about long-term care and possess the administrative acumen to excel in a dynamic environment, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Licensed Nursing Home Administrator (LNHA) to lead operations at a premier skilled nursing and rehabilitation center in Baltimore County, MD. This is an exceptional opportunity to make a significant impact on resident care and facility success.The successful candidate will be responsible for the overall management and strategic direction of the facility, ensuring compliance with all state and federal regulations, maintaining high standards of quality care, and fostering a positive environment for both residents and staff. This leadership role requires a visionary professional committed to operational excellence and compassionate service.This full-time position offers a competitive salary range of $115,000 - $145,000 per year, commensurate with experience. Join a team dedicated to providing outstanding care and support to the community.",
     "contractType": "Full-time",
     "salaryShort": "$115,000 - $145,000 per year",
     "requirements": [
-      "Active and unencumbered Licensed Nursing Home Administrator (LNHA) license in Maryland.",
-      "Proven experience in a leadership role within a skilled nursing or long-term care facility.",
-      "Comprehensive understanding of state and federal regulations governing SNFs.",
-      "Strong financial management and operational oversight abilities.",
-      "Excellent communication and interpersonal skills."
+      "Current and valid Licensed Nursing Home Administrator (LNHA) license in Maryland.",
+      "Proven experience in a leadership role within a skilled nursing or rehabilitation facility.",
+      "Strong understanding of state and federal regulations governing long-term care.",
+      "Demonstrated ability to manage operations, financial performance, and staff development.",
+      "Bachelor's degree in healthcare administration or a related field preferred."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $145,000 per year, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation: $115,000 - $145,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "confidential_lnha___115k__145k__ridgeway_rehab__formerly_peace_healthcare_at_ridgeway_manor__cantonsville__md"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in beautiful St. Petersburg, FL. This full-time Physical Therapist Assistant (PTA) role offers a fantastic opportunity to make a significant impact on patient recovery and well-being within a supportive environment. Our facility, with 55-59 beds and a current census of 43, is committed to providing exceptional rehabilitative care.\n\nLocated conveniently on a main street with abundant shopping nearby and a nice residential neighborhood behind the building, our facility offers an ideal setting. Enjoy the Florida lifestyle with beaches just 15 minutes away, and relax in one of our two inviting courtyards. We are seeking a passionate PTA to contribute to our patient-centered approach to therapy.\n\nWe offer a competitive hourly rate of $38.00 - $48.00, commensurate with experience. If you are a skilled PTA looking for a rewarding full-time position in a vibrant community, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Valid Physical Therapist Assistant (PTA) license in the state of Florida",
+      "Associate's degree from an accredited Physical Therapist Assistant program",
+      "Prior experience in a skilled nursing or rehabilitation facility is preferred",
+      "Strong commitment to patient care and rehabilitation goals"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Team Leader",
+    "roleType": "Leadership",
+    "location": "Orlando, FL",
+    "facilityType": "Customer Service Center",
+    "description": "We are seeking a dedicated and dynamic Team Leader to join a leading customer service center in Orlando, FL. In this pivotal role, you will be responsible for guiding and motivating a team of customer service professionals, ensuring exceptional service delivery and operational excellence. This is an exciting opportunity to foster a positive and productive work environment while driving team performance.\n\nThe ideal candidate will possess strong leadership qualities, a passion for coaching, and a commitment to achieving team goals. You will play a crucial role in developing team members, managing daily operations, and contributing to the overall success of the center. Join a supportive team where your leadership skills will make a significant impact.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience in a team leadership or supervisory role, preferably in a customer service environment.",
+      "Excellent communication, coaching, and interpersonal skills.",
+      "Ability to analyze performance metrics and drive team success.",
+      "Strong problem-solving abilities and a proactive approach to team management."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "team_leader_orlando_site_orlando__fl"
   }
 ]
