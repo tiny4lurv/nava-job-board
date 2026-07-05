@@ -3,56 +3,37 @@
     "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity to contribute to a team focused on patient recovery and well-being, providing essential therapy services to residents.\n\nAs a COTA, you will work under the supervision of an Occupational Therapist to implement individualized treatment plans, helping patients regain independence in daily living activities. Your expertise will be crucial in supporting patients through their rehabilitation journey, enhancing their quality of life.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to make a significant impact on patients' lives, helping them regain independence and improve their quality of life through comprehensive occupational therapy services.\n\nIn this full-time role, you will collaborate with a multidisciplinary team to implement individualized treatment plans, provide therapeutic interventions, and document patient progress. We are seeking a passionate and skilled COTA committed to delivering high-quality, patient-centered care in a supportive environment.\n\nWe offer a competitive hourly rate of $28.00 - $37.00, commensurate with your experience and expertise. If you are ready to contribute your talents to a facility that values professional growth and exceptional patient outcomes, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Current Certified Occupational Therapy Assistant (COTA) certification",
-      "Active state licensure as a COTA",
-      "Experience in a rehabilitation or skilled nursing facility setting is preferred",
-      "Ability to work collaboratively within a multidisciplinary team",
-      "Strong communication and interpersonal skills"
+      "Active Certified Occupational Therapy Assistant (COTA) license in Florida.",
+      "Previous experience in a skilled nursing facility or rehabilitation setting preferred.",
+      "Ability to work full-time.",
+      "Strong clinical skills and a commitment to patient-centered care.",
+      "Excellent communication and teamwork abilities."
     ],
-    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00. Compensation for PT/OT/ST is $40.00 - $50.00.",
+    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
   },
   {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a premier health and rehabilitation center in Gainesville, FL, dedicated to providing exceptional patient care. We are seeking a passionate and skilled Full-time Physical Therapist Assistant (PTA) to become a vital part of our dynamic therapy team. In this role, you will work closely with licensed Physical Therapists to implement individualized treatment plans, helping patients regain mobility, strength, and independence.\n\nThis full-time opportunity offers a competitive hourly rate of $28.00 - $37.00, reflecting your experience and dedication. You will contribute to a supportive environment focused on positive patient outcomes and professional growth. If you are committed to making a significant difference in the lives of others, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Current and valid Physical Therapist Assistant (PTA) license in the state of Florida.",
-      "Associate's degree from an accredited Physical Therapist Assistant program.",
-      "Prior experience in a skilled nursing facility or rehabilitation center is preferred.",
-      "Ability to work effectively as part of a multidisciplinary team.",
-      "Strong patient assessment and treatment skills."
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (SLP)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
+    "roleTitle": "Certified Dietary Manager",
+    "roleType": "Leadership",
+    "location": "St. Petersburg, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team as a Full-time Speech-Language Pathologist in Gainesville, FL. This is an excellent opportunity to contribute your expertise at a premier skilled nursing facility, offering a competitive hourly rate for your valuable services. We are seeking a passionate professional ready to make a significant impact on patient recovery and well-being.In this full-time role, you will be responsible for providing comprehensive speech-language pathology services to residents, focusing on assessment, diagnosis, and treatment of communication and swallowing disorders. This position offers a chance to work within a supportive environment, dedicated to delivering high-quality patient care.",
+    "description": "We are seeking a dedicated Certified Dietary Manager for a premier skilled nursing facility in beautiful St. Petersburg, FL. This full-time role offers competitive compensation ranging from $60,000 to $70,000 annually, with consistent 8-hour shifts.\n\nJoin a welcoming environment in a 55-59 bed facility, currently serving a census of 43 residents. Located on a main street with abundant shopping nearby and a pleasant neighborhood behind the building, the facility offers an excellent work-life balance, just 15 minutes from the beach. Enjoy the serene atmosphere with two courtyards available for residents and staff.\n\nThis is an urgent opportunity to lead our dietary services team, ensuring the highest standards of nutrition and food service for our residents. Your expertise will contribute significantly to the well-being and satisfaction of those in our care.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $52.00/hr",
+    "salaryShort": "$60,000 - $70,000 per year",
     "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current state licensure as a Speech-Language Pathologist in Florida",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
+      "Certified Dietary Manager (CDM) certification",
+      "Experience in a skilled nursing or long-term care setting",
+      "Strong knowledge of food service regulations and sanitation standards",
+      "Proven ability to manage dietary staff and operations"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40.00 - $52.00, based on experience.",
+    "salaryOrBonusInfo": "Annual salary ranging from $60,000 to $70,000.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_slp_plaza_health_and_rehab_center_gainesville__fl"
+    "id": "certified_diatery_manager__8hrs__60k__70k__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   }
 ]
