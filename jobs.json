@@ -3,19 +3,261 @@
     "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to contribute to a dedicated team focused on patient recovery and well-being.\n\nAs a COTA, you will work under the supervision of an Occupational Therapist to implement treatment plans, assist patients in regaining independence in daily living activities, and monitor their progress. Your compassionate care and expertise will be vital in helping residents achieve their rehabilitation goals.\n\nWe are seeking a motivated professional ready to make a significant impact. Compensation is competitive and based on experience. Apply today to learn more about this rewarding full-time position.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity for a COTA looking to make a significant impact on patient recovery and well-being within a supportive environment. You will play a crucial role in providing high-quality therapy services to residents.\n\nThis full-time position offers a competitive hourly rate, providing stability and growth potential. Join a team committed to delivering exceptional care and fostering a positive atmosphere for both patients and staff.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Current Certified Occupational Therapy Assistant (COTA) licensure in Florida",
-      "Previous experience in a skilled nursing or rehabilitation facility preferred",
+      "Valid Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Experience in a skilled nursing or rehabilitation setting",
       "Ability to work full-time",
-      "Strong commitment to patient-centered care",
-      "Excellent communication and teamwork skills"
+      "Commitment to providing excellent patient care"
     ],
-    "salaryOrBonusInfo": "Hourly rate for COTA: $28.00 - $37.00, based on experience.",
+    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00 for COTAs, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated and compassionate Full-time Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Gainesville, FL. In this vital role, you will work collaboratively with our therapy team to provide high-quality physical therapy services, helping patients regain mobility, reduce pain, and improve their overall quality of life. This is an excellent opportunity to make a significant impact on patient recovery in a supportive and dynamic environment.\nThe ideal candidate will be passionate about patient care and committed to fostering a positive and healing atmosphere. You will assist in implementing individualized treatment plans, monitor patient progress, and educate patients and their families on therapeutic exercises and techniques. We offer a competitive hourly rate of $28.00 - $37.00, reflecting your experience and dedication to our mission.",
+    "contractType": "Full-time",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current and valid Physical Therapist Assistant (PTA) license in Florida.",
+      "Associate's degree from an accredited Physical Therapist Assistant program.",
+      "Prior experience in a skilled nursing facility or rehabilitation center is preferred.",
+      "Ability to work effectively as part of a multidisciplinary team.",
+      "Excellent communication and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Full-time Speech-Language Pathologist (SLP) to join a compassionate team at a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity to make a significant impact on patients' lives by providing essential speech, language, and swallowing therapy services.\n\nAs an SLP, you will play a crucial role in assessing, diagnosing, and treating individuals with communication and swallowing disorders, helping them regain independence and improve their quality of life. This full-time position offers a competitive hourly rate and the chance to work in a supportive environment focused on patient recovery and well-being.",
+    "contractType": "Full-time",
+    "salaryShort": "$40.00 - $52.00/hr",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current and valid Florida SLP license",
+      "Certificate of Clinical Competence (CCC-SLP)",
+      "Experience in a skilled nursing or rehabilitation setting preferred"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $40.00 - $52.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_slp_plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Billings, MT",
+    "facilityType": "Home Health Agency",
+    "description": "Join a premier home health agency in Billings, MT, seeking dedicated Registered Nurses (RNs) for flexible Full-time and Part-time travel opportunities. This role offers a highly competitive annual salary ranging from $115,000 to $125,000, providing an excellent chance to advance your career while making a significant impact on patient lives in a home-based setting. We are looking for professionals eager to provide compassionate, high-quality care across the community.As a Home Health RN, you will manage a diverse caseload, delivering personalized care plans and health education directly to patients in their homes. This position emphasizes autonomy, clinical expertise, and strong patient advocacy, allowing you to build meaningful relationships and contribute directly to patient well-being and recovery. Enjoy the flexibility and rewarding nature of home health travel nursing with a supportive team.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "$115,000 - $125,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Montana or a compact state",
+      "Minimum of 1-2 years of recent experience in home health or acute care",
+      "Current Basic Life Support (BLS) certification",
+      "Valid driver's license and reliable transportation",
+      "Excellent clinical assessment and communication skills"
+    ],
+    "salaryOrBonusInfo": "Annual salary ranging from $115,000 to $125,000, based on experience and contract type.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "Join a dedicated team at a premier home health agency committed to providing exceptional care to patients in the Casper, WY area. As a Full-time Registered Nurse (RN), you will play a vital role in delivering comprehensive nursing services directly in patients' homes, promoting health, and ensuring patient well-being and independence. This is an excellent opportunity for an RN seeking a dynamic and rewarding role with a focus on personalized patient care.In this full-time position, you will manage a caseload of patients, conducting thorough assessments, developing individualized care plans, and implementing skilled nursing interventions. You will be responsible for medication management, wound care, patient and family education, and coordinating care with physicians and other healthcare professionals. We are looking for a compassionate and skilled nurse who thrives in an autonomous environment while being a part of a supportive team.This role offers a competitive hourly wage, reflecting your experience and expertise.",
+    "contractType": "Full-time",
+    "salaryShort": "$36-$45/hr",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in the state of Wyoming",
+      "Minimum of one (1) year of clinical nursing experience, preferably in home health or acute care",
+      "Current Basic Life Support (BLS) or CPR certification",
+      "Valid driver's license, reliable transportation, and auto insurance",
+      "Excellent communication, organizational, and critical thinking skills"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $36-$45 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
+  },
+  {
+    "roleTitle": "Certified Dietary Manager",
+    "roleType": "Support",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Certified Dietary Manager to lead the dietary services at a premier health and rehabilitation center in St. Petersburg, FL. This facility, with a capacity of 55-59 beds and a current census of 43, is situated on a main street with abundant shopping nearby and a pleasant residential neighborhood behind it. Enjoy the convenience of being just 15 minutes from the beach, with two inviting courtyards on-site.\n\nThis is an excellent opportunity for a professional looking to make a significant impact on resident well-being. The role offers a competitive salary range of $60,000 - $70,000 per year for 8-hour shifts. Join a team committed to providing exceptional care in a supportive and vibrant environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$60,000 - $70,000 per year",
+    "requirements": [
+      "Certified Dietary Manager (CDM) certification required",
+      "Proven experience in food service management, preferably in a healthcare setting",
+      "Knowledge of state and federal dietary regulations for skilled nursing facilities",
+      "Ability to manage a dietary department and supervise staff",
+      "Strong organizational and communication skills"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $60,000 - $70,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "certified_diatery_manager__8hrs__60k__70k__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated PRN Physical Therapist (PT) to join a premier health and rehabilitation center in beautiful St. Petersburg, FL. This facility, with 55-59 beds, is situated on a main street with convenient access to shopping and a pleasant neighborhood, just 15 minutes from the beach. You'll be part of a supportive environment focused on patient recovery and well-being.This is an urgent opportunity offering a highly competitive hourly rate. As a PRN Physical Therapist, you will provide essential therapy services, contributing to the rehabilitation and improved quality of life for residents. If you are passionate about making a difference and thrive in a dynamic setting, we encourage you to apply.",
+    "contractType": "PRN",
+    "salaryShort": "$55-$60/hr",
+    "requirements": [
+      "Current and unrestricted Physical Therapist (PT) license in the state of Florida.",
+      "Minimum of 1 year of experience as a Physical Therapist, preferably in a skilled nursing or rehabilitation setting.",
+      "Current Basic Life Support (BLS) or CPR certification.",
+      "Ability to commit to PRN (as-needed) shifts."
+    ],
+    "salaryOrBonusInfo": "This urgent PRN role offers a competitive hourly rate of $55-$60/hr.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pt__urgent___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier health and rehabilitation center in beautiful St. Petersburg, FL, as a dedicated Physical Therapist Assistant. This full-time role offers a fantastic opportunity to work within a supportive 55-59 bed facility, currently serving a census of 43 residents. Enjoy a vibrant work environment situated on a main street with convenient shopping nearby and a pleasant neighborhood behind the building. The facility also boasts two courtyards, providing a serene setting for both residents and staff.\n\nWe are seeking a passionate individual to contribute to our team and help residents achieve their rehabilitation goals. This position offers a competitive hourly rate of $38.00 - $48.00. Plus, you'll be just 15 minutes from the beach, perfect for enjoying the Florida lifestyle.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Current Physical Therapist Assistant (PTA) license in Florida",
+      "Associate's degree from an accredited PTA program",
+      "Previous experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work effectively as part of a multidisciplinary team",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Occupational Therapist (OT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and skilled PRN Occupational Therapist (OT) to join a premier health and rehabilitation center in beautiful St. Petersburg, FL. This is an excellent opportunity to provide essential therapy services on a flexible, as-needed basis, contributing to the well-being and recovery of residents while enjoying a competitive hourly rate.\n\nThis facility is a 55-59 bed center with a current census of 43, located on a main street with convenient access to shopping and a nice residential neighborhood. Enjoy the perk of being just 15 minutes from the beach, making this an ideal location for both work and leisure. We are looking for a compassionate professional ready to make a significant impact.",
+    "contractType": "PRN",
+    "salaryShort": "$55.00 - $60.00/hr",
+    "requirements": [
+      "Current Occupational Therapist (OT) license in Florida",
+      "Minimum of 1 year of experience as an Occupational Therapist, preferably in a skilled nursing facility setting",
+      "Ability to work PRN shifts as needed to support patient care",
+      "Strong clinical assessment, treatment planning, and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier skilled nursing facility in beautiful St. Petersburg, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to provide vital therapy services to residents in a supportive environment, offering a competitive hourly rate of $38.00 - $48.00.\n\nOur facility is a 55-59 bed center with a current census of 43, ensuring a manageable caseload and a focus on quality patient care. Located on a main street with abundant shopping nearby and a pleasant neighborhood behind the building, you'll find convenience and a great community. Plus, you're just 15 minutes from the beach, offering a fantastic work-life balance. The facility also features two courtyards, providing a serene environment for both residents and staff.\n\nWe are seeking a dedicated COTA to contribute to our team, helping residents achieve their highest level of independence and well-being. If you are passionate about making a difference and thrive in a dynamic setting, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Valid Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Experience working in a skilled nursing or rehabilitation facility preferred",
+      "Ability to provide comprehensive occupational therapy services to residents",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Chief Operating Officer (COO)",
+    "roleType": "Leadership",
+    "location": "Lakewood, NJ",
+    "facilityType": "Healthcare Organization",
+    "description": "We are seeking a dynamic and experienced Chief Operating Officer (COO) to lead operational excellence and strategic growth for a premier organization. This pivotal leadership role is responsible for overseeing all aspects of daily operations, ensuring efficiency, quality, and alignment with organizational goals.\n\nThe COO will drive the implementation of strategic initiatives, optimize processes, and foster a culture of continuous improvement across various departments. This is an exceptional opportunity for a visionary leader to make a significant impact on the organization's success and overall service delivery.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Business Administration, Healthcare Management, or a related field; Master's degree preferred.",
+      "Minimum of 7-10 years of progressive leadership experience, with a significant portion in operations management.",
+      "Demonstrated ability to develop and implement strategic plans and operational efficiencies.",
+      "Strong financial acumen and experience managing budgets.",
+      "Exceptional leadership, communication, and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "coo_susan_strauss_design_lakewood__nj"
+  },
+  {
+    "roleTitle": "Regional Marketing Director",
+    "roleType": "Leadership",
+    "location": "OKC, OK",
+    "facilityType": "Multi-Facility Healthcare Organization",
+    "description": "Join a leading healthcare organization in Oklahoma City, OK, as a Regional Marketing Director. This pivotal role offers an exciting opportunity to drive growth and enhance the market presence of multiple healthcare facilities across the region. We are seeking a dynamic and results-oriented leader to develop and implement strategic marketing and business development initiatives.In this role, you will be instrumental in expanding our reach and ensuring our facilities continue to provide exceptional care to the communities we serve. We are looking for a candidate who can build strong relationships, identify new opportunities, and lead with vision. This position offers a competitive salary range of $120,000 - $140,000 annually, plus bonus potential, with the flexibility to offer more for the right individual who brings exceptional talent and experience.",
+    "contractType": "Full-time",
+    "salaryShort": "$120,000 - $140,000 per year + Bonus",
+    "requirements": [
+      "Proven experience in regional marketing and business development within the healthcare sector",
+      "Demonstrated ability to develop and execute strategic marketing plans",
+      "Strong leadership and communication skills",
+      "Track record of driving census growth and building referral networks",
+      "Bachelor's degree in Marketing, Business Administration, or a related field"
+    ],
+    "salaryOrBonusInfo": "Annual salary of $120,000 - $140,000 plus bonus, with potential for higher compensation for exceptional candidates.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "regional_marketing_director___bd____120k__140k___bonus__6_facilities_in_ok_okc__ok"
+  },
+  {
+    "roleTitle": "Travel Labor and Delivery Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Tyler, TX",
+    "facilityType": "Hospital",
+    "description": "Join a premier healthcare facility in Tyler, TX, as a Travel Labor and Delivery Registered Nurse. This contract position offers a competitive rate of $50.71 per hour, with the contract commencing on July 13, 2026. We are seeking dedicated and compassionate RNs to provide exceptional care to mothers and newborns during the labor and delivery process.As a vital member of our team, you will play a crucial role in ensuring positive patient outcomes and supporting families through one of life's most significant moments. This is an excellent opportunity for an experienced travel nurse looking for a rewarding contract role.",
+    "contractType": "Contract",
+    "salaryShort": "$50.71/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Texas or a compact state",
+      "Minimum of 2 years of recent experience in Labor and Delivery",
+      "Current BLS and ACLS certifications",
+      "NRP certification",
+      "Ability to adapt to new environments and work effectively in a fast-paced setting"
+    ],
+    "salaryOrBonusInfo": "$50.71/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_pm_travel_labor_and_delivery_rn___50_71_hr__contract_begins_7_13_2026__ardent_health_services_ut_health_tyler_hospital_tyler__tx"
+  },
+  {
+    "roleTitle": "Travel Registered Nurse (RN) - Cardiac Telemetry",
+    "roleType": "Floor Staff",
+    "location": "Tyler, TX",
+    "facilityType": "A premier hospital",
+    "description": "An exciting opportunity awaits a dedicated Travel Registered Nurse (RN) specializing in Cardiac Telemetry for PM shifts in Tyler, TX. This contract role offers a chance to provide essential patient care within a dynamic healthcare environment, starting in July 2026.\n\nAs a Cardiac Telemetry RN, you will be responsible for monitoring patients with cardiac conditions, administering medications, and collaborating with the healthcare team to ensure optimal patient outcomes. Your expertise will be crucial in providing high-quality, compassionate care.\n\nThis position offers a competitive hourly rate and the stability of a contract role with a clear start date. Join a team committed to excellence and make a significant impact on patient lives.",
+    "contractType": "Contract",
+    "salaryShort": "$43.54/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license",
+      "BLS and ACLS certifications",
+      "Minimum 2 years of experience in cardiac telemetry or critical care",
+      "Ability to work PM shifts",
+      "Travel nursing experience preferred"
+    ],
+    "salaryOrBonusInfo": "This contract position offers a competitive hourly rate of $43.54. The contract is scheduled to begin on July 13, 2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_travel_cardiac_tele_rn___43_54_hr__contract_begins_7_13_2026__ardent_health_services_ut_health_tyler_hospital_tyler__tx"
   }
 ]
