@@ -3,56 +3,18 @@
     "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity for a COTA seeking a stable and rewarding position where you can make a significant impact on patients' lives.As a COTA, you will play a crucial role in assisting patients to regain independence and improve their quality of life through therapeutic interventions. We are looking for a compassionate and skilled professional to contribute to our patient-centered care environment.This full-time position offers a competitive hourly rate of $28.00 - $37.00, based on experience. If you are passionate about rehabilitation and eager to join a supportive team, we encourage you to apply.",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to contribute to patient recovery and well-being in a supportive environment.As a COTA, you will work under the supervision of an Occupational Therapist, assisting patients in regaining independence in daily living activities. Your responsibilities will include implementing individualized treatment plans, monitoring patient progress, and providing therapeutic interventions to enhance functional abilities.We are seeking a compassionate and skilled professional eager to make a significant impact. Compensation for this full-time role is competitive and based on experience.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Current COTA licensure in Florida",
-      "Experience working in a skilled nursing or rehabilitation setting",
-      "Ability to provide comprehensive occupational therapy services under the supervision of an Occupational Therapist",
-      "Strong communication and interpersonal skills",
-      "Commitment to patient-centered care"
+      "Certified Occupational Therapy Assistant (COTA) certification",
+      "Current Florida state licensure as a COTA",
+      "Previous experience in a rehabilitation or skilled nursing facility setting",
+      "Strong communication and interpersonal skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00.",
+    "salaryOrBonusInfo": "Hourly rate for COTA: $28.00 - $37.00",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate Full-time Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity to contribute to a team focused on restoring function and improving the quality of life for patients.\n\nAs a PTA, you will work under the supervision of a licensed Physical Therapist, implementing individualized treatment plans to help patients achieve their rehabilitation goals. We offer a supportive environment where your skills will be valued, and you can make a significant impact on patient recovery. This full-time position offers a competitive hourly rate of $28.00 - $37.00, based on experience.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Associate's degree from an accredited PTA program",
-      "Experience in a skilled nursing or rehabilitation setting",
-      "Ability to work collaboratively within a multidisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
-    "roleTitle": "Chief Operating Officer",
-    "roleType": "Leadership",
-    "location": "Lakewood, NJ",
-    "facilityType": "Design Firm",
-    "description": "We are seeking a dynamic and experienced Chief Operating Officer (COO) to lead the operational excellence and strategic growth of a premier design firm. This pivotal role involves overseeing daily operations, optimizing processes, and ensuring the efficient execution of business strategies to drive overall success and profitability.\n\nThe ideal candidate will be a visionary leader with a proven track record in operational management and strategic planning. You will be instrumental in fostering a culture of innovation and efficiency, contributing significantly to the firm's continued expansion and market leadership.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience in a senior leadership or Chief Operating Officer role",
-      "Strong background in operational management and strategic planning",
-      "Demonstrated ability to drive business growth and efficiency",
-      "Exceptional leadership, communication, and interpersonal skills",
-      "Bachelor's degree in Business Administration, Management, or a related field"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "coo_susan_strauss_design_lakewood__nj"
   }
 ]
