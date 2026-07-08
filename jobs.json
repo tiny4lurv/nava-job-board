@@ -3,18 +3,36 @@
     "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team as a Full-time Certified Occupational Therapy Assistant (COTA) at a premier skilled nursing facility in Gainesville, FL. This is an excellent opportunity for a passionate COTA to make a significant impact on patients' lives, helping them regain independence and improve their quality of life through therapeutic interventions.\n\nAs a COTA, you will work under the supervision of an Occupational Therapist, assisting patients with various activities of daily living, therapeutic exercises, and adaptive equipment training. Your expertise will contribute to developing and implementing individualized treatment plans, fostering a supportive and healing environment for all residents.\n\nWe are seeking a committed professional ready to contribute to a collaborative healthcare setting. This full-time position offers a competitive hourly rate and the chance to be part of a team dedicated to exceptional patient care.",
+    "facilityType": "a premier health and rehabilitation center",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to contribute to patient recovery and well-being, working alongside experienced therapists to implement individualized treatment plans. We are seeking a passionate professional ready to make a significant impact in a supportive environment.In this full-time role, you will play a crucial part in helping patients regain independence and improve their quality of life. You will assist in providing comprehensive occupational therapy services, ensuring high-quality care and positive outcomes for our residents. We value teamwork and a commitment to excellence in patient care.This position offers competitive compensation and the chance to grow your career within a dynamic healthcare setting. If you are a skilled COTA looking for a rewarding full-time opportunity, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Certified Occupational Therapy Assistant (COTA) certification",
-      "Current state licensure as a COTA in Florida",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work full-time"
+      "Current Certified Occupational Therapy Assistant (COTA) licensure/certification.",
+      "Experience in a skilled nursing or rehabilitation facility preferred.",
+      "Ability to work full-time.",
+      "Strong communication and interpersonal skills."
     ],
-    "salaryOrBonusInfo": "Hourly rate of $28.00 - $37.00, compensation based on experience.",
+    "salaryOrBonusInfo": "Compensation for COTA/PTA is $28.00 - $37.00 per hour.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Rehabilitation Center",
+    "description": "Join a premier health and rehabilitation center in Gainesville, FL, as a Full-time Physical Therapist Assistant (PTA). This is an excellent opportunity to contribute to patient recovery and well-being in a supportive environment. You will play a vital role in implementing therapy plans and assisting patients on their journey to improved mobility and function. We are seeking a dedicated professional to join our team. This full-time position offers competitive hourly compensation, reflecting your valuable skills and commitment to patient care. If you are passionate about making a difference and meet the qualifications, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current Physical Therapist Assistant (PTA) license in Florida",
+      "Experience in a skilled nursing or rehabilitation setting",
+      "Strong communication and interpersonal skills",
+      "Ability to work effectively as part of a multidisciplinary team"
+    ],
+    "salaryOrBonusInfo": "Hourly rate for PTA is $28.00 - $37.00",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
   }
 ]
