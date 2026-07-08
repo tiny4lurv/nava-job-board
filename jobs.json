@@ -1,58 +1,21 @@
 [
   {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated Full-time Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity to contribute to patient recovery and enhance their quality of life through skilled therapeutic interventions.\n\nAs a PTA, you will work closely with licensed Physical Therapists to implement individualized treatment plans, monitor patient progress, and provide compassionate care. We offer a competitive hourly rate and a supportive environment where your expertise will be valued.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Valid Physical Therapist Assistant (PTA) license in Florida",
-      "Associate's degree from an accredited PTA program",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work collaboratively within a multidisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Hourly rate ranges from $28.00 to $37.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
-    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team as a Full-time Speech-Language Pathologist (SLP) in Gainesville, FL. We are seeking a passionate and skilled professional to provide comprehensive speech, language, and swallowing therapy services to our residents at a premier health and rehabilitation center.\n\nIn this vital role, you will assess, diagnose, and treat communication and swallowing disorders, developing individualized treatment plans to help patients achieve their highest potential. You will collaborate with a multidisciplinary team to ensure integrated and holistic care, contributing significantly to our patients' quality of life. This full-time position offers competitive hourly compensation.",
+    "description": "We are seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity for a COTA passionate about helping patients regain independence and improve their quality of life through therapeutic interventions.As a COTA, you will work under the supervision of an Occupational Therapist, assisting with the implementation of individualized treatment plans. You will play a crucial role in providing direct patient care, documenting progress, and collaborating with a multidisciplinary team to achieve optimal patient outcomes. This full-time position offers a chance to make a significant impact within a supportive environment.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $52.00/hr",
+    "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current state licensure as a Speech-Language Pathologist in Florida",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
-      "Experience working in a skilled nursing or rehabilitation setting",
-      "Strong communication and interpersonal skills"
+      "Current Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Previous experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work full-time",
+      "Strong communication and interpersonal skills",
+      "Commitment to patient-centered care"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $40.00 - $52.00 per hour, based on experience.",
+    "salaryOrBonusInfo": "Hourly rate for COTA is $28.00 - $37.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_slp_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
-    "roleTitle": "Family Medicine Physician (MD)",
-    "roleType": "Floor Staff",
-    "location": "New York City, NY",
-    "facilityType": "A multi-location medical group",
-    "description": "We are seeking a dedicated Family Medicine Physician (MD) to join a premier medical group with locations across Harlem, The Bronx, Brooklyn, Queens, and Long Island. This is an exceptional opportunity for a physician who thrives in a dynamic environment and is motivated by a compensation structure heavily weighted towards bonuses.\n\nIn this role, you will focus on patients with workers' compensation or NF/Lien cases, as our practice does not work with major medical insurances, Medicare, or Medicaid. The position requires availability to work weekends to best serve our patient population. If you are WCB certified and possess relevant experience, we encourage you to apply.\n\nJoin a team committed to providing specialized care in a supportive setting. This role offers a unique chance to make a significant impact while benefiting from a robust bonus structure.",
-    "contractType": "Full-time",
-    "salaryShort": "$180,000 per year",
-    "requirements": [
-      "Medical Doctor (MD) degree and valid New York state medical license",
-      "WCB (Workers' Compensation Board) certification",
-      "Demonstrated experience with workers' compensation or NF/Lien cases",
-      "Ability to work weekends as required",
-      "Comfortable working with patients outside of major medical insurance, Medicare, or Medicaid systems"
-    ],
-    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with a base salary of approximately $180,000 per year.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+    "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
   }
 ]
