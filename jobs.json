@@ -3,36 +3,56 @@
     "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "a premier health and rehabilitation center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to contribute to patient recovery and well-being, working alongside experienced therapists to implement individualized treatment plans. We are seeking a passionate professional ready to make a significant impact in a supportive environment.In this full-time role, you will play a crucial part in helping patients regain independence and improve their quality of life. You will assist in providing comprehensive occupational therapy services, ensuring high-quality care and positive outcomes for our residents. We value teamwork and a commitment to excellence in patient care.This position offers competitive compensation and the chance to grow your career within a dynamic healthcare setting. If you are a skilled COTA looking for a rewarding full-time opportunity, we encourage you to apply.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This full-time role offers a fantastic opportunity to contribute to patient recovery and enhance their quality of life within a supportive environment. You will work closely with occupational therapists to implement individualized treatment plans, helping patients regain independence and achieve their rehabilitation goals.\n\nAs a COTA, you will assist patients with therapeutic exercises, activities of daily living, and the use of adaptive equipment. This full-time position comes with a competitive hourly rate, providing a stable and rewarding career path for a motivated professional.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Current Certified Occupational Therapy Assistant (COTA) licensure/certification.",
-      "Experience in a skilled nursing or rehabilitation facility preferred.",
-      "Ability to work full-time.",
-      "Strong communication and interpersonal skills."
+      "Associate's degree from an accredited COTA program",
+      "Current and valid Florida COTA licensure/certification",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work effectively as part of a multidisciplinary therapy team"
     ],
-    "salaryOrBonusInfo": "Compensation for COTA/PTA is $28.00 - $37.00 per hour.",
+    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00. Hourly rate for PT/OT/ST is $40.00 - $50.00.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
   },
   {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Rehabilitation Center",
-    "description": "Join a premier health and rehabilitation center in Gainesville, FL, as a Full-time Physical Therapist Assistant (PTA). This is an excellent opportunity to contribute to patient recovery and well-being in a supportive environment. You will play a vital role in implementing therapy plans and assisting patients on their journey to improved mobility and function. We are seeking a dedicated professional to join our team. This full-time position offers competitive hourly compensation, reflecting your valuable skills and commitment to patient care. If you are passionate about making a difference and meet the qualifications, we encourage you to apply.",
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join a premier home health agency in Casper, WY. This full-time position offers a unique opportunity to provide high-quality, patient-centered care in a home setting, making a direct impact on the lives of individuals within the community.\n\nAs a Home Health RN, you will be responsible for delivering skilled nursing services, managing patient care plans, and educating patients and their families. We offer a competitive hourly rate and a supportive environment where your clinical expertise will be valued.",
     "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
+    "salaryShort": "$36.00 - $45.00/hr",
     "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Experience in a skilled nursing or rehabilitation setting",
-      "Strong communication and interpersonal skills",
-      "Ability to work effectively as part of a multidisciplinary team"
+      "Active Registered Nurse (RN) license in Wyoming",
+      "Current Basic Life Support (BLS) certification",
+      "Minimum of one year of clinical nursing experience",
+      "Strong assessment, critical thinking, and communication skills",
+      "Ability to work independently and manage a caseload effectively"
     ],
-    "salaryOrBonusInfo": "Hourly rate for PTA is $28.00 - $37.00",
+    "salaryOrBonusInfo": "Hourly rate of $36.00 - $45.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Queens, NY",
+    "facilityType": "Rehabilitation Centers",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic network of health and rehabilitation centers in Queens, NY. This role offers a highly competitive compensation package starting over $300,000 annually, with a strong emphasis on performance-based bonuses. You will have the opportunity to make a significant impact by providing specialized care across multiple facilities, typically working 1-2 days per week at each location.\nThe ideal candidate will possess a robust background in workers' compensation or no-fault (NF)/lien cases, as our practice focuses exclusively on these areas, not major medical insurance, Medicare, or Medicaid. This position requires flexibility, including the ability to work weekends, to ensure comprehensive patient care. If you are a board-certified PM&R Physician with a passion for rehabilitation and a proven track record in workers' compensation, we encourage you to apply.\nJoin a team committed to excellence and patient recovery, where your expertise in physical medicine and rehabilitation will be highly valued. This is an urgent opening for a physician ready to thrive in a bonus-heavy compensation structure.",
+    "contractType": "Full-time",
+    "salaryShort": "Over $300,000 per year",
+    "requirements": [
+      "Doctor of Medicine (MD) degree and valid New York state medical license",
+      "Board Certification in Physical Medicine & Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certification",
+      "Minimum of 2 years of experience with Workers' Compensation (WC) or No-Fault (NF)/Lien cases",
+      "Ability to work weekends as needed"
+    ],
+    "salaryOrBonusInfo": "Compensation starts over $300,000 annually, with a very heavy emphasis on bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
   }
 ]
