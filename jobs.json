@@ -1,38 +1,19 @@
 [
   {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to contribute to patient recovery and well-being in a supportive environment. We are seeking a passionate professional ready to make a significant impact on the lives of our residents.\n\nAs a COTA, you will work under the supervision of an Occupational Therapist, assisting patients in regaining independence in daily living activities. Your role will involve implementing individualized treatment plans, monitoring patient progress, and collaborating with a multidisciplinary team to ensure comprehensive care.\n\nThis full-time position offers a competitive hourly rate of $28.00 - $37.00, based on experience. We are looking for a committed individual to join our team and help us continue providing exceptional rehabilitative services.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Current Certified Occupational Therapy Assistant (COTA) certification",
-      "Active state licensure in Florida",
-      "Previous experience in a skilled nursing facility or rehabilitation center preferred",
-      "Ability to work full-time",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00. Hourly rate for PT/OT/ST is $40.00 - $50.00.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_cota_plaza_health_and_rehab_center_gainesville__fl"
-  },
-  {
     "roleTitle": "Physical Therapist Assistant (PTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Join a premier health and rehabilitation center in Gainesville, FL, as a Full-time Physical Therapist Assistant (PTA). This is an excellent opportunity to contribute to a dedicated team focused on patient recovery and well-being. We are seeking a passionate and skilled professional to provide high-quality therapy services.\nIn this vital role, you will work closely with patients to implement individualized treatment plans, helping them regain mobility and improve their quality of life. We offer competitive compensation for your expertise and commitment to patient care.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated Full-time Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Gainesville, FL. This is an excellent opportunity to contribute to patient recovery and enhance their quality of life through skilled therapeutic interventions.\n\nAs a PTA, you will work closely with licensed Physical Therapists to implement individualized treatment plans, monitor patient progress, and provide compassionate care. We offer a competitive hourly rate and a supportive environment where your expertise will be valued.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in the state of Florida.",
-      "Experience working in a skilled nursing or rehabilitation facility.",
-      "Strong clinical skills and a patient-centered approach.",
-      "Ability to collaborate effectively with a multidisciplinary therapy team."
+      "Valid Physical Therapist Assistant (PTA) license in Florida",
+      "Associate's degree from an accredited PTA program",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work collaboratively within a multidisciplinary team"
     ],
-    "salaryOrBonusInfo": "$28.00 - $37.00 per hour",
+    "salaryOrBonusInfo": "Hourly rate ranges from $28.00 to $37.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pta_plaza_health_and_rehab_center_gainesville__fl"
   },
@@ -41,242 +22,37 @@
     "roleType": "Therapy/Rehabilitation",
     "location": "Gainesville, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Gainesville, FL, as a Full-time Speech-Language Pathologist (SLP). This is an excellent opportunity to make a significant impact on patients' lives by providing essential therapy services.\n\nAs an SLP, you will be responsible for assessing, diagnosing, and treating communication and swallowing disorders. You will develop individualized treatment plans, collaborate with a multidisciplinary team, and help patients achieve their highest level of function and independence.\n\nWe are seeking a compassionate and skilled professional eager to contribute to a supportive environment. This full-time position offers a competitive hourly rate and the chance to work with a diverse patient population.",
+    "description": "Join a dedicated team as a Full-time Speech-Language Pathologist (SLP) in Gainesville, FL. We are seeking a passionate and skilled professional to provide comprehensive speech, language, and swallowing therapy services to our residents at a premier health and rehabilitation center.\n\nIn this vital role, you will assess, diagnose, and treat communication and swallowing disorders, developing individualized treatment plans to help patients achieve their highest potential. You will collaborate with a multidisciplinary team to ensure integrated and holistic care, contributing significantly to our patients' quality of life. This full-time position offers competitive hourly compensation.",
     "contractType": "Full-time",
     "salaryShort": "$40.00 - $52.00/hr",
     "requirements": [
       "Master's degree in Speech-Language Pathology",
-      "Current Florida state licensure as a Speech-Language Pathologist",
+      "Current state licensure as a Speech-Language Pathologist in Florida",
       "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
-      "Experience working in a skilled nursing or rehabilitation setting"
+      "Experience working in a skilled nursing or rehabilitation setting",
+      "Strong communication and interpersonal skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40.00 - $52.00, based on experience.",
+    "salaryOrBonusInfo": "Compensation ranges from $40.00 - $52.00 per hour, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_slp_plaza_health_and_rehab_center_gainesville__fl"
   },
   {
-    "roleTitle": "Registered Nurse (RN)",
+    "roleTitle": "Family Medicine Physician (MD)",
     "roleType": "Floor Staff",
-    "location": "Billings, MT",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking dedicated and compassionate Registered Nurses (RNs) to join a premier home health agency in Billings, MT. This is an excellent opportunity for RNs looking to provide high-quality, patient-centered care in a home setting, offering both full-time and part-time options to fit your lifestyle.\n\nIn this vital role, you will deliver comprehensive nursing services, focusing on patient assessment, education, and care coordination to support recovery and well-being within the comfort of their homes. We offer a competitive salary range and the chance to make a significant impact on the lives of individuals in the community.",
-    "contractType": "Full-time, Part-time",
-    "salaryShort": "$115,000 - $125,000 per year",
-    "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license",
-      "Current Basic Life Support (BLS) certification",
-      "Minimum of 1-2 years of experience in home health or acute care setting",
-      "Strong clinical assessment and critical thinking skills",
-      "Valid driver's license and reliable transportation"
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $125,000 annually, based on experience and contract type (full-time or part-time).",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "roleType": "Floor Staff",
-    "location": "Casper, WY",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join a dynamic home health team in Casper, WY. This full-time opportunity offers a competitive hourly rate and the chance to provide personalized care in a patient-centered environment. If you are passionate about making a direct impact on patients' lives and thrive in an autonomous setting, this role is for you.\n\nAs a Home Health RN, you will be responsible for delivering high-quality nursing care to patients in their homes, assessing their needs, developing care plans, and educating patients and their families. This position requires strong clinical skills, excellent communication, and the ability to manage a diverse caseload while promoting patient independence and well-being.",
-    "contractType": "Full-time",
-    "salaryShort": "$36.00 - $45.00/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in the state of Wyoming",
-      "Minimum of 1-2 years of nursing experience, preferably in home health, acute care, or a related setting",
-      "Strong clinical assessment, critical thinking, and problem-solving skills",
-      "Ability to work independently and manage a patient caseload effectively",
-      "Valid driver's license and reliable transportation"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $36.00 - $45.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
-  },
-  {
-    "roleTitle": "Internal Medicine Physician (MD)",
-    "roleType": "Floor Staff",
-    "location": "NYC, NY",
-    "facilityType": "Specialized Medical Group",
-    "description": "We are seeking a dedicated Internal Medicine Physician (MD) to join a specialized medical group in New York City, NY. This role offers a competitive compensation package, with an estimated annual salary of $180,000, heavily weighted towards performance-based bonuses. This is an excellent opportunity for a physician looking to focus on specific areas of medical practice without the complexities of major medical, Medicare, or Medicaid insurance systems.The ideal candidate will possess strong clinical skills and a commitment to patient care. This position requires availability to work weekends, providing essential services to our patient base across multiple locations including Harlem/Bronx, Brooklyn, Queens, and Long Island. Join a team that values specialized expertise and offers a unique practice environment.",
+    "location": "New York City, NY",
+    "facilityType": "A multi-location medical group",
+    "description": "We are seeking a dedicated Family Medicine Physician (MD) to join a premier medical group with locations across Harlem, The Bronx, Brooklyn, Queens, and Long Island. This is an exceptional opportunity for a physician who thrives in a dynamic environment and is motivated by a compensation structure heavily weighted towards bonuses.\n\nIn this role, you will focus on patients with workers' compensation or NF/Lien cases, as our practice does not work with major medical insurances, Medicare, or Medicaid. The position requires availability to work weekends to best serve our patient population. If you are WCB certified and possess relevant experience, we encourage you to apply.\n\nJoin a team committed to providing specialized care in a supportive setting. This role offers a unique chance to make a significant impact while benefiting from a robust bonus structure.",
     "contractType": "Full-time",
     "salaryShort": "$180,000 per year",
     "requirements": [
-      "Medical Doctor (MD) degree",
-      "Current and unrestricted medical license in New York",
+      "Medical Doctor (MD) degree and valid New York state medical license",
       "WCB (Workers' Compensation Board) certification",
-      "Proven experience with workers' compensation or No-Fault (NF)/Lien cases",
-      "Ability to work weekends as required"
+      "Demonstrated experience with workers' compensation or NF/Lien cases",
+      "Ability to work weekends as required",
+      "Comfortable working with patients outside of major medical insurance, Medicare, or Medicaid systems"
     ],
-    "salaryOrBonusInfo": "Estimated annual compensation of $180,000, with a significant portion structured as performance-based bonuses.",
+    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with a base salary of approximately $180,000 per year.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
-  },
-  {
-    "roleTitle": "PM&R Physician",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Queens, NY",
-    "facilityType": "Multiple Rehabilitation Facilities",
-    "description": "We are seeking a highly skilled and experienced PM&R Physician to join our network of premier health and rehabilitation centers in Queens, NY. This unique opportunity offers a dynamic work environment where you will rotate between a few facilities, dedicating 1-2 days a week to each, providing comprehensive care to patients. We are looking for a physician who thrives in a fast-paced setting and is committed to delivering exceptional patient outcomes.\n\nThis role comes with a highly attractive compensation package, starting at $300,000+ annually, with a strong emphasis on performance-based bonuses. Candidates must have significant experience with Workers' Compensation, No-Fault (NF), or Lien cases, as we do not work with major medical insurances, Medicare, or Medicaid. The ability to work weekends is a key requirement for this position. If you are a dedicated PM&R Physician looking for a rewarding role with substantial earning potential and a focus on specialized cases, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$300K+ per year",
-    "requirements": [
-      "Board Certified or Board Eligible in Physical Medicine & Rehabilitation (PM&R)",
-      "Must be Workers' Compensation Board (WCB) certified in New York",
-      "Minimum of 2 years of experience with Workers' Compensation, No-Fault (NF), or Lien cases",
-      "Ability to work weekends and rotate between multiple facilities in Queens, NY",
-      "Comfortable working exclusively with Workers' Compensation, No-Fault, and Lien cases, without major medical insurance, Medicare, or Medicaid"
-    ],
-    "salaryOrBonusInfo": "Very heavy on bonuses, less on salary. Compensation starts at $300,000+ annually.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
-  },
-  {
-    "roleTitle": "Orthopedic (Hand) Surgeon",
-    "roleType": "Other",
-    "location": "NYC, NY",
-    "facilityType": "a leading healthcare facility",
-    "description": "We are seeking a highly skilled and experienced Orthopedic (Hand) Surgeon to join a leading healthcare facility in NYC, NY. This is an exceptional opportunity for a surgeon specializing in hand surgery to contribute to a dynamic medical team.\n\nThis role offers a competitive compensation package, with a strong emphasis on performance-based bonuses rather than base salary. Candidates will find a rewarding environment focused on patient care and professional growth.\n\nIf you are a dedicated Orthopedic (Hand) Surgeon looking for a challenging and impactful role in a vibrant urban setting, we encourage you to apply.",
-    "contractType": "Full-time",
-    "salaryShort": "$400,000 - $500,000 per year",
-    "requirements": [
-      "Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification in Orthopedic Surgery",
-      "Minimum of 5 years of experience as an Orthopedic (Hand) Surgeon",
-      "Experience with Workers' Compensation and No-Fault cases"
-    ],
-    "salaryOrBonusInfo": "Compensation ranges from $400,000 to $500,000 per year, with a very heavy emphasis on performance-based bonuses.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny"
-  },
-  {
-    "roleTitle": "Certified Dietary Manager",
-    "roleType": "Leadership",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Certified Dietary Manager to lead the dietary services at a premier skilled nursing facility in beautiful St. Petersburg, FL. This facility, with 55-59 beds and a current census of 43, offers a vibrant environment situated on a main street with abundant shopping nearby and a charming neighborhood behind the building. Enjoy the perk of being just 15 minutes from the beach, with two inviting courtyards on-site.\n\nIn this full-time role, you will oversee all aspects of our dietary department, ensuring the provision of high-quality, nutritious meals that meet the individual needs and preferences of our residents. You will manage daily operations, lead a dedicated team, and maintain compliance with all health and safety regulations, contributing significantly to the well-being and satisfaction of our residents.",
-    "contractType": "Full-time",
-    "salaryShort": "$60,000 - $70,000 per year",
-    "requirements": [
-      "Certified Dietary Manager (CDM) certification required.",
-      "Proven experience in dietary management, preferably within a skilled nursing or long-term care setting.",
-      "Strong understanding of nutritional needs for geriatric residents and therapeutic diets.",
-      "Knowledge of state and federal dietary regulations.",
-      "Excellent leadership, communication, and organizational skills."
-    ],
-    "salaryOrBonusInfo": "Annual salary ranging from $60,000 to $70,000.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "certified_diatery_manager__8hrs__60k__70k__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Physical Therapist (PT) to join a premier skilled nursing facility in St. Petersburg, FL. This PRN role offers a highly competitive hourly rate of $55-$60/hr, providing an excellent opportunity for a professional looking for flexible work with immediate impact.This facility is a vibrant 55-59 bed center with a current census of 43, known for its commitment to patient care and rehabilitation. Located on a main street with abundant shopping nearby and a pleasant neighborhood behind the building, it offers a convenient and appealing environment. Plus, you'll be just 15 minutes from the beautiful beaches, perfect for enjoying the Florida lifestyle. The facility also boasts two courtyards, providing a serene setting for both patients and staff.If you are a compassionate and skilled Physical Therapist ready to make an immediate impact in a supportive setting, we encourage you to apply. This is an urgent opening, and we are looking to fill this position quickly.",
-    "contractType": "PRN",
-    "salaryShort": "$55-$60/hr",
-    "requirements": [
-      "Current Physical Therapist (PT) license in Florida",
-      "Experience working in a skilled nursing or rehabilitation setting",
-      "Ability to provide comprehensive physical therapy services",
-      "Strong communication and interpersonal skills",
-      "Commitment to patient-centered care"
-    ],
-    "salaryOrBonusInfo": "$55-$60/hr",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt__urgent___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier skilled nursing facility in beautiful St. Petersburg, FL, as a Full-time Physical Therapist Assistant (PTA). This facility, with 55-59 beds and a current census of 43, offers a vibrant and supportive environment for both patients and staff. Located on a main street with convenient shopping nearby and a nice neighborhood behind the building, it provides an excellent setting for your professional growth.\n\nEnjoy the Florida lifestyle with the beach just 15 minutes away, perfect for unwinding after work. The facility also boasts two courtyards, providing pleasant outdoor spaces. We are seeking a dedicated PTA to contribute to our patient-centered care, helping individuals regain their independence and improve their quality of life.",
-    "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
-    "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Associate's degree from an accredited PTA program",
-      "Minimum of 1-2 years of experience as a PTA, preferably in a skilled nursing or rehabilitation setting",
-      "Strong communication and interpersonal skills",
-      "Ability to work effectively as part of a multidisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Occupational Therapist (OT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing and Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate PRN Occupational Therapist (OT) to join a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL. This is an excellent opportunity for an OT looking for flexible PRN hours to make a significant impact on patient recovery and well-being.\nThe facility is a well-regarded 55-59 bed center, currently serving a census of 43 residents. It boasts a prime location on a main street with convenient access to shopping and is nestled in a nice neighborhood, just 15 minutes from the beach. The center also features two inviting courtyards, providing a pleasant environment for both residents and staff.\nAs a PRN Occupational Therapist, you will be responsible for providing high-quality, individualized therapy services to residents, helping them regain independence and improve their quality of life. This role offers the chance to work within a supportive team dedicated to exceptional patient care.",
-    "contractType": "PRN",
-    "salaryShort": "$55.00 - $60.00/hr",
-    "requirements": [
-      "Valid Occupational Therapist (OT) license in the state of Florida",
-      "Prior experience in a skilled nursing or rehabilitation facility setting",
-      "Ability to assess, plan, and implement effective occupational therapy interventions",
-      "Strong commitment to patient-centered care and rehabilitation goals"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "St. Petersburg, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier skilled nursing and rehabilitation center in beautiful St. Petersburg, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This is an excellent opportunity to provide essential therapy services to residents, contributing to their recovery and improved quality of life in a supportive environment.Our facility is situated in a vibrant area, offering convenient access to shopping and a pleasant neighborhood setting. Enjoy the benefit of being just 15 minutes from the beach, providing a fantastic work-life balance in a desirable Florida location. We are committed to fostering a positive and engaging atmosphere for both our residents and staff.We offer a competitive hourly rate for this full-time position, with compensation ranging from $38.00 to $48.00 per hour, based on your experience and qualifications.",
-    "contractType": "Full-time",
-    "salaryShort": "$38.00 - $48.00/hr",
-    "requirements": [
-      "Current and valid Certified Occupational Therapy Assistant (COTA) license in the state of Florida.",
-      "Associate's degree from an accredited Occupational Therapy Assistant program.",
-      "Prior experience in a skilled nursing facility or rehabilitation setting is preferred.",
-      "Ability to effectively implement individualized treatment plans.",
-      "Excellent communication and interpersonal skills."
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, compensation based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
-  },
-  {
-    "roleTitle": "Chief Operating Officer (COO)",
-    "roleType": "Leadership",
-    "location": "Lakewood, NJ",
-    "facilityType": "A leading healthcare organization",
-    "description": "We are seeking a highly experienced and strategic Chief Operating Officer (COO) to join a premier healthcare organization. This pivotal leadership role is responsible for overseeing all operational aspects, ensuring efficiency, quality, and strategic alignment across the organization.\n\nThe ideal candidate will drive operational excellence, implement best practices, and foster a culture of continuous improvement. You will play a critical role in achieving organizational goals, enhancing patient care, and optimizing resource utilization.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Bachelor's degree in Business Administration, Healthcare Management, or a related field; Master's degree preferred.",
-      "Minimum of 7-10 years of progressive leadership experience in operations, preferably within a healthcare setting.",
-      "Demonstrated expertise in strategic planning, financial management, and regulatory compliance.",
-      "Proven ability to lead and develop high-performing teams.",
-      "Exceptional communication, interpersonal, and problem-solving skills."
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "coo_susan_strauss_design_lakewood__nj"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN) - ICU",
-    "roleType": "Floor Staff",
-    "location": "Tyler, TX",
-    "facilityType": "Hospital",
-    "description": "Join a premier healthcare facility in Tyler, TX, as a dedicated Registered Nurse in our Intensive Care Unit. This travel contract position offers an exciting opportunity to provide critical care during evening/night shifts, with the contract beginning on July 13, 2026. We are seeking highly skilled and compassionate RNs ready to make an immediate impact in a dynamic environment.\n\nIn this vital role, you will be responsible for assessing, planning, implementing, and evaluating patient care in the ICU. You will work collaboratively with a multidisciplinary team to ensure the highest standards of patient safety and quality outcomes. This is an excellent chance to expand your experience in a supportive setting while enjoying the benefits of a travel assignment.",
-    "contractType": "Contract",
-    "salaryShort": "$42.91/hr",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Texas or a compact state",
-      "Current BLS and ACLS certifications",
-      "Minimum of 1-2 years of recent experience in an Intensive Care Unit (ICU) setting",
-      "Ability to commit to a travel contract and PM shifts"
-    ],
-    "salaryOrBonusInfo": "$42.91/hr",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "pm_travel_icu_rn___42_91_hr__contract_begins_7_13_2026__ardent_health_services_ut_health_tyler_hospital_tyler__tx"
+    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
   }
 ]
