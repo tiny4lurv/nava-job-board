@@ -1,20 +1,20 @@
 [
   {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
     "location": "Billings, MT",
-    "facilityType": "Home Health Agency",
-    "description": "Join a premier home health agency dedicated to providing exceptional care to patients in the comfort of their own homes. We are seeking a skilled and compassionate Physical Therapist to deliver high-quality rehabilitation services, helping patients regain independence and improve their quality of life. This role offers the flexibility of both full-time and part-time schedules, allowing you to balance your professional and personal commitments.As a Physical Therapist, you will be responsible for assessing patient needs, developing individualized treatment plans, and implementing therapeutic interventions. You will work autonomously while being supported by a collaborative team, ensuring comprehensive care for every patient. This is an excellent opportunity to make a significant impact on the lives of individuals in the Billings community.We offer a competitive annual salary ranging from $115,000 to $125,000, reflecting your expertise and dedication. If you are passionate about home health and eager to contribute to a patient-centered environment, we encourage you to apply.",
+    "facilityType": "A leading home health agency",
+    "description": "Join a premier home health agency dedicated to providing exceptional care to patients in the comfort of their own homes. This is an outstanding opportunity for a dedicated Registered Nurse to make a significant impact on patient well-being, offering both full-time and part-time flexibility to suit your lifestyle. You will be an integral part of a compassionate team, delivering personalized care and fostering independence for individuals within the Billings community.We are seeking an RN who thrives in an autonomous environment, possesses strong clinical judgment, and is passionate about patient advocacy. This role offers a highly competitive salary, reflecting the value we place on your expertise and commitment. If you are looking for a rewarding career path with excellent compensation and the flexibility to balance your professional and personal life, we encourage you to apply.This position provides the chance to work with a supportive team while enjoying the independence of managing your own patient caseload. Leverage your skills to provide comprehensive nursing care, education, and support, ensuring the highest quality of life for those you serve.",
     "contractType": "Full-time, Part-time",
     "salaryShort": "$115,000 - $125,000 per year",
     "requirements": [
-      "Current Physical Therapist (PT) license in Montana",
-      "Minimum of 1-2 years of experience as a Physical Therapist, preferably in a home health setting",
-      "Current CPR certification",
-      "Valid driver's license and reliable transportation",
-      "Excellent clinical assessment and documentation skills"
+      "Current Registered Nurse (RN) license in Montana",
+      "Minimum of 1-2 years of clinical experience, preferably in home health or acute care",
+      "Strong assessment, communication, and organizational skills",
+      "Ability to travel independently to patient homes",
+      "Basic Life Support (BLS) certification"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $115,000 to $125,000 based on experience and contract type (full-time or part-time).",
+    "salaryOrBonusInfo": "Competitive annual salary ranging from $115,000 to $125,000, based on experience and contract type.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
   },
@@ -23,54 +23,54 @@
     "roleType": "Floor Staff",
     "location": "Casper, WY",
     "facilityType": "Home Health Agency",
-    "description": "Join a dedicated team as a Full-time Registered Nurse (RN) in the Casper, WY area. This is an excellent opportunity for a compassionate and skilled RN to provide high-quality care within a home health setting, offering a competitive hourly rate of $36-$45. We are seeking a professional who is eager to make a direct impact on patients' lives by delivering personalized care in the comfort of their homes.In this vital role, you will manage a diverse caseload, conducting comprehensive assessments, developing individualized care plans, and administering treatments. Your ability to travel to various patient residences throughout the Casper region will be essential, ensuring continuity of care and fostering strong patient relationships. This position offers the chance to work autonomously while being supported by a collaborative healthcare network.",
+    "description": "Join a dedicated team as a Full-time Registered Nurse (RN) in Casper, WY. This is an excellent opportunity to provide compassionate and skilled nursing care within a home health setting, making a direct impact on patients' lives in their own homes. You will be responsible for assessing patient needs, developing and implementing care plans, administering medications, and educating patients and their families on health management.\n\nWe are seeking a highly motivated and experienced RN who is passionate about delivering high-quality, patient-centered care. This full-time position offers a competitive hourly rate and the chance to work autonomously while being part of a supportive healthcare network. If you are looking for a rewarding role where your expertise is valued, we encourage you to apply.",
     "contractType": "Full-time",
-    "salaryShort": "$36-$45/hr",
+    "salaryShort": "$36.00 - $45.00/hr",
     "requirements": [
       "Active Registered Nurse (RN) license in Wyoming",
-      "Minimum of 1-2 years of experience as an RN, preferably in home health or a related field",
-      "Current BLS certification",
-      "Strong clinical assessment and critical thinking skills",
-      "Valid driver's license and reliable transportation for travel to patient homes"
+      "Minimum of 1-2 years of nursing experience, preferably in home health or acute care",
+      "Current Basic Life Support (BLS) certification",
+      "Valid driver's license and reliable transportation"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $36-$45, based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $36.00 - $45.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
   },
   {
     "roleTitle": "Internal Medicine Physician (MD)",
     "roleType": "Floor Staff",
-    "location": "New York City, NY",
-    "facilityType": "Outpatient Medical Practice",
-    "description": "We are seeking a dedicated Internal Medicine Physician (MD) to join a premier outpatient medical practice across multiple locations in New York City. This role offers a unique compensation structure, heavily weighted towards performance-based bonuses, providing an excellent opportunity for high-earning potential.\n\nIn this position, you will focus on a specialized patient population, primarily handling Workers' Compensation and No-Fault/Lien cases. We do not work with major medical insurances or Medicare/Medicaid. The ideal candidate will be comfortable working weekends to meet patient needs and contribute to our dynamic team.",
+    "location": "NYC, NY",
+    "facilityType": "Specialized Medical Clinic",
+    "description": "Join a specialized medical clinic in New York City, NY, dedicated to providing expert care for patients involved in workers' compensation and no-fault/lien cases. We are seeking a dedicated Internal Medicine Physician to become a vital part of our team, focusing on comprehensive patient evaluations and treatment plans within this unique medical framework. This role offers a unique opportunity to make a significant impact in a practice that prioritizes specialized care.This position is ideal for a physician who thrives in a dynamic environment and is comfortable with a compensation structure that heavily emphasizes performance-based bonuses, complementing a competitive base salary. We are looking for a professional who is prepared to work weekends to meet patient needs and contribute to our commitment to accessible, high-quality care. If you possess a strong background in workers' compensation and no-fault cases and are looking for a rewarding role with substantial earning potential, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$180,000 per year",
     "requirements": [
-      "Doctor of Medicine (MD) degree and valid New York State medical license",
-      "Workers' Compensation Board (WCB) certification is required",
-      "Proven experience with Workers' Compensation or No-Fault/Lien cases",
-      "Ability to work weekends as needed"
+      "Doctor of Medicine (MD) degree",
+      "Current and unrestricted New York State medical license",
+      "Workers' Compensation Board (WCB) certification",
+      "Proven experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends"
     ],
-    "salaryOrBonusInfo": "This role offers a highly competitive compensation package, with a significant emphasis on performance-based bonuses complementing the base salary of approximately $180,000 per year.",
+    "salaryOrBonusInfo": "Compensation around $180,000 per year, with significant bonus potential as the structure is very heavy on bonuses and less on base salary.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
   },
   {
-    "roleTitle": "Family Medicine Physician (MD)",
+    "roleTitle": "Family Medicine MD",
     "roleType": "Floor Staff",
     "location": "NYC, NY",
-    "facilityType": "Specialized Medical Practice",
-    "description": "We are seeking a dedicated Family Medicine Physician (MD) to join a specialized medical practice in New York City. This role offers a unique opportunity to focus on workers' compensation and No-Fault/Lien cases, serving patients across various boroughs including Harlem, The Bronx, Brooklyn, Queens, and Long Island. If you are passionate about providing focused care in a dynamic environment, this could be an excellent fit.\n\nThis position is ideal for a physician who thrives in a bonus-heavy compensation structure, with significant earning potential beyond a competitive base salary. The practice operates without major medical insurances, Medicare, or Medicaid, allowing for a streamlined focus on specific case types. Weekend availability is a key requirement for this role.\n\nJoin a team committed to specialized patient care and benefit from a compensation model designed to reward your expertise and dedication. We encourage all qualified and interested candidates to apply.",
+    "facilityType": "A network of healthcare clinics",
+    "description": "Join a premier medical group in New York City, NY, seeking a dedicated Family Medicine MD to serve patients across its various locations. This role offers a unique opportunity to focus on workers' compensation and no-fault/lien cases, providing essential care without the complexities of major medical insurance, Medicare, or Medicaid. We are looking for a physician who thrives in a dynamic environment and is committed to patient well-being.\n\nThis position is ideal for a physician seeking a compensation structure heavily focused on performance bonuses, with an attractive annual earning potential around $180,000. We value flexibility and require availability for weekend shifts to ensure comprehensive patient access. If you are passionate about specialized medical practice and ready to make a significant impact, we encourage you to apply.\n\nBecome a vital part of a team that prioritizes specialized care and offers a rewarding professional experience in a bustling urban setting.",
     "contractType": "Full-time",
     "salaryShort": "$180,000 per year",
     "requirements": [
-      "Medical Doctor (MD) degree and valid New York State medical license",
-      "Current Workers' Compensation Board (WCB) certification",
-      "Demonstrated experience with workers' compensation or No-Fault/Lien cases",
+      "Doctor of Medicine (MD) degree and valid New York State medical license",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Proven experience with workers' compensation or no-fault/lien cases",
       "Ability to work weekends as required",
-      "Understanding of practices that do not work with major medical insurances, Medicare, or Medicaid"
+      "Familiarity with a practice model that does not involve major medical insurance, Medicare, or Medicaid"
     ],
-    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with a competitive base salary, totaling approximately $180,000 annually.",
+    "salaryOrBonusInfo": "Annual compensation around $180,000, heavily weighted towards bonuses rather than base salary.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
   },
@@ -79,17 +79,17 @@
     "roleType": "Therapy/Rehabilitation",
     "location": "Queens, NY",
     "facilityType": "Rehabilitation Centers",
-    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team across multiple rehabilitation centers in Queens, NY. This unique opportunity offers a highly competitive compensation package starting at $300,000+ per year, with a strong emphasis on performance-based bonuses. You will play a crucial role in providing specialized care to patients with workers' compensation, no-fault, and lien cases.\n\nThis role involves rotating between a few facilities, typically spending 1-2 days a week at each location, offering a dynamic work environment. The ideal candidate will thrive in a setting focused on specific patient populations, as we do not work with major medical insurances, Medicare, or Medicaid. The ability to work weekends is a key requirement for this position.\n\nIf you are a board-certified PM&R Physician with a passion for rehabilitation and a proven track record in workers' compensation cases, we encourage you to apply. This is an urgent opening for a professional ready to make a significant impact.",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team across multiple rehabilitation centers in Queens, NY. This role offers a unique opportunity to work with a diverse patient population, focusing exclusively on workers' compensation, no-fault, and lien cases. We are looking for a physician who thrives in a dynamic environment and is committed to providing exceptional care.This position is ideal for a physician looking for a compensation structure heavily weighted towards bonuses, with a potential to earn $300,000+ annually. You will play a crucial role in patient recovery, managing cases that do not involve major medical insurance, Medicare, or Medicaid. The ability to work weekends is a key aspect of this role, ensuring continuous patient care.If you are a WCB-certified physician with a strong background in workers' compensation and a desire for a bonus-driven compensation model, we encourage you to apply. Join a team where your expertise in rehabilitation medicine makes a significant impact.",
     "contractType": "Full-time",
     "salaryShort": "$300,000+ per year",
     "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
       "Board Certification in Physical Medicine & Rehabilitation (PM&R)",
-      "WCB (Workers' Compensation Board) certification",
-      "Minimum of 2 years of experience with Workers' Compensation, No-Fault, or Lien cases",
-      "Ability to work weekends",
-      "Comfortable working with a patient base outside of major medical, Medicare, or Medicaid"
+      "WCB (Workers' Compensation Board) certification is required",
+      "Minimum of 2 years of experience with workers' compensation, no-fault, or lien cases",
+      "Ability to work weekends as needed"
     ],
-    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a very heavy emphasis on bonuses and less on base salary.",
+    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a structure that is very heavy on bonuses and less on base salary.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
   },
@@ -97,18 +97,18 @@
     "roleTitle": "PM&R Physician",
     "roleType": "Therapy/Rehabilitation",
     "location": "Bronx/Westchester, NY",
-    "facilityType": "Rehabilitation Clinics",
-    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team across multiple premier rehabilitation clinics in the Bronx/Westchester, NY area. This full-time, non-traveling role offers a unique opportunity to work with a diverse patient population, focusing exclusively on workers' compensation and no-fault/lien cases. We are looking for a physician who thrives in a dynamic environment and is committed to providing exceptional patient care.This position comes with a highly attractive compensation package, starting at $300,000+ annually, with a strong emphasis on performance-based bonuses. Candidates must be prepared for weekend work as part of their schedule. If you are a WCB-certified physician with a background in workers' compensation and are looking for a rewarding role with significant earning potential, we encourage you to apply.",
+    "facilityType": "Multiple Rehabilitation Facilities",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team across multiple rehabilitation facilities in the Bronx/Westchester, NY area. This unique opportunity offers a non-traveling role with a focus on workers' compensation and no major medical, Medicare, or Medicaid cases. You will work 1-2 days a week at each facility, providing comprehensive care to patients.\n\nThis position comes with a highly attractive compensation package, starting at $300,000 annually, with a significant emphasis on performance-based bonuses. We are looking for a physician who is comfortable working weekends and thrives in a dynamic environment focused on patient recovery and rehabilitation.\n\nIf you are a WCB-certified physician with a strong background in workers' compensation or no-fault/lien cases, and are looking for a rewarding role with excellent earning potential, we encourage you to apply.",
     "contractType": "Full-time",
-    "salaryShort": "$300,000+ per year",
+    "salaryShort": "$300K+",
     "requirements": [
-      "Board Certified in Physical Medicine & Rehabilitation (PM&R)",
-      "WCB (Workers' Compensation Board) certified",
-      "Minimum of 2+ years of experience with workers' compensation or no-fault/lien cases",
-      "Ability to work weekends",
-      "Experience working with patients outside of major medical insurance, Medicare, or Medicaid systems"
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO)",
+      "Board Certification in Physical Medicine & Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certification",
+      "Minimum of 2+ years of experience in Workers' Compensation or No-Fault/Lien cases",
+      "Ability to work weekends as required"
     ],
-    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a very heavy emphasis on bonuses over base salary.",
+    "salaryOrBonusInfo": "Compensation starts at $300,000 per year, with a significant portion of the total compensation derived from very heavy performance-based bonuses.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
   },
@@ -117,15 +117,33 @@
     "roleType": "Therapy/Rehabilitation",
     "location": "Elizabeth, CO",
     "facilityType": "School District",
-    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) to join a supportive school district in Elizabeth, CO. This is an excellent opportunity to make a significant impact on students' lives, helping them develop essential communication skills within an educational environment.\n\nThis role offers an initial contract starting August 5, 2026, for a duration of 40 weeks. You will be responsible for assessing, diagnosing, and treating speech, language, and communication disorders in school-aged children, collaborating with educators and parents to create individualized education plans.\n\nEnjoy a competitive hourly rate of $55/hr or more, reflecting your expertise and commitment. This position provides a stable contract with a clear start and end date, allowing you to plan your professional year effectively while contributing to a vibrant school community.",
+    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) to join a supportive educational setting in Elizabeth, CO. This contract role offers a unique opportunity to make a significant impact on the lives of school-aged children, providing essential speech and language services within a collaborative environment. You will be instrumental in assessing, diagnosing, and treating communication disorders, helping students achieve their full potential.\n\nThis is an initial contract position spanning 40 weeks, starting August 5, 2026. We are looking for a passionate professional ready to contribute to a student-focused team. If you are committed to fostering communication skills and supporting academic success, we encourage you to apply.",
     "contractType": "Contract",
     "salaryShort": "$55/hr+",
     "requirements": [
       "Master's degree in Speech-Language Pathology",
-      "Current Colorado SLP license or eligibility",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
+      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+      "Colorado Department of Education (CDE) Special Service Provider (SSP) license with an endorsement in Speech-Language Pathology",
       "Experience working with school-aged children",
-      "Ability to develop and implement individualized education programs (IEPs)"
+      "Ability to develop and implement Individualized Education Programs (IEPs)"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $55 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_speech_language_pathologist___school___55_hr___initial_contract_8_5_26___40_weeks__elizabeth_school_district_elizabeth__co"
+  },
+  {
+    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Elizabeth, CO",
+    "facilityType": "Educational Setting",
+    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) for a contract position within an educational setting in Elizabeth, CO. This role offers a competitive hourly rate of $55/hr+ and is an initial contract for 40 weeks, commencing August 5, 2026. This is an excellent opportunity for an SLP looking for a stable contract within a supportive school environment.\n\nIn this vital position, you will provide comprehensive speech and language services to students, collaborating with educators and parents to support academic and social development. Join a team committed to fostering student success and well-being.",
+    "contractType": "Contract",
+    "salaryShort": "$55/hr+",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current Colorado SLP license",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
+      "Experience working with school-aged children"
     ],
     "salaryOrBonusInfo": "$55/hr+",
     "applyLink": "https://navahc.com/candidates/",
@@ -136,91 +154,17 @@
     "roleType": "Therapy/Rehabilitation",
     "location": "Thornton, CO",
     "facilityType": "School District",
-    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) for a contract opportunity within a dynamic school district in Thornton, CO. This role offers the chance to make a significant impact on students' communication development within an educational setting.\n\nThis is an initial contract position spanning from August 19, 2026, to June 9, 2027, with a competitive hourly rate starting at $67/hr. Join a supportive environment focused on student success and professional growth.",
+    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) for a contract position within a dynamic school district. This role offers an excellent opportunity to provide essential speech and language services to students, contributing to their academic and social development. The initial contract runs from August 19, 2026, to June 9, 2027.\n\nJoin a supportive educational environment where your expertise will make a significant impact. This position offers a competitive hourly rate, providing stability and professional growth within the school system.",
     "contractType": "Contract",
-    "salaryShort": "$67/hr+",
+    "salaryShort": "$67.00/hr+",
     "requirements": [
       "Master's degree in Speech-Language Pathology",
-      "Valid Colorado SLP license or certification",
+      "Current Colorado SLP license or eligibility",
       "Certificate of Clinical Competence (CCC) from ASHA",
       "Experience working with school-aged children"
     ],
-    "salaryOrBonusInfo": "$67/hr+",
+    "salaryOrBonusInfo": "Starting at $67.00 per hour, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_speech_language_pathologist___school___67_hr___initial_contract_8_19_26___6_9_27__adams_12_five_star_schools_thornton__co"
-  },
-  {
-    "roleTitle": "Speech Language Pathologist (SLP)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Rock Hall, MD",
-    "facilityType": "Public School System",
-    "description": "Join a dedicated team within a public school system in Rock Hall, MD, as a Speech Language Pathologist. This contract role offers a competitive rate of $65+ per hour, with an initial contract period from August 17, 2026, to June 7, 2027. We are seeking a passionate professional to provide essential speech and language services to students, contributing to their academic and social development.",
-    "contractType": "Contract",
-    "salaryShort": "$65+/hr",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Valid Maryland SLP license",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
-      "Experience working with school-aged children"
-    ],
-    "salaryOrBonusInfo": "$65/hr+, Initial Contract 8/17/26 - 6/7/27",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_speech_language_pathologist___school___65_hr___initial_contract_8_17_26___6_7_27__kent_county_public_schools_rock_hall__md"
-  },
-  {
-    "roleTitle": "School Occupational Therapist (OT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Medford, OR",
-    "facilityType": "an educational service district",
-    "description": "We are seeking a dedicated School Occupational Therapist to join our team in Medford, OR. This role offers a unique opportunity to make a significant impact on the lives of children and adolescents within an educational setting, providing essential therapy services to support their development and academic success. You will be an integral part of a collaborative environment, working alongside educators and families to foster student growth.In this role, you will be responsible for conducting comprehensive occupational therapy assessments, developing and implementing individualized treatment plans, and providing direct and indirect therapy services. Your expertise will help students improve their fine motor skills, sensory processing, self-care abilities, and overall participation in school activities.This is an initial contract position from August 10, 2026, to June 7, 2027, offering a competitive hourly rate starting at $55/hr. If you are passionate about pediatric occupational therapy and looking for a rewarding contract opportunity, we encourage you to apply.",
-    "contractType": "Contract",
-    "salaryShort": "$55/hr+",
-    "requirements": [
-      "Master's degree in Occupational Therapy from an accredited program",
-      "Valid Oregon Occupational Therapist license",
-      "Experience working with children and adolescents in an educational or clinical setting",
-      "Ability to conduct comprehensive assessments and develop individualized treatment plans",
-      "Strong communication and collaboration skills"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate starting at $55/hr for an initial contract from August 10, 2026, to June 7, 2027.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "3_occupational_therapist___school___55_hr___initial_contract_8_10_26___6_7_27__southern_oregon_education_service_district_medford__or"
-  },
-  {
-    "roleTitle": "Speech Language Pathologist (SLP)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Summerville, SC",
-    "facilityType": "Educational Institution",
-    "description": "We are seeking a dedicated Speech Language Pathologist (SLP) for a contract position within a reputable educational institution in Summerville, SC. This role offers an excellent opportunity to make a significant impact on students' communication development.\n\nThis is an initial contract running for 43 weeks, starting on July 22, 2026. We are looking for a professional who is passionate about providing high-quality speech and language services to school-aged children.",
-    "contractType": "Contract",
-    "salaryShort": "$55/hr+",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current South Carolina SLP license",
-      "ASHA Certificate of Clinical Competence (CCC-SLP)",
-      "Experience working with school-aged children"
-    ],
-    "salaryOrBonusInfo": "$55/hr+",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "1_speech_language_pathologist_school___55_hr___initial_contract_7_22_26___43_weeks__berkeley_preparatory_academy__berkeley_cea__summerville__sc"
-  },
-  {
-    "roleTitle": "Special Education Teacher",
-    "roleType": "Other",
-    "location": "Walterboro, SC",
-    "facilityType": "School District",
-    "description": "We are seeking a dedicated Special Education Teacher for a contract position within a local school district in Walterboro, SC. This role offers a unique opportunity to make a significant impact on students' lives, providing specialized instruction and support to foster academic and personal growth.\n\nThis is an initial contract role spanning from August 19, 2026, to June 16, 2027, offering a competitive hourly rate of $50/hr+. We are looking for passionate educators ready to contribute to a supportive learning environment.",
-    "contractType": "Contract",
-    "salaryShort": "$50/hr+",
-    "requirements": [
-      "Valid South Carolina Special Education teaching certification",
-      "Bachelor's or Master's degree in Special Education or a related field",
-      "Experience working with students with diverse learning needs",
-      "Ability to develop and implement individualized education programs (IEPs)",
-      "Strong communication and collaboration skills"
-    ],
-    "salaryOrBonusInfo": "$50/hr+",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "8_special_education_teacher___50_hr___initial_contract_8_19_26___6_16_27__colleton_county_school_district_sy26_27_walterboro__sc"
   }
 ]
