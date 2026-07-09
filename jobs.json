@@ -3,19 +3,57 @@
     "roleTitle": "Registered Nurse (RN)",
     "roleType": "Floor Staff",
     "location": "Billings, MT",
-    "facilityType": "Home Healthcare Provider",
-    "description": "We are seeking dedicated and compassionate Registered Nurses (RNs) to join a premier home healthcare provider in Billings, MT. This is an exceptional opportunity for RNs looking for flexibility, with both full-time and part-time positions available, offering a competitive annual salary range of $115,000 - $125,000.\n\nIn this vital role, you will provide high-quality, patient-centered care in the comfort of patients' homes. You will be responsible for comprehensive assessments, medication management, wound care, and patient education, empowering individuals to achieve optimal health and independence within their own environment.",
-    "contractType": "Full-time, Part-time",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking dedicated and compassionate Registered Nurses (RNs) to join a premier home health agency in Billings, MT. This is an exceptional opportunity for RNs looking for flexibility, with both full-time and part-time positions available. You will play a vital role in providing high-quality, patient-centered care in the comfort of patients' homes, making a direct impact on their well-being and recovery.\n\nAs a Home Health RN, you will manage a diverse caseload, performing comprehensive assessments, developing individualized care plans, and administering skilled nursing care. This role offers a competitive annual salary ranging from $115,000 to $125,000, reflecting your expertise and commitment to delivering excellent care. Join a supportive team dedicated to empowering patients to achieve their health goals.",
+    "contractType": "Full-time or Part-time",
     "salaryShort": "$115,000 - $125,000 per year",
     "requirements": [
       "Active Registered Nurse (RN) license in Montana",
-      "Minimum of 1-2 years of clinical nursing experience, preferably in home health",
-      "Valid driver's license and reliable transportation",
+      "Minimum of 1-2 years of experience in home health or a related clinical setting",
       "Current Basic Life Support (BLS) certification",
-      "Strong assessment, communication, and organizational skills"
+      "Strong clinical assessment, critical thinking, and documentation skills",
+      "Ability to travel within the Billings area to patient homes"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $115,000 - $125,000, based on experience and contract type.",
+    "salaryOrBonusInfo": "Annual salary ranging from $115,000 to $125,000, based on experience and contract type (full-time or part-time).",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "Join a dedicated team as a Full-time Registered Nurse (RN) in Casper, WY, where you will provide essential, compassionate care to patients in the comfort of their own homes. This is an excellent opportunity to make a significant impact on individual lives, offering personalized attention and fostering strong patient relationships within a supportive environment. In this vital role, you will manage a diverse caseload, performing comprehensive assessments, developing individualized care plans, and administering treatments. We are seeking a proactive and empathetic professional eager to contribute to patient well-being and recovery. The position offers a competitive hourly rate of $36.00 - $45.00, reflecting your expertise and commitment to high-quality home health services.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $45.00/hr",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license in the state of Wyoming",
+      "Minimum of one year of clinical experience, preferably in home health, acute care, or a similar setting",
+      "Demonstrated strong clinical assessment, critical thinking, and communication skills",
+      "Ability to work autonomously and manage a patient caseload effectively",
+      "Valid driver's license and reliable transportation"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $36.00 - $45.00, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician (MD)",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Medical Clinics",
+    "description": "Join a premier healthcare provider in New York City, NY, seeking a dedicated Internal Medicine Physician (MD). This role offers a unique opportunity to focus on workers' compensation and no-fault/lien cases, operating outside of major medical insurance, Medicare, and Medicaid systems. We are looking for a physician who thrives in a dynamic environment and is committed to providing exceptional patient care.\n\nThis position is structured with a competitive compensation package, approximately $180,000 per year, heavily weighted towards performance-based bonuses. Candidates must be prepared to work weekends to meet patient needs. If you are a WCB-certified physician with experience in workers' compensation, this could be an excellent fit for your expertise.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree",
+      "Valid New York State medical license",
+      "Workers' Compensation Board (WCB) certification",
+      "Experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends"
+    ],
+    "salaryOrBonusInfo": "Compensation is approximately $180,000 per year, with a significant portion derived from performance-based bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
   }
 ]
