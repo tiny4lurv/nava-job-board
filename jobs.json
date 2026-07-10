@@ -1,76 +1,21 @@
 [
   {
-    "roleTitle": "Registered Nurse (RN)",
-    "roleType": "Floor Staff",
-    "location": "Billings, MT",
-    "facilityType": "Home Health Agency",
-    "description": "We are seeking dedicated and compassionate Registered Nurses (RNs) to join a leading home health agency in Billings, MT. This is an excellent opportunity for RNs looking for flexibility, with both full-time and part-time positions available, offering a highly competitive salary.\n\nAs a Home Health RN, you will provide skilled nursing care to patients in their homes, focusing on comprehensive assessments, medication management, wound care, and patient education. You will play a crucial role in promoting patient independence and well-being within a supportive and autonomous work environment.\n\nThis role offers a competitive annual salary ranging from $115,000 to $125,000, reflecting your expertise and commitment to patient care. If you are passionate about making a difference in the lives of patients and thrive in a dynamic home health setting, we encourage you to apply.",
-    "contractType": "Full-time, Part-time",
-    "salaryShort": "$115,000 - $125,000 per year",
-    "requirements": [
-      "Current Registered Nurse (RN) license in Montana",
-      "Minimum of 1-2 years of experience in home health or a related clinical setting",
-      "Strong clinical assessment, critical thinking, and communication skills",
-      "Ability to work independently and manage a patient caseload effectively",
-      "Valid driver's license and reliable transportation"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $115,000 - $125,000 based on experience and contract type.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
-  },
-  {
-    "roleTitle": "Registered Nurse (RN)",
-    "roleType": "Floor Staff",
-    "location": "Casper, WY",
-    "facilityType": "A leading home health agency",
-    "description": "We are seeking a dedicated Full-time Registered Nurse (RN) to join a dynamic team in Casper, WY. This role offers the opportunity to provide high-quality, compassionate care to patients in the comfort of their own homes, making a significant impact on their well-being and recovery. If you are passionate about patient-centered care and thrive in an autonomous environment, this is an excellent opportunity to advance your career.\n\nAs a Home Health RN, you will manage a diverse caseload, performing comprehensive assessments, developing individualized care plans, and administering skilled nursing interventions. This position requires excellent clinical judgment, strong communication skills, and the ability to work independently while collaborating with a multidisciplinary team to ensure optimal patient outcomes. Join a supportive environment where your expertise is valued.",
-    "contractType": "Full-time",
-    "salaryShort": "$36.00 - $45.00/hr",
-    "requirements": [
-      "Current Registered Nurse (RN) license in the state of Wyoming",
-      "Basic Life Support (BLS) certification",
-      "Valid driver's license and reliable transportation",
-      "Minimum of 1-2 years of nursing experience, preferably in home health or acute care",
-      "Strong clinical assessment and documentation skills"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $36.00 - $45.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
-  },
-  {
-    "roleTitle": "Orthopedic Surgeon",
-    "roleType": "Other",
-    "location": "NYC, NY",
-    "facilityType": "A premier medical center",
-    "description": "Join a premier medical center in NYC, NY, seeking a skilled Orthopedic Surgeon to provide exceptional care to patients. This role offers a unique opportunity to work within a dynamic environment, focusing on a diverse range of orthopedic conditions and surgical interventions, including those related to Workers' Compensation and No-Fault cases.\n\nWe are looking for a dedicated professional who thrives in a collaborative setting and is committed to delivering high-quality patient outcomes. The compensation package for this position is highly competitive, featuring an attractive annual salary range and a significant emphasis on performance-based bonuses, reflecting our commitment to rewarding excellence.\n\nIf you are an experienced Orthopedic Surgeon with a passion for patient care and a desire to make a substantial impact, we encourage you to apply for this full-time position.",
-    "contractType": "Full-time",
-    "salaryShort": "$300,000 - $350,000 per year",
-    "requirements": [
-      "Medical Doctor (MD) degree from an accredited institution",
-      "Board Certification in Orthopedic Surgery",
-      "Current and unrestricted New York State Medical License",
-      "Minimum of 5 years of post-residency experience as an Orthopedic Surgeon",
-      "Demonstrated experience with Workers' Compensation and No-Fault cases"
-    ],
-    "salaryOrBonusInfo": "Annual salary range of $300,000 - $350,000, with a compensation structure heavily weighted towards performance bonuses.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "orthopedic_surgeon___300k__350k__citimed__based_on_candidate_s_location__nyc__ny"
-  },
-  {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "St. Petersburg, FL",
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Sarasota County, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Physical Therapist (PT) for a PRN opportunity in St. Petersburg, FL. Join a premier health and rehabilitation center committed to providing exceptional patient care. This role offers an attractive hourly rate of $55-$60/hr for immediate placement.\n\nThis facility is a well-regarded 55-59 bed center, situated in a vibrant neighborhood with convenient access to shopping and just 15 minutes from the beach. With a current census of 43, you'll be part of a supportive team in a pleasant environment featuring two courtyards. We are looking to fill this position quickly.",
-    "contractType": "PRN",
-    "salaryShort": "$55-$60/hr",
+    "description": "We are seeking an accomplished and dynamic Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is a highly confidential search for a leader who is passionate about driving census growth and enhancing community presence. The ideal candidate will be instrumental in shaping the facility's market strategy and achieving ambitious goals.This role offers a significant opportunity for an experienced professional who is ready to make a substantial impact. We are looking for a proactive and results-driven individual with a professional demeanor, capable of navigating a competitive market. The position requires flexibility, including occasional weekend work, and offers excellent compensation for the right candidate who can demonstrate a strong track record of success.",
+    "contractType": "Full-time",
+    "salaryShort": "",
     "requirements": [
-      "Current Physical Therapist (PT) license in Florida",
-      "Experience in a skilled nursing or rehabilitation setting",
-      "Ability to work on a PRN basis"
+      "Proven experience as a Marketing Director, ideally within a skilled nursing or healthcare environment.",
+      "Demonstrated ability to develop and execute effective marketing strategies to drive census.",
+      "Exceptional interpersonal and communication skills with a professional and presentable demeanor.",
+      "Highly motivated, proactive, and results-oriented with a strong drive to succeed.",
+      "Flexibility to work occasional weekends as business needs dictate."
     ],
-    "salaryOrBonusInfo": "This urgent PRN role offers a competitive hourly rate of $55-$60/hr.",
+    "salaryOrBonusInfo": "Compensation based on experience and performance.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt__urgent___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
   }
 ]
