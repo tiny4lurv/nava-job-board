@@ -1,19 +1,20 @@
 [
   {
-    "roleTitle": "Registered Nurse (RN)",
+    "roleTitle": "Travel Registered Nurse (RN)",
     "roleType": "Floor Staff",
     "location": "Billings, MT",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking dedicated and compassionate Registered Nurses (RNs) to join a premier home health agency in Billings, MT. This is an excellent opportunity for RNs looking for flexibility, with both full-time and part-time positions available, offering a highly competitive salary range.\n\nIn this role, you will provide high-quality, patient-centered care in the comfort of patients' homes, managing a diverse caseload and utilizing your clinical expertise to promote health and independence. If you are a self-motivated RN with a passion for home health and a desire to make a significant impact on patient lives, we encourage you to apply.",
+    "description": "We are seeking a dedicated and experienced Travel Registered Nurse (RN) to join a premier home health agency in Billings, MT. This is an excellent opportunity for an RN looking for flexibility, with both full-time and part-time options available, offering a highly competitive salary.\n\nIn this vital role, you will provide comprehensive skilled nursing care to patients in their homes, developing and implementing individualized care plans. You will play a crucial part in patient education, symptom management, and ensuring continuity of care, collaborating closely with a multidisciplinary team to achieve optimal patient outcomes.\n\nThis position offers the chance to make a significant impact on patients' lives while enjoying the autonomy and diverse experiences that come with home health travel nursing.",
     "contractType": "Full-time or Part-time",
     "salaryShort": "$115,000 - $125,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Montana",
-      "Minimum of 1-2 years of experience in home health or acute care setting",
-      "Valid driver's license and reliable transportation",
-      "Current BLS/CPR certification"
+      "Active Registered Nurse (RN) license in Montana or a compact state.",
+      "Minimum of 1-2 years of recent experience in home health or acute care setting.",
+      "Current Basic Life Support (BLS) certification.",
+      "Valid driver's license and reliable transportation.",
+      "Strong clinical assessment, critical thinking, and documentation skills."
     ],
-    "salaryOrBonusInfo": "Annual salary range of $115,000 - $125,000, based on experience and contract type (Full-time or Part-time).",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $125,000 annually, based on experience and contract type (Full-time or Part-time).",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
   }
