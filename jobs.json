@@ -1,21 +1,417 @@
 [
   {
-    "roleTitle": "Travel Registered Nurse (RN)",
+    "roleTitle": "Registered Nurse (RN)",
     "roleType": "Floor Staff",
     "location": "Billings, MT",
     "facilityType": "Home Health Agency",
-    "description": "We are seeking a dedicated and experienced Travel Registered Nurse (RN) to join a premier home health agency in Billings, MT. This is an excellent opportunity for an RN looking for flexibility, with both full-time and part-time options available, offering a highly competitive salary.\n\nIn this vital role, you will provide comprehensive skilled nursing care to patients in their homes, developing and implementing individualized care plans. You will play a crucial part in patient education, symptom management, and ensuring continuity of care, collaborating closely with a multidisciplinary team to achieve optimal patient outcomes.\n\nThis position offers the chance to make a significant impact on patients' lives while enjoying the autonomy and diverse experiences that come with home health travel nursing.",
+    "description": "Join a leading home health agency in Billings, MT, dedicated to providing exceptional patient care in the comfort of their homes. We are seeking a compassionate and skilled Registered Nurse to deliver high-quality nursing services, focusing on patient education, symptom management, and coordination of care. This role offers the unique flexibility of both full-time and part-time schedules, allowing you to balance your professional and personal life while making a significant impact on the community.\n\nThis is an excellent opportunity for an experienced RN looking for a dynamic environment with competitive compensation. You will be an integral part of a supportive team, utilizing your clinical expertise to empower patients and their families. We value nurses who are proactive, empathetic, and committed to continuous improvement in patient outcomes.",
     "contractType": "Full-time or Part-time",
     "salaryShort": "$115,000 - $125,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Montana or a compact state.",
-      "Minimum of 1-2 years of recent experience in home health or acute care setting.",
-      "Current Basic Life Support (BLS) certification.",
-      "Valid driver's license and reliable transportation.",
-      "Strong clinical assessment, critical thinking, and documentation skills."
+      "Current Registered Nurse (RN) license in Montana",
+      "Minimum of 1-2 years of recent experience in home health or a related acute care setting",
+      "Valid driver's license and reliable transportation with current auto insurance",
+      "Current BLS/CPR certification",
+      "Strong clinical assessment and documentation skills"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $125,000 annually, based on experience and contract type (Full-time or Part-time).",
+    "salaryOrBonusInfo": "Compensation ranges from $115,000 to $125,000 annually, based on experience and contract type (full-time or part-time).",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "Join a dedicated team as a Full-time Registered Nurse (RN) in Casper, WY, serving patients within a reputable home health agency. This role offers the opportunity to provide personalized, high-quality care in a patient-centered environment, fostering independence and well-being in the comfort of their homes.As a Home Health RN, you will be responsible for comprehensive patient assessments, developing and implementing individualized care plans, administering medications, and educating patients and their families on health management. You will play a crucial role in monitoring patient progress, coordinating with interdisciplinary teams, and ensuring adherence to clinical standards and regulatory requirements.This is a full-time position offering competitive compensation. We are seeking a compassionate and skilled professional eager to make a significant impact on the lives of individuals in the Casper community.",
+    "contractType": "Full-time",
+    "salaryShort": "$36-$45/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Wyoming",
+      "Minimum of 1-2 years of nursing experience, preferably in home health or a related setting",
+      "Current Basic Life Support (BLS) certification",
+      "Strong clinical assessment and critical thinking skills",
+      "Valid driver's license and reliable transportation"
+    ],
+    "salaryOrBonusInfo": "Compensation: $36.00 - $45.00 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician (MD)",
+    "roleType": "Floor Staff",
+    "location": "New York City, NY",
+    "facilityType": "Multi-specialty Medical Centers",
+    "description": "We are seeking a dedicated Internal Medicine Physician (MD) to join a network of medical centers across New York City, including locations in Harlem/Bronx, Brooklyn, Queens, and Long Island. This role is ideal for a physician with a strong focus on workers' compensation and No-Fault (NF)/Lien cases, as we do not work with major medical insurances or Medicare/Medicaid.\n\nThis position offers a unique compensation structure that is heavily weighted towards performance-based bonuses, complementing a competitive base salary. Candidates must be prepared for weekend work to meet patient needs. We are looking for a physician who is eager to make a significant impact within a specialized practice area.\n\nJoin a team committed to providing focused care in a dynamic environment. This is an urgent need, and we encourage qualified candidates to apply promptly.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Doctor of Medicine (MD) degree and valid New York medical license",
+      "Workers' Compensation Board (WCB) certification is required",
+      "Extensive experience with workers' compensation or No-Fault (NF)/Lien cases",
+      "Ability to work weekends as part of the regular schedule",
+      "No prior experience with major medical insurances or Medicare/Medicaid is necessary"
+    ],
+    "salaryOrBonusInfo": "Compensation is structured with a base salary of approximately $180,000 per year, heavily supplemented by performance-based bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "Family Medicine Physician (MD)",
+    "roleType": "Floor Staff",
+    "location": "NYC, NY",
+    "facilityType": "Specialized Medical Practice",
+    "description": "Join a thriving medical practice in New York City, offering a unique opportunity for a dedicated Family Medicine Physician. This role focuses on providing specialized care to patients involved in workers' compensation and no-fault/lien cases across various locations including Harlem/Bronx, Brooklyn, Queens, and Long Island. We are seeking a physician who is passionate about delivering high-quality care within this specific patient demographic.\n\nThis position offers a highly attractive compensation package, structured with a strong emphasis on performance-based bonuses, complementing a competitive base salary. Candidates must be available to work weekends to meet patient needs. If you are an MD with expertise in workers' compensation and no-fault claims, and are looking for a practice that operates outside of major medical, Medicare, and Medicaid systems, this is an exceptional opportunity to make a significant impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree and valid New York State medical license",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Proven experience with workers' compensation or no-fault/lien cases",
+      "Ability to work weekends as required",
+      "Familiarity with a practice model that does not involve major medical insurances, Medicare, or Medicaid"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with a competitive base salary. Total compensation is around $180,000 annually.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Queens, NY",
+    "facilityType": "A network of premier health and rehabilitation centers",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic network of health and rehabilitation centers in Queens, NY. This unique opportunity offers a highly competitive compensation package starting at $300,000+ annually, with a significant emphasis on performance-based bonuses. You will have the chance to make a substantial impact by providing specialized care across multiple facilities, typically working 1-2 days per week at each location.\n\nThis role is ideal for a physician with a strong background in workers' compensation and no-fault/lien cases. You will be working with a patient population that does not involve major medical insurances, Medicare, or Medicaid, allowing for a focused practice area. The position requires flexibility, including the ability to work weekends, to best serve our patients' needs.\n\nIf you are a WCB-certified PM&R Physician with a passion for rehabilitation and a proven track record in workers' compensation, we encourage you to apply. Join a team committed to delivering exceptional patient outcomes and enjoy a rewarding career with excellent earning potential.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Board Certification in Physical Medicine & Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certification",
+      "Minimum of 2 years of experience in Workers' Compensation (WC) or No-Fault (NF)/Lien cases",
+      "Ability to work weekends as needed",
+      "Experience with a patient demographic outside of major medical, Medicare, or Medicaid"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a very heavy emphasis on bonuses and less on base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Bronx/Westchester, NY",
+    "facilityType": "A network of premier rehabilitation centers",
+    "description": "We are seeking a dedicated PM&R Physician to join a dynamic multi-site rehabilitation practice serving the Bronx and Westchester, NY areas. This unique opportunity allows you to work across several facilities, typically spending 1-2 days a week at each location, providing comprehensive care to patients.\n\nThis role offers a highly attractive compensation package, starting at $300,000+ annually, with a structure heavily weighted towards bonuses. Candidates must be prepared for weekend work and possess specific experience with workers' compensation or NF/Lien cases, as the practice does not engage with major medical insurances, Medicare, or Medicaid.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Board Certified or Board Eligible in Physical Medicine & Rehabilitation",
+      "Current and unrestricted New York State Physician License",
+      "WCB (Workers' Compensation Board) certification required",
+      "Minimum of 2+ years of experience with Workers' Compensation or NF/Lien cases",
+      "Ability to work weekends as needed"
+    ],
+    "salaryOrBonusInfo": "Compensation for this PM&R Physician role is highly competitive, starting at $300,000+ annually, with a structure that is very heavy on bonuses and less on base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier health and rehabilitation center in beautiful St. Petersburg, FL, as a Full-time Certified Occupational Therapy Assistant (COTA). This facility, with 55-59 beds and a current census of 43, offers a vibrant and supportive environment for both patients and staff. Located conveniently on a main street with abundant shopping nearby and a nice residential neighborhood behind the building, you'll find everything you need within reach. Plus, enjoy the fantastic perk of being just 15 minutes from the beach, perfect for unwinding after work. The facility also boasts two lovely courtyards, providing serene spaces for patients and staff alike.We are seeking a dedicated COTA to contribute to our patient-centered care model, helping individuals regain independence and improve their quality of life. This full-time position offers a competitive hourly rate of $38.00 - $48.00, reflecting your valuable skills and experience. If you are passionate about making a difference and thrive in a dynamic setting, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Current Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Experience working in a skilled nursing or rehabilitation facility",
+      "Ability to provide comprehensive occupational therapy services",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Support",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse (RN) to join a premier health and rehabilitation center in Gulfport, MS, as an MDS Coordinator. This is an excellent opportunity to contribute your expertise in a supportive environment focused on resident care and compliance.This full-time position offers a consistent Monday through Friday, 3 PM to 11 PM shift, providing stability and a clear schedule. As an MDS Coordinator, you will play a crucial role in the resident assessment process, ensuring accurate and timely completion of the Minimum Data Set (MDS) to support comprehensive care planning and reimbursement. This is not a PRN role, offering a stable and committed position within our team.If you are an RN with a passion for detailed assessment and a commitment to quality care, we encourage you to apply. Join a team where your skills are valued and your contributions make a real difference in the lives of residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and active Registered Nurse (RN) license in the state of Mississippi.",
+      "Proven experience as an MDS Coordinator, with strong knowledge of MDS 3.0.",
+      "Familiarity with federal and state regulations governing skilled nursing facilities.",
+      "Ability to work the full-time shift: Monday - Friday, 3:00 PM - 11:00 PM.",
+      "Excellent organizational and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "SDC/IP Nurse (LPN/CNA)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Gulfport, MS, as an SDC/IP Nurse. We are seeking compassionate and skilled Licensed Practical Nurses (LPNs) and Certified Nursing Assistants (CNAs) to provide exceptional care to our residents. This is a consistent, non-PRN opportunity, offering stability and a supportive work environment.LPNs will work 8-hour shifts, Monday through Friday, from 3 PM to 11 PM. Certified Nursing Assistants will work 12-hour shifts. We are looking for individuals who are committed to making a positive impact on the lives of those we serve and are comfortable with these specific shift schedules.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current LPN license or CNA certification in Mississippi",
+      "Proven experience in a skilled nursing or long-term care environment",
+      "Ability to commit to the specified shift schedule (LPN: Mon-Fri, 3 PM - 11 PM; CNA: 12-hour shifts)",
+      "Strong communication and interpersonal skills",
+      "Dedication to providing high-quality patient care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "sdc_ip_nurse_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Are you a dedicated Licensed Practical Nurse looking for a rewarding full-time opportunity? A premier skilled nursing facility in Gulfport, MS, is urgently seeking compassionate LPNs to join their evening team. This role offers a consistent Monday-Friday schedule, providing stability and a chance to make a significant impact on residents' lives.In this vital role, you will provide direct nursing care, administer medications, and collaborate with the healthcare team to ensure the highest quality of patient care. We are looking for professionals who are committed to patient well-being and thrive in a supportive environment.This full-time position operates on an 8-hour shift from 3:00 PM to 11:00 PM, Monday through Friday. If you are ready to bring your skills to a facility that values its staff and residents, we encourage you to apply today.",
+    "contractType": "Full-time",
+    "salaryShort": "$25-$28/hr",
+    "requirements": [
+      "Current and valid Licensed Practical Nurse (LPN) license in the state of Mississippi.",
+      "Previous experience in a skilled nursing or long-term care environment preferred.",
+      "Ability to work the full-time 3:00 PM - 11:00 PM shift, Monday through Friday.",
+      "Strong clinical assessment and documentation skills.",
+      "Current CPR certification."
+    ],
+    "salaryOrBonusInfo": "$25-$28/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Weekend Med Cart Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Weekend Med Cart Registered Nurse (RN) to join a premier skilled nursing facility in Gulfport, MS. This vital role involves working consistent 12-hour shifts on Saturdays and Sundays, ensuring residents receive timely and accurate medication administration. This is a fantastic opportunity for an RN looking for a stable weekend schedule.\n\nAs a Weekend Med Cart RN, you will be responsible for managing the medication cart, performing patient assessments, and collaborating with the care team to provide exceptional patient care. We are looking for a committed professional who is comfortable with this specific weekend schedule and is not seeking a PRN position. Your commitment to these shifts is crucial for the continuity of care.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Valid and active Registered Nurse (RN) license in Mississippi.",
+      "Proven experience with medication administration and med cart duties, preferably in a skilled nursing or long-term care environment.",
+      "Ability to commit to a consistent weekend schedule (Saturday & Sunday, 12-hour shifts).",
+      "Strong organizational and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "weekend_med_cart_rn__sat___sun__12hr__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Certified Medical Coder (Outpatient & ED)",
+    "roleType": "Support",
+    "location": "Brooklyn, NY",
+    "facilityType": "Healthcare System",
+    "description": "Join a leading healthcare system in Brooklyn, NY, as a Certified Medical Coder specializing in Outpatient and Emergency Department services. This is a crucial support role, ensuring accurate and compliant medical coding for billing and data analysis, contributing significantly to the financial health and operational efficiency of the organization.\n\nThis contract position offers a competitive hourly rate of $36-$38/hr, with a defined term from July 20, 2026, to September 12, 2026. We are seeking a dedicated professional to contribute to our efficient operations during this period, providing essential coding expertise.",
+    "contractType": "Contract",
+    "salaryShort": "$36-$38/hr",
+    "requirements": [
+      "Current Medical Coding Certification (e.g., CPC, CCS)",
+      "Minimum 2-3 years of experience in Outpatient and/or Emergency Department coding",
+      "Proficiency in ICD-10-CM, CPT, and HCPCS Level II coding guidelines",
+      "Experience with electronic health record (EHR) systems and coding software",
+      "Strong attention to detail and commitment to coding accuracy"
+    ],
+    "salaryOrBonusInfo": "$36-$38/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_certified_medical_coders___outpatient___ed___36__38_hr__07_20_2026_to_09_12_2026___brooklyn__ny"
+  },
+  {
+    "roleTitle": "MRI Technologist",
+    "roleType": "Floor Staff",
+    "location": "Elmhurst, NY",
+    "facilityType": "A leading healthcare facility",
+    "description": "We are seeking a dedicated Night MRI Technologist to join our team in Elmhurst, NY. This contract position offers a competitive hourly rate and the opportunity to work with advanced imaging technology, contributing significantly to patient diagnostics and care during the night shift.\n\nThis role is a contract opportunity from July 27, 2026, to October 31, 2026. We are looking for a professional who is committed to providing high-quality imaging services and thrives in a fast-paced environment. Join us and make a difference in the lives of patients.",
+    "contractType": "Contract",
+    "salaryShort": "$63-$65/hr",
+    "requirements": [
+      "ARRT certification (MR)",
+      "New York State Radiologic Technologist license",
+      "BLS certification",
+      "Minimum of 1-2 years of experience as an MRI Technologist",
+      "Ability to work night shifts"
+    ],
+    "salaryOrBonusInfo": "$63-$65/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "night_mri_technologist___63__65_hr__07_27_2026_to_10_31_2026___elmhurst__ny"
+  },
+  {
+    "roleTitle": "MRI Technician",
+    "roleType": "Floor Staff",
+    "location": "Morristown, NJ",
+    "facilityType": "A premier medical center",
+    "description": "Join a premier medical center in Morristown, NJ, as an MRI Technician for a rewarding contract opportunity. This role offers a competitive hourly rate of $57-$59 and is scheduled from July 20, 2026, to October 17, 2026. We are seeking a skilled professional dedicated to providing high-quality diagnostic imaging services.\n\nAs an MRI Technician, you will be responsible for operating MRI equipment, ensuring patient safety and comfort, and producing clear, accurate images for diagnostic purposes. This is an excellent chance to contribute your expertise to a dynamic healthcare environment and make a significant impact on patient care.\n\nIf you are a certified MRI Technician looking for a short-term contract with excellent compensation, we encourage you to apply. This position offers a fantastic opportunity to enhance your career while working with a supportive team.",
+    "contractType": "Contract",
+    "salaryShort": "$57-$59/hr",
+    "requirements": [
+      "Current ARRT (MR) certification",
+      "Active New Jersey state licensure as an MRI Technologist",
+      "Minimum of 2 years of experience as an MRI Technician",
+      "Current Basic Life Support (BLS) certification",
+      "Ability to operate MRI equipment and ensure patient safety"
+    ],
+    "salaryOrBonusInfo": "$57-$59 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mri_technician___57__59_hr__07_20_2026_to_10_17_2026___morristown__nj"
+  },
+  {
+    "roleTitle": "Pharmacist",
+    "roleType": "Floor Staff",
+    "location": "New York, NY",
+    "facilityType": "A leading medical center",
+    "description": "Join a premier healthcare facility in New York, NY as a Pharmacist for a contract role. This position is available from July 20, 2026, to October 24, 2026, offering a focused opportunity to apply your expertise in a dynamic environment. You will play a critical role in ensuring safe and effective medication management for our patients.\n\nWe are seeking a dedicated professional to accurately dispense medications, provide essential pharmaceutical services, and collaborate with the healthcare team to optimize patient outcomes. This contract offers a competitive hourly rate of $86-$88.",
+    "contractType": "Contract",
+    "salaryShort": "$86-$88/hr",
+    "requirements": [
+      "Doctor of Pharmacy (Pharm.D.) degree",
+      "Current and unrestricted Pharmacist license in New York State",
+      "Minimum of 2 years of experience as a Pharmacist, preferably in a hospital or clinical setting",
+      "Strong knowledge of pharmacology, pharmacokinetics, and drug interactions",
+      "Excellent communication and patient counseling skills"
+    ],
+    "salaryOrBonusInfo": "$86-$88/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pharmacist___86__88_hr__07_20_2026_to_10_24_2026___new_york__ny"
+  },
+  {
+    "roleTitle": "MRI Technologist",
+    "roleType": "Floor Staff",
+    "location": "New York, NY",
+    "facilityType": "a premier medical center",
+    "description": "We are seeking a skilled and dedicated MRI Technologist for a contract position in New York, NY. This is an excellent opportunity to join a leading healthcare facility and contribute to patient care by performing high-quality MRI examinations. We offer a competitive hourly rate for the duration of this assignment.\n\nAs an MRI Technologist, you will be responsible for operating MRI equipment, positioning patients, and ensuring the production of diagnostic images. Your expertise will be crucial in supporting accurate diagnoses and effective treatment plans, working within a collaborative and supportive environment.\n\nThis contract role is scheduled from July 20, 2026, to October 24, 2026. If you are a certified MRI Technologist looking for a rewarding short-term engagement with excellent compensation, we encourage you to apply.",
+    "contractType": "Contract",
+    "salaryShort": "$59-$61/hr",
+    "requirements": [
+      "Completion of an accredited Radiologic Technology program",
+      "ARRT (MR) certification",
+      "Current New York State licensure as a Radiologic Technologist",
+      "BLS certification",
+      "Minimum of 1-2 years of experience as an MRI Technologist"
+    ],
+    "salaryOrBonusInfo": "This contract position offers a competitive hourly rate of $59-$61/hr.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "mri_technologist___59__61_hr__07_20_2026_to_10_24_2026___new_york__ny"
+  },
+  {
+    "roleTitle": "Wound Care Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "New York, NY",
+    "facilityType": "Healthcare Facility",
+    "description": "Join a dedicated team at a premier healthcare facility in New York, NY, as a Wound Care Registered Nurse (RN). This contract opportunity offers a competitive hourly rate and the chance to make a significant impact on patient outcomes by providing specialized wound care. We are seeking a skilled and compassionate RN to cover an AM shift from July 15, 2026, to October 17, 2026.\n\nIn this vital role, you will be responsible for assessing, planning, implementing, and evaluating wound care for patients, ensuring adherence to best practices and facility protocols. Your expertise will be crucial in promoting healing, preventing complications, and educating patients and their families on wound management. This is an excellent opportunity for an experienced Wound Care RN looking for a rewarding short-term contract.",
+    "contractType": "Contract",
+    "salaryShort": "$79-$81/hr",
+    "requirements": [
+      "Current Registered Nurse (RN) license in New York",
+      "Proven experience in wound care management",
+      "Basic Life Support (BLS) certification",
+      "Strong assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $79-$81.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_wound_care_rn___79__81_hr__07_15_2026_to_10_17_2026___new_york__ny"
+  },
+  {
+    "roleTitle": "Credentialing Specialist",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "A leading healthcare facility",
+    "description": "We are seeking a dedicated Credentialing Specialist for a contract role in New York, NY. This is an excellent opportunity to contribute to a vital function within a premier healthcare organization, ensuring that all healthcare providers meet the necessary qualifications and standards.\n\nIn this role, you will be responsible for processing and verifying credentials for healthcare professionals, maintaining accurate databases, and ensuring compliance with regulatory requirements. This is a temporary assignment from July 20, 2026, to September 12, 2026, offering a competitive hourly rate.\n\nIf you are a meticulous professional with a strong understanding of credentialing processes and a commitment to accuracy, we encourage you to apply. Join a team that values precision and supports the delivery of high-quality patient care.",
+    "contractType": "Contract",
+    "salaryShort": "$27-$29/hr",
+    "requirements": [
+      "Proven experience as a Credentialing Specialist or in a similar administrative role within healthcare",
+      "Familiarity with credentialing processes and regulatory standards",
+      "Strong organizational skills and attention to detail",
+      "Excellent communication and interpersonal abilities",
+      "Proficiency in relevant software and database management"
+    ],
+    "salaryOrBonusInfo": "$27-$29/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_credentialing_specialist___27__29_hr__07_20_2026_to_09_12_2026___new_york__ny"
+  },
+  {
+    "roleTitle": "Oracle HCM Solutions Analyst",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "A leading healthcare organization",
+    "description": "Join a leading healthcare organization in New York, NY, as an Oracle HCM Solutions Analyst for an initial contract from July 13, 2026, to September 5, 2026. This is an exciting opportunity to contribute to the optimization and support of critical human capital management systems within a dynamic environment.\n\nIn this role, you will be instrumental in analyzing business requirements, configuring Oracle HCM Cloud modules, and providing ongoing support to ensure seamless HR operations. Your expertise will help enhance system functionality and user experience, directly impacting the organization's ability to manage its workforce effectively.\n\nWe are seeking a dedicated professional with a strong understanding of Oracle HCM and a passion for leveraging technology to solve complex HR challenges. If you are ready to make a significant impact during this focused contract period, we encourage you to apply.",
+    "contractType": "Contract",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as an Oracle HCM Solutions Analyst or similar role",
+      "In-depth knowledge of Oracle HCM Cloud modules (e.g., Core HR, Payroll, Benefits)",
+      "Strong analytical, problem-solving, and communication skills",
+      "Ability to translate business requirements into technical solutions",
+      "Experience with system configuration, testing, and user support"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "oracle_hcm_solutions_analyst__initial_contract_07_13_2026_to_09_05_2026___new_york__ny"
+  },
+  {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Westminster, CO",
+    "facilityType": "Public School District",
+    "description": "Join a dedicated team within a public school district in Westminster, CO, as a School Psychologist. This contract role offers a competitive rate of $60 per hour or more, providing an excellent opportunity to make a significant impact on student well-being and academic success. The position is scheduled to begin on August 5, 2026, and will run for 43 weeks, aligning with the academic calendar.\n\nIn this vital role, you will be instrumental in supporting students' mental health, learning, and behavioral development. You will collaborate with educators, parents, and other professionals to create supportive learning environments and implement effective interventions. This is a chance to apply your expertise in a dynamic educational setting, contributing to a positive and inclusive school community.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology",
+      "Valid Colorado School Psychologist license or certification",
+      "Experience with psychological assessments, evaluations, and intervention strategies",
+      "Knowledge of relevant state and federal regulations (e.g., IDEA)",
+      "Strong communication and collaboration skills"
+    ],
+    "salaryOrBonusInfo": "$60/hr+",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___60_hr___08_05_26___43_weeks__westminster_public_schools_westminster__co"
+  },
+  {
+    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Westminster, CO",
+    "facilityType": "Public School District",
+    "description": "Join a dedicated team within a public school district in Westminster, CO, as a Speech Language Pathologist. This contract role offers a competitive rate of $60/hr+ for a 43-week assignment, starting August 5, 2026. You will play a crucial role in supporting students' communication development within an educational setting.This is an excellent opportunity for an SLP looking for a rewarding contract position with a clear start date and duration. We are seeking a passionate professional committed to making a positive impact on students' lives.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current Colorado SLP license",
+      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
+      "Experience working with school-aged children",
+      "Ability to collaborate with educators and parents"
+    ],
+    "salaryOrBonusInfo": "$60/hr+",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_speech_language_pathologist_school___60_hr___08_05_26___43_weeks__westminster_public_schools_westminster__co"
+  },
+  {
+    "roleTitle": "Special Education Teacher",
+    "roleType": "Other",
+    "location": "Thornton, CO",
+    "facilityType": "Middle School",
+    "description": "Join a dedicated team in Thornton, CO as a Special Education Teacher. This contract role offers a competitive rate of $50/hr+ for a 43-week assignment, starting July 29, 2026. You will play a crucial role in supporting students within a middle school environment, fostering an inclusive and effective learning experience. We are seeking a passionate educator committed to making a difference in students' lives. This is an excellent opportunity to contribute your expertise in a supportive setting, ensuring that all students receive the individualized attention and resources they need to thrive academically and personally.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid Special Education teaching certification",
+      "Bachelor's or Master's degree in Special Education or a related field",
+      "Experience working with middle school-aged students",
+      "Ability to develop and implement Individualized Education Programs (IEPs)",
+      "Strong communication and collaboration skills"
+    ],
+    "salaryOrBonusInfo": "$50/hr+",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_special_education_teacher____50_hr___7_29_26___43_weeks__rocky_top_middle_school_thornton__co"
   }
 ]
