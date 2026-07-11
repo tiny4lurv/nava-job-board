@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead our clinical team at a premier health and rehabilitation center in Mediapolis, IA. This is a pivotal leadership opportunity for a Registered Nurse passionate about delivering exceptional patient care and fostering a supportive environment for nursing staff. You will play a critical role in shaping the quality of care and operational excellence within our facility.\n\nAs the Director of Nursing, you will oversee all nursing operations, ensuring compliance with state and federal regulations while maintaining high standards of clinical practice. This role offers a competitive salary range of $85,000 - $95,000 per year, reflecting your expertise and leadership contributions. We are looking for a leader who can inspire and guide our nursing team to achieve outstanding outcomes.\n\nThis is an urgent opening, and we are actively seeking qualified candidates to join our team. If you are a visionary nursing leader ready to make a significant impact, we encourage you to apply promptly.",
+    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier health and rehabilitation center in Mediapolis, IA. This pivotal role offers the opportunity to oversee all nursing operations, ensuring the delivery of exceptional patient care and maintaining high standards of clinical excellence. The ideal candidate will be a compassionate leader committed to fostering a supportive and professional environment for both staff and residents.This is an urgent opening, and we are looking to fill this critical leadership position promptly. Join a facility that values quality care and professional growth, where your expertise will directly impact the well-being of residents. We offer a competitive salary and the chance to make a significant difference in a vibrant healthcare setting.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa",
-      "Minimum of 2-3 years of nursing leadership experience, preferably in a skilled nursing facility",
-      "Strong knowledge of state and federal healthcare regulations",
+      "Active Registered Nurse (RN) license in Iowa",
+      "Minimum of 2-3 years of nursing leadership experience, preferably in a long-term care or skilled nursing facility setting",
+      "Strong understanding of state and federal regulations governing skilled nursing facilities",
       "Demonstrated ability to manage and mentor nursing staff",
-      "Excellent communication, organizational, and problem-solving skills"
+      "Excellent clinical assessment and critical thinking skills"
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $85,000 to $95,000 annually, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Compensation ranges from $85,000 to $95,000 annually, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Credentialing Specialist",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "A premier healthcare organization",
+    "description": "We are seeking a dedicated Credentialing Specialist for a contract role in New York, NY. This position is crucial for ensuring that our healthcare providers meet all necessary qualifications and regulatory standards, contributing to the high quality of care we provide. If you are meticulous, organized, and have a strong background in healthcare credentialing, we encourage you to apply.\n\nThis is a contract opportunity from July 20, 2026, to September 12, 2026, offering a competitive hourly rate of $27-$29. Join a dynamic team where your expertise will directly impact our operational efficiency and compliance.",
+    "contractType": "Contract",
+    "salaryShort": "$27-$29/hr",
+    "requirements": [
+      "2+ years of experience in healthcare credentialing",
+      "Proficiency with credentialing software and databases",
+      "Strong understanding of credentialing standards (e.g., NCQA, JCAHO)",
+      "Excellent organizational and communication skills",
+      "High School Diploma or equivalent"
+    ],
+    "salaryOrBonusInfo": "$27-$29/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_credentialing_specialist___27__29_hr__07_20_2026_to_09_12_2026___new_york__ny"
   }
 ]
