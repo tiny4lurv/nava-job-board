@@ -4,37 +4,56 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier health and rehabilitation center in Mediapolis, IA. This pivotal role offers the opportunity to oversee all nursing operations, ensuring the delivery of exceptional patient care and maintaining high standards of clinical excellence. The ideal candidate will be a compassionate leader committed to fostering a supportive and professional environment for both staff and residents.This is an urgent opening, and we are looking to fill this critical leadership position promptly. Join a facility that values quality care and professional growth, where your expertise will directly impact the well-being of residents. We offer a competitive salary and the chance to make a significant difference in a vibrant healthcare setting.",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center. This pivotal leadership role offers the opportunity to shape the future of patient care, ensuring the highest standards of quality and compliance.\n\nAs the Director of Nursing, you will oversee all nursing operations, staff development, and regulatory adherence. This is an urgent opening for a leader passionate about making a significant impact on residents' lives and fostering a supportive environment for healthcare professionals. We offer a competitive annual salary range of $85,000 - $95,000.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2-3 years of nursing leadership experience, preferably in a long-term care or skilled nursing facility setting",
-      "Strong understanding of state and federal regulations governing skilled nursing facilities",
-      "Demonstrated ability to manage and mentor nursing staff",
-      "Excellent clinical assessment and critical thinking skills"
+      "Active and unencumbered Registered Nurse (RN) license in the state of Iowa.",
+      "Minimum of 2-3 years of experience in a nursing leadership role, preferably as a Director of Nursing or Assistant Director of Nursing.",
+      "Demonstrated experience in a skilled nursing facility or long-term care setting.",
+      "Strong knowledge of state and federal healthcare regulations and compliance standards.",
+      "Excellent leadership, communication, and organizational skills."
     ],
-    "salaryOrBonusInfo": "Compensation ranges from $85,000 to $95,000 annually, based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Credentialing Specialist",
-    "roleType": "Support",
-    "location": "New York, NY",
-    "facilityType": "A premier healthcare organization",
-    "description": "We are seeking a dedicated Credentialing Specialist for a contract role in New York, NY. This position is crucial for ensuring that our healthcare providers meet all necessary qualifications and regulatory standards, contributing to the high quality of care we provide. If you are meticulous, organized, and have a strong background in healthcare credentialing, we encourage you to apply.\n\nThis is a contract opportunity from July 20, 2026, to September 12, 2026, offering a competitive hourly rate of $27-$29. Join a dynamic team where your expertise will directly impact our operational efficiency and compliance.",
-    "contractType": "Contract",
-    "salaryShort": "$27-$29/hr",
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Are you an experienced Registered Nurse with a passion for leadership and quality patient care? A premier skilled nursing facility in Olathe, KS, is seeking a dedicated Assistant Director of Nursing (ADON) to join their compassionate team. This is an exceptional opportunity to advance your career and make a significant impact on resident well-being.In this vital leadership role, you will support the Director of Nursing in overseeing daily clinical operations, ensuring the highest standards of care are met. You will play a key role in staff supervision, training, and development, fostering a collaborative and supportive environment. We are looking for a proactive leader who is committed to excellence and continuous improvement.This full-time position offers a competitive salary range of $75,000 - $85,000 per year, reflecting your expertise and dedication. If you are an RN ready to take on a challenging yet rewarding leadership position, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "2+ years of experience in healthcare credentialing",
-      "Proficiency with credentialing software and databases",
-      "Strong understanding of credentialing standards (e.g., NCQA, JCAHO)",
-      "Excellent organizational and communication skills",
-      "High School Diploma or equivalent"
+      "Valid Registered Nurse (RN) license in Kansas",
+      "Prior experience in a skilled nursing or long-term care setting",
+      "Demonstrated leadership or supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Commitment to providing high-quality patient care"
     ],
-    "salaryOrBonusInfo": "$27-$29/hr",
+    "salaryOrBonusInfo": "Compensation: $75,000 - $85,000 per year",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "am_credentialing_specialist___27__29_hr__07_20_2026_to_09_12_2026___new_york__ny"
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator to join a premier skilled nursing facility in Olathe, KS. In this full-time role, you will be instrumental in ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, care plans, and related documentation. Your expertise will contribute significantly to resident care planning, regulatory compliance, and reimbursement processes.This position offers a competitive hourly rate of $36-$40, reflecting your valuable skills and commitment. We are looking for a professional who thrives in a collaborative environment and is passionate about making a difference in the lives of residents. If you are an RN with a strong background in MDS, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $40.00/hr",
+    "requirements": [
+      "Current Registered Nurse (RN) license (preferred)",
+      "Proven experience as an MDS Coordinator in a skilled nursing facility",
+      "In-depth knowledge of MDS 3.0 and federal/state regulations",
+      "Strong assessment, documentation, and organizational skills",
+      "Ability to collaborate effectively with interdisciplinary teams"
+    ],
+    "salaryOrBonusInfo": "$36.00 - $40.00 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
   }
 ]
