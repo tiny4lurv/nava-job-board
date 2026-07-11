@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Mediapolis, IA. This is an exceptional opportunity for a visionary nursing leader to make a significant impact on patient care and staff development within a supportive environment.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring the highest standards of care, and fostering a positive and collaborative work culture. This role offers a competitive annual salary range of $85,000 - $95,000, reflecting your expertise and commitment to excellence. Join a team that values quality, compassion, and professional growth.",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers the opportunity to make a significant impact on patient care and staff development within a supportive environment. The ideal candidate will be passionate about delivering high-quality healthcare and fostering a collaborative team culture.\nAs the DON, you will be responsible for overseeing all nursing operations, ensuring compliance with state and federal regulations, and maintaining exceptional standards of care. You will play a crucial role in staff management, training, and performance evaluation, contributing to a positive and productive work environment. This is an urgent opening, and we are looking to fill this position quickly with a qualified professional.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license in the state of Iowa",
-      "Minimum of 2-3 years of experience in a nursing leadership role, preferably in long-term care or skilled nursing",
-      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
-      "Demonstrated ability to lead, mentor, and manage a diverse nursing team",
-      "Excellent communication, organizational, and interpersonal skills"
+      "Active Registered Nurse (RN) license in Iowa",
+      "Minimum of 2-3 years of experience as a Director of Nursing or Assistant Director of Nursing in a skilled nursing facility",
+      "Strong leadership and management skills",
+      "In-depth knowledge of state and federal regulations for long-term care",
+      "Excellent communication and interpersonal abilities"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000 based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier skilled nursing facility in Olathe, KS. This vital leadership role offers a competitive salary range of $75,000 - $85,000 per year, reflecting your expertise and commitment to exceptional patient care. If you are an RN with a passion for leadership and a desire to make a significant impact, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of care for our residents. This is an excellent opportunity to advance your career within a supportive and dynamic environment. We are looking for a professional who is ready to contribute to a team-oriented culture focused on quality outcomes and staff development.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Previous experience in a skilled nursing or long-term care facility",
+      "Demonstrated leadership or supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal regulations governing skilled nursing facilities"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $75,000 to $85,000 annually, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
   }
 ]
