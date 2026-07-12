@@ -4,18 +4,55 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a reputable skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a compassionate and strategic nursing leader to make a significant impact on patient care and staff development.\n\nThe ideal candidate will be responsible for overseeing all nursing operations, ensuring the highest standards of care, and maintaining regulatory compliance. This vital leadership role offers a competitive salary range of $85,000 - $95,000 per year, reflecting the importance of this position. We are looking to fill this role quickly with a passionate professional committed to excellence.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to shape the quality of patient care and foster a supportive environment for both residents and staff. The ideal candidate will be a visionary leader committed to upholding the highest standards of nursing practice.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and driving continuous improvement in patient outcomes. This role is crucial for maintaining a high level of care and operational excellence. We are looking to fill this role quickly with a passionate and qualified professional.\n\nThis position offers a competitive annual salary range of $85,000 - $95,000, reflecting your expertise and commitment to exceptional healthcare leadership.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2-3 years of nursing leadership experience, preferably in a skilled nursing or long-term care setting",
-      "Strong knowledge of state and federal regulations for skilled nursing facilities",
-      "Proven ability to manage and mentor nursing staff",
-      "Excellent communication and organizational skills"
+      "Active and unrestricted Registered Nurse (RN) license in the state of Iowa.",
+      "Minimum of 3-5 years of progressive nursing experience, with at least 2 years in a leadership or supervisory role within a skilled nursing or long-term care setting.",
+      "Comprehensive understanding of state and federal regulations governing skilled nursing facilities.",
+      "Proven ability to effectively manage nursing operations, staff, and patient care initiatives."
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Olathe, KS. This vital leadership role involves supporting the Director of Nursing in overseeing clinical operations, ensuring the highest standards of patient care, and fostering a positive environment for both residents and staff. You will play a crucial part in maintaining regulatory compliance and driving continuous quality improvement initiatives.\n\nThis is an excellent opportunity for an RN with leadership aspirations or experience to make a significant impact. The role offers a competitive salary range of $75,000 - $85,000 per year, reflecting your expertise and commitment to exceptional healthcare. Join a team that values compassion, excellence, and professional growth.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license",
+      "Previous experience in a skilled nursing or long-term care setting",
+      "Demonstrated leadership or supervisory experience in nursing",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal healthcare regulations"
+    ],
+    "salaryOrBonusInfo": "$75,000 - $85,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier health and rehabilitation center in Missouri Valley, IA, as an MDS Coordinator (RN). This is an excellent opportunity for a dedicated Registered Nurse to play a crucial role in patient care planning and regulatory compliance within a supportive environment.As an MDS Coordinator, you will be responsible for completing and coordinating the Minimum Data Set (MDS) assessments, ensuring accurate and timely submission. Your expertise will be vital in developing comprehensive care plans that reflect the needs of our residents and meet all federal and state guidelines.We are actively seeking a qualified professional to fill this urgent opening. If you are an experienced RN with a passion for quality care and compliance, we encourage you to apply today.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active and unrestricted Registered Nurse (RN) license",
+      "Minimum of 1-2 years of experience as an MDS Coordinator or in a similar role",
+      "Proficiency with MDS 3.0 and the Resident Assessment Instrument (RAI) process",
+      "Strong understanding of federal and state regulations for skilled nursing facilities",
+      "Excellent assessment, documentation, and communication skills"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
   }
 ]
