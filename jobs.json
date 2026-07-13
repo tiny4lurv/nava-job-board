@@ -4,36 +4,36 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers a competitive annual salary range of $85,000 - $95,000, reflecting the importance of this position in ensuring exceptional patient care and operational excellence.As the Director of Nursing, you will be instrumental in overseeing all nursing operations, maintaining high standards of care, and fostering a supportive environment for both residents and staff. This is an excellent opportunity for a visionary nursing leader to make a significant impact within a compassionate and resident-focused setting. We are looking for a candidate who is ready to contribute their expertise and drive positive outcomes.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier skilled nursing facility. This is an immediate opening for a visionary leader who is passionate about delivering exceptional patient care and fostering a supportive environment for staff.\n\nAs the Director of Nursing, you will be instrumental in overseeing all nursing operations, ensuring compliance with regulatory standards, and driving continuous quality improvement initiatives. This role offers a competitive annual salary range of $85,000 - $95,000, reflecting your expertise and commitment to excellence. Join a team that values your leadership and dedication to resident well-being.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa.",
-      "Minimum of 2-3 years of experience in a nursing leadership role, such as Director of Nursing or Assistant Director of Nursing.",
-      "Demonstrated experience within a skilled nursing facility or long-term care environment.",
-      "Comprehensive understanding of state and federal healthcare regulations and compliance standards.",
-      "Proven ability to lead, mentor, and manage a diverse nursing team effectively."
+      "Active Registered Nurse (RN) license",
+      "Minimum of 2 years of experience in a supervisory role within a skilled nursing facility or long-term care setting",
+      "Demonstrated leadership and management skills",
+      "Strong understanding of state and federal regulations governing nursing facilities",
+      "Excellent communication and interpersonal abilities"
     ],
     "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
   },
   {
-    "roleTitle": "Assistant Director of Nursing (ADON)",
-    "roleType": "Leadership",
-    "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Oakland, MD. This vital leadership role offers the opportunity to significantly impact patient care and support a compassionate nursing team within a dynamic environment.As the ADON, you will collaborate closely with the Director of Nursing to oversee daily operations, ensure regulatory compliance, and maintain the highest standards of clinical excellence. Your responsibilities will include supervising nursing staff, participating in care planning, and fostering a positive and productive work atmosphere.This full-time position offers an attractive annual salary range of $75,000 to $85,000. If you are a passionate RN with leadership aspirations and a commitment to quality care, we encourage you to apply and become a key part of our team.",
-    "contractType": "Full-time",
-    "salaryShort": "$75,000 - $85,000 per year",
+    "roleTitle": "Internal Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Family Health Services Center",
+    "description": "We are seeking a dedicated Internal Medicine Physician to join a thriving family health services center in Greenville, SC. This role offers a unique opportunity to provide comprehensive medical care within a supportive community environment. We are open to considering candidates for part-time, PRN, or contract positions, with a preference for full-time commitment.\n\nThis position comes with a highly competitive compensation package, starting at $210,000 annually, complemented by a robust bonus structure that can reach up to $50,000. This includes a guaranteed bonus of $25,000 and an additional $25,000 in potential bonuses, with $9,000 available on the first payday upon signing a promissory note. The role also boasts excellent benefits and generous Paid Time Off (PTO), making it an attractive opportunity for physicians looking for a rewarding career.",
+    "contractType": "Part-time, PRN, Contract",
+    "salaryShort": "$210,000+ per year",
     "requirements": [
-      "Current Registered Nurse (RN) license in Maryland",
-      "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing setting",
-      "Prior supervisory or leadership experience preferred",
-      "Strong understanding of state and federal healthcare regulations"
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board certification or eligibility in Family Medicine, Internal Medicine, or Med/Pediatrics",
+      "Current, unrestricted medical license in the state of South Carolina",
+      "Ability to work in a part-time, PRN, or contract capacity"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $75,000 to $85,000, based on experience.",
+    "salaryOrBonusInfo": "Compensation starts at $210,000 annually, with a guaranteed $25,000 bonus and an additional $25,000 in potential bonuses. A $9,000 portion of the bonus is available on the first payday upon signing a promissory note. Total bonus structure can reach up to $50,000.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_adon___75k__85k__dennett_rehab_center_oakland__md"
+    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
   }
 ]
