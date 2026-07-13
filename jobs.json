@@ -4,16 +4,16 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a highly skilled and dedicated Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers a competitive annual salary ranging from $85,000 to $95,000, reflecting our commitment to attracting top talent.As the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring the highest standards of patient care, and fostering a supportive and efficient work environment. You will play a crucial role in maintaining regulatory compliance and driving continuous quality improvement initiatives.If you are a passionate and experienced nursing leader ready to make a significant impact on the lives of residents and the success of our facility, we encourage you to apply promptly.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers the opportunity to oversee all nursing operations, ensuring the delivery of high-quality patient care and maintaining compliance with all regulatory standards. You will be instrumental in fostering a positive and supportive environment for both residents and staff.\n\nThis is an excellent opportunity for a compassionate and driven nursing leader to make a significant impact on the lives of residents. We offer a competitive annual salary range and a chance to join a team committed to excellence in long-term care.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Valid Registered Nurse (RN) license.",
-      "Proven experience in a nursing leadership role, preferably in a skilled nursing facility.",
-      "Strong understanding of long-term care regulations and standards.",
-      "Ability to lead and mentor a team of nursing professionals."
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2 years of experience as a Director of Nursing or Assistant Director of Nursing in a skilled nursing facility",
+      "Demonstrated leadership, communication, and organizational skills",
+      "Thorough knowledge of state and federal regulations governing long-term care"
     ],
-    "salaryOrBonusInfo": "Competitive annual salary ranging from $85,000 to $95,000.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
   },
@@ -22,18 +22,389 @@
     "roleType": "Leadership",
     "location": "Olathe, KS",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center in Olathe, KS, as an Assistant Director of Nursing (ADON). This pivotal leadership role offers the opportunity to significantly impact patient care and support our nursing team, ensuring the highest standards of clinical excellence and operational efficiency.\n\nAs an ADON, you will play a crucial role in overseeing daily nursing operations, staff development, and quality assurance. We offer a competitive salary range of $75,000 - $85,000 per year for this full-time position, reflecting your expertise and commitment to our mission. Join a supportive environment where your leadership skills will be valued and contribute directly to the well-being of our residents.",
+    "description": "We are seeking a dedicated and experienced Registered Nurse to step into a leadership role as an Assistant Director of Nursing (ADON) at a premier health and rehabilitation center in Olathe, KS. This is an exceptional opportunity for an RN with a passion for clinical excellence and team leadership to make a significant impact on patient care and operational efficiency.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of care are maintained. We are looking for a proactive leader who can inspire staff, manage resources effectively, and contribute to a positive and supportive environment. This position offers a competitive salary and the chance to advance your career within a dynamic healthcare setting.",
     "contractType": "Full-time",
     "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Kansas",
-      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing or long-term care setting",
-      "Prior leadership or supervisory experience in a healthcare environment",
-      "Strong clinical assessment and critical thinking skills",
-      "Excellent communication and interpersonal abilities"
+      "Active Registered Nurse (RN) license in the state of Kansas.",
+      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing facility.",
+      "Prior leadership or supervisory experience in a healthcare setting.",
+      "Strong clinical assessment, organizational, and communication skills."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience within the range of $75,000 - $85,000 per year.",
+    "salaryOrBonusInfo": "Compensation: $75,000 - $85,000 per year, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "A premier health and rehabilitation center",
+    "description": "We are actively seeking a dedicated Full-time MDS Coordinator to join a leading health and rehabilitation center in Olathe, KS. This is an excellent opportunity for a skilled professional to contribute to resident care and facility compliance, offering a competitive hourly rate.\n\nAs an MDS Coordinator, you will play a critical role in ensuring accurate and timely resident assessments, developing comprehensive care plans, and maintaining compliance with all federal and state regulations. Your expertise will directly impact the quality of care provided to residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $40.00/hr",
+    "requirements": [
+      "Registered Nurse (RN) license preferred",
+      "Prior experience as an MDS Coordinator in a skilled nursing facility",
+      "Proficiency with MDS 3.0 and the Resident Assessment Instrument (RAI) process",
+      "Strong understanding of federal and state regulations governing long-term care"
+    ],
+    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $36.00 - $40.00.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Interim MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Interim MDS Coordinator to join a premier skilled nursing facility in Olathe, KS. This vital role involves overseeing the Minimum Data Set (MDS) process, ensuring accurate and timely completion of assessments to support comprehensive care planning and regulatory compliance. You will play a crucial part in coordinating patient assessments and contributing to the overall quality of care.\n\nThe ideal candidate will be responsible for managing the MDS schedule, conducting assessments, and collaborating with the interdisciplinary team to ensure all documentation reflects the resident's condition and care needs. This interim position offers an excellent opportunity to apply your expertise in a dynamic healthcare environment.",
+    "contractType": "Interim",
+    "salaryShort": "",
+    "requirements": [
+      "Current Registered Nurse (RN) license (preferred)",
+      "Proven experience as an MDS Coordinator in a skilled nursing facility",
+      "In-depth knowledge of the RAI process, Medicare, and Medicaid regulations",
+      "Strong organizational skills and attention to detail",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_mds__rn_preferred__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a permanent, full-time opportunity for a leader committed to long-term engagement and exceptional patient care. If you are passionate about making a lasting impact in a supportive environment, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in overseeing clinical operations, ensuring the highest standards of care, and supporting our nursing team. This position offers a chance to contribute significantly to the facility's success and the well-being of its residents, without the constraints of interim assignments.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license",
+      "Previous leadership or supervisory experience in a skilled nursing facility",
+      "Commitment to a permanent, full-time position (no interim candidates)",
+      "Strong clinical assessment and critical thinking skills",
+      "Knowledge of state and federal regulations for long-term care"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__permenant_only__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Registered Nurse (RN) to join a premier skilled nursing facility in Missouri Valley, IA, as an MDS Coordinator. This is an excellent opportunity for an experienced RN to play a critical role in resident care assessment and compliance within a supportive environment.As an MDS Coordinator, you will be responsible for completing and coordinating the Minimum Data Set (MDS) assessments, developing individualized care plans, and ensuring regulatory compliance. Your expertise will be vital in accurately reflecting resident needs and optimizing care outcomes.This full-time position offers a competitive annual salary of $65,000 - $75,000. We are looking for a committed professional ready to make a long-term impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Current and unrestricted Registered Nurse (RN) license",
+      "Proven experience as an MDS Coordinator in a skilled nursing or long-term care setting",
+      "Comprehensive knowledge of the MDS 3.0 and the Resident Assessment Instrument (RAI) process",
+      "Familiarity with state and federal regulations governing long-term care",
+      "Commitment to a full-time, permanent role"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Med-Peds Physician (Internal Medicine-Pediatrics)",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Community Health Center",
+    "description": "Join a premier community health center in Greenville, SC, as a Med-Peds Physician. This is an exceptional opportunity to provide comprehensive care within a supportive and dynamic environment. We are seeking dedicated MDs or DOs to contribute to our mission of delivering high-quality healthcare to families.This role offers a highly competitive compensation package, including a base salary of $210,000, a guaranteed $25,000 bonus, and an additional $25,000 in potential bonuses. A $9,000 sign-on/relocation bonus is available, payable on your first day with a signed promissory note. We also provide excellent benefits, generous paid time off, and a revamped compensation structure designed to reward your expertise. Relocation assistance is available for qualified candidates.",
+    "contractType": "Full-time",
+    "salaryShort": "$210,000 - $260,000 per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Internal Medicine, Pediatrics, or Med-Peds",
+      "Current, unrestricted medical license in South Carolina (or ability to obtain)",
+      "Experience in Family Medicine is preferred"
+    ],
+    "salaryOrBonusInfo": "Base salary of $210,000 with a $25,000 guaranteed bonus and an additional $25,000 in potential bonuses. A $9,000 sign-on/relocation bonus is available, payable on day one with a signed promissory note. Total compensation can reach up to $260,000 annually.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Family Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Family Health Center",
+    "description": "Join a dedicated team at a reputable Family Health Center in Greenville, SC, as a Family Medicine Physician. This is an exceptional opportunity to provide comprehensive care within a supportive environment, offering significant compensation and benefits designed to attract top talent.\n\nThis role offers a highly competitive compensation package starting at $210,000 per year. You'll also benefit from a guaranteed bonus of $25,000, with an additional potential bonus of $25,000. A $9,000 sign-on/relocation bonus is available, payable on your first day upon signing a promissory note. The facility provides great benefits and generous paid time off, and is open to candidates requiring travel or relocation assistance.\n\nWe are seeking dedicated physicians who are passionate about patient care and eager to contribute to a thriving practice. If you are an MD or DO with a focus on Family Medicine, Internal Medicine, or Med/Ped, we encourage you to explore this rewarding opportunity.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Family Medicine (preferred), Internal Medicine, or Med/Ped",
+      "Active South Carolina medical license or eligibility for licensure",
+      "Openness to travel or relocation"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a guaranteed bonus of $25,000 and an additional potential bonus of $25,000. A $9,000 sign-on/relocation bonus is available, payable on day one with a promissory note. Great benefits and generous PTO are also offered.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Community Health Center",
+    "description": "An exciting opportunity is available for an Internal Medicine Physician in Greenville, SC. This role offers a highly competitive compensation package and excellent benefits within a dynamic community health center environment. While full-time is preferred, we are open to considering part-time, PRN, or contract arrangements to find the right candidate.\nYou will join a team dedicated to providing comprehensive care, benefiting from a revamped compensation and raise structure. The position comes with great benefits and generous paid time off, ensuring a healthy work-life balance.\nWe are actively seeking talented physicians and are open to candidates requiring travel or relocation assistance. This is a chance to make a significant impact while advancing your career with a supportive organization.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification/Eligibility in Family Medicine, Internal Medicine, or Med/Peds (Family Medicine preferred)",
+      "Ability to obtain or hold a valid medical license in South Carolina",
+      "Open to candidates seeking travel or relocation"
+    ],
+    "salaryOrBonusInfo": "This role offers a non-negotiable base salary of $210,000 per year. The compensation package includes a robust bonus structure up to $50,000, comprising a $25,000 guaranteed bonus and an additional $25,000 potential bonus. Up to $9,000 of this bonus is allocated for relocation/sign-on, with a portion available on day one upon signing a promissory note.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Med-Peds Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Community Health Center",
+    "description": "We are seeking a dedicated and compassionate Med-Peds Physician to join a premier health services provider in Greenville, SC. This role offers a highly competitive compensation package starting at $210,000 annually, complemented by a robust bonus structure. Candidates will benefit from excellent benefits, including generous Paid Time Off (PTO), and the opportunity to work in a supportive environment focused on patient care.\n\nThis position is primarily full-time, but we are open to considering part-time, PRN, or contract arrangements for the right candidate. We are actively looking for physicians specializing in Family Medicine (preferred), Internal Medicine, or Med-Peds. Relocation assistance and sign-on bonuses are available to support your transition.\n\nJoin a team that values your expertise and offers a revamped compensation and raise structure, ensuring your contributions are recognized and rewarded. This is an urgent opening, and we encourage qualified candidates to apply promptly.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Family Medicine, Internal Medicine, or Med-Peds",
+      "Ability to obtain or hold a valid medical license in South Carolina",
+      "Openness to travel or relocation"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $210,000 annually, with a total bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and a $25,000 potential bonus. A $9,000 sign-on/relocation bonus is available on payday 1 upon signing a promissory note.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician (MD)",
+    "roleType": "Floor Staff",
+    "location": "NYC, NY",
+    "facilityType": "Specialized Medical Group",
+    "description": "We are seeking a dedicated Internal Medicine Physician (MD) to join a specialized medical group in New York City. This role offers a competitive compensation package, with a base salary around $180,000 per year, heavily supplemented by performance-based bonuses. This is an excellent opportunity for a physician looking to focus on workers' compensation and no-fault cases.\n\nThe ideal candidate will be WCB certified and possess significant experience in workers' compensation or NF/Lien cases. You will be part of a dynamic team serving patients across various locations. Please note that this practice does not work with major medical insurances, Medicare, or Medicaid. The ability to work weekends is a key requirement for this position.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree",
+      "Current and unrestricted medical license in New York State",
+      "WCB (Workers' Compensation Board) certification",
+      "Proven experience in workers' compensation or NF/Lien cases",
+      "Ability to work weekends"
+    ],
+    "salaryOrBonusInfo": "Compensation around $180,000 per year, with a heavy emphasis on performance-based bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "Family Medicine MD",
+    "roleType": "Floor Staff",
+    "location": "NYC, NY",
+    "facilityType": "A multi-location healthcare provider",
+    "description": "We are seeking a dedicated Family Medicine MD to join a premier healthcare provider in New York City. This is an excellent opportunity for a physician who thrives in a dynamic environment and is motivated by a compensation structure heavily weighted towards bonuses.\n\nCandidates must be proficient in handling workers' compensation and NF/Lien cases, as our practice does not engage with major medical insurances, Medicare, or Medicaid. The role requires weekend availability to best serve our patient community.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "MD degree and valid New York state medical license",
+      "Must be WCB certified",
+      "Experience with workers compensation or NF/Lien cases",
+      "Ability to work weekends",
+      "Comfortable working with a patient base that does not involve major medical insurance, Medicare, or Medicaid"
+    ],
+    "salaryOrBonusInfo": "Compensation for this role is approximately $180,000 per year, structured with a strong emphasis on bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Queens, NY",
+    "facilityType": "Rehabilitation Facilities",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team across multiple rehabilitation facilities in Queens, NY. This unique opportunity offers a dynamic work environment where you will rotate between facilities, typically spending 1-2 days a week at each location, including weekends. We are looking for a physician who thrives in a fast-paced setting and is committed to providing exceptional care.This role is ideal for a physician with a strong background in workers' compensation, No-Fault (NF), and Lien cases. Our practice focuses exclusively on these areas, and we do not work with major medical insurances, Medicare, or Medicaid. If you are passionate about rehabilitation and possess the specialized experience to excel in this niche, we encourage you to apply.Compensation for this position is highly competitive, starting at $300,000+ per year, with a significant emphasis on performance-based bonuses. This structure is designed to reward your expertise and dedication, offering substantial earning potential for the right candidate.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Board Certified in Physical Medicine and Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certified",
+      "Minimum of 2 years of experience with Workers' Compensation, No-Fault (NF), or Lien cases",
+      "Ability to work weekends as part of a rotating schedule",
+      "Experience working with non-major medical insurance cases (i.e., not Medicare/Medicaid)"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a very heavy emphasis on performance-based bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Bronx/Westchester, NY",
+    "facilityType": "Multi-site Rehabilitation Practice",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic multi-site rehabilitation practice serving the Bronx and Westchester, NY areas. This is a unique opportunity for a physician to achieve significant earning potential, with compensation exceeding $300,000 annually, heavily weighted towards performance-based bonuses. This non-traveling role (within the specified region) offers a stable environment focused on specialized care.\n\nThe ideal candidate will thrive in a practice exclusively focused on workers' compensation, no-fault, and lien cases. Please note, this practice does not work with major medical insurances, Medicare, or Medicaid. Weekend availability is a key requirement for this role.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Medical Doctor (MD/DO) degree and Board Certification in Physical Medicine & Rehabilitation",
+      "WCB (Workers' Compensation Board) certification is required",
+      "Minimum of 2 years of experience with workers' compensation, no-fault, or lien cases",
+      "Ability to work weekends"
+    ],
+    "salaryOrBonusInfo": "This role offers significant earning potential of $300,000+ annually, with compensation heavily weighted towards performance-based bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Brooklyn, NY",
+    "facilityType": "Rehabilitation Clinic",
+    "description": "Join a premier rehabilitation clinic in Brooklyn, NY, seeking a dedicated PM&R Physician. This role focuses exclusively on Workers' Compensation and No-Fault/Lien cases, offering a unique opportunity to specialize in this critical area of patient care. We do not work with major medical insurances or Medicare/Medicaid.\n\nThe compensation structure for this position is heavily weighted towards bonuses, with a competitive base salary. Candidates must be prepared for weekend work as part of the role's demands.\n\nThis position offers a chance to contribute to a specialized practice environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Must be WCB certified",
+      "2+ years of Workers' Compensation experience",
+      "Experience with No-Fault/Lien cases",
+      "Ability to work weekends"
+    ],
+    "salaryOrBonusInfo": "Compensation is very heavy on bonuses, with a competitive base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Diagnostic Imaging Center",
+    "description": "We are seeking a dedicated and experienced Full-time Remote Radiologist to join our team. This is an excellent opportunity for a New York State licensed professional with expertise in Musculoskeletal (MSK) imaging, specifically within Workers Compensation and No-Fault (NF) cases. You will play a crucial role in providing accurate and timely diagnostic interpretations for a specialized patient population.\n\nThis role offers a unique compensation structure heavily focused on bonuses, with attractive per-read rates. Candidates must be comfortable working weekends and possess a strong background in Workers Compensation or NF/Lien experience, as we do not work with major medical insurances or Medicare/Medicaid.",
+    "contractType": "Full-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/XRay",
+    "requirements": [
+      "Current New York State (NYS) Medical License",
+      "Proficiency in Musculoskeletal (MSK) imaging interpretation",
+      "Demonstrated experience with Workers Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily bonus-based, with rates of $50 per MRI read, $30 per CT read, and $10 per X-Ray read. Experience with Workers Compensation or NF/Lien cases is essential.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Specialized Diagnostic Imaging Service",
+    "description": "We are seeking a dedicated Part-time Remote Radiologist to join a specialized diagnostic imaging service. This is an excellent opportunity for a New York State licensed radiologist with expertise in Musculoskeletal (MSK) imaging, focusing exclusively on Workers' Compensation and No-Fault (NF) cases. This role offers the flexibility of remote work, allowing you to contribute your skills from anywhere.\n\nThis position is structured with a compelling per-case compensation model, designed to be heavily bonus-driven. Candidates must be comfortable working weekends and possess experience with Workers' Compensation and No-Fault/Lien cases. Please note, this service does not handle major medical insurances, Medicare, or Medicaid cases.\n\nIf you are a highly skilled radiologist looking for a flexible, part-time role with a focus on specific case types and a strong bonus potential, we encourage you to apply.",
+    "contractType": "Part-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-Ray",
+    "requirements": [
+      "Current New York State Medical License",
+      "Proficiency in Musculoskeletal (MSK) imaging interpretation",
+      "Demonstrated experience with Workers' Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is structured per-case: $50 per MRI, $30 per CT, and $10 per X-Ray. This role is heavily bonus-driven, with less emphasis on a fixed salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Orthopedic Surgeon",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "A premier medical center",
+    "description": "We are seeking a highly skilled and experienced Orthopedic Surgeon to join a leading medical center in NYC, NY. This is an exceptional opportunity for a dedicated professional to contribute to a dynamic healthcare environment, focusing on patient care and surgical excellence. The role offers a competitive compensation package with a strong emphasis on performance-based bonuses.\n\nThe ideal candidate will possess a robust background in orthopedic surgery, particularly with experience in Workers' Compensation and No-Fault cases. You will be instrumental in providing specialized surgical care, diagnosis, and treatment for patients with musculoskeletal conditions. This position is perfect for a surgeon looking for a challenging yet rewarding role with significant earning potential through a bonus-heavy structure.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000 - $350,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Orthopedic Surgery",
+      "Current, unrestricted medical license in New York",
+      "Minimum of 5 years of post-residency experience as an Orthopedic Surgeon",
+      "Demonstrated experience with Workers' Compensation and No-Fault cases"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $300,000 - $350,000, with compensation heavily weighted towards performance-based bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "orthopedic_surgeon___300k__350k__citimed__based_on_candidate_s_location__nyc__ny"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Are you a dedicated Licensed Practical Nurse looking for a rewarding full-time opportunity? A premier skilled nursing facility in Gulfport, MS, is urgently seeking compassionate LPNs to join their evening team. This role offers a consistent Monday-Friday schedule, providing stability and a chance to make a significant impact on residents' lives.\n\nWe are looking for professionals who are committed to delivering high-quality patient care during the 3 PM - 11 PM shift. If you thrive in a supportive environment and are ready to contribute your skills to a facility focused on resident well-being, we encourage you to apply. This is a fantastic chance to secure a stable full-time position with competitive hourly pay.",
+    "contractType": "Full-time",
+    "salaryShort": "$25-$28/hr",
+    "requirements": [
+      "Active and unrestricted Licensed Practical Nurse (LPN) license in the state of Mississippi.",
+      "Proven experience as an LPN, preferably within a skilled nursing or long-term care environment.",
+      "Ability to commit to a full-time, Monday-Friday, 3 PM - 11 PM shift.",
+      "Strong clinical assessment, documentation, and communication skills.",
+      "Dedication to providing compassionate and high-quality patient care."
+    ],
+    "salaryOrBonusInfo": "$25-$28/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Weekend Med Cart Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Weekend Med Cart Registered Nurse (RN) to join a premier skilled nursing facility in Gulfport, MS. This vital role involves working consistent 12-hour shifts on Saturdays and Sundays, focusing on medication administration and patient care.\n\nThis is a unique opportunity for an RN who thrives in a structured weekend schedule. Please note, this is not a PRN position; we are looking for a committed professional ready to embrace this specific shift pattern. If you are passionate about providing high-quality care and ensuring patient well-being, we encourage you to apply.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Mississippi",
+      "Proven experience with medication administration in a clinical setting",
+      "Ability to commit to working consistent 12-hour shifts on Saturdays and Sundays",
+      "Strong organizational skills and attention to detail"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "weekend_med_cart_rn__sat___sun__12hr__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Certified Medical Coder",
+    "roleType": "Support",
+    "location": "Brooklyn, NY",
+    "facilityType": "A premier healthcare facility",
+    "description": "We are seeking an experienced Certified Medical Coder for a contract role focusing on Outpatient and Emergency Department coding. This is an excellent opportunity to contribute your expertise within a dynamic healthcare environment in Brooklyn, NY, for a contract period from July 20, 2026, to September 12, 2026.\n\nIn this role, you will be responsible for accurately assigning codes for diagnoses and procedures in Outpatient and ED settings, ensuring compliance with all coding guidelines and regulations. We offer a competitive hourly rate of $36-$38 for this engagement.\n\nIf you are a detail-oriented and certified professional looking for a rewarding contract position, we encourage you to apply.",
+    "contractType": "Contract",
+    "salaryShort": "$36-$38/hr",
+    "requirements": [
+      "Active Medical Coder certification (e.g., CPC, CCS)",
+      "Minimum of 2-3 years of experience in Outpatient and Emergency Department coding",
+      "Strong understanding of ICD-10-CM, CPT, and HCPCS coding guidelines",
+      "Proficiency with medical terminology, anatomy, and physiology",
+      "Experience with various EHR systems and coding software"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $36-$38 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_certified_medical_coders___outpatient___ed___36__38_hr__07_20_2026_to_09_12_2026___brooklyn__ny"
+  },
+  {
+    "roleTitle": "Payroll Assistant",
+    "roleType": "Support",
+    "location": "Bronx, NY",
+    "facilityType": "Healthcare Facility",
+    "description": "Join a dynamic healthcare facility in Bronx, NY, as a Payroll Assistant for a temporary contract from July 13, 2026, to September 5, 2026. This role offers a competitive hourly rate of $30-$32 and is crucial for ensuring accurate and timely payroll processing for approximately 1000 employees. You will play a vital role in maintaining the financial well-being of our dedicated staff.In this position, you will be responsible for processing bi-weekly payroll using ADP Workforce Now, verifying timecards, resolving discrepancies, and managing employee status changes. Your expertise will ensure compliance with federal and state payroll regulations, prepare essential reports, and address employee inquiries with professionalism and confidentiality.",
+    "contractType": "Contract",
+    "salaryShort": "$30-$32/hr",
+    "requirements": [
+      "Minimum 3-5 years of experience in payroll processing, preferably in a healthcare setting.",
+      "Proficiency in ADP Workforce Now.",
+      "Strong knowledge of federal and state payroll regulations.",
+      "High School Diploma or equivalent required.",
+      "Excellent attention to detail and accuracy."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $30-$32 per hour.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_payroll_assistant___30__32_hr__8hrs__07_13_2026_to_09_05_2026___bronx__ny"
   }
 ]
