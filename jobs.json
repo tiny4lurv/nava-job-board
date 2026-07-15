@@ -4,17 +4,17 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Are you an experienced Registered Nurse with a passion for leadership and a commitment to exceptional patient care? A premier skilled nursing facility in Mediapolis, IA, is actively seeking a dedicated Director of Nursing (DON) to lead their clinical team. This is an outstanding opportunity to make a significant impact on resident outcomes and foster a culture of excellence within a supportive environment.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring the highest standards of care, and managing clinical staff. We are looking for a visionary leader who can inspire their team and drive continuous improvement. This role offers a competitive annual salary of $85,000 - $95,000, reflecting your expertise and dedication. The facility is eager to fill this vital position quickly, so we encourage prompt applications.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier health and rehabilitation center in Mediapolis, IA. This is an exceptional opportunity for a visionary nursing leader to oversee all nursing operations and ensure the delivery of high-quality patient care.\n\nThe ideal candidate will be passionate about making a significant impact on resident outcomes and staff development. You will play a crucial role in maintaining regulatory compliance and fostering a supportive and efficient work environment. This position offers a competitive salary range of $85,000 - $95,000 per year.\n\nJoin a committed team focused on excellence and continuous improvement. We are looking to fill this vital leadership role quickly, offering a chance to contribute immediately to a thriving healthcare community.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2-3 years of experience in a nursing leadership role, preferably in a skilled nursing facility",
-      "Strong understanding of state and federal regulations governing long-term care",
-      "Proven ability to manage and mentor a diverse clinical team",
-      "Excellent communication and organizational skills"
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Proven experience in a nursing leadership role, preferably as a Director of Nursing or Assistant Director of Nursing",
+      "Minimum of 2-3 years of experience in a skilled nursing facility or long-term care setting",
+      "Strong knowledge of state and federal healthcare regulations and compliance standards",
+      "Excellent leadership, communication, and organizational skills"
     ],
-    "salaryOrBonusInfo": "Competitive annual salary ranging from $85,000 to $95,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
   },
@@ -23,18 +23,375 @@
     "roleType": "Leadership",
     "location": "Olathe, KS",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Registered Nurse Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Olathe, KS. This pivotal leadership role offers a competitive salary range of $75,000 - $85,000 per year, reflecting our commitment to attracting top talent. If you are an RN with a passion for leadership and quality patient care, we encourage you to apply.\n\nAs an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily nursing operations, and ensuring the highest standards of care for our residents. This is an excellent opportunity to advance your career in a supportive environment where your contributions are valued. We are looking for a leader who can inspire and guide our nursing team while maintaining compliance with all regulatory standards.",
+    "description": "We are seeking a dedicated and experienced Registered Nurse Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Olathe, KS. This leadership role is crucial in supporting the Director of Nursing and ensuring the highest standards of patient care and operational excellence within the facility.\n\nAs an ADON, you will play a vital role in supervising nursing staff, managing daily operations, and contributing to the overall quality of life for residents. We are looking for a compassionate leader with a strong clinical background and a commitment to fostering a positive and supportive environment for both staff and patients. This position offers a competitive salary range of $75,000 - $85,000 per year.",
     "contractType": "Full-time",
     "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license in the state of Kansas",
-      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing or long-term care setting",
-      "Previous leadership or supervisory experience in nursing",
-      "Strong knowledge of state and federal healthcare regulations",
-      "Excellent communication, organizational, and interpersonal skills"
+      "Current Registered Nurse (RN) license.",
+      "Prior experience in a skilled nursing or long-term care environment.",
+      "Demonstrated leadership or supervisory experience in a clinical setting.",
+      "Strong understanding of nursing best practices and regulatory compliance."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier health and rehabilitation center in Olathe, KS, as a Full-time MDS Coordinator. We are seeking a dedicated professional, preferably a Registered Nurse, to play a crucial role in our interdisciplinary team. This position offers a competitive hourly rate of $36-$40, reflecting your expertise and commitment to resident care.\n\nAs an MDS Coordinator, you will be responsible for coordinating and completing accurate Minimum Data Set (MDS) assessments, developing comprehensive care plans, and ensuring compliance with all federal and state regulations. Your work will directly impact the quality of care our residents receive and the facility's operational success. We value strong organizational skills, attention to detail, and a collaborative spirit.",
+    "contractType": "Full-time",
+    "salaryShort": "$36-$40 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas (RN preferred)",
+      "Proven experience as an MDS Coordinator, preferably with MDS 3.0",
+      "Strong understanding of the Resident Assessment Instrument (RAI) process and federal/state regulations",
+      "Excellent assessment, care planning, and communication skills",
+      "Experience in a skilled nursing or long-term care setting"
+    ],
+    "salaryOrBonusInfo": "$36-$40 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Interim MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Interim MDS Coordinator, with an RN preferred, to join a reputable skilled nursing facility in Olathe, KS. This interim opportunity is perfect for a professional ready to step in and ensure accurate and timely resident assessments and care planning.In this vital role, you will be responsible for coordinating the Minimum Data Set (MDS) process, ensuring compliance with federal and state regulations, and contributing to the development of comprehensive care plans. Your expertise will be crucial in maintaining high standards of resident care and facility operations.",
+    "contractType": "Interim",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas (or ability to obtain)",
+      "Minimum of 2 years of experience as an MDS Coordinator, preferably in a skilled nursing facility",
+      "Proficiency with MDS 3.0 and care planning processes",
+      "Strong understanding of state and federal regulations related to resident assessment"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_mds__rn_preferred__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a reputable skilled nursing facility in Missouri Valley, IA. This is a pivotal leadership role, offering a permanent opportunity to contribute to a team committed to providing exceptional patient care and fostering a supportive environment for both residents and staff.As the ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily operations, and ensuring the highest standards of clinical excellence. This position is ideal for a seasoned Registered Nurse looking for a stable, long-term career path where their leadership and clinical expertise can make a significant impact. We are specifically looking for candidates committed to a permanent, full-time engagement, ensuring continuity and stability within our care team.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2 years of experience in a supervisory or leadership role within a skilled nursing facility",
+      "Strong knowledge of state and federal long-term care regulations",
+      "Commitment to a permanent, full-time position",
+      "Excellent communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__permenant_only__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Family Medicine Physician (MD)",
+    "roleType": "Floor Staff",
+    "location": "NYC, NY",
+    "facilityType": "Multi-site Medical Practice",
+    "description": "We are seeking a dedicated Family Medicine Physician (MD) to join a premier medical group serving communities across New York City. This role offers a unique opportunity to focus on Workers' Compensation and No-Fault/Lien cases, providing essential care to a specific patient demographic.\n\nThe ideal candidate will thrive in a fast-paced environment and be comfortable working weekends. This position is designed for a physician who is passionate about making a direct impact within the community, without the complexities of major medical insurance, Medicare, or Medicaid billing.\n\nCompensation for this role is highly competitive, with a structure that heavily emphasizes performance-based bonuses, complementing an attractive base salary. Join a team committed to patient-centered care and professional growth.",
+    "contractType": "Full-time",
+    "salaryShort": "$180,000 per year",
+    "requirements": [
+      "Medical Doctor (MD) degree from an accredited institution",
+      "Valid and unrestricted New York State medical license",
+      "Must be Workers' Compensation Board (WCB) certified",
+      "Demonstrated experience with Workers' Compensation or No-Fault/Lien cases",
+      "Ability to work weekends as required"
+    ],
+    "salaryOrBonusInfo": "Compensation is structured with a strong emphasis on bonuses, with an estimated base salary of $180,000 per year.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "family_medicine_md____180k__locations__harlem_bronx__brooklyn__queens__long_island__nyc__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Queens, NY",
+    "facilityType": "Rehabilitation Centers",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join our team in Queens, NY. This unique opportunity involves working across a few rehabilitation centers, typically 1-2 days a week at each facility, with weekend availability required. This role offers a highly attractive compensation package, heavily weighted towards bonuses, with an earning potential of $300,000+ per year. We are specifically looking for a physician with a strong background in workers' compensation, no-fault, or lien cases, as we do not work with major medical insurances, Medicare, or Medicaid. If you are passionate about providing specialized care in a dynamic environment and thrive on a bonus-driven structure, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Board Certified PM&R Physician",
+      "WCB (Workers' Compensation Board) certification required",
+      "Minimum of 2 years of experience in Workers' Compensation, No-Fault (NF), or Lien cases",
+      "Ability to work weekends and rotate between multiple facilities",
+      "Comfortable working exclusively with Workers' Compensation, No-Fault, and Lien cases; no major medical, Medicare, or Medicaid patients"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily weighted towards bonuses, with an earning potential of $300,000+ per year.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Bronx/Westchester, NY",
+    "facilityType": "Rehabilitation Clinics",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic team across multiple rehabilitation clinics in the Bronx and Westchester, NY areas. This non-traveling role offers a unique opportunity to focus on workers' compensation and no-fault/lien cases, providing specialized care to patients recovering from injuries.\n\nThis position is ideal for a physician who thrives in a fast-paced environment and is committed to delivering exceptional patient outcomes. You will be an integral part of a collaborative healthcare network, contributing to patient recovery and rehabilitation. The role offers a highly attractive compensation package with significant bonus potential, reflecting the value placed on your expertise and contributions. Weekend availability is a key aspect of this role.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Board Certified/Eligible in Physical Medicine & Rehabilitation",
+      "New York State Medical License",
+      "WCB (Workers' Compensation Board) certification is required",
+      "Minimum of 2 years of experience with Workers' Compensation or No-Fault/Lien cases",
+      "Ability to work weekends as needed"
+    ],
+    "salaryOrBonusInfo": "This role offers a highly competitive compensation package starting at $300,000+ annually, with a significant emphasis on performance-based bonuses. Compensation is heavily weighted towards bonuses rather than base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Brooklyn, NY",
+    "facilityType": "Multi-location rehabilitation practice",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a dynamic multi-location rehabilitation practice in Brooklyn, NY. This role offers a significant earning potential of $300,000+ per year, with a compensation structure heavily weighted towards bonuses, rewarding your expertise and commitment. You will be an integral part of a team focused exclusively on workers' compensation and no-fault/lien cases, providing specialized care to patients recovering from injuries.\n\nThe ideal candidate will thrive in a fast-paced environment and be prepared to work weekends to meet patient needs. This is an excellent opportunity for a physician looking to leverage their workers' compensation expertise in a practice that values performance and offers substantial financial incentives. If you are passionate about rehabilitation and have a strong background in workers' compensation, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Medical Doctor (MD/DO) degree and valid New York medical license",
+      "Board Certification in Physical Medicine & Rehabilitation (PM&R)",
+      "WCB (Workers' Compensation Board) certification is required",
+      "Minimum of 2 years of experience in Workers' Compensation or No-Fault/Lien cases",
+      "Ability to work weekends"
+    ],
+    "salaryOrBonusInfo": "Compensation is $300,000+ per year, very heavy on bonuses and less on base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Specialty Medical Group",
+    "description": "Join a leading specialty medical group as a Remote Radiologist, where you'll leverage your expertise from the comfort of your home. This full-time position offers a unique opportunity to focus on Workers Compensation and No-Fault cases, providing critical diagnostic insights without the complexities of major medical insurance. We are seeking a dedicated professional who thrives in a bonus-heavy compensation model and is committed to delivering high-quality reads.\n\nThis role requires a New York State licensed Radiologist with a strong background in musculoskeletal imaging. You will be an integral part of a team that values precision and efficiency, contributing to patient care through accurate and timely interpretations. The ability to work weekends is essential to meet the demands of our caseload.\n\nWe offer a dynamic environment where your contributions are directly rewarded through a competitive per-scan bonus structure. If you are an experienced Radiologist looking for a flexible, remote opportunity with a focus on specialized cases, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-Ray",
+    "requirements": [
+      "Current New York State Radiologist license",
+      "Proficiency in reading Musculoskeletal (MSK) images",
+      "Demonstrated experience with Workers Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily bonus-based, with rates of $50 per MRI, $30 per CT, and $10 per X-Ray. Focus is on Workers Compensation and No-Fault (NF) cases; no major medical, Medicare, or Medicaid cases.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "a specialized diagnostic imaging group",
+    "description": "Join a specialized diagnostic imaging group as a Part-time Remote Radiologist. This role focuses on reading Musculoskeletal (MSK) imaging, with a strong emphasis on Workers Compensation and No-Fault (NF) cases. We are seeking a New York State licensed professional who can contribute to our team, particularly with weekend availability. This is an excellent opportunity for a radiologist looking for flexible, remote work.\n\nCompensation for this position is structured with a strong bonus component, offering $50 per MRI read, $30 per CT read, and $10 per X-Ray read. This opportunity is ideal for a radiologist experienced in handling complex Workers Compensation and No-Fault cases, as we do not work with major medical insurances or Medicare/Medicaid.\n\nWe value expertise in this niche area and offer a supportive environment for our remote team members. If you meet the requirements and are looking for a rewarding part-time role, we encourage you to apply.",
+    "contractType": "Part-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-Ray",
+    "requirements": [
+      "New York State Radiologist license",
+      "Proficiency in reading Musculoskeletal (MSK) imaging",
+      "Extensive experience with Workers Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is heavily bonus-based, with rates of $50 per MRI, $30 per CT, and $10 per X-Ray. This role does not involve major medical insurances, Medicare, or Medicaid.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Orthopedic Surgeon",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Medical Center",
+    "description": "Join a premier medical center in NYC, NY, seeking a highly skilled and experienced Orthopedic Surgeon. This is an exceptional opportunity for a dedicated professional to contribute to a dynamic healthcare environment, focusing on patient care and surgical excellence.\n\nWe are looking for a candidate with a strong background in orthopedic surgery, particularly those with expertise in Workers Compensation and No-Fault cases. This role offers a competitive compensation package, with a significant emphasis on performance-based bonuses, reflecting our commitment to rewarding outstanding contributions. If you are passionate about delivering high-quality orthopedic care and thrive in a supportive setting, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000 - $350,000 per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Orthopedic Surgery",
+      "Current, unrestricted medical license in New York",
+      "Minimum of 5 years of post-residency experience as an Orthopedic Surgeon",
+      "Demonstrated experience with Workers Compensation and No-Fault cases"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $300,000 to $350,000 annually, with a significant emphasis on performance-based bonuses.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "orthopedic_surgeon___300k__350k__citimed__based_on_candidate_s_location__nyc__ny"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility located in vibrant St. Petersburg, FL. This facility, with 55-59 beds and a current census of 43, offers a supportive environment for both residents and staff. Enjoy the convenience of being on a main street with abundant shopping nearby, a nice neighborhood behind the building, and just 15 minutes from the beautiful beaches.\nAs a Full-time Physical Therapist Assistant, you will play a crucial role in helping residents regain mobility and improve their quality of life. We are seeking a passionate individual to contribute to our patient-centered care model. This position offers a highly competitive hourly rate, reflecting your expertise and commitment.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Valid Physical Therapist Assistant (PTA) license in Florida",
+      "Associate's degree from an accredited PTA program",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work collaboratively within a multidisciplinary team",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Competitive hourly rate of $38.00 - $48.00, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Occupational Therapist (OT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate PRN Occupational Therapist (OT) to join a premier health and rehabilitation center in beautiful St. Petersburg, FL. This is an excellent opportunity for a skilled professional to provide flexible, per diem therapy services, contributing to the recovery and well-being of our residents. You will play a crucial role in helping patients regain independence and improve their quality of life through personalized treatment plans.\n\nOur facility is a welcoming environment with 55-59 beds, currently serving a census of 43 residents. Located conveniently on a main street with ample shopping nearby and nestled behind a nice neighborhood, the center offers a pleasant setting. Enjoy the added perk of being just 15 minutes from the beach, allowing for easy access to Florida's stunning coastline. The facility also features two courtyards, providing serene outdoor spaces for residents and staff.\n\nAs a PRN Occupational Therapist, you will have the flexibility to manage your schedule while making a significant impact. We are looking for a professional who is passionate about patient care and eager to contribute to a supportive team environment.",
+    "contractType": "PRN",
+    "salaryShort": "$55.00 - $60.00/hr",
+    "requirements": [
+      "Current and valid Occupational Therapist (OT) license in the state of Florida.",
+      "Master's or Doctorate degree in Occupational Therapy from an accredited program.",
+      "Prior experience as an Occupational Therapist, preferably within a skilled nursing or rehabilitation setting.",
+      "Ability to work independently and effectively as part of a multidisciplinary team.",
+      "Strong communication, documentation, and interpersonal skills."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $55.00 - $60.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in beautiful St. Petersburg, FL. This full-time Certified Occupational Therapy Assistant (COTA) role offers a competitive hourly rate of $38.00 - $48.00, providing an excellent opportunity for a skilled professional. Our facility, with 55-59 beds and a current census of 43, is situated in a vibrant area, close to shopping and a nice residential neighborhood, and just 15 minutes from the beach.\n\nAs a COTA, you will play a crucial role in helping residents achieve their highest level of independence and quality of life. You'll work within a supportive environment, utilizing our two courtyards for therapeutic activities. This is an urgent opening for a compassionate and skilled COTA looking to make a significant impact in a welcoming community.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Associate's degree from an accredited Occupational Therapy Assistant program",
+      "Current and valid Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Previous experience in a skilled nursing or rehabilitation facility",
+      "Strong communication and interpersonal skills",
+      "Ability to work effectively as part of a multidisciplinary team"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+  },
+  {
+    "roleTitle": "Lead/Senior Commercial HVAC Technician",
+    "roleType": "Other",
+    "location": "Chicago, IL",
+    "facilityType": "A premier commercial service company",
+    "description": "Join a highly reputable commercial service company known for its exceptional employee retention and long-term career opportunities. We are seeking experienced Lead/Senior Commercial HVAC Technicians/Installers to serve clients across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This is a chance to become part of a team where professionals build lasting careers, often staying for decades.\n\nIn this role, you will be responsible for the installation, maintenance, and repair of commercial HVAC systems, including boilers and chillers, for a diverse range of commercial facilities. We value expertise and a commitment to quality service, offering a stable and rewarding environment for skilled technicians.",
+    "contractType": "Full-time",
+    "salaryShort": "$35.00 - $60.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of overall HVAC experience",
+      "At least 3 years of dedicated commercial HVAC experience",
+      "Proven experience with boilers and chillers",
+      "Skilled Nursing Facility (SNF) experience is a plus"
+    ],
+    "salaryOrBonusInfo": "$35.00 - $60.00/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "5_lead_senior_commercial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Field Service Supervisor",
+    "roleType": "Other",
+    "location": "Chicago, IL",
+    "facilityType": "Technical Services Provider",
+    "description": "Join a highly reputable technical services provider known for its exceptional employee retention, where professionals build long-lasting careers. We are seeking a skilled Field Service Supervisor to cover the dynamic Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This role offers the unique opportunity to combine hands-on technical expertise with leadership and mentorship.\n\nIn this pivotal role, you will be responsible for expertly handling various service jobs, with a particular focus on commercial systems like boilers and chillers. Beyond your technical duties, you will play a crucial part in developing our team by training and assisting other technicians, ensuring high standards of service delivery across all assignments. This position is ideal for a seasoned technician ready to take on a leadership role while remaining actively involved in field operations.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Minimum 5-7 years of overall technical experience",
+      "At least 3 years of commercial experience, including boilers and chillers",
+      "Proven ability to perform complex technical work independently",
+      "Strong interpersonal skills with a talent for training and mentoring junior technicians",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN)",
+    "roleType": "Support",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN) to join a premier health and rehabilitation center in Gulfport, MS. This full-time role is crucial for ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are vital for resident care planning, reimbursement, and regulatory compliance.\n\nAs an MDS Coordinator, you will play a key role in the interdisciplinary team, contributing to comprehensive care plans and maintaining high standards of quality care. This position offers an opportunity to leverage your clinical expertise and organizational skills in a supportive environment focused on resident well-being.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and unrestricted Registered Nurse (RN) license in the state of Mississippi.",
+      "Minimum of 2 years of experience as an MDS Coordinator in a Skilled Nursing Facility.",
+      "Thorough understanding of the RAI process, Medicare/Medicaid regulations, and CMI.",
+      "Proficiency in electronic health records (EHR) and MDS software.",
+      "Strong assessment, organizational, and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Registered Dietitian",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Bronx, NY",
+    "facilityType": "Hospital",
+    "description": "Join a prominent healthcare facility in the Bronx, NY, as a Registered Dietitian for a contract role. This position offers a competitive hourly rate of $54-$56 and involves 8-hour shifts, contributing to patient well-being through expert nutritional care.\n\nAs a Registered Dietitian, you will be responsible for assessing nutritional status, developing and implementing comprehensive nutrition care plans, and providing essential education to patients and their families. You will collaborate closely with an interdisciplinary healthcare team to ensure optimal patient outcomes and document all nutritional care accurately in patient records.\n\nThis contract runs from July 27, 2026, to October 31, 2026, providing a focused opportunity to make a significant impact within a supportive environment.",
+    "contractType": "Contract",
+    "salaryShort": "$54-$56/hr",
+    "requirements": [
+      "Registered Dietitian (RD) by the Commission on Dietetic Registration (CDR)",
+      "New York State Certified Dietitian-Nutritionist (CDN)",
+      "Bachelor's or Master's degree in Dietetics, Food and Nutrition, or a related field",
+      "Minimum of 1 year of clinical experience"
+    ],
+    "salaryOrBonusInfo": "$54-$56 per hour",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "registered_dietician___54__56_hr__8hrs__07_27_2026_to_10_31_2026___bronx__ny"
+  },
+  {
+    "roleTitle": "X-Ray Technician",
+    "roleType": "Floor Staff",
+    "location": "Morristown, NJ",
+    "facilityType": "Premier healthcare facility",
+    "description": "Join our team as a dedicated X-Ray Technician in Morristown, NJ, for a rewarding travel contract. This is an excellent opportunity to utilize your skills in a dynamic environment, providing essential diagnostic imaging services to patients. We are seeking a professional who is ready to make an immediate impact and contribute to high-quality patient care.This travel assignment offers a competitive hourly rate and runs from August 3, 2026, to October 31, 2026. If you are a skilled X-Ray Technician looking for a fulfilling contract role with a supportive team, we encourage you to apply.",
+    "contractType": "Contract",
+    "salaryShort": "$53-55/hr",
+    "requirements": [
+      "Current ARRT certification",
+      "Active New Jersey state licensure as an X-Ray Technician",
+      "Minimum of 1-2 years of experience as an X-Ray Technician",
+      "Ability to perform X-ray procedures accurately and efficiently",
+      "Strong communication and patient care skills"
+    ],
+    "salaryOrBonusInfo": "Compensation is $53-55 per hour on a W2 basis. This is a contract position from August 3, 2026, to October 31, 2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_x_ray_technician___travel___53_55_hr__w2___08_03_2026_to_10_31_2026___morristown__nj"
+  },
+  {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Colorado Springs, CO",
+    "facilityType": "School District",
+    "description": "We are seeking a dedicated School Psychologist for a contract position within a reputable school district in Colorado Springs, CO. This role offers an excellent opportunity to make a significant impact on student well-being and academic success, providing essential psychological services to students across various grade levels.\n\nAs a School Psychologist, you will be instrumental in supporting students' social, emotional, and academic development. This initial contract runs for 42 weeks, starting July 27, 2026, offering a stable and rewarding engagement. Join a supportive educational environment committed to fostering a positive learning experience for all students.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology",
+      "Colorado Department of Education (CDE) Special Service Provider License with School Psychologist endorsement",
+      "Experience working as a School Psychologist in an educational setting",
+      "Strong assessment, intervention, and consultation skills",
+      "Knowledge of relevant educational laws and regulations"
+    ],
+    "salaryOrBonusInfo": "$60/hr+, Initial Contract 7/27/26 - 42 Weeks",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___60_hr___initial_contract_7_27_26___42_weeks__widefield_school_district_3_colorado_springs__co"
   }
 ]
