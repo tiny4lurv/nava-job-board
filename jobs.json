@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers the opportunity to make a significant impact on patient care and staff development within a supportive environment. The ideal candidate will be passionate about delivering high-quality healthcare and fostering a collaborative team culture. As the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and maintaining exceptional standards of care. This is a chance to join a facility committed to excellence and continuous improvement, offering a competitive salary for a qualified professional.",
+    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier skilled nursing and rehabilitation center. This pivotal leadership role offers the opportunity to significantly impact patient care outcomes and foster a supportive environment for both residents and staff. We are looking for a visionary leader who can uphold the highest standards of clinical excellence and operational efficiency.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and developing a team of compassionate healthcare professionals. This is an urgent opening, and we are looking to fill this critical position quickly with a candidate who is ready to make an immediate difference. Join a facility committed to providing exceptional care and a positive work culture.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Iowa",
-      "Minimum of 2-3 years of experience in a nursing leadership role, preferably in a skilled nursing facility",
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Proven leadership experience in a long-term care or skilled nursing facility",
       "Strong understanding of state and federal healthcare regulations",
-      "Proven ability to lead, mentor, and manage a diverse nursing team",
-      "Excellent communication and organizational skills"
+      "Excellent clinical, communication, and organizational skills",
+      "Ability to manage and mentor a diverse nursing team"
     ],
-    "salaryOrBonusInfo": "Compensation: $85,000 - $95,000 per year",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Special Education Teacher",
+    "roleType": "Other",
+    "location": "Walterboro, SC",
+    "facilityType": "School District",
+    "description": "We are seeking a dedicated Special Education Teacher for a contract position within a local school district in Walterboro, SC. This role offers a competitive hourly rate starting at $50/hr. The initial contract period is from August 19, 2026, to June 16, 2027. Join a supportive educational environment committed to fostering student growth and success.\n\nThis is an excellent opportunity to make a significant impact on students' lives by developing and implementing individualized education programs (IEPs) and collaborating with colleagues and parents to support student achievement.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid South Carolina Special Education teaching certification",
+      "Bachelor's or Master's degree in Special Education or a related field",
+      "Experience working with students with diverse learning needs",
+      "Ability to develop and implement individualized education programs (IEPs)",
+      "Strong communication and collaboration skills"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $50 per hour.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "8_special_education_teacher___50_hr___initial_contract_8_19_26___6_16_27__colleton_county_school_district_sy26_27_walterboro__sc"
   }
 ]
