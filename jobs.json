@@ -4,17 +4,71 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This pivotal leadership role offers a competitive salary range of $85,000 - $95,000 per year, reflecting the significant impact you will have on patient care and operational excellence. We are looking to fill this position promptly with a passionate and qualified professional.As the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring the highest standards of patient care, regulatory compliance, and staff development. This is an exceptional opportunity to shape the future of nursing services and contribute to a supportive and resident-focused environment. Join a team committed to delivering outstanding healthcare outcomes.",
+    "description": "We are actively seeking a dedicated and experienced Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a visionary nursing leader to make a significant impact on patient care and staff development within a supportive environment. The ideal candidate will be instrumental in upholding the highest standards of clinical excellence and operational efficiency.\n\nThis role offers a competitive annual salary ranging from $85,000 to $95,000, commensurate with experience. We are looking to fill this critical leadership position urgently and invite qualified candidates to apply promptly. Join a team committed to providing compassionate and high-quality care to our residents.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Current Registered Nurse (RN) license in the state of Iowa.",
-      "Proven experience in nursing leadership, preferably within a skilled nursing facility.",
-      "Strong understanding of long-term care regulations and best practices.",
-      "Excellent leadership, communication, and organizational skills."
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2-3 years of experience in a nursing leadership role (e.g., ADON, DON)",
+      "Prior experience working within a Skilled Nursing Facility (SNF) setting",
+      "Strong knowledge of state and federal healthcare regulations and compliance"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 to $95,000, compensation based on experience.",
+    "salaryOrBonusInfo": "Annual salary ranging from $85,000 to $95,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Registered Nurse Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center as an Assistant Director of Nursing (ADON). This pivotal leadership role involves overseeing clinical operations, ensuring exceptional patient care, and supporting our nursing team. If you are passionate about making a difference in the lives of residents and thrive in a dynamic environment, we encourage you to apply.\n\nThis is an urgent opening for a highly motivated individual ready to contribute to a compassionate and professional healthcare setting. We offer a competitive salary and the opportunity to advance your career within a supportive team.",
+    "contractType": "Full-time",
+    "salaryShort": "$75,000 - $85,000 per year",
+    "requirements": [
+      "Valid Registered Nurse (RN) license in the state of Kansas",
+      "Previous experience in a skilled nursing or long-term care facility",
+      "Prior leadership or supervisory experience in a healthcare setting",
+      "Strong clinical assessment, organizational, and communication skills"
+    ],
+    "salaryOrBonusInfo": "$75,000 - $85,000 per year",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Floor Staff",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Registered Nurse (RN) to join a premier health and rehabilitation center in Missouri Valley, IA, as an MDS Coordinator. This vital full-time role involves ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, which are crucial for resident care planning and regulatory compliance. You will play a key part in optimizing resident outcomes and maintaining high standards of care.\n\nThis is a stable, full-time opportunity offering a competitive annual salary range of $65,000 - $75,000. We are looking for a committed professional to join our team permanently, not an interim position. If you are an experienced RN with a passion for comprehensive patient assessment and regulatory excellence, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa",
+      "Experience with the Minimum Data Set (MDS) 3.0",
+      "Strong clinical assessment and documentation skills",
+      "Experience in a skilled nursing or long-term care setting"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $65,000 - $75,000, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Occupational Therapist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated Full-time Occupational Therapist to join a premier health and rehabilitation center in Ocala, FL. This critical role offers an immediate opportunity to make a significant impact on patient recovery and well-being within a supportive and dynamic environment.This position comes with a highly competitive hourly rate, reflecting the importance of this role and your expertise. We are looking for a professional committed to delivering exceptional therapy services and contributing to a positive patient experience.If you are a skilled Occupational Therapist ready for a rewarding full-time opportunity, we encourage you to apply and become a vital part of our therapy team.",
+    "contractType": "Full-time",
+    "salaryShort": "$40.00 - $48.00/hr",
+    "requirements": [
+      "Current Occupational Therapist (OT) license in Florida",
+      "Experience working in a rehabilitation or skilled nursing facility",
+      "Strong clinical assessment and treatment planning skills",
+      "Commitment to providing high-quality patient care"
+    ],
+    "salaryOrBonusInfo": "Competitive hourly rate of $40.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_ot__critical__the_lodge_health_and_rehabilitation_center_ocala__fl"
   }
 ]
