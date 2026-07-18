@@ -1,94 +1,20 @@
 [
   {
-    "roleTitle": "Director of Nursing (DON)",
+    "roleTitle": "Director of Nursing (RN)",
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This is a pivotal leadership opportunity for an RN passionate about delivering exceptional patient care and fostering a supportive environment for both residents and staff. We offer a competitive annual salary ranging from $85,000 to $95,000, reflecting your expertise and commitment.\n\nAs the Director of Nursing, you will be instrumental in overseeing all nursing operations, ensuring compliance with state and federal regulations, and maintaining the highest standards of clinical excellence. You will lead, mentor, and inspire a team of healthcare professionals, driving continuous improvement in resident outcomes and overall facility performance. This full-time role provides a chance to make a significant impact within a compassionate and dynamic healthcare setting.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (RN) to lead the nursing team at a premier health and rehabilitation center in Mediapolis, IA. This pivotal leadership role offers the opportunity to shape the quality of patient care and foster a supportive environment for both residents and staff.\n\nAs the Director of Nursing, you will be instrumental in overseeing all nursing operations, ensuring compliance with regulatory standards, and driving continuous improvement initiatives. This is an excellent opportunity for a seasoned nursing leader to make a significant impact within a compassionate and dynamic healthcare setting.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in good standing.",
-      "Proven experience in a nursing leadership role, preferably as a Director of Nursing.",
-      "Strong understanding of long-term care regulations and compliance.",
-      "Excellent clinical assessment and critical thinking skills.",
-      "Ability to lead, mentor, and manage a team of nursing professionals."
+      "Active and unrestricted Registered Nurse (RN) license in the state of Iowa.",
+      "Minimum of 2-3 years of experience in a Director of Nursing or Assistant Director of Nursing role.",
+      "Proven leadership and management abilities within a skilled nursing or long-term care environment.",
+      "Comprehensive understanding of state and federal regulations governing long-term care facilities."
     ],
-    "salaryOrBonusInfo": "Annual salary ranging from $85,000 to $95,000, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
-  },
-  {
-    "roleTitle": "MDS Coordinator (RN Preferred)",
-    "roleType": "Support",
-    "location": "Olathe, KS",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Full-time MDS Coordinator (RN Preferred) to join a premier health and rehabilitation center in Olathe, KS. This vital role offers a competitive hourly rate of $36.00 - $40.00, providing an excellent opportunity for a skilled professional to contribute to high-quality patient care.\n\nThe MDS Coordinator is responsible for ensuring accurate and timely completion of the Minimum Data Set (MDS) assessments, care plans, and associated documentation. You will play a crucial role in resident assessment, care planning, and maintaining compliance with federal and state regulations, directly impacting the quality of life for residents.",
-    "contractType": "Full-time",
-    "salaryShort": "$36.00 - $40.00/hr",
-    "requirements": [
-      "Current Registered Nurse (RN) license (preferred)",
-      "Proven experience as an MDS Coordinator in a skilled nursing facility",
-      "Strong understanding of MDS 3.0 and associated regulations",
-      "Excellent assessment, documentation, and communication skills"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $36.00 - $40.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
-  },
-  {
-    "roleTitle": "Director of Nursing (DON)",
-    "roleType": "Leadership",
-    "location": "Frostburg, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the nursing team at a premier health and rehabilitation center. This pivotal leadership role offers the opportunity to oversee all nursing operations, ensuring the delivery of exceptional patient care and maintaining compliance with all regulatory standards. You will play a crucial role in shaping the clinical environment and fostering a culture of excellence.\n\nAs the Director of Nursing, you will be responsible for the overall direction, coordination, and evaluation of nursing services. This includes staff development, quality assurance, and strategic planning to enhance patient outcomes. We are looking for a visionary leader who is passionate about geriatric care and committed to making a positive impact on the lives of our residents and staff. This position offers a competitive salary range of $120,000 - $135,000 per year.",
-    "contractType": "Full-time",
-    "salaryShort": "$120,000 - $135,000 per year",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Minimum of 3-5 years of experience in a nursing leadership role (e.g., ADON, DON)",
-      "Experience in a skilled nursing facility or rehabilitation center setting",
-      "Strong knowledge of state and federal regulations governing long-term care",
-      "Demonstrated leadership, communication, and organizational skills"
-    ],
-    "salaryOrBonusInfo": "$120,000 - $135,000 per year",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don___120k__135k__frostburg_rehab_center_frostburg__md"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Inverness, FL",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are urgently seeking a dedicated and compassionate Full-time Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Inverness, FL. This critical role offers an exciting opportunity to make a significant impact on patients' lives by assisting in the implementation of individualized therapy plans.\n\nAs a COTA, you will work collaboratively with a multidisciplinary team to provide high-quality occupational therapy services, helping patients regain independence and improve their quality of life. We are looking for a motivated professional ready to contribute to a supportive and dynamic environment.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Certified Occupational Therapy Assistant (COTA) certification",
-      "Current Florida state licensure as a COTA",
-      "Experience in a skilled nursing or rehabilitation setting",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_cota__critical__citrus_health___rehabilitation_inverness__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated Full-time Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Gainesville, FL. This critical role offers an exciting opportunity to make a significant impact on patient recovery and well-being.\n\nAs a PTA, you will work closely with licensed Physical Therapists to implement individualized treatment plans, helping patients regain mobility and improve their quality of life. This position offers a competitive hourly rate and the chance to thrive in a supportive environment.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Experience in a rehabilitation or skilled nursing facility setting",
-      "Ability to work full-time",
-      "Strong communication and interpersonal skills"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00 based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl"
   }
 ]
