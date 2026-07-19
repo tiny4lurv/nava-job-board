@@ -1,20 +1,57 @@
 [
   {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN Preferred) to join a premier skilled nursing facility in Olathe, KS. This full-time role offers a vital opportunity to contribute to resident care and facility compliance, working within a supportive and professional environment. If you are passionate about accurate resident assessment and care planning, we encourage you to apply.\n\nAs an MDS Coordinator, you will be instrumental in ensuring the timely and accurate completion of the Minimum Data Set (MDS) assessments, care plans, and related documentation. Your expertise will directly impact the quality of care provided to residents and ensure adherence to all federal and state regulations. This position offers a competitive hourly rate for qualified candidates.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $40.00/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas, or Licensed Practical Nurse (LPN) with extensive MDS experience",
+      "Proven experience as an MDS Coordinator, with strong knowledge of MDS 3.0",
+      "Comprehensive understanding of federal and state regulations pertaining to resident assessment and care planning",
+      "Excellent organizational, communication, and documentation skills"
+    ],
+    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $36.00 - $40.00, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
+  },
+  {
     "roleTitle": "Director of Nursing (DON)",
     "roleType": "Leadership",
-    "location": "Mediapolis, IA",
+    "location": "Frostburg, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a highly motivated and experienced Director of Nursing (DON) to lead our clinical team at a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a dedicated nursing leader to make a significant impact on patient care and staff development within a supportive environment. If you are passionate about delivering high-quality healthcare and fostering a culture of excellence, we encourage you to apply.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and maintaining the highest standards of resident care. You will play a crucial role in staff management, training, and fostering a collaborative and positive work environment. This position offers a competitive salary and the chance to lead a compassionate and skilled team.",
+    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Frostburg, MD. This pivotal leadership role offers a competitive salary of $120,000 - $135,000 per year, reflecting the importance of your expertise in ensuring exceptional patient care and operational excellence.As the DON, you will be instrumental in overseeing all nursing operations, maintaining high standards of care, and fostering a supportive environment for both residents and staff. This is an urgent opportunity for a visionary leader ready to make a significant impact on the lives of our residents and the success of our facility.",
     "contractType": "Full-time",
-    "salaryShort": "$85,000 - $95,000 per year",
+    "salaryShort": "$120,000 - $135,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license.",
-      "Proven experience in a leadership role within a skilled nursing or long-term care setting.",
-      "Strong knowledge of state and federal healthcare regulations.",
-      "Excellent communication, organizational, and leadership skills."
+      "Active Registered Nurse (RN) license in Maryland",
+      "Minimum of 3-5 years of nursing leadership experience, preferably in a skilled nursing or long-term care setting",
+      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
+      "Proven ability to manage and mentor a diverse nursing team",
+      "Excellent communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "We are offering a competitive annual salary ranging from $85,000 to $95,000, commensurate with experience and qualifications.",
+    "salaryOrBonusInfo": "$120,000 - $135,000 per year",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+    "id": "rn_don___120k__135k__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Williston, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) for a PRN opportunity in Williston, FL. This role offers the flexibility to contribute to patient recovery and well-being within a premier skilled nursing facility, providing essential support to our therapy team.Join a supportive environment where your skills will directly impact the lives of residents, helping them regain independence and improve their quality of life. This position offers competitive hourly compensation for your expertise and commitment to patient care.",
+    "contractType": "PRN",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current Certified Occupational Therapy Assistant (COTA) license in Florida",
+      "Associate's degree from an accredited COTA program",
+      "Prior experience in a skilled nursing or rehabilitation facility preferred",
+      "Current CPR certification"
+    ],
+    "salaryOrBonusInfo": "Hourly rate for COTA/PTA ranges from $28.00 - $37.00.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_cota_williston_care_center_williston__fl"
   }
 ]
