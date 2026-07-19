@@ -1,57 +1,76 @@
 [
   {
-    "roleTitle": "MDS Coordinator (RN Preferred)",
-    "roleType": "Support",
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Mediapolis, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to lead the nursing team at a premier skilled nursing facility in Mediapolis, IA. This critical leadership role offers a competitive salary range of $85,000 - $95,000 per year and is an excellent opportunity for a passionate nursing leader to make a significant impact on resident care and staff development. The ideal candidate will be instrumental in upholding the highest standards of clinical excellence and operational efficiency. This position is being filled quickly, so we encourage immediate applications. Join a team committed to providing exceptional care and fostering a supportive environment for both residents and staff.",
+    "contractType": "Full-time",
+    "salaryShort": "$85,000 - $95,000 per year",
+    "requirements": [
+      "Current Registered Nurse (RN) license in Iowa",
+      "Minimum of 2-3 years of nursing leadership experience, preferably in a skilled nursing facility",
+      "Strong understanding of state and federal long-term care regulations",
+      "Proven ability to manage and mentor nursing staff"
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Registered Nurse Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
     "location": "Olathe, KS",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced MDS Coordinator (RN Preferred) to join a premier skilled nursing facility in Olathe, KS. This full-time role offers a vital opportunity to contribute to resident care and facility compliance, working within a supportive and professional environment. If you are passionate about accurate resident assessment and care planning, we encourage you to apply.\n\nAs an MDS Coordinator, you will be instrumental in ensuring the timely and accurate completion of the Minimum Data Set (MDS) assessments, care plans, and related documentation. Your expertise will directly impact the quality of care provided to residents and ensure adherence to all federal and state regulations. This position offers a competitive hourly rate for qualified candidates.",
+    "description": "We are seeking a dedicated and experienced Registered Nurse to join a premier health and rehabilitation center as an Assistant Director of Nursing (ADON). This leadership role offers a unique opportunity to contribute to a compassionate care environment, supporting the Director of Nursing in overseeing clinical operations and ensuring the highest standards of patient care.\n\nAs an ADON, you will play a crucial role in staff supervision, quality assurance, and regulatory compliance. We are looking for a proactive leader who is passionate about making a difference in the lives of residents and fostering a supportive team atmosphere. This position offers a competitive annual salary range of $75,000 - $85,000, reflecting your expertise and commitment.",
     "contractType": "Full-time",
-    "salaryShort": "$36.00 - $40.00/hr",
+    "salaryShort": "$75,000 - $85,000 per year",
     "requirements": [
-      "Active Registered Nurse (RN) license in Kansas, or Licensed Practical Nurse (LPN) with extensive MDS experience",
-      "Proven experience as an MDS Coordinator, with strong knowledge of MDS 3.0",
-      "Comprehensive understanding of federal and state regulations pertaining to resident assessment and care planning",
-      "Excellent organizational, communication, and documentation skills"
+      "Active Registered Nurse (RN) license in the state of Kansas",
+      "Minimum of 2 years of nursing experience, preferably in a long-term care or skilled nursing setting",
+      "Prior leadership or supervisory experience is highly preferred",
+      "Strong understanding of state and federal regulations governing skilled nursing facilities",
+      "Excellent communication, organizational, and interpersonal skills"
     ],
-    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $36.00 - $40.00, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Annual salary range of $75,000 - $85,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
+    "id": "rn_adon__rn_preferred___75k__85k__azria_health_olathe_olathe__ks"
   },
   {
     "roleTitle": "Director of Nursing (DON)",
     "roleType": "Leadership",
-    "location": "Frostburg, MD",
+    "location": "Missouri Valley, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dedicated Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Frostburg, MD. This pivotal leadership role offers a competitive salary of $120,000 - $135,000 per year, reflecting the importance of your expertise in ensuring exceptional patient care and operational excellence.As the DON, you will be instrumental in overseeing all nursing operations, maintaining high standards of care, and fostering a supportive environment for both residents and staff. This is an urgent opportunity for a visionary leader ready to make a significant impact on the lives of our residents and the success of our facility.",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a reputable skilled nursing facility in Missouri Valley, IA. This is a priority, permanent opportunity for a visionary leader committed to delivering exceptional patient care and fostering a supportive environment for both residents and staff. We are specifically looking for a long-term commitment, not an interim solution.\n\nAs the Director of Nursing, you will be instrumental in overseeing all nursing operations, ensuring compliance with regulatory standards, and implementing best practices to enhance the quality of life for our residents. Your leadership will directly impact the clinical outcomes and overall success of the facility, making this a truly rewarding role for a passionate healthcare professional.\n\nIf you are a seasoned nursing leader ready to make a lasting impact in a stable and supportive environment, we encourage you to apply. Join a team dedicated to excellence and continuous improvement in patient care.",
     "contractType": "Full-time",
-    "salaryShort": "$120,000 - $135,000 per year",
+    "salaryShort": "",
     "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
+      "Active Registered Nurse (RN) license in Iowa or a compact state",
       "Minimum of 3-5 years of nursing leadership experience, preferably in a skilled nursing or long-term care setting",
-      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
-      "Proven ability to manage and mentor a diverse nursing team",
-      "Excellent communication and organizational skills"
+      "Strong understanding of state and federal regulations for long-term care",
+      "Proven ability to lead, mentor, and manage a nursing team effectively",
+      "Commitment to a permanent, long-term role"
     ],
-    "salaryOrBonusInfo": "$120,000 - $135,000 per year",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don___120k__135k__frostburg_rehab_center_frostburg__md"
+    "id": "don__priority__permenant_only__azria_health_longview_missouri_valley__ia"
   },
   {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Williston, FL",
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Des Moines, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Certified Occupational Therapy Assistant (COTA) for a PRN opportunity in Williston, FL. This role offers the flexibility to contribute to patient recovery and well-being within a premier skilled nursing facility, providing essential support to our therapy team.Join a supportive environment where your skills will directly impact the lives of residents, helping them regain independence and improve their quality of life. This position offers competitive hourly compensation for your expertise and commitment to patient care.",
-    "contractType": "PRN",
-    "salaryShort": "$28.00 - $37.00/hr",
+    "description": "We are seeking a dedicated and experienced Full-time MDS Coordinator to join a premier health and rehabilitation center in Des Moines, IA. This vital role offers a competitive hourly rate of $36.00 - $40.00 and the opportunity to make a significant impact on resident care and facility compliance.\n\nAs an MDS Coordinator, you will be responsible for coordinating and completing the Minimum Data Set (MDS) assessments, developing individualized care plans, and ensuring accurate documentation in accordance with federal and state regulations. Your expertise in MDS 3.0 will be crucial in optimizing reimbursement and maintaining high standards of quality care.\n\nWe are looking for a professional with strong clinical assessment skills and a commitment to excellence. While a Registered Nurse (RN) license is preferred, we encourage qualified candidates to apply and become a key part of our compassionate care team.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $40.00/hr",
     "requirements": [
-      "Current Certified Occupational Therapy Assistant (COTA) license in Florida",
-      "Associate's degree from an accredited COTA program",
-      "Prior experience in a skilled nursing or rehabilitation facility preferred",
-      "Current CPR certification"
+      "Current Registered Nurse (RN) license in Iowa (preferred) or other relevant clinical licensure.",
+      "Minimum of 1-2 years of experience as an MDS Coordinator in a skilled nursing facility.",
+      "Proficiency with MDS 3.0 and comprehensive knowledge of federal and state regulations.",
+      "Strong assessment, documentation, and communication skills."
     ],
-    "salaryOrBonusInfo": "Hourly rate for COTA/PTA ranges from $28.00 - $37.00.",
+    "salaryOrBonusInfo": "Hourly rate of $36.00 - $40.00, based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_cota_williston_care_center_williston__fl"
+    "id": "ft_mds__rn_preferred___36__40__azria_health_park_place_des_moines__ia"
   }
 ]
