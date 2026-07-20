@@ -4,18 +4,36 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Are you an experienced Registered Nurse with a passion for leadership and a commitment to exceptional patient care? A premier health and rehabilitation center in Mediapolis, IA, is seeking a dedicated Director of Nursing (DON) to lead their clinical team. This vital role offers the opportunity to shape the quality of care and foster a supportive environment for both residents and staff.As the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and implementing best practices to achieve superior patient outcomes. You will play a key role in staff development, quality improvement initiatives, and maintaining a high standard of clinical excellence.This full-time position offers a competitive salary range of $85,000 - $95,000 per year, reflecting your expertise and dedication. Join a team committed to making a positive impact on the lives of their residents.",
+    "description": "We are seeking a highly motivated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a dedicated nursing leader to oversee all aspects of patient care, ensuring the highest standards of quality and compliance.\n\nAs the DON, you will play a pivotal role in shaping the resident experience and fostering a supportive environment for our nursing staff. This full-time position offers a competitive salary and the chance to make a significant impact on the lives of our residents and the success of our facility.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in Iowa",
-      "Minimum of 2-3 years of experience in a nursing leadership role, such as DON or ADON",
-      "Experience working in a skilled nursing facility or long-term care setting",
-      "Strong knowledge of state and federal healthcare regulations",
-      "Demonstrated leadership, communication, and organizational skills"
+      "Active Registered Nurse (RN) license in the state of Iowa.",
+      "Minimum of 3-5 years of nursing leadership experience, preferably in a skilled nursing or long-term care setting.",
+      "Demonstrated knowledge of state and federal regulations governing skilled nursing facilities.",
+      "Strong leadership, communication, and organizational skills.",
+      "Commitment to providing high-quality, compassionate patient care."
     ],
-    "salaryOrBonusInfo": "$85,000 - $95,000 per year",
+    "salaryOrBonusInfo": "This full-time position offers a competitive salary ranging from $85,000 to $95,000 per year, commensurate with experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "MDS Coordinator (RN Preferred)",
+    "roleType": "Support",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Full-time MDS Coordinator to join a premier skilled nursing facility in Olathe, KS. This vital role offers a competitive hourly rate and the opportunity to significantly impact resident care and facility compliance.\n\nThe MDS Coordinator is responsible for coordinating and completing accurate resident assessments (MDS) in accordance with federal and state regulations. You will play a key role in developing comprehensive care plans, ensuring timely submissions, and contributing to the overall quality of care provided to our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $40.00/hr",
+    "requirements": [
+      "Current Registered Nurse (RN) license preferred",
+      "Prior experience as an MDS Coordinator, preferably with MDS 3.0",
+      "Strong understanding of federal and state regulations related to resident assessment",
+      "Excellent clinical assessment and documentation skills"
+    ],
+    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $36.00 - $40.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_mds__rn_preferred___36__40_per_hour__azria_health_olathe_olathe__ks"
   }
 ]
