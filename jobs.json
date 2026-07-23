@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Mediapolis, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a premier skilled nursing facility in Mediapolis, IA. This is a critical leadership opportunity to oversee all nursing operations, ensuring the highest standards of patient care and regulatory compliance. We are looking to fill this vital role quickly, with a target start date around June 30th.As the Director of Nursing, you will play a pivotal role in shaping the quality of life for our residents and fostering a supportive environment for our nursing staff. This position offers a competitive annual salary of $85,000 - $95,000, reflecting your expertise and commitment to excellence. Join a team that values compassionate care and professional growth.If you are a visionary nursing leader ready to make a significant impact, we encourage you to apply immediately. This is an excellent chance to advance your career in a supportive and dynamic healthcare setting.",
+    "description": "We are seeking a highly motivated and experienced Director of Nursing (DON) to lead our dedicated nursing team at a premier skilled nursing facility in Mediapolis, IA. This is an exceptional opportunity for a visionary nursing leader to oversee all aspects of patient care, ensuring the highest standards of quality and compliance.\n\nThe ideal candidate will be passionate about geriatric care, possess strong leadership capabilities, and be committed to fostering a supportive and professional environment for both staff and residents. Join a facility that values excellence and provides a competitive salary for your expertise.",
     "contractType": "Full-time",
     "salaryShort": "$85,000 - $95,000 per year",
     "requirements": [
       "Active Registered Nurse (RN) license in the state of Iowa",
-      "Minimum of 2-3 years of progressive nursing leadership experience, preferably in a skilled nursing or long-term care setting",
-      "Demonstrated knowledge of state and federal healthcare regulations",
-      "Strong leadership, communication, and organizational skills",
-      "Ability to manage and mentor a diverse nursing team"
+      "Minimum of 2-3 years of nursing leadership experience, preferably in a skilled nursing or long-term care setting",
+      "Strong knowledge of state and federal regulations governing skilled nursing facilities",
+      "Proven ability to manage, mentor, and develop nursing staff",
+      "Excellent clinical assessment, critical thinking, and communication skills"
     ],
-    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000 based on experience.",
+    "salaryOrBonusInfo": "Annual salary range of $85,000 - $95,000, commensurate with experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_don___85k__95k__azria_health_prairie_ridge_mediapolis__ia"
+  },
+  {
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Director of Nursing (DON) to lead the clinical team at a reputable skilled nursing facility in Missouri Valley, IA. This is a priority, permanent full-time opportunity for a leader committed to delivering exceptional patient care and fostering a supportive environment for staff. We are specifically looking for a permanent leader to join our team, as interim candidates will not be considered for this crucial role.\n\nAs the Director of Nursing, you will be responsible for overseeing all nursing operations, ensuring compliance with regulatory standards, and implementing best practices to achieve optimal resident outcomes. You will play a pivotal role in shaping the quality of care and the professional development of the nursing team.\n\nIf you are a visionary nursing leader passionate about making a lasting impact in long-term care, we encourage you to apply. Join a team dedicated to excellence and continuous improvement in resident services.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa or a compact state",
+      "Proven leadership and management experience in a healthcare setting",
+      "Experience in a skilled nursing facility or long-term care environment",
+      "Strong clinical assessment and critical thinking skills",
+      "Excellent communication and interpersonal abilities"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "don__priority__permenant_only__azria_health_longview_missouri_valley__ia"
   }
 ]
