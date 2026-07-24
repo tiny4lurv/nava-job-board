@@ -3,19 +3,129 @@
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
     "location": "Missouri Valley, IA",
-    "facilityType": "A premier health and rehabilitation center",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a permanent, full-time opportunity for a professional committed to long-term engagement and making a significant impact on patient care and staff development. We are specifically looking for candidates seeking a stable, non-interim position.In this vital leadership role, the ADON will support the Director of Nursing in overseeing clinical operations, ensuring high standards of patient care, and fostering a positive and productive work environment. Responsibilities include clinical supervision, staff training, regulatory compliance, and contributing to quality improvement initiatives.If you are an RN with a passion for leadership in a skilled nursing setting and are looking for a permanent home where your expertise will be valued, we encourage you to apply. Join a team dedicated to excellence and compassionate care.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a permanent, full-time opportunity for a compassionate leader ready to make a significant impact on patient care and staff development.As an ADON, you will play a crucial role in supporting the Director of Nursing, overseeing daily clinical operations, and ensuring the delivery of exceptional care. You will contribute to maintaining high standards of quality, compliance, and resident satisfaction within a supportive and dynamic environment. This position is ideal for an RN looking for a stable, long-term leadership role.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Iowa.",
-      "Minimum of 2-3 years of nursing experience in a skilled nursing or long-term care facility.",
-      "Prior leadership experience in a healthcare setting, such as ADON, Supervisor, or Charge Nurse.",
-      "Strong clinical assessment, critical thinking, and communication skills.",
-      "Commitment to a permanent, full-time position; interim candidates will not be considered."
+      "Active Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2-3 years of nursing experience, preferably in a skilled nursing or long-term care setting",
+      "Prior leadership or supervisory experience in a healthcare environment",
+      "Strong understanding of state and federal regulations governing skilled nursing facilities",
+      "Commitment to a permanent, full-time role"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_adon__permenant_only__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Commercial/Industrial HVAC Technician",
+    "roleType": "Support",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial/Industrial Facilities",
+    "description": "We are actively seeking three experienced Commercial/Industrial HVAC Technicians to join a highly reputable company known for its long-term employee retention. This is an excellent opportunity for skilled professionals looking for a stable career with competitive compensation. The role involves travel throughout the vibrant Chicago Metropolitan Area, encompassing parts of Illinois, Wisconsin, and Indiana.\n\nAs an HVAC Technician, you will be responsible for the installation, maintenance, and repair of commercial and industrial HVAC systems, including boilers and chillers. We are looking for dedicated individuals who thrive in diverse environments and are committed to delivering high-quality service. If you have a strong background in commercial HVAC and are ready to contribute to a company where people stay for decades, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$30.00 - $40.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of overall HVAC experience.",
+      "At least 3 years of commercial HVAC experience, including proficiency with boilers and chillers.",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI & IN).",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus."
+    ],
+    "salaryOrBonusInfo": "Hourly pay rate of $30.00 - $40.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_commercial_industrial_hvac_technicians_installers___30__40__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Lead/Senior Commercial/Industrial HVAC Technician",
+    "roleType": "Other",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial and Industrial Service Provider",
+    "description": "Join a highly reputable commercial and industrial service provider known for its exceptional employee retention, where many team members build careers spanning decades. We are seeking skilled Lead/Senior Commercial/Industrial HVAC Technicians/Installers to join our dynamic team. This role involves travel throughout the vibrant Chicago Metropolitan Area, covering Illinois, Wisconsin, and Indiana.\n\nAs a key member of our team, you will be responsible for the installation, maintenance, and repair of HVAC systems in various commercial and industrial settings. This is an urgent opportunity to contribute your expertise and grow with a company that values its employees.",
+    "contractType": "Full-time",
+    "salaryShort": "$35.00 - $60.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of experience in HVAC",
+      "At least 3 years of commercial HVAC experience, including boilers and chillers",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $35.00 - $60.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Commercial/Industrial HVAC Field Manager",
+    "roleType": "Other",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial and Industrial Facilities",
+    "description": "Join a highly reputable company known for its exceptional employee retention, where professionals build long-lasting careers. We are seeking skilled Commercial/Industrial HVAC Field Managers to join our team, serving a diverse range of commercial and industrial facilities across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This is an excellent opportunity for experienced HVAC professionals looking for stability and growth.\n\nIn this role, you will be responsible for managing and executing HVAC services, ensuring optimal performance of commercial and industrial systems. We value expertise in boilers and chillers and offer a competitive hourly rate of $50.00 - $65.00, commensurate with your experience. If you are a dedicated HVAC professional ready to contribute to a company where people stay for decades, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50.00 - $65.00/hr",
+    "requirements": [
+      "Minimum of 5-7 years of overall HVAC experience",
+      "At least 3 years of commercial HVAC experience",
+      "Proficiency with boilers and chillers",
+      "Ability to travel within the Chicago Metropolitan Area (IL, WI, IN)",
+      "Experience in Skilled Nursing Facilities (SNF) is a plus"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $50.00 - $65.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Field Service Supervisor",
+    "roleType": "Leadership",
+    "location": "Chicago, IL",
+    "facilityType": "Various Healthcare Facilities, including Skilled Nursing Facilities",
+    "description": "We are seeking a highly skilled and experienced Field Service Supervisor to join a reputable team serving the Chicago Metropolitan Area. This role is ideal for a technically proficient individual who excels at hands-on work and is passionate about mentoring and training others. You will be instrumental in ensuring the successful completion of various technical projects while fostering the growth of your team.\n\nJoin a company renowned for its exceptional culture, where employees build long-lasting careers spanning decades. This is an outstanding opportunity for a dedicated professional to contribute their expertise and leadership in a supportive and stable environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Minimum of 5-7 years of overall technical experience",
+      "At least 3 years of commercial experience, including work with boilers and chillers",
+      "Demonstrated ability to perform high-quality technical work independently",
+      "Proven capability to effectively help and train other technicians",
+      "Experience working within Skilled Nursing Facilities is highly desirable"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier skilled nursing facility in Gulfport, MS, as a dedicated Licensed Practical Nurse (LPN). This is a full-time opportunity, not PRN, offering a stable schedule for those committed to providing exceptional patient care. We are specifically seeking candidates who are available for the Monday-Friday 3 PM - 11 PM shift.\n\nIn this vital role, you will be responsible for administering medications, performing treatments, and documenting patient care, ensuring the highest standards of health and well-being for our residents. You will collaborate with a compassionate healthcare team to deliver comprehensive care in a supportive environment.\n\nThis is an excellent opportunity to make a significant impact on the lives of our residents while advancing your career with a facility that values its staff.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active LPN license in the state of Mississippi",
+      "Ability to work the Monday-Friday 3 PM - 11 PM shift",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Current Basic Life Support (BLS) certification"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "sdc_ip_nurse_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking dedicated Licensed Practical Nurses (LPNs) to join a premier skilled nursing facility in Gulfport, MS. This full-time position offers a consistent 3 PM - 11 PM shift, Monday through Friday, providing essential care to our residents. We are looking for professionals who are committed to this specific evening schedule and are not seeking PRN work. This is an excellent opportunity to become a valued member of a compassionate healthcare team, contributing to a positive and supportive environment for both staff and residents.",
+    "contractType": "Full-time",
+    "salaryShort": "$25-$28/hr",
+    "requirements": [
+      "Active and unrestricted Licensed Practical Nurse (LPN) license in the state of Mississippi.",
+      "Ability to commit to a full-time, 3 PM - 11 PM shift, Monday through Friday.",
+      "Prior experience in a skilled nursing facility or long-term care environment is preferred.",
+      "Strong clinical assessment, communication, and interpersonal skills.",
+      "Dedication to providing high-quality patient care."
+    ],
+    "salaryOrBonusInfo": "$25-$28/hr",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms"
   }
 ]
