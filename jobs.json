@@ -4,18 +4,37 @@
     "roleType": "Leadership",
     "location": "Missouri Valley, IA",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Assistant Director of Nursing (ADON) to join a premier health and rehabilitation center in Missouri Valley, IA. This is a permanent, full-time opportunity for a leader committed to delivering exceptional patient care and supporting a dynamic nursing team. We are specifically looking for candidates seeking a stable, long-term role within our compassionate environment.\n\nAs an ADON, you will play a crucial role in the daily operations of the nursing department, assisting the Director of Nursing in ensuring the highest standards of clinical care, regulatory compliance, and staff development. You will help foster a positive and supportive work environment, contributing to both resident well-being and team success.\n\nIf you are a passionate RN with leadership aspirations and a desire to make a lasting impact in a skilled nursing facility, we encourage you to apply. This role offers a chance to grow your career in a supportive setting.",
+    "description": "Join a dedicated team at a reputable skilled nursing facility in Missouri Valley, IA, as an Assistant Director of Nursing (ADON). This is a permanent, full-time opportunity for a compassionate and experienced nursing leader ready to make a significant impact on resident care and staff development. We are seeking a professional who thrives in a supportive environment and is committed to long-term engagement.\n\nIn this vital leadership role, you will collaborate closely with the Director of Nursing to oversee daily nursing operations, ensure the highest standards of patient care, and maintain regulatory compliance. Your expertise will be crucial in mentoring nursing staff, implementing best practices, and fostering a positive and efficient work environment. This position offers a chance to contribute to a facility dedicated to excellence in resident well-being.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Active and unrestricted Registered Nurse (RN) license in the state of Iowa.",
-      "Minimum of 2-3 years of clinical nursing experience, with at least 1 year in a supervisory or leadership capacity.",
-      "Experience within a skilled nursing facility or long-term care setting is highly preferred.",
-      "Demonstrated knowledge of state and federal regulations governing long-term care.",
-      "Strong leadership, communication, and organizational skills."
+      "Current Registered Nurse (RN) license in the state of Iowa",
+      "Minimum of 2-3 years of nursing experience, with at least 1 year in a leadership or supervisory role, preferably in a skilled nursing facility",
+      "Strong understanding of long-term care regulations and compliance",
+      "Excellent communication, organizational, and leadership skills",
+      "Commitment to a permanent, full-time position"
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "rn_adon__permenant_only__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Hernando, FL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Hernando, FL. This PRN opportunity offers flexibility for professionals looking to make a significant impact on patient recovery and well-being.\n\nAs a PTA, you will work under the supervision of a licensed Physical Therapist, assisting patients in regaining mobility, strength, and function through therapeutic exercises and modalities. This role is crucial in helping individuals achieve their highest level of independence and improve their quality of life.\n\nWe offer a competitive hourly rate for this PRN position, providing an excellent opportunity to contribute your skills in a supportive environment. If you are passionate about rehabilitation and patient care, we encourage you to apply.",
+    "contractType": "PRN",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current and valid Physical Therapist Assistant (PTA) license in the state of Florida.",
+      "Prior experience working as a PTA, preferably in a skilled nursing or rehabilitation environment.",
+      "Ability to provide compassionate and effective therapy services to a diverse patient population.",
+      "Strong communication and interpersonal skills.",
+      "Flexibility to work PRN shifts as needed."
+    ],
+    "salaryOrBonusInfo": "Hourly rate for PTA ranges from $28.00 - $37.00.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pta_the_grove_health___rehabilitation_center_hernando__fl"
   }
 ]
