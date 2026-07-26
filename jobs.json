@@ -1,39 +1,39 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator & Infection Control Nurse (RN)",
-    "roleType": "Leadership",
+    "roleTitle": "SDC/Infection Control Nurse",
+    "roleType": "Support",
     "location": "Oakland, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated and experienced Staff Development Coordinator & Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nAs an SDC/Infection Control Nurse, you will be instrumental in developing and implementing training programs for nursing staff, as well as overseeing all infection control policies and procedures. This full-time position offers a competitive hourly rate of $40-$42, reflecting your expertise and commitment to excellence.",
+    "facilityType": "A premier health and rehabilitation center",
+    "description": "Join a dedicated team at a premier health and rehabilitation center in Oakland, MD, as an SDC/Infection Control Nurse. This vital role combines the critical functions of staff development and infection prevention, ensuring our team is well-trained and our environment is safe for all residents and staff. You will play a key part in maintaining high standards of care and compliance.\n\nIn this dual-focused position, you will be responsible for coordinating educational programs for staff, assessing competencies, and implementing robust infection control protocols. Your expertise will be crucial in fostering a culture of continuous learning and safety. We are seeking a proactive and knowledgeable professional to contribute to our mission of providing exceptional care.\n\nWe offer a competitive hourly rate of $40-$42, reflecting the importance of this role. If you are an experienced Registered Nurse with a passion for education and infection prevention, we encourage you to apply and make a significant impact on our community.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Minimum of 2 years of experience in a long-term care or skilled nursing facility",
-      "Proven experience in staff development, education, or training",
-      "Demonstrated knowledge and experience in infection prevention and control practices",
-      "Familiarity with state and federal regulations related to nursing and infection control"
+      "Active Registered Nurse (RN) license",
+      "Experience in staff development or education",
+      "Experience in infection prevention and control",
+      "Knowledge of current infection control guidelines and regulations",
+      "Strong communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "This full-time position offers a competitive hourly rate of $40-$42, based on experience.",
+    "salaryOrBonusInfo": "Compensation: $40-$42 per hour.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "Lead/Senior Commercial/Industrial HVAC Technician",
-    "roleType": "Support",
-    "location": "Chicago, IL",
-    "facilityType": "Commercial and Industrial Facilities, including Healthcare settings",
-    "description": "Join a highly reputable company known for its exceptional employee retention, where many team members build careers spanning decades. We are seeking skilled Lead/Senior Commercial/Industrial HVAC Technicians to join our team, serving a diverse range of commercial and industrial facilities, including healthcare settings, across the vibrant Chicago Metropolitan Area (Illinois, Wisconsin, and Indiana). This role offers the opportunity to work with a variety of systems, including boilers and chillers, in a dynamic environment.\n\nIf you are a dedicated HVAC professional with a strong background in commercial and industrial systems and are looking for a stable, long-term career opportunity with a company that values its employees, we encourage you to apply. This position requires travel within the specified tri-state area, providing a varied and engaging work experience.",
-    "contractType": "Full-time",
-    "salaryShort": "$35.00 - $60.00/hr",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a premier skilled nursing facility in Inverness, FL, as a Physical Therapist Assistant (PTA). This PRN opportunity offers the flexibility to work as needed, supporting patients on their journey to recovery and improved mobility. You will play a crucial role in implementing individualized treatment plans under the supervision of a licensed Physical Therapist.As a PRN PTA, you will assist patients with therapeutic exercises, functional training, and other rehabilitation activities, ensuring a safe and supportive environment. Your contributions will directly impact patient outcomes, helping them regain independence and enhance their quality of life. This role is perfect for a compassionate and skilled professional seeking flexible work arrangements.We offer competitive hourly compensation for this PRN position. If you are a motivated PTA looking to make a difference in a dynamic healthcare setting, we encourage you to apply today.",
+    "contractType": "PRN",
+    "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Minimum 5-7 years of experience as an HVAC Technician",
-      "At least 3 years of commercial HVAC experience, including proficiency with boilers and chillers",
-      "Ability to travel extensively within the Chicago Metropolitan Area (IL, WI & IN)",
-      "Experience working in Skilled Nursing Facilities (SNF) is a plus"
+      "Associate's degree from an accredited Physical Therapist Assistant program",
+      "Current state licensure as a Physical Therapist Assistant (PTA)",
+      "CPR certification",
+      "Ability to work PRN/as-needed shifts"
     ],
-    "salaryOrBonusInfo": "Hourly rate ranges from $35.00 to $60.00, based on experience and qualifications.",
+    "salaryOrBonusInfo": "Hourly compensation ranges from $28.00 to $37.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
   }
 ]
