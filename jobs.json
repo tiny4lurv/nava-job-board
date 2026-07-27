@@ -1,39 +1,21 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
-    "roleType": "Floor Staff",
+    "roleTitle": "SDC/Infection Control Nurse",
+    "roleType": "Support",
     "location": "Oakland, MD",
     "facilityType": "Rehab Center",
-    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nIn this dual capacity, you will be instrumental in developing and implementing comprehensive training programs for clinical staff, fostering continuous professional growth. Concurrently, you will lead our infection control initiatives, safeguarding the health of our community through robust prevention strategies and adherence to best practices. This full-time position offers a competitive hourly rate of $40.00 - $42.00.\n\nJoin a supportive environment where your expertise will directly contribute to the well-being of residents and the professional development of our nursing team.",
+    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. In this vital dual role, you will be instrumental in both enhancing staff competency through comprehensive education and ensuring the highest standards of infection prevention and control within our facility.This position offers a unique opportunity to directly impact patient safety and quality of care. You will be responsible for developing and implementing staff education programs, conducting infection surveillance, and ensuring compliance with all relevant health regulations, fostering a safe and knowledgeable environment for both residents and staff.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $42.00/hr",
+    "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license in Maryland",
-      "Minimum of 2 years of experience in a long-term care or skilled nursing facility setting",
-      "Demonstrated experience in staff development, education, or training",
-      "Proven experience or certification in infection prevention and control",
-      "Strong knowledge of state and federal regulations related to nursing practice and infection control"
+      "Minimum of 2 years of experience in staff development or education",
+      "Minimum of 2 years of experience in infection control within a healthcare setting",
+      "Strong knowledge of state and federal infection control regulations",
+      "Excellent communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40.00 - $42.00 based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "Marketing Director",
-    "roleType": "Leadership",
-    "location": "Sarasota County, FL",
-    "facilityType": "a skilled nursing facility",
-    "description": "We are seeking an experienced and dynamic Marketing Director to join a recently acquired skilled nursing facility in Sarasota County, FL. This is a unique opportunity to make a significant impact in a growing organization that values strong leadership and market presence. The facility is committed to providing exceptional care and is looking for a driven individual to enhance its community engagement and census growth.The ideal candidate will be a proactive and results-oriented professional, capable of representing the facility with a polished and presentable demeanor. This role requires a 'hustler' mentality, someone who is eager to drive initiatives and build strong relationships within the community. Flexibility to work occasional weekends will be necessary to support various marketing events and outreach efforts.If you are a strategic marketer with a passion for healthcare and a desire to contribute to a thriving environment, we encourage you to apply. This position offers a chance to shape the future of a facility dedicated to excellence.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Marketing Director, ideally within a skilled nursing or healthcare environment.",
-      "Ability to work occasional weekends as needed for events and outreach.",
-      "Demonstrated strong initiative and a proactive, results-driven approach to marketing.",
-      "Professional and presentable appearance with excellent communication skills."
-    ],
-    "salaryOrBonusInfo": "Compensation is competitive and will be based on experience for the right candidate.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
   }
 ]
