@@ -1,21 +1,39 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator & Infection Control Nurse (RN)",
-    "roleType": "Floor Staff",
+    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
+    "roleType": "Support",
     "location": "Oakland, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated Staff Development Coordinator & Infection Control Nurse (RN) to join a premier health and rehabilitation center. This vital role involves overseeing staff education and ensuring robust infection prevention and control measures are in place to maintain a safe and healthy environment for both residents and staff. You will play a key role in developing and implementing training programs, conducting surveillance, and ensuring compliance with all relevant healthcare regulations. This is an excellent opportunity for an experienced Registered Nurse to make a significant impact within a supportive team environment. We offer a competitive hourly rate and the chance to contribute to a facility committed to high standards of care.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a skilled nursing facility in Oakland, MD. This pivotal role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and compliance within our facility. You will play a key role in fostering a culture of continuous learning and safety.\n\nIn this dual capacity, you will be responsible for developing and implementing comprehensive staff education programs, as well as overseeing all aspects of infection prevention and control. Your expertise will be vital in maintaining a safe and healthy environment for both residents and staff, adhering to all state and federal regulations.\n\nThis is an excellent opportunity for an RN passionate about education and public health to make a significant impact in a supportive and dynamic setting.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license in Maryland",
-      "Proven experience in staff development and education",
-      "Demonstrated experience in infection prevention and control practices",
-      "Strong understanding of state and federal healthcare regulations",
-      "Excellent communication, organizational, and leadership skills"
+      "Demonstrated experience in staff education and development",
+      "Proven experience in infection prevention and control practices",
+      "Strong knowledge of state and federal regulations related to staff development and infection control",
+      "Excellent communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
+    "salaryOrBonusInfo": "$40-$42 per hour",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated Physical Therapist Assistant (PTA) to join a premier skilled nursing facility in Inverness, FL. This PRN opportunity allows for flexible scheduling while contributing to patient recovery and well-being. As a PTA, you will work under the supervision of a licensed Physical Therapist, assisting with the implementation of individualized treatment plans. Your responsibilities will include providing therapeutic exercises, modalities, and patient education to help residents regain mobility and function. This role is ideal for a compassionate professional looking to make a significant impact on patients' lives on an as-needed basis. Join a team committed to delivering high-quality rehabilitative care.",
+    "contractType": "PRN",
+    "salaryShort": "",
+    "requirements": [
+      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
+      "Current and valid Florida state PTA license",
+      "Current CPR certification",
+      "Ability to work on an as-needed (PRN) basis"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
   }
 ]
