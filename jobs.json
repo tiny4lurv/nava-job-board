@@ -1,21 +1,333 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
-    "roleType": "Leadership",
+    "roleTitle": "Staff Development Coordinator & Infection Control Nurse (RN)",
+    "roleType": "Support",
     "location": "Oakland, MD",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines two critical functions, ensuring both the continuous professional growth of our nursing staff and the highest standards of infection prevention and control within our facility.You will be instrumental in developing and implementing educational programs for staff, fostering a culture of continuous learning and competency. Concurrently, you will lead our infection control efforts, conducting surveillance, developing policies, and educating staff to maintain a safe and healthy environment for our residents and team members.This is an excellent opportunity for an RN passionate about education and patient safety to make a significant impact in a supportive and dynamic healthcare setting.",
+    "description": "We are seeking a dedicated Staff Development Coordinator & Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital full-time role offers a competitive hourly rate of $40-$42, reflecting your expertise and commitment to quality care.\n\nIn this dual-focused position, you will be instrumental in both fostering staff growth through comprehensive development programs and ensuring the highest standards of infection prevention and control. Your work will directly contribute to a safe and compliant environment for both residents and staff, upholding the facility's commitment to excellence.\n\nIf you are a proactive and experienced Registered Nurse passionate about education and patient safety, we encourage you to apply and become a key part of our compassionate team.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license in Maryland",
-      "Experience in staff development, education, or training",
+      "Experience in staff development or healthcare education",
       "Experience in infection prevention and control practices",
-      "Strong understanding of long-term care regulations and standards",
-      "Excellent communication and organizational skills"
+      "Strong knowledge of state and federal healthcare regulations"
     ],
-    "salaryOrBonusInfo": "Compensation: $40-$42 per hour.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
+  },
+  {
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Sarasota County, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dynamic Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is a unique opportunity to lead marketing and admissions efforts for a recently purchased facility, contributing to its growth and success. The ideal candidate will be a proactive and results-driven professional ready to make a significant impact.\n\nThis role requires a highly presentable individual with a strong drive to succeed. You will be instrumental in developing and executing marketing strategies to enhance community presence and drive census. Occasional weekend work will be required to meet the demands of the role. We offer competitive compensation for the right candidate who can demonstrate exceptional leadership and marketing prowess.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as a Marketing Director, preferably within a skilled nursing or healthcare environment.",
+      "Demonstrated ability to drive census growth and build strong community relationships.",
+      "Exceptional professional presentation and communication skills.",
+      "Willingness and availability to work occasional weekends.",
+      "A proactive, results-oriented approach to marketing and admissions."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Health & Rehabilitation Center",
+    "description": "An exciting and critical opportunity is available for a PRN Speech Language Pathologist (SLP) in Inverness, FL. Join a premier health and rehabilitation center dedicated to providing exceptional patient care and making a significant impact in the community. This role offers the flexibility of PRN work while addressing an urgent need within the facility.\n\nWe offer a highly competitive compensation package for this critical role, with an hourly rate ranging from $38 to $49. Additionally, a generous $5,000 sign-on or relocation bonus is available to qualified candidates, recognizing your valuable expertise and commitment.\n\nAs a PRN Speech Language Pathologist, you will play a vital role in assessing, diagnosing, and treating individuals with communication and swallowing disorders, contributing to their recovery and improved quality of life.",
+    "contractType": "PRN",
+    "salaryShort": "$38 - $49/hr",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current state licensure as a Speech-Language Pathologist in Florida",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
+      "Experience in a rehabilitation or skilled nursing facility setting preferred",
+      "Ability to work PRN shifts as needed"
+    ],
+    "salaryOrBonusInfo": "$38 - $49 per hour, plus a $5,000 sign-on or relocation bonus.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated and compassionate Per Diem (PRN) Physical Therapist to join a premier health and rehabilitation center in Inverness, FL. This is an excellent opportunity for a skilled professional to provide high-quality therapy services and make a significant impact on patient recovery and well-being within a supportive environment. Enjoy the flexibility of a PRN schedule while contributing to a team committed to exceptional patient care.\n\nAs a Physical Therapist, you will be responsible for assessing patients' physical conditions, developing individualized treatment plans, and implementing therapeutic exercises and modalities to restore function, reduce pain, and prevent disability. You will work collaboratively with other healthcare professionals to ensure comprehensive and coordinated care, helping patients achieve their maximum potential for independence and mobility.\n\nThis role offers a competitive hourly rate for your expertise. If you are passionate about rehabilitation and looking for a flexible opportunity to apply your skills, we encourage you to apply.",
+    "contractType": "PRN",
+    "salaryShort": "$39.00 - $40.00/hr",
+    "requirements": [
+      "Current Physical Therapist (PT) license in the state of Florida",
+      "Graduate of an accredited Physical Therapy program",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work independently and manage a caseload effectively",
+      "Strong communication and interpersonal skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate for Physical Therapists is between $39.00 - $40.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Inverness, FL. This PRN role offers the flexibility to make a significant impact on patients' lives by assisting them in their journey to recovery and improved mobility.\n\nAs a PTA, you will work under the supervision of a licensed Physical Therapist, implementing individualized treatment plans, monitoring patient progress, and ensuring a supportive and effective therapeutic environment. Your expertise will be crucial in helping patients regain strength, reduce pain, and enhance their overall quality of life.\n\nThis is an excellent opportunity for a skilled PTA looking for PRN work in a dynamic healthcare setting. Join a team committed to providing exceptional patient care and fostering a positive rehabilitation experience.",
+    "contractType": "PRN",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
+      "Current and valid state licensure as a Physical Therapist Assistant (PTA)",
+      "Current CPR certification",
+      "Prior experience in a skilled nursing or rehabilitation setting preferred"
+    ],
+    "salaryOrBonusInfo": "Hourly compensation ranges from $28.00 - $37.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
+  },
+  {
+    "roleTitle": "Rehabilitation Therapist & Assistant",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier health and rehabilitation center in Ocala, FL, dedicated to providing exceptional care and improving the quality of life for our residents. We are actively seeking passionate and skilled Occupational Therapists, Physical Therapists, Speech Therapists, Certified Occupational Therapy Assistants, and Physical Therapist Assistants to join our dynamic team. This is an urgent hiring need, offering both full-time and part-time opportunities to fit your lifestyle.\n\nIn this vital role, you will contribute to comprehensive rehabilitation programs, working collaboratively with a multidisciplinary team to help patients achieve their maximum potential. We value professionals who are committed to patient-centered care and continuous improvement.\n\nIf you are a dedicated therapy professional looking for a rewarding opportunity in a supportive environment, we encourage you to apply. We offer competitive compensation and a chance to make a significant impact on the lives of those we serve.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "$28.00 - $46.00/hr",
+    "requirements": [
+      "Active state license/certification as an Occupational Therapist (OT), Physical Therapist (PT), Speech Therapist (ST), Certified Occupational Therapy Assistant (COTA), or Physical Therapist Assistant (PTA)",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Strong communication and interpersonal skills",
+      "Commitment to patient-centered care"
+    ],
+    "salaryOrBonusInfo": "Hourly rates range from $28.00 - $37.00 for Certified Occupational Therapy Assistants (COTA) and Physical Therapist Assistants (PTA), and $40.00 - $46.00 for Occupational Therapists (OT), Physical Therapists (PT), and Speech Therapists (ST).",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt_the_lodge_health_and_rehabilitation_center_ocala__fl"
+  },
+  {
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This is a critical role where you will play a vital part in helping patients regain independence and improve their quality of life.As a COTA, you will work under the supervision of an Occupational Therapist, implementing treatment plans and providing direct patient care. We are looking for a compassionate and skilled professional ready to make an immediate impact in a supportive environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Certified Occupational Therapy Assistant (COTA) licensure in Florida",
+      "Previous experience in a rehabilitation or skilled nursing setting preferred",
+      "Ability to work full-time",
+      "Strong communication and documentation skills"
+    ],
+    "salaryOrBonusInfo": "Hourly rate for COTA/PTA is $28.00 - $37.00.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking dedicated Full-time Physical Therapist Assistants (PTA) to join a premier health and rehabilitation center in Gainesville, FL. In this critical role, you will work closely with a compassionate team to provide high-quality rehabilitative care, helping patients regain independence and improve their quality of life. This is an excellent opportunity to make a significant impact in a supportive environment.As a PTA, you will be instrumental in implementing individualized treatment plans developed by Physical Therapists, assisting patients with therapeutic exercises, functional training, and other modalities. Your expertise will contribute directly to patient recovery and well-being, fostering a positive and healing atmosphere. We are looking for professionals who are passionate about patient care and eager to contribute to a dynamic team.",
+    "contractType": "Full-time",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Associate's degree from an accredited Physical Therapist Assistant (PTA) program",
+      "Current and valid Florida PTA license",
+      "CPR certification",
+      "Prior experience in a skilled nursing or rehabilitation setting is preferred"
+    ],
+    "salaryOrBonusInfo": "Hourly rate for Physical Therapist Assistant (PTA) is $28.00 - $37.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "Travel Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Billings, MT",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate Travel Nurse (RN) to join a leading home health agency in Billings, MT. This is an exceptional opportunity for a skilled professional to provide high-quality, patient-centered care in a home setting, making a direct impact on the lives of individuals in the community. Enjoy the flexibility of both full-time and part-time contract options, allowing you to tailor your work-life balance.\n\nThis role offers a highly competitive annual salary, reflecting your expertise and commitment. You will be an integral part of a supportive team, delivering comprehensive nursing services and fostering positive patient outcomes. If you are passionate about home health and looking for a rewarding travel opportunity with excellent compensation, we encourage you to apply.",
+    "contractType": "Full-time, Part-time",
+    "salaryShort": "$115,000 - $125,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Montana or a compact state.",
+      "Minimum of 1-2 years of recent experience in home health or acute care.",
+      "Current Basic Life Support (BLS) certification.",
+      "Strong clinical assessment, critical thinking, and documentation skills.",
+      "Ability to travel to patient homes within the Billings area."
+    ],
+    "salaryOrBonusInfo": "Annual salary range of $115,000 - $125,000, based on experience and contract type.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
+  },
+  {
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "We are seeking a dedicated and compassionate Registered Nurse (RN) to join a premier home health agency in Casper, WY. This full-time position offers a competitive hourly rate of $36.00 - $45.00, providing an excellent opportunity for an RN looking to make a significant impact on patients' lives within their own homes.\n\nAs a Home Health RN, you will deliver high-quality, patient-centered care, focusing on comprehensive assessments, skilled nursing interventions, and patient education. This role provides the autonomy to manage your caseload while ensuring optimal health outcomes and a positive patient experience.",
+    "contractType": "Full-time",
+    "salaryShort": "$36.00 - $45.00/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Wyoming",
+      "Minimum of 1-2 years of nursing experience, preferably in home health or a related setting",
+      "Strong clinical assessment and critical thinking skills",
+      "Ability to work independently and manage a patient caseload effectively",
+      "Valid driver's license and reliable transportation"
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $36.00 - $45.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
+  },
+  {
+    "roleTitle": "Family Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Health Services Facility",
+    "description": "Join a premier health services facility in Greenville, SC, as a Family Medicine Physician. This is an exceptional opportunity for dedicated MDs and DOs to provide comprehensive care within a supportive environment. We are seeking physicians who are passionate about patient well-being and eager to contribute to a thriving community.\n\nThis role offers a highly competitive compensation package, starting at a non-negotiable $210,000 per year, complemented by a robust bonus structure up to $50,000. Enjoy excellent benefits, generous Paid Time Off (PTO), and a revamped compensation and raise structure designed to reward your expertise. Relocation and travel assistance are available for qualified candidates.\n\nWe are open to reviewing all physician candidates, with a preference for Family Medicine, Internal Medicine, or Med/Ped specialists. This contract position offers flexibility while ensuring a significant impact on patient health.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Family Medicine (preferred), Internal Medicine, or Med/Ped",
+      "Openness to travel or relocation"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at a non-negotiable $210,000 per year. The comprehensive bonus structure offers up to $50,000, including a $25,000 guaranteed bonus and a $25,000 potential bonus. A $9,000 portion of this bonus is available on payday one upon signing a promissory note, which can also cover relocation or sign-on incentives.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Internal Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "A leading family health services center",
+    "description": "We are seeking a dedicated Internal Medicine Physician to join a premier family health services center in Greenville, SC. This is an exceptional opportunity to provide comprehensive care within a supportive environment, contributing to the health and well-being of the community.\n\nThis role offers a highly competitive compensation package, starting at $210,000 per year, complemented by a robust bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and a $25,000 potential bonus, with $9,000 available on the first payday upon signing a promissory note. Relocation and sign-on bonuses are also part of this attractive package. Enjoy great benefits and generous paid time off.\n\nWhile full-time commitment is preferred, we are open to reviewing all physician candidates, including those seeking part-time, PRN, or contract arrangements, to find the right fit for our team.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "Medical Doctor (MD) or Doctor of Osteopathic Medicine (DO) degree",
+      "Board Certification or Eligibility in Internal Medicine, Family Medicine (preferred), or Med/Ped",
+      "Ability to obtain or hold a valid medical license in South Carolina"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a robust bonus structure up to $50,000. This includes a $25,000 guaranteed bonus and a $25,000 potential bonus, with $9,000 available on the first payday upon signing a promissory note. Relocation/sign-on bonuses are also part of the package.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "PM&R Physician",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Brooklyn, NY",
+    "facilityType": "Rehabilitation Centers",
+    "description": "We are seeking a dedicated and experienced PM&R Physician to join a network of premier rehabilitation centers across three vibrant Brooklyn locations. This is a unique opportunity for a physician with a strong background in workers' compensation, offering a highly competitive compensation package with significant bonus potential.\n\nIn this role, you will provide specialized care to patients, focusing on rehabilitation and recovery. The position requires a commitment to working weekends and an understanding of non-major medical insurance environments, as we do not work with major medical, Medicare, or Medicaid. If you are passionate about making a tangible difference in patients' lives and thrive in a dynamic setting, we encourage you to apply.\n\nThis role offers a chance to be part of a team dedicated to patient well-being, with a compensation structure designed to reward your expertise and commitment.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "Medical Doctor (MD/DO) degree and board certification in Physical Medicine & Rehabilitation",
+      "Must be WCB (Workers' Compensation Board) certified",
+      "Minimum of 2+ years of experience in Workers' Compensation or No-Fault (NF)/Lien cases",
+      "Ability to work weekends",
+      "Experience working with non-major medical insurance environments"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $300,000+ per year, with a structure that is very heavy on bonuses and less on base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote, NY",
+    "facilityType": "Healthcare Services Provider",
+    "description": "Join a premier healthcare services provider as a Full-time Remote Radiologist. We are seeking a highly skilled and New York State licensed Radiologist with expertise in Musculoskeletal (MSK) imaging. This unique opportunity focuses on Workers Compensation and No-Fault cases, offering a dynamic environment for professionals experienced in these specialized areas.\n\nThis role is designed for a radiologist who thrives in a remote setting and is comfortable with a compensation structure that is heavily weighted towards bonuses. You will be responsible for reading MRI, CT, and X-Ray scans, with a specific emphasis on MSK cases. The ability to work weekends is a key requirement for this position.\n\nWe are looking for a dedicated professional to contribute to our team, providing critical diagnostic insights for our patients. If you are a New York-licensed Radiologist with a strong background in Workers Compensation and No-Fault cases, and are looking for a flexible, remote role with significant earning potential, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/XRay",
+    "requirements": [
+      "Current New York State Radiologist license",
+      "Proficiency in reading Musculoskeletal (MSK) images",
+      "Demonstrated experience with Workers Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB (Workers' Compensation Board) number preferred"
+    ],
+    "salaryOrBonusInfo": "Compensation is structured with a strong emphasis on bonuses, including per-study rates of $50 per MRI, $30 per CT, and $10 per X-Ray. Experience in Workers Compensation and No-Fault/Lien cases is essential. Overall compensation will be based on experience and productivity.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Diagnostic Imaging Service Provider",
+    "description": "We are seeking a dedicated Part-time Remote Radiologist to join our specialized diagnostic imaging service provider. This role is ideal for a professional with expertise in Musculoskeletal (MSK) imaging and a strong background in Workers Compensation and No-Fault (NF) cases. You will play a crucial role in providing accurate and timely diagnostic reads for a specific patient population.\n\nThis position offers a unique compensation model with a strong emphasis on bonuses, rewarding your expertise and efficiency. Candidates must be available to work weekends and possess experience with the specific case types handled, as we do not work with major medical insurances or Medicare/Medicaid. This is an excellent opportunity for a Radiologist looking for flexible, part-time work with a focus on specialized cases.",
+    "contractType": "Part-time",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-Ray",
+    "requirements": [
+      "Current New York State (NYS) Radiologist License",
+      "Proficiency in Musculoskeletal (MSK) imaging reads",
+      "Demonstrated experience with Workers Compensation and No-Fault (NF) cases",
+      "Ability to work weekends",
+      "NY WCB number preferred"
+    ],
+    "salaryOrBonusInfo": "This role offers a compensation structure of $50 per MRI, $30 per CT, and $10 per X-Ray read, with a strong emphasis on bonuses. Compensation is tied directly to case volume and experience in Workers Compensation and No-Fault cases.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
+  },
+  {
+    "roleTitle": "Orthopedic (Hand) Surgeon",
+    "roleType": "Other",
+    "location": "NYC, NY",
+    "facilityType": "Specialized Medical Center",
+    "description": "We are seeking a highly skilled and experienced Orthopedic (Hand) Surgeon to join a premier healthcare facility in NYC, NY. This is an exceptional opportunity for a dedicated professional to contribute to a specialized medical team focused on hand and upper extremity care.\n\nThis role offers a competitive compensation package, heavily weighted towards performance-based bonuses, providing significant earning potential for the right candidate. If you are passionate about delivering high-quality patient care and thrive in a dynamic environment, we encourage you to apply.\n\nJoin a team committed to excellence and make a significant impact on patients' lives in the vibrant New York City area.",
+    "contractType": "Full-time",
+    "salaryShort": "$400,000 - $500,000 per year",
+    "requirements": [
+      "Medical Degree (MD or DO)",
+      "Board Certification in Orthopedic Surgery",
+      "Fellowship training in Hand Surgery",
+      "5+ years of experience as an Orthopedic (Hand) Surgeon",
+      "Experience with Workers Compensation and No-Fault cases"
+    ],
+    "salaryOrBonusInfo": "Compensation ranges from $400,000 to $500,000 per year, with a compensation structure that is very heavy on bonuses and less on base salary, offering significant earning potential.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny"
+  },
+  {
+    "roleTitle": "Commercial/Industrial HVAC Technician/Installer",
+    "roleType": "Other",
+    "location": "Chicago, IL",
+    "facilityType": "Commercial/Industrial Facilities",
+    "description": "Join a highly reputable company known for its long-term employee retention, where many professionals build careers spanning decades. We are seeking skilled Commercial/Industrial HVAC Technicians/Installers to become a vital part of our team, serving a diverse range of commercial and industrial facilities across the vibrant Chicago Metropolitan Area.\n\nThis role offers the opportunity to work on critical HVAC systems, including boilers and chillers, ensuring optimal performance for our clients. You will travel within the Chicago Metropolitan Area, covering locations in Illinois, Wisconsin, and Indiana, providing essential installation and maintenance services.",
+    "contractType": "Full-time",
+    "salaryShort": "$30.00 - $40.00/hr",
+    "requirements": [
+      "Minimum 5-7 years of experience in HVAC.",
+      "At least 3 years of commercial HVAC experience, including boilers and chillers.",
+      "Proven experience; not accepting candidates right out of school.",
+      "Skilled Nursing Facility (SNF) experience is a plus."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $30.00 - $40.00 based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_commercial_industrial_hvac_technicians_installers___30__40__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+  },
+  {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Colorado Springs, CO",
+    "facilityType": "a local school district",
+    "description": "We are seeking a dedicated School Psychologist for a contract position within a reputable local school district in Colorado Springs, CO. This initial contract runs for 42 weeks, starting on July 27, 2026, offering a competitive hourly rate of $60/hr or more. This is an excellent opportunity to make a significant impact on student well-being and academic success.\n\nIn this role, you will be instrumental in providing comprehensive psychological services to students, including assessments, counseling, and consultation with educators and parents. You will contribute to creating a supportive learning environment, addressing diverse student needs, and fostering positive behavioral and academic outcomes. Join a team committed to student development and community engagement.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology",
+      "Valid Colorado School Psychologist license/certification",
+      "Experience working with school-aged children and adolescents",
+      "Proficiency in psychological assessment, intervention, and consultation"
+    ],
+    "salaryOrBonusInfo": "This contract position offers a competitive hourly rate of $60/hr or more, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___60_hr___initial_contract_7_27_26___42_weeks__widefield_school_district_3_colorado_springs__co"
   }
 ]
