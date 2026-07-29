@@ -1,58 +1,21 @@
 [
   {
-    "roleTitle": "Experienced Marketing Director",
-    "roleType": "Leadership",
-    "location": "Sarasota County, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a highly motivated and experienced Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is a confidential search for a dynamic leader who is passionate about driving growth and enhancing community presence for a facility focused on providing exceptional patient care. The ideal candidate will be a proactive and results-oriented individual ready to make a significant impact.\n\nIn this pivotal role, you will be responsible for developing and executing comprehensive marketing strategies to increase census and build strong relationships within the community. We are looking for someone with a professional demeanor, a strong drive, and the ability to work occasional weekends to meet the demands of this exciting opportunity. Your ability to represent the facility with excellence and achieve ambitious goals will be key to your success.\n\nThis is an urgent and highly valued position, offering excellent compensation for the right candidate who can demonstrate a proven track record of success in healthcare marketing. Join a team dedicated to quality and growth.",
+    "roleTitle": "Staff Development Coordinator & Infection Control Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Oakland, MD",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated Staff Development Coordinator & Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital full-time role offers a competitive hourly rate of $40-$42, providing an excellent opportunity for a skilled professional to make a significant impact.In this dual-focused position, you will be instrumental in both enhancing staff competencies through comprehensive education programs and ensuring the highest standards of infection prevention and control. Your expertise will be crucial in maintaining a safe and compliant environment for both residents and staff.If you are an experienced Registered Nurse passionate about staff education and infection control, and ready to contribute to a supportive team, we encourage you to apply today.",
     "contractType": "Full-time",
-    "salaryShort": "",
+    "salaryShort": "$40-$42 per hour",
     "requirements": [
-      "Proven experience as a Marketing Director, preferably within a skilled nursing or long-term care setting.",
-      "Demonstrated professional demeanor and appearance.",
-      "Flexibility to work occasional weekends as needed.",
-      "Strong drive and proactive approach to market growth and community engagement.",
-      "Track record of achieving census goals and building strong referral networks."
+      "Active Registered Nurse (RN) license in Maryland",
+      "Experience in staff development or adult education",
+      "Experience in infection prevention and control practices",
+      "Knowledge of state and federal healthcare regulations",
+      "Strong communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "Compensation based on experience and performance, with excellent pay for the right candidate.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Speech Language Pathologist (SLP)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Inverness, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier skilled nursing facility in Inverness, FL. This critical role offers a competitive hourly rate of $38.00 - $49.00, providing essential speech and language therapy services to patients in need.This is an exceptional opportunity for an SLP looking for flexible PRN hours while making a significant impact on patient recovery and quality of life. A generous $5,000 sign-on or relocation bonus is available for qualified candidates. Join a team committed to delivering high-quality, compassionate care.",
-    "contractType": "PRN",
-    "salaryShort": "$38.00 - $49.00/hr",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current state licensure as a Speech-Language Pathologist in Florida",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
-    ],
-    "salaryOrBonusInfo": "$5,000 sign-on or relocation bonus available.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Ocala, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Ocala, FL, committed to providing exceptional patient care. We are seeking a passionate and skilled Physical Therapist Assistant (PTA) to contribute to our rehabilitation services and help patients achieve their highest potential for recovery and independence.This full-time position offers a competitive hourly rate, providing a stable and rewarding career opportunity. You will work alongside a multidisciplinary team, implementing personalized therapy plans and making a significant impact on the lives of our residents. We value teamwork, professional growth, and a supportive work environment.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Previous experience in a skilled nursing or rehabilitation setting",
-      "Ability to work full-time",
-      "Strong communication and interpersonal skills",
-      "Commitment to patient-centered care"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_the_lodge_health_and_rehabilitation_center_ocala__fl"
+    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   }
 ]
