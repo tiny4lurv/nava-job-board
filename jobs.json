@@ -1,39 +1,21 @@
 [
   {
     "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
-    "roleType": "Support",
+    "roleType": "Leadership",
     "location": "Oakland, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nIn this dual capacity, you will be instrumental in developing and implementing comprehensive training programs for nursing staff, fostering continuous professional growth. Concurrently, you will lead our infection control initiatives, overseeing surveillance, prevention strategies, and compliance with regulatory guidelines. This position offers a competitive hourly rate of $40.00 - $42.00.",
+    "facilityType": "a premier health and rehabilitation center",
+    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role offers an opportunity to significantly impact patient care and staff competency within a supportive environment.\n\nAs the Staff Development Coordinator, you will be responsible for assessing educational needs, developing, and implementing training programs for nursing staff. Concurrently, as the Infection Control Nurse, you will lead efforts in preventing and controlling infections, ensuring compliance with all regulatory standards, and promoting a safe environment for residents and staff.\n\nThis full-time position offers a competitive hourly rate of $40-$42. If you are a proactive RN with a passion for education and infection prevention, we encourage you to apply and contribute to our commitment to excellence.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $42.00/hr",
+    "salaryShort": "$40-$42 per hour",
     "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Experience in staff development or nursing education",
-      "Experience in infection prevention and control practices",
-      "Knowledge of state and federal healthcare regulations",
-      "Strong communication and organizational skills"
+      "Active Registered Nurse (RN) license in Maryland.",
+      "Minimum of 2 years of experience in a long-term care or skilled nursing facility.",
+      "Demonstrated experience in staff education/development or infection control.",
+      "Strong knowledge of state and federal regulations pertaining to infection prevention and staff training.",
+      "Excellent communication, organizational, and leadership skills."
     ],
-    "salaryOrBonusInfo": "Compensation: $40.00 - $42.00 per hour, based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "Speech Language Pathologist (SLP)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Inverness, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier health and rehabilitation center in Inverness, FL. This critical role offers the flexibility of PRN work while making a significant impact on patient recovery and well-being.\n\nThis opportunity comes with a competitive hourly rate ranging from $38 to $49, reflecting your expertise and commitment. To further support your transition, a generous $5,000 sign-on or relocation bonus is available.\n\nAs an SLP, you will be instrumental in providing comprehensive speech, language, and swallowing services to patients, helping them regain vital communication and cognitive skills. Join a team committed to excellence and patient-centered care.",
-    "contractType": "PRN",
-    "salaryShort": "$38 - $49/hr",
-    "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current state licensure as a Speech Language Pathologist in Florida",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
-    ],
-    "salaryOrBonusInfo": "Hourly rate of $38 - $49, plus a $5,000 sign-on or relocation bonus.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
   }
 ]
