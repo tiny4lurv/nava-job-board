@@ -1,56 +1,115 @@
 [
   {
-    "roleTitle": "SDC/Infection Control Nurse",
+    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
     "roleType": "Support",
     "location": "Oakland, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "Join a premier rehabilitation center in Oakland, MD, as an SDC/Infection Control Nurse. This vital full-time role offers a unique opportunity to shape staff competency and ensure the highest standards of patient safety and health within our compassionate environment.In this dual-focused position, you will be instrumental in developing and implementing comprehensive staff education programs, fostering continuous professional growth among our team. Concurrently, you will lead our infection prevention and control initiatives, conducting surveillance, educating staff on best practices, and ensuring compliance with all regulatory guidelines to maintain a safe and healthy facility for residents and staff.We are offering a competitive hourly rate of $40-$42. If you are a dedicated Registered Nurse passionate about education and infection control, we encourage you to apply and become a key part of our commitment to excellence.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role offers an excellent opportunity to contribute to both staff excellence and patient safety within a supportive environment.\n\nIn this dual capacity, you will be instrumental in developing and implementing comprehensive staff education programs, ensuring our team remains at the forefront of clinical best practices. Concurrently, you will lead our infection prevention and control initiatives, safeguarding the health and well-being of our residents and staff. Your expertise will be crucial in maintaining regulatory compliance and fostering a culture of continuous improvement.\n\nThis full-time position offers a competitive hourly rate of $40-$42. We are looking for a proactive professional ready to make an immediate impact.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
-      "Active Registered Nurse (RN) license",
-      "Experience in staff development or education",
-      "Experience in infection prevention and control",
-      "Knowledge of state and federal regulations related to infection control and staff education"
+      "Active Registered Nurse (RN) license in the state of Maryland.",
+      "Proven experience in staff development, education, or clinical instruction.",
+      "Demonstrated experience in infection prevention and control practices within a healthcare setting.",
+      "Strong knowledge of state and federal regulations pertaining to long-term care, staff education, and infection control.",
+      "Excellent communication, organizational, and leadership skills."
     ],
-    "salaryOrBonusInfo": "Compensation: $40-$42 per hour.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "Marketing Director",
+    "roleTitle": "Experienced Marketing Director",
     "roleType": "Leadership",
     "location": "Sarasota County, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dynamic Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is an exciting opportunity to make a significant impact at a recently acquired facility, where your strategic vision and proactive approach will be crucial in shaping its future success and growth.As Marketing Director, you will be responsible for developing and executing comprehensive marketing strategies to drive census and enhance community engagement. We are looking for a highly presentable and results-oriented professional who thrives in a fast-paced environment and is willing to work occasional weekends to meet business objectives. Your ability to build strong relationships and effectively communicate the facility's value will be key to this role.",
+    "description": "Are you an accomplished and results-driven Marketing Director seeking a confidential opportunity to make a significant impact? A premier skilled nursing facility in Sarasota County, FL, is actively seeking an experienced professional to lead their marketing and admissions efforts. This is a unique chance to join a recently acquired facility poised for growth, where your strategic vision and proactive approach will be highly valued.In this pivotal role, you will be responsible for enhancing the facility's presence within the community, building strong referral networks, and driving census growth. We are looking for a dynamic individual who is not afraid to be present in the community, work occasional weekends as needed, and demonstrate a 'hustler' mentality to achieve ambitious goals. Your ability to connect with stakeholders and present the facility's value proposition will be key to your success.This confidential search is for a candidate who can truly make a difference. The facility is prepared to offer excellent compensation for the right individual who brings a proven track record of success and a passion for healthcare marketing. If you are ready to take on a challenging yet rewarding leadership position, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Minimum of 3-5 years of marketing experience, preferably in a skilled nursing or healthcare setting",
-      "Demonstrated ability to develop and implement effective marketing strategies",
-      "Professional and presentable demeanor with excellent communication skills",
-      "Willingness to work occasional weekends as needed",
-      "Proven track record of driving results and achieving census goals"
+      "Professional demeanor and strong presentation skills",
+      "Ability to work occasional weekends",
+      "Proven track record of driving results and achieving census goals",
+      "Experience in healthcare marketing, preferably within a skilled nursing or long-term care setting",
+      "Strong community relations and networking abilities"
     ],
-    "salaryOrBonusInfo": "Compensation is competitive and based on experience for the right candidate.",
+    "salaryOrBonusInfo": "Compensation based on experience and proven track record.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated and skilled Physical Therapist (PT) for a Per Diem (PRN) opportunity at a leading rehabilitation center in Inverness, FL. This role offers the flexibility to manage your schedule while providing essential therapy services to patients in a supportive environment. Join a team committed to patient recovery and well-being.\n\nAs a PRN Physical Therapist, you will be responsible for assessing, planning, and implementing individualized treatment programs to help patients regain function and improve their quality of life. You will work collaboratively with a multidisciplinary team, utilizing your expertise in therapeutic exercises, manual therapy, and other modalities to achieve optimal patient outcomes.\n\nThis position offers a competitive hourly rate, providing an excellent opportunity for Physical Therapists looking for flexible work arrangements. Make a significant impact on the lives of patients recovering from various conditions, contributing to their journey towards independence and improved health.",
+    "contractType": "PRN",
+    "salaryShort": "$39.00 - $40.00/hr",
+    "requirements": [
+      "Current and valid Physical Therapist (PT) license in the state of Florida",
+      "Experience in a rehabilitation or skilled nursing facility setting preferred",
+      "Strong clinical assessment and treatment planning skills",
+      "Ability to work independently and as part of a multidisciplinary team",
+      "Excellent communication and documentation abilities"
+    ],
+    "salaryOrBonusInfo": "Competitive hourly rate ranging from $39.00 to $40.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl"
   },
   {
     "roleTitle": "Physical Therapist Assistant (PTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Inverness, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier health and rehabilitation center in Inverness, FL, as a Physical Therapist Assistant (PTA). This PRN opportunity allows you to make a significant impact on patient recovery and well-being within a supportive environment. We are seeking a dedicated professional eager to contribute to our team's success.As a PRN Physical Therapist Assistant, you will work under the supervision of a licensed Physical Therapist, assisting patients with therapeutic exercises, functional training, and other rehabilitation activities. Your role will be crucial in implementing individualized treatment plans and documenting patient progress, ensuring high-quality care and positive outcomes.This role offers competitive hourly compensation ranging from $28.00 to $37.00, based on your experience. If you are a compassionate and skilled PTA looking for a flexible PRN position, we encourage you to apply.",
+    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Inverness, FL. This PRN role offers flexibility while allowing you to make a significant impact on patients' lives by assisting them in their journey to recovery and improved mobility.\n\nAs a PTA, you will work under the supervision of a licensed Physical Therapist, implementing treatment plans and providing therapeutic exercises to help patients regain function and reduce pain. This is an excellent opportunity to contribute to a supportive team environment and deliver high-quality care.",
     "contractType": "PRN",
     "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
       "Associate's degree from an accredited Physical Therapist Assistant program",
-      "Current and valid Physical Therapist Assistant (PTA) license in Florida",
-      "CPR certification"
+      "Current state licensure as a Physical Therapist Assistant (PTA)",
+      "CPR certification",
+      "Ability to work effectively in a rehabilitation setting"
     ],
-    "salaryOrBonusInfo": "Hourly compensation ranges from $28.00 - $37.00, based on experience.",
+    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a dedicated team at a leading skilled nursing facility in Ocala, FL, committed to providing exceptional patient care and rehabilitation services. We are seeking a passionate and skilled Physical Therapist Assistant (PTA) to contribute to our mission of improving the quality of life for our residents.This is a full-time opportunity offering competitive compensation. As a PTA, you will play a crucial role in implementing individualized therapy plans, helping patients regain mobility, manage pain, and achieve their rehabilitation goals. We value teamwork and a patient-centered approach to care.If you are a motivated Physical Therapist Assistant looking for a rewarding full-time position where your skills make a real difference, we encourage you to apply. Take the next step in your career with a facility that supports professional growth and provides a positive work environment.",
+    "contractType": "Full-time",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current Physical Therapist Assistant (PTA) licensure",
+      "Active Florida state licensure as a PTA",
+      "Experience in a skilled nursing or rehabilitation setting",
+      "Strong communication and interpersonal skills",
+      "Ability to work effectively as part of a multidisciplinary team"
+    ],
+    "salaryOrBonusInfo": "Hourly compensation for this full-time Physical Therapist Assistant (PTA) role ranges from $28.00 to $37.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta_the_lodge_health_and_rehabilitation_center_ocala__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "Join a premier skilled nursing facility in beautiful St. Petersburg, FL, offering an exceptional opportunity for a dedicated Physical Therapist Assistant. This facility, with 55-59 beds and a current census of 43, is ideally situated on a main street with abundant shopping nearby and a pleasant neighborhood behind the building. Enjoy the convenience of being just 15 minutes from the beach, with two inviting courtyards on-site.\n\nWe are seeking a passionate PTA to contribute to our patient-centered care environment. This full-time role offers a competitive hourly rate of $38.00 - $48.00, reflecting your experience and commitment. If you are looking for a rewarding career in a vibrant community with excellent amenities, we encourage you to apply.",
+    "contractType": "Full-time",
+    "salaryShort": "$38.00 - $48.00/hr",
+    "requirements": [
+      "Valid Physical Therapist Assistant (PTA) license in the state of Florida.",
+      "Previous experience in a skilled nursing or rehabilitation setting preferred.",
+      "Ability to provide high-quality physical therapy services under the supervision of a Physical Therapist.",
+      "Strong communication and interpersonal skills.",
+      "Commitment to patient-centered care and teamwork."
+    ],
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $48.00, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   }
 ]
