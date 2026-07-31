@@ -138,13 +138,24 @@ async function processNewJobsWithGemini(newJobs) {
         const job = newJobs[i];
         console.log(`Processing ${i + 1} of ${newJobs.length}...`);
         
-        const enhancedJob = await generateJobDetails(job);
-        if (enhancedJob) {
-            processedJobs.push(enhancedJob);
+        let enhancedJob = null;
+        let retries = 0;
+        let success = false;
+        
+        while (!success && retries < 3) {
+            enhancedJob = await generateJobDetails(job);
+            if (enhancedJob) {
+                success = true;
+                processedJobs.push(enhancedJob);
+            } else {
+                retries++;
+                console.log(`Rate limit or error hit. Retrying job ${i + 1} (Attempt ${retries} of 3) in 15 seconds...`);
+                await new Promise(resolve => setTimeout(resolve, 15000));
+            }
         }
         
-        // Add a small 1-second delay between requests to be gentle on the API
-        await new Promise(resolve => setTimeout(resolve, 1000));
+        // Add a 3-second delay between requests to be gentler on the API
+        await new Promise(resolve => setTimeout(resolve, 3000));
     }
     
     return processedJobs;
