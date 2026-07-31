@@ -1,92 +1,36 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator / Infection Control Nurse (RN)",
-    "roleType": "Support",
-    "location": "Oakland, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and experienced Staff Development Coordinator / Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nIn this dual capacity, you will be instrumental in developing and implementing comprehensive training programs for staff, alongside managing and overseeing all infection control initiatives. Your expertise will contribute significantly to maintaining a healthy and compliant environment, supported by a competitive hourly rate.",
-    "contractType": "Full-time",
-    "salaryShort": "$40-$42 per hour",
-    "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Proven experience in staff development, education, or training within a healthcare setting",
-      "Demonstrated experience in infection prevention and control practices",
-      "Strong understanding of state and federal regulations pertaining to skilled nursing facilities"
-    ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $40-$42, based on experience.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "Marketing Director",
-    "roleType": "Leadership",
-    "location": "Sarasota County, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dynamic and experienced Marketing Director to join a premier skilled nursing facility in Sarasota County, FL. This is a highly confidential search for a leader who can drive market presence and community engagement for a recently acquired center. The ideal candidate will play a pivotal role in shaping the facility's reputation and growth.This position requires a professional who is not only presentable but also possesses a proactive and results-oriented mindset. You will be instrumental in developing and executing marketing strategies, with an emphasis on community outreach and building strong referral networks. The role involves occasional weekend work and offers competitive compensation for the right individual who is ready to make a significant impact.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Marketing Director, preferably within a skilled nursing or healthcare setting",
-      "Professional demeanor and excellent presentation skills",
-      "Ability to work occasional weekends as needed",
-      "Demonstrated proactive and results-driven approach to market development and community relations",
-      "Strong communication, interpersonal, and networking abilities"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Inverness, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier health and rehabilitation center in Inverness, FL, as a PRN Speech Language Pathologist (SLP). This critical role offers a competitive hourly rate of $38.00 - $49.00, along with a generous $5,000 sign-on or relocation bonus. We are seeking a dedicated professional to provide essential speech and language services to our residents on an as-needed basis.\n\nThis is an excellent opportunity for an SLP looking for flexibility and the chance to make a significant impact within a supportive environment. If you are passionate about patient care and meet the qualifications, we encourage you to apply.",
+    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a premier health and rehabilitation center in Inverness, FL. This PRN opportunity offers flexibility, allowing you to make a significant impact on patients' recovery journeys while balancing your professional and personal life.\n\nAs a PTA, you will work under the supervision of a licensed Physical Therapist, assisting patients with therapeutic exercises, functional training, and other rehabilitation activities. You will play a crucial role in implementing individualized treatment plans, documenting patient progress, and ensuring a supportive environment for healing. This role offers a competitive hourly rate.",
     "contractType": "PRN",
-    "salaryShort": "$38.00 - $49.00/hr",
+    "salaryShort": "$28.00 - $37.00/hr",
     "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current Florida state licensure as a Speech Language Pathologist",
-      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
-      "Experience in a skilled nursing or rehabilitation setting preferred"
+      "Associate's degree from an accredited Physical Therapist Assistant program",
+      "Current state licensure as a Physical Therapist Assistant (PTA)",
+      "Current CPR certification",
+      "Ability to work effectively in a rehabilitation team setting"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $38.00 - $49.00 with a $5,000 sign-on or relocation bonus.",
+    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist (PT)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Inverness, FL",
-    "facilityType": "Rehabilitation Center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Inverness, FL, as a PRN Physical Therapist. This is an excellent opportunity for a skilled professional to provide essential therapy services on an as-needed basis, offering flexibility and the chance to make a significant impact on patient recovery and well-being.In this role, you will be responsible for assessing, planning, and implementing individualized treatment programs for patients, helping them regain mobility, reduce pain, and improve their overall quality of life. We are seeking a compassionate and highly motivated individual committed to delivering exceptional patient care.This PRN position offers the flexibility to balance your professional and personal life while contributing to a supportive and dynamic healthcare environment. If you are passionate about rehabilitation and eager to work with a diverse patient population, we encourage you to apply.",
-    "contractType": "PRN",
-    "salaryShort": "",
-    "requirements": [
-      "Current state licensure as a Physical Therapist (PT)",
-      "Minimum of 1 year of experience in a rehabilitation or skilled nursing facility setting",
-      "Strong clinical assessment and treatment planning skills",
-      "Ability to work independently and as part of a multidisciplinary team"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl"
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
   },
   {
     "roleTitle": "Rehabilitation Therapy Professionals",
     "roleType": "Therapy/Rehabilitation",
     "location": "Ocala, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "Join a premier health and rehabilitation center in Ocala, FL, as a valued Rehabilitation Therapy Professional. We are actively seeking dedicated Certified Occupational Therapy Assistants (COTA), Physical Therapist Assistants (PTA), Occupational Therapists (OT), and Speech Therapists (ST) to enhance our patient care team. This is an excellent opportunity for both full-time and part-time professionals looking to make a significant impact on the lives of our residents.\n\nYou will play a crucial role in developing and implementing individualized therapy plans, helping patients regain independence and improve their quality of life. We offer a supportive environment where your expertise is valued, and professional growth is encouraged. If you are passionate about rehabilitation and committed to delivering exceptional care, we invite you to explore this rewarding position.\n\nWe offer competitive hourly rates, with specific compensation based on your role and experience. This is a chance to join a dynamic team dedicated to clinical excellence and patient-centered care in a vibrant community.",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "Join a premier health and rehabilitation center in Ocala, FL, dedicated to providing exceptional patient care. We are actively seeking skilled and compassionate Rehabilitation Therapy Professionals, including Physical Therapists (PT), Occupational Therapists (OT), Speech-Language Pathologists (ST), Certified Occupational Therapy Assistants (COTA), and Physical Therapist Assistants (PTA), to enhance our dynamic team. This is an excellent opportunity to make a significant impact on the lives of our residents, helping them achieve their rehabilitation goals in a supportive and collaborative environment.\n\nWe offer flexible full-time and part-time positions to accommodate your professional and personal needs. You will work alongside a dedicated team of healthcare professionals, utilizing your expertise to develop and implement individualized treatment plans. If you are passionate about rehabilitation and eager to contribute to a facility committed to excellence, we encourage you to apply.",
     "contractType": "Full-time",
     "salaryShort": "$28.00 - $46.00/hr",
     "requirements": [
-      "Active and unrestricted COTA, PTA, OT, or ST license/certification in the state of Florida.",
-      "Prior experience in a skilled nursing facility or rehabilitation center is preferred.",
-      "Ability to work effectively as part of a multidisciplinary team.",
-      "Strong commitment to patient-centered care and clinical excellence."
+      "Current state licensure/certification as a Physical Therapist (PT), Occupational Therapist (OT), Speech-Language Pathologist (ST), Certified Occupational Therapy Assistant (COTA), or Physical Therapist Assistant (PTA)",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work collaboratively within a multidisciplinary team"
     ],
-    "salaryOrBonusInfo": "Certified Occupational Therapy Assistants (COTA) and Physical Therapist Assistants (PTA) can expect $28.00 - $37.00/hr for full-time positions. Physical Therapists (PT), Occupational Therapists (OT), and Speech Therapists (ST) can expect $40.00 - $46.00/hr for full-time and part-time positions.",
+    "salaryOrBonusInfo": "Compensation for Certified Occupational Therapy Assistants (COTA) and Physical Therapist Assistants (PTA) is $28.00 - $37.00/hr. Compensation for Physical Therapists (PT), Occupational Therapists (OT), and Speech-Language Pathologists (ST) is $40.00 - $46.00/hr.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "ft_pt_the_lodge_health_and_rehabilitation_center_ocala__fl"
   }
