@@ -1,21 +1,151 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator and Infection Control Nurse",
-    "roleType": "Support",
-    "location": "Oakland, MD",
+    "roleTitle": "Licensed Practical Nurse (LPN)",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
     "facilityType": "Skilled Nursing Facility",
-    "description": "Join a dedicated team at a leading skilled nursing facility in Oakland, MD, as a Staff Development Coordinator and Infection Control Nurse. This pivotal role offers the opportunity to shape the clinical education of our staff while ensuring the highest standards of infection prevention and control are maintained. We are seeking a passionate and knowledgeable professional ready to make a significant impact on resident care and staff competency.In this dual-focused position, you will be responsible for developing and implementing comprehensive staff education programs, conducting new hire orientation, and providing ongoing in-service training. Concurrently, you will lead our infection control initiatives, including surveillance, prevention strategies, and compliance with all regulatory guidelines. Your expertise will be crucial in fostering a safe and healthy environment for both residents and staff.This is an excellent opportunity for an experienced nurse looking to advance their career in a supportive and dynamic setting. We offer a competitive hourly rate of $40.00 - $42.00. If you are committed to excellence in healthcare education and infection control, we encourage you to apply today.",
+    "description": "Are you a dedicated Licensed Practical Nurse looking for a consistent weekend schedule? A premier health and rehabilitation center in Gulfport, MS, is seeking a compassionate LPN to join their team for a specialized Baylor shift. This role offers the opportunity to provide essential patient care in a supportive environment.This unique position requires commitment to working 12-hour shifts every Saturday and Sunday. This is not a PRN role; we are looking for a reliable professional who is specifically seeking and comfortable with this weekend schedule. If you are ready to make a significant impact on patient well-being while enjoying a structured work-life balance, we encourage you to apply.Join a team dedicated to excellence in patient care and contribute to a positive healing environment. Your expertise will be vital in ensuring the highest standards of health and comfort for our residents.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $42.00/hr",
+    "salaryShort": "",
     "requirements": [
-      "Active Registered Nurse (RN) license in Maryland",
-      "Minimum of 2 years of experience in staff development or education within a healthcare setting",
-      "Minimum of 2 years of experience in infection prevention and control",
-      "Strong knowledge of state and federal regulations related to long-term care and infection control",
-      "Current BLS/CPR certification"
+      "Current and valid Licensed Practical Nurse (LPN) license in Mississippi.",
+      "Ability to commit to working 12-hour shifts every Saturday and Sunday.",
+      "Experience in a skilled nursing or long-term care setting preferred.",
+      "Strong clinical skills and a compassionate approach to patient care."
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40.00 - $42.00, based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
+    "id": "baylor_lpn__sat___sun__12hrs__gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Colorado Springs, CO",
+    "facilityType": "An educational institution",
+    "description": "We are seeking a dedicated School Psychologist for a contract opportunity within a local school district in Colorado Springs, CO. This role offers a competitive hourly rate of $60/hr+ and an initial contract spanning 42 weeks, starting July 27, 2026. This is an excellent chance to make a significant impact on student well-being and academic success within a supportive educational environment.\n\nAs a School Psychologist, you will be instrumental in providing comprehensive psychological services to students, including assessments, interventions, and consultation with staff and families. You will contribute to fostering a positive learning environment and supporting the social-emotional development of students.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology",
+      "Valid Colorado Department of Education (CDE) School Psychologist license/certification",
+      "Experience working with school-aged children in an educational setting",
+      "Knowledge of relevant laws and regulations pertaining to special education and student services"
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $60 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___60_hr___initial_contract_7_27_26___42_weeks__widefield_school_district_3_colorado_springs__co"
+  },
+  {
+    "roleTitle": "Special Education Teacher",
+    "roleType": "Other",
+    "location": "Thornton, CO",
+    "facilityType": "Educational Institution",
+    "description": "We are seeking a dedicated Special Education Teacher with experience in Autism Spectrum Disorder (ASD) to join an educational institution in Thornton, CO. This is an excellent opportunity to make a significant impact on students' lives within a supportive learning environment.\n\nThis contract position offers a competitive hourly rate of $50/hr or more. The initial contract is for 43 weeks, commencing on July 27, 2026. We are looking for a passionate educator ready to contribute to a positive and inclusive educational experience.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid state teaching license/certification in Special Education",
+      "Demonstrated experience working with students on the Autism Spectrum Disorder (ASD)",
+      "Bachelor's or Master's degree in Special Education or a related field",
+      "Ability to develop and implement Individualized Education Programs (IEPs)",
+      "Strong classroom management and communication skills"
+    ],
+    "salaryOrBonusInfo": "This contract position offers a competitive hourly rate of $50/hr or more, based on experience. The initial contract is for 43 weeks, starting July 27, 2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_special_education_teacher__asd_exp____50_hr___initial_contract_7_27_26___43_weeks__hunters_glen_elementary_school_thornton__co"
+  },
+  {
+    "roleTitle": "Special Education Teacher",
+    "roleType": "Other",
+    "location": "Crewe, VA",
+    "facilityType": "An educational institution",
+    "description": "Join an educational institution in Crewe, VA, as a dedicated Special Education Teacher. This contract role offers a competitive rate of $50 per hour or more, providing an excellent opportunity to make a significant impact on students' lives. The initial contract runs for 43 weeks, starting August 10, 2026.\n\nIn this vital position, you will be responsible for developing and implementing individualized education programs (IEPs), providing specialized instruction, and fostering an inclusive learning environment for students with diverse needs. We are seeking a passionate educator committed to student success and collaborative teamwork.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid state teaching license/certification in Special Education",
+      "Bachelor's or Master's degree in Special Education or a related field",
+      "Experience working with students with disabilities",
+      "Proficiency in developing and implementing Individualized Education Programs (IEPs)",
+      "Strong communication and collaboration skills"
+    ],
+    "salaryOrBonusInfo": "$50/hr+",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_special_education_teacher_non_clinical___50_hr___initial_contract_8_10_26___43_weeks__nottoway_county_public_schools_crewe__va"
+  },
+  {
+    "roleTitle": "Director of Rehabilitation",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated and experienced Director of Rehabilitation to lead our therapy services at a premier health and rehabilitation center in Etowah, TN. This pivotal leadership role offers the opportunity to shape the future of patient care and foster a collaborative environment for our therapy team.\n\nAs the Director of Rehabilitation, you will be responsible for overseeing all aspects of our physical, occupational, and speech therapy programs. You will ensure the delivery of high-quality, patient-centered care, manage departmental operations, and drive continuous improvement initiatives to achieve optimal outcomes for our residents.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current and valid state licensure as a Physical Therapist (PT), Occupational Therapist (OT), or Speech-Language Pathologist (SLP)",
+      "Minimum of 3-5 years of clinical experience, with at least 2 years in a supervisory or management role",
+      "Proven experience in a skilled nursing facility or rehabilitation center setting",
+      "Strong leadership, communication, and organizational skills",
+      "Knowledge of state and federal regulations governing therapy services"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "dor_etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dynamic and experienced Marketing Director to join a premier health and rehabilitation center in Etowah, TN. This pivotal role involves developing and executing comprehensive marketing strategies to enhance the facility's presence, drive patient admissions, and foster strong community relationships. The ideal candidate will be a strategic thinker with a passion for healthcare and a proven track record in achieving marketing objectives.As Marketing Director, you will be responsible for overseeing all marketing initiatives, including digital marketing, public relations, and community outreach programs. You will work closely with the leadership team to identify market opportunities, analyze trends, and implement innovative solutions to meet census goals. This is an excellent opportunity for a results-oriented professional to make a significant impact within a supportive and patient-focused environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Bachelor's degree in Marketing, Business Administration, or a related field",
+      "Minimum of 3-5 years of marketing experience, preferably in a healthcare or long-term care setting",
+      "Demonstrated ability to develop and implement successful marketing and public relations strategies",
+      "Excellent communication, presentation, and interpersonal skills",
+      "Proficiency in market analysis and digital marketing tools"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "marketing_director_etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
+    "roleTitle": "Business Office Manager",
+    "roleType": "Support",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Business Office Manager to join a premier skilled nursing facility in Etowah, TN. This vital role is responsible for overseeing the financial operations of the facility, ensuring accurate billing, collections, and financial record-keeping. The ideal candidate will play a crucial part in maintaining the financial health and operational efficiency of our center.As the Business Office Manager, you will manage resident accounts, process payments, and handle insurance claims, ensuring compliance with all regulatory standards. You will work closely with residents, families, and various departments to resolve financial inquiries and provide exceptional service. This position offers an opportunity to contribute significantly to a supportive and resident-focused environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Proven experience as a Business Office Manager or similar financial role, preferably within a skilled nursing facility or healthcare setting.",
+      "Strong understanding of healthcare billing, collections, and accounts receivable processes.",
+      "Proficiency in financial software and electronic medical record (EMR) systems.",
+      "Excellent organizational skills and attention to detail.",
+      "Exceptional communication and interpersonal abilities."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "bom_etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
+    "roleTitle": "Certified Dietary Manager (CDM)",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Health and Rehabilitation Center",
+    "description": "We are seeking a dedicated Certified Dietary Manager (CDM) to join a premier health and rehabilitation center in Etowah, TN. This vital leadership role is responsible for overseeing all aspects of our dietary services, ensuring the provision of high-quality, nutritious, and appealing meals to our residents.The Certified Dietary Manager will manage daily food service operations, including menu planning, food preparation, inventory management, and maintaining strict sanitation standards. You will lead and mentor the dietary team, ensuring compliance with all state and federal regulations, and working collaboratively with other departments to meet the unique dietary needs of each resident.If you are a passionate and experienced CDM looking to make a significant impact on resident well-being within a supportive environment, we encourage you to apply. This is an excellent opportunity to contribute to a team committed to exceptional care.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Certified Dietary Manager (CDM) certification required",
+      "Proven experience in food service management, preferably in a healthcare or long-term care setting",
+      "Strong knowledge of state and federal dietary regulations and sanitation standards",
+      "Excellent leadership, communication, and organizational skills"
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "cdm_etowah_health_and_rehabilitation_etowah__tn"
   }
 ]
