@@ -1,58 +1,58 @@
 [
   {
     "roleTitle": "SDC/Infection Control Nurse",
-    "roleType": "Support",
+    "roleType": "Other",
     "location": "Oakland, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff development and infection prevention, ensuring our team is highly skilled and our environment is safe for all residents.\n\nAs the SDC/Infection Control Nurse, you will be instrumental in developing and implementing educational programs for staff, maintaining compliance with infection control protocols, and conducting surveillance activities. Your expertise will directly contribute to the quality of care and overall well-being of our residents and staff. This position offers a competitive hourly rate.\n\nJoin a facility committed to excellence in long-term care, where your contributions are valued and directly impact the health and safety of the community.",
+    "facilityType": "Rehab Center",
+    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This vital role combines staff development coordination with comprehensive infection prevention strategies, ensuring the highest standards of care and safety for our residents and staff. You will play a crucial part in maintaining a healthy and compliant environment.\n\nIn this dynamic position, you will be responsible for developing and implementing staff education programs, conducting competency assessments, and overseeing all aspects of infection control. Your expertise will guide our team in best practices, regulatory compliance, and continuous quality improvement initiatives. This is an excellent opportunity to make a significant impact within a supportive and professional setting.\n\nIf you are a proactive and experienced Registered Nurse with a passion for education and infection prevention, we encourage you to apply. Join a team committed to excellence and resident well-being.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license in Maryland",
-      "Experience in staff development or nursing education",
+      "Experience in staff development or education within a healthcare setting",
       "Experience in infection prevention and control practices",
-      "Knowledge of state and federal regulations for long-term care",
-      "Strong communication and organizational skills"
+      "Knowledge of state and federal healthcare regulations (e.g., CMS, CDC)",
+      "Strong communication, organizational, and teaching skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
+    "salaryOrBonusInfo": "$40-$42 per hour",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "Physical Therapist",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Inverness, FL",
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Sarasota County, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Physical Therapist for a PRN (as-needed) opportunity in Inverness, FL. This role offers the flexibility to work on a per diem basis, allowing you to balance your professional commitments with your personal life while making a significant impact on patient recovery.\n\nAs a Physical Therapist, you will be instrumental in providing high-quality rehabilitation services to patients, helping them regain mobility, reduce pain, and improve their overall quality of life. You will work within a supportive environment, utilizing your expertise to develop and implement individualized treatment plans.\n\nThis is an excellent opportunity for a Physical Therapist looking for flexible hours in a rewarding setting. Join a team committed to patient-centered care and professional excellence.",
-    "contractType": "PRN",
-    "salaryShort": "$39.00 - $40.00/hr",
+    "description": "We are seeking a highly motivated and experienced Marketing Director to join a premier skilled nursing facility in Sarasota County, FL. This is a unique opportunity to contribute to a recently acquired facility, offering significant potential for growth and impact. The ideal candidate will be a driven and results-oriented professional ready to make a substantial contribution to our team.\n\nThis full-time position requires a professional and presentable individual who is prepared for occasional weekend work. We are committed to attracting top talent and offer competitive compensation for the right candidate who can demonstrate a strong track record of success in marketing and census development.",
+    "contractType": "Full-time",
+    "salaryShort": "",
     "requirements": [
-      "Current Physical Therapist (PT) license in the state of Florida",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Strong clinical assessment and treatment planning skills",
-      "Excellent communication and interpersonal abilities",
-      "Ability to work independently and manage a flexible schedule"
+      "Proven experience as a Marketing Director, preferably in a skilled nursing or healthcare environment",
+      "Highly driven, results-oriented, and able to work independently",
+      "Professional and presentable demeanor",
+      "Ability to work occasional weekends as needed",
+      "Strong communication and interpersonal skills"
     ],
-    "salaryOrBonusInfo": "Full-time Physical Therapists, Occupational Therapists, and Speech Therapists are compensated at $39.00 - $40.00 per hour. Compensation for PRN roles will be discussed based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience and performance.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl"
+    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+    "roleTitle": "Speech Language Pathologist (SLP)",
     "roleType": "Therapy/Rehabilitation",
-    "location": "Gainesville, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are urgently seeking dedicated Full-time Certified Occupational Therapy Assistants (COTA) to join a premier health and rehabilitation center in Gainesville, FL. This is a critical opportunity to make a significant impact on patient recovery and well-being within a supportive and dynamic environment.As a COTA, you will play a vital role in implementing individualized treatment plans under the supervision of an Occupational Therapist, helping patients regain independence and improve their quality of life. Your expertise will contribute directly to the success of our rehabilitation programs, fostering a positive and healing atmosphere for all residents.This full-time position offers a competitive hourly rate, commensurate with your experience. If you are a compassionate and skilled COTA looking for a rewarding career opportunity, we encourage you to apply today.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
+    "location": "Inverness, FL",
+    "facilityType": "Health & Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier health and rehabilitation center in Inverness, FL. This critical role offers an excellent opportunity to provide essential therapy services on a flexible, as-needed basis, making a significant impact on patient recovery and well-being.\n\nThis position comes with a competitive hourly rate of $38 - $49, reflecting the critical nature of the role and your valuable expertise. We are also pleased to offer a $5,000 sign-on or relocation bonus to qualified candidates. If you are a compassionate and skilled SLP looking for a rewarding PRN opportunity, we encourage you to apply.",
+    "contractType": "PRN",
+    "salaryShort": "$38 - $49/hr",
     "requirements": [
-      "Current COTA licensure in Florida",
-      "Associate's degree from an accredited Occupational Therapy Assistant program",
-      "Prior experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work full-time"
+      "Master's degree in Speech-Language Pathology",
+      "Current state licensure as a Speech-Language Pathologist",
+      "Certificate of Clinical Competence (CCC) from ASHA",
+      "Experience in a rehabilitation or skilled nursing facility setting"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $28.00 - $37.00 based on experience.",
+    "salaryOrBonusInfo": "$38 - $49/hr with a $5,000 sign-on or relocation bonus.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl"
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
   }
 ]
