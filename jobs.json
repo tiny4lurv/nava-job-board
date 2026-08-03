@@ -1,38 +1,78 @@
 [
   {
-    "roleTitle": "Staff Development Coordinator & Infection Control Nurse (RN)",
-    "roleType": "Other",
+    "roleTitle": "SDC/Infection Control Nurse",
+    "roleType": "Leadership",
     "location": "Oakland, MD",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated Staff Development Coordinator & Infection Control Nurse (RN) to join a premier health and rehabilitation center in Oakland, MD. This vital role combines the critical functions of staff education and infection prevention, ensuring the highest standards of care and safety for our residents and team.\n\nIn this dual capacity, you will be instrumental in developing and implementing comprehensive staff training programs, fostering a culture of continuous learning and professional growth. Concurrently, you will lead our infection control initiatives, overseeing surveillance, policy adherence, and outbreak management to maintain a safe and healthy environment.\n\nThis full-time opportunity offers a competitive hourly rate. We are looking for a proactive and experienced RN ready to make a significant impact on our facility's quality of care and staff competency.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. In this vital dual role, you will be instrumental in both staff development and maintaining rigorous infection prevention standards, ensuring the highest quality of care for our residents.\n\nThis position offers a unique opportunity to shape staff competency through comprehensive education programs while safeguarding the health and well-being of our community by leading infection control initiatives. We offer a competitive hourly rate of $40-$42 for this impactful role.",
     "contractType": "Full-time",
-    "salaryShort": "$40.00 - $42.00/hr",
+    "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license",
-      "Experience in staff development or adult education",
-      "Experience in infection prevention and control within a healthcare setting",
-      "Strong knowledge of state and federal healthcare regulations"
+      "Experience in staff development and education",
+      "Experience in infection prevention and control practices",
+      "Knowledge of state and federal healthcare regulations",
+      "Strong communication and organizational skills"
     ],
-    "salaryOrBonusInfo": "Hourly rate of $40.00 - $42.00 based on experience.",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "HVAC Field Manager",
+    "roleTitle": "Marketing Director",
     "roleType": "Leadership",
-    "location": "Chicago, IL",
-    "facilityType": "Commercial Services Company",
-    "description": "Join a highly reputable commercial services company known for its exceptional employee retention, where professionals build long-lasting careers. We are seeking skilled HVAC Field Managers to oversee commercial and industrial projects across the vibrant Chicago Metropolitan Area, including parts of Illinois, Wisconsin, and Indiana. This is an outstanding opportunity for experienced leaders to contribute to a company where dedication is valued and rewarded.\n\nAs an HVAC Field Manager, you will play a crucial role in managing field operations, ensuring the successful execution of HVAC projects, and leading a team of technicians. This position offers the chance to work with a diverse range of commercial and industrial systems, including boilers and chillers, within a dynamic and supportive environment. If you are a seasoned HVAC professional looking for a stable and rewarding career with a company that truly values its employees, we encourage you to apply.",
+    "location": "Sarasota County, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an experienced and dynamic Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is a unique opportunity to lead marketing efforts for a recently acquired facility, driving census growth and community engagement. We are looking for a proactive and results-driven individual who thrives in a fast-paced environment.\n\nThe ideal candidate will be highly presentable, possess exceptional interpersonal skills, and demonstrate a 'hustler' mentality to achieve marketing objectives. This role requires working occasional weekends to support events and outreach initiatives. We offer competitive compensation for the right professional who can make a significant impact.",
     "contractType": "Full-time",
-    "salaryShort": "$50-$65/hr",
+    "salaryShort": "",
     "requirements": [
-      "Minimum 5-7 years of experience in HVAC.",
-      "At least 3 years of commercial HVAC experience, including expertise with boilers and chillers.",
-      "Experience in a Skilled Nursing Facility (SNF) environment is a plus.",
-      "Ability to travel within the Chicago Metropolitan Area (IL, WI & IN)."
+      "Proven experience as a Marketing Director, preferably within a skilled nursing or healthcare facility.",
+      "Demonstrated ability to develop and execute effective marketing and admissions strategies.",
+      "Strong interpersonal and communication skills with a professional and presentable demeanor.",
+      "Proactive and results-driven approach to market development and census growth.",
+      "Ability to work occasional weekends as needed for community events and outreach."
     ],
-    "salaryOrBonusInfo": "Compensation: $50-$65 per hour, based on experience.",
+    "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
+    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+  },
+  {
+    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier skilled nursing facility in Inverness, FL. This critical role offers an excellent opportunity to provide essential speech and language therapy services to patients, contributing significantly to their rehabilitation and quality of life. We are looking for a compassionate professional ready to make an immediate impact.\n\nThis position comes with a highly competitive hourly rate ranging from $38 to $49, reflecting the critical nature of the role. To further support your transition, a generous $5,000 sign-on or relocation bonus is available. This PRN opportunity provides flexibility while allowing you to be an integral part of a supportive healthcare team.",
+    "contractType": "PRN",
+    "salaryShort": "$38 - $49/hr",
+    "requirements": [
+      "Master's degree in Speech-Language Pathology",
+      "Current state licensure as a Speech Language Pathologist in Florida",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work independently and as part of a multidisciplinary team"
+    ],
+    "salaryOrBonusInfo": "This critical PRN role offers a competitive hourly rate of $38 - $49, along with a $5,000 sign-on or relocation bonus.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
+  },
+  {
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Rehabilitation Center",
+    "description": "Are you a dedicated Physical Therapist Assistant looking for a flexible PRN opportunity? A premier health and rehabilitation center in Inverness, FL, is seeking a compassionate and skilled PTA to join their therapy team. This role offers the chance to make a significant impact on patients' recovery journeys, providing essential support and care. As a PRN Physical Therapist Assistant, you will work collaboratively with licensed Physical Therapists to implement individualized treatment plans, helping patients regain mobility, reduce pain, and improve their overall quality of life. This is an excellent opportunity for a professional seeking flexibility while contributing to a supportive and patient-focused environment.",
+    "contractType": "PRN",
+    "salaryShort": "$28.00 - $37.00/hr",
+    "requirements": [
+      "Current and valid Physical Therapist Assistant (PTA) license in the state of Florida.",
+      "Associate's degree from an accredited Physical Therapist Assistant program.",
+      "Current CPR certification.",
+      "Prior experience in a rehabilitation or skilled nursing facility is preferred.",
+      "Ability to work independently and as part of a multidisciplinary team."
+    ],
+    "salaryOrBonusInfo": "Hourly compensation for this PRN role ranges from $28.00 to $37.00, based on experience and qualifications.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
   }
 ]
