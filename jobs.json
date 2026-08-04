@@ -1,57 +1,59 @@
 [
   {
-    "roleTitle": "Registered Nurse (RN) - Staff Development & Infection Control",
-    "roleType": "Floor Staff",
+    "roleTitle": "SDC/Infection Control Nurse",
+    "roleType": "Support",
     "location": "Oakland, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated Registered Nurse to join a premier health and rehabilitation center in Oakland, MD, focusing on both staff development and infection control. This vital role involves ensuring our clinical team is well-trained and up-to-date on best practices, while also leading our efforts to maintain a safe and healthy environment for all residents and staff.\n\nAs the Staff Development and Infection Control Nurse, you will play a crucial part in upholding the highest standards of care and compliance. This is an excellent opportunity for an experienced RN to make a significant impact within a supportive and professional setting.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier health and rehabilitation center in Oakland, MD. This vital role offers a competitive hourly rate of $40-$42, providing an excellent opportunity for a skilled professional to make a significant impact on staff development and patient safety.\n\nIn this dual-focused position, you will be instrumental in coordinating staff education and training programs, ensuring our team is equipped with the latest knowledge and skills. Concurrently, you will lead our infection prevention and control initiatives, safeguarding the health and well-being of residents and staff through robust protocols and surveillance.\n\nIf you are a proactive and compassionate nurse with a passion for education and infection control, we encourage you to apply. Join a facility committed to excellence in care and a supportive work environment.",
     "contractType": "Full-time",
     "salaryShort": "$40-$42 per hour",
     "requirements": [
       "Active Registered Nurse (RN) license in Maryland",
-      "Proven experience in staff development and clinical education",
-      "Demonstrated expertise in infection prevention and control practices",
-      "Strong understanding of state and federal healthcare regulations"
+      "Experience in staff development and education within a healthcare setting",
+      "Demonstrated experience in infection prevention and control practices",
+      "Strong understanding of state and federal regulations for skilled nursing facilities",
+      "Excellent communication, organizational, and leadership skills"
     ],
-    "salaryOrBonusInfo": "$40-$42 per hour",
+    "salaryOrBonusInfo": "Hourly rate of $40-$42 based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "Marketing Director",
+    "roleTitle": "Experienced Marketing Director",
     "roleType": "Leadership",
     "location": "Sarasota County, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dynamic and experienced Marketing Director to join a premier 120-bed skilled nursing facility in Sarasota County, FL. This is a unique opportunity to join a recently acquired facility with a current census of 75, offering significant potential for growth and impact. We are looking for a proactive and results-oriented leader who is eager to drive market development and enhance community presence.The ideal candidate will be a highly presentable and professional individual with a strong drive to succeed. This role requires a commitment to occasional weekend work to support facility events and outreach initiatives. We offer a highly competitive compensation package for the right candidate, reflecting the importance of this leadership position.",
+    "description": "We are seeking an experienced and dynamic Marketing Director to join a premier skilled nursing facility in Sarasota County, FL. This is a unique opportunity to contribute to a recently purchased facility, bringing your expertise to a team dedicated to growth and excellence. The ideal candidate will be a proactive and results-driven individual with a strong ability to build relationships and drive census.\n\nAs the Marketing Director, you will be responsible for developing and executing comprehensive marketing strategies to enhance the facility's presence and attract new residents. This role requires a professional and presentable individual who thrives in a fast-paced environment and is committed to achieving ambitious goals. Flexibility to work occasional weekends will be essential to meet the demands of community engagement and outreach.\n\nIf you are a 'hustler' with a passion for healthcare marketing and a proven track record of success, we encourage you to apply. This position offers competitive compensation for the right candidate, reflecting the value placed on your experience and contributions to our growing team.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Proven experience as a Marketing Director, preferably within a skilled nursing or long-term care environment.",
-      "Demonstrated ability to develop and execute effective marketing and outreach strategies.",
-      "Professional demeanor and excellent communication and interpersonal skills.",
-      "Proactive and results-driven approach to market development and census growth.",
-      "Flexibility to work occasional weekends for facility events and community engagement."
+      "Proven experience as a Marketing Director, preferably in a skilled nursing or long-term care setting",
+      "Demonstrated ability to drive census and build community relationships",
+      "Professional demeanor and excellent communication skills",
+      "Flexibility to work occasional weekends as needed",
+      "Strong initiative and a results-oriented approach"
     ],
-    "salaryOrBonusInfo": "Highly competitive compensation for the right candidate, based on experience.",
+    "salaryOrBonusInfo": "Compensation is competitive and based on experience for the right candidate.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
   },
   {
-    "roleTitle": "Family Medicine Physician",
-    "roleType": "Other",
-    "location": "Greenville, SC",
-    "facilityType": "A premier health services provider",
-    "description": "Join a leading health services provider in Greenville, SC, as a Family Medicine Physician. This role offers a highly competitive compensation package starting at $210,000 annually, with an additional bonus structure up to $50,000. We are committed to supporting our physicians with great benefits, generous paid time off, and a recently revamped compensation and raise structure designed to reward your expertise and dedication.\n\nWe are actively seeking talented MDs and DOs, with a preference for Family Medicine specialists, though Internal Medicine and Med/Ped candidates are also encouraged to apply. This opportunity is open to candidates interested in travel or relocation, and we offer a significant sign-on/relocation bonus to support your transition.\n\nThis is an urgent opening for a physician who is passionate about delivering high-quality patient care within a supportive and dynamic environment. Take advantage of this exceptional chance to advance your career with a compensation package that significantly exceeds the state average.",
-    "contractType": "Contract",
-    "salaryShort": "$210,000+ per year",
+    "roleTitle": "Speech Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier health and rehabilitation center in Inverness, FL. This critical role offers the flexibility of PRN shifts, allowing you to make a significant impact on patient recovery and well-being while balancing your professional and personal life. You will be an essential part of a compassionate team, providing vital speech and language therapy services to residents.\n\nThis opportunity comes with a highly competitive hourly rate ranging from $38.00 to $49.00, reflecting the critical nature of the position. Additionally, a generous $5,000 sign-on or relocation bonus is available to welcome you to our team. If you are a skilled SLP looking for a rewarding PRN role with excellent compensation, we encourage you to apply.",
+    "contractType": "PRN",
+    "salaryShort": "$38.00 - $49.00/hr",
     "requirements": [
-      "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree",
-      "Board Certification/Eligibility in Family Medicine (preferred), Internal Medicine, or Med/Ped",
-      "Valid state medical license in South Carolina or ability to obtain one",
-      "Experience in a family medicine setting"
+      "Master's degree in Speech-Language Pathology",
+      "Current state licensure as a Speech-Language Pathologist in Florida",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP)",
+      "Experience in a skilled nursing or rehabilitation setting preferred",
+      "Ability to work PRN shifts as needed"
     ],
-    "salaryOrBonusInfo": "Compensation starts at $210,000 per year, with a guaranteed $25,000 bonus and an additional potential $25,000 bonus. A $9,000 sign-on/relocation bonus is available on payday one upon signing a promissory note. Total bonus structure up to $50,000.",
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $49.00, with a $5,000 sign-on or relocation bonus available.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
   }
 ]
