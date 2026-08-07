@@ -1,96 +1,57 @@
 [
   {
-    "roleTitle": "Registered Nurse (RN) - Staff Development & Infection Control",
+    "roleTitle": "Staff Development Coordinator and Infection Control Nurse (RN)",
     "roleType": "Floor Staff",
     "location": "Oakland, MD",
-    "facilityType": "Rehab Center",
-    "description": "Join a dedicated team at a premier health and rehabilitation center in Oakland, MD, as a Registered Nurse specializing in Staff Development and Infection Control. This vital role combines your expertise in nursing education with critical infection prevention strategies, ensuring the highest standards of care and a safe environment for both residents and staff.In this dual-focused position, you will be instrumental in developing and implementing comprehensive staff training programs, fostering continuous professional growth, and leading all infection control initiatives. Your work will directly contribute to maintaining regulatory compliance and promoting best practices across the facility.We offer a competitive hourly rate and the opportunity to make a significant impact within a supportive and dynamic healthcare setting. If you are a passionate RN with a commitment to quality education and patient safety, we encourage you to apply.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking a dedicated and experienced Staff Development Coordinator and Infection Control Nurse (RN) to join a premier skilled nursing facility in Oakland, MD. In this vital dual role, you will be instrumental in fostering a culture of continuous learning and ensuring the highest standards of infection prevention and control. You will play a key part in educating our staff and safeguarding the health of our residents.\n\nThis full-time position offers a competitive hourly rate, providing an excellent opportunity to make a significant impact on both staff competency and patient safety. If you are a passionate RN with expertise in staff development and infection control, we encourage you to apply and contribute to a supportive and professional healthcare environment.",
     "contractType": "Full-time",
-    "salaryShort": "$40-$42 per hour",
+    "salaryShort": "$40.00 - $42.00/hr",
     "requirements": [
-      "Active Registered Nurse (RN) license in the state of Maryland.",
-      "Proven experience in staff development, education, or training within a healthcare setting.",
-      "Demonstrated knowledge and experience in infection prevention and control practices.",
-      "Familiarity with state and federal healthcare regulations (e.g., CMS, CDC guidelines).",
-      "Strong communication, organizational, and leadership skills."
+      "Active Registered Nurse (RN) license in Maryland",
+      "Experience in staff development and/or infection control within a healthcare setting",
+      "Knowledge of state and federal regulations related to infection prevention and staff education",
+      "Strong communication and teaching abilities"
     ],
-    "salaryOrBonusInfo": "Compensation is $40-$42 per hour.",
+    "salaryOrBonusInfo": "Competitive hourly rate of $40.00 - $42.00, based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
   },
   {
-    "roleTitle": "Marketing Director",
-    "roleType": "Leadership",
-    "location": "Sarasota County, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an experienced and dynamic Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is an exciting opportunity to lead marketing initiatives for a recently purchased facility, playing a pivotal role in shaping its future success and driving census growth.\n\nThe ideal candidate is a highly presentable and proactive individual with a proven track record in healthcare marketing. You will be instrumental in developing and executing strategies to attract new residents and build strong community relationships. This role requires flexibility, including working occasional weekends, and offers excellent compensation for the right person who can deliver exceptional results.",
-    "contractType": "Full-time",
-    "salaryShort": "",
-    "requirements": [
-      "Proven experience as a Marketing Director, preferably within a skilled nursing or senior living environment",
-      "Demonstrated ability to drive census growth and achieve marketing objectives",
-      "Professional demeanor and excellent communication skills",
-      "Ability to work occasional weekends as needed",
-      "A proactive and results-oriented approach to marketing and community outreach"
-    ],
-    "salaryOrBonusInfo": "Compensation based on experience and proven track record.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
-  },
-  {
-    "roleTitle": "Physical Therapist (PT)",
+    "roleTitle": "Speech Language Pathologist (SLP)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Inverness, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated and compassionate Physical Therapist (PT) to join a leading health and rehabilitation center in Inverness, FL. This PRN (as needed) opportunity offers excellent flexibility, allowing you to balance your professional commitments with your personal life while making a significant impact on patient recovery and well-being.\n\nIn this role, you will provide high-quality physical therapy services to patients, helping them regain mobility, reduce pain, and improve their overall quality of life. You will work collaboratively with a multidisciplinary team to develop and implement individualized treatment plans, ensuring comprehensive and effective care. This position offers a competitive hourly rate for your expertise.",
+    "facilityType": "Rehabilitation Center",
+    "description": "We are urgently seeking a dedicated PRN Speech Language Pathologist (SLP) to join a premier health and rehabilitation center in Inverness, FL. This critical role offers a competitive hourly rate and the flexibility of PRN scheduling, allowing you to make a significant impact on patient recovery and well-being.\n\nThis is an excellent opportunity for an SLP looking to contribute their expertise in a supportive environment. A generous $5,000 sign-on or relocation bonus is available for qualified candidates.",
     "contractType": "PRN",
-    "salaryShort": "$39.00 - $40.00/hr",
+    "salaryShort": "$38.00 - $49.00/hr",
     "requirements": [
-      "Current and valid Physical Therapist (PT) license in the state of Florida",
-      "Experience working in a skilled nursing or rehabilitation facility preferred",
-      "Ability to work on a PRN/per diem basis",
-      "Strong clinical assessment and treatment skills",
-      "Excellent communication and interpersonal abilities"
+      "Master's degree in Speech-Language Pathology",
+      "Current state licensure as a Speech-Language Pathologist in Florida",
+      "Certificate of Clinical Competence in Speech-Language Pathology (CCC-SLP) from ASHA",
+      "Experience in a rehabilitation or skilled nursing facility setting preferred"
     ],
-    "salaryOrBonusInfo": "Hourly rate for Physical Therapists is $39.00 - $40.00 per hour.",
+    "salaryOrBonusInfo": "Hourly rate of $38.00 - $49.00, with a $5,000 sign-on or relocation bonus available.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl"
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
   },
   {
-    "roleTitle": "Physical Therapist Assistant (PTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Ocala, FL",
-    "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking a dedicated and compassionate Physical Therapist Assistant (PTA) to join a leading skilled nursing facility in Ocala, FL. This is an excellent opportunity to contribute to a team focused on providing high-quality rehabilitative care to patients, helping them regain independence and improve their quality of life.This full-time position offers a competitive hourly rate, providing a stable and rewarding career path. You will work alongside a supportive team of therapy professionals, utilizing your skills to implement individualized treatment plans and make a significant impact on patient recovery.If you are a motivated PTA looking for a full-time role in a dynamic healthcare environment, we encourage you to apply. Join a facility committed to clinical excellence and patient-centered care.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
+    "roleTitle": "Special Education Teacher",
+    "roleType": "Other",
+    "location": "Crewe, VA",
+    "facilityType": "A public school system",
+    "description": "We are seeking a dedicated Special Education Teacher for a contract position in Crewe, VA. This role offers a competitive starting rate of $50+ per hour and an initial contract running for 43 weeks, beginning August 10, 2026. Join a supportive educational environment focused on providing exceptional learning experiences for students with diverse needs.\n\nIn this vital role, you will be responsible for providing direct instruction to students with disabilities, developing and implementing Individualized Education Programs (IEPs), and monitoring student progress. You will collaborate closely with general education teachers, parents, and other professionals to ensure comprehensive support and tailored educational plans. This is an excellent opportunity to make a significant impact on students' lives within a dynamic school setting.",
+    "contractType": "Contract",
+    "salaryShort": "$50+/hr",
     "requirements": [
-      "Current Physical Therapist Assistant (PTA) license in Florida",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work full-time hours",
-      "Strong clinical assessment and documentation skills",
-      "Excellent communication and interpersonal abilities"
+      "Valid Virginia teaching license with an endorsement in Special Education",
+      "Bachelor's or Master's degree in Special Education or a related field",
+      "Experience working with students with diverse learning needs",
+      "Knowledge of special education laws and regulations (IDEA)",
+      "Strong communication and collaboration skills"
     ],
-    "salaryOrBonusInfo": "Competitive hourly rate of $28.00 - $37.00, based on experience.",
+    "salaryOrBonusInfo": "Starting at $50 per hour, with compensation based on experience and qualifications.",
     "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_pta_the_lodge_health_and_rehabilitation_center_ocala__fl"
-  },
-  {
-    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
-    "roleType": "Therapy/Rehabilitation",
-    "location": "Ocala, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "We are seeking a dedicated Full-time Certified Occupational Therapy Assistant (COTA) to join the team at a premier health and rehabilitation center in Ocala, FL. This role offers a fantastic opportunity to contribute to patient recovery and well-being within a supportive environment.As a COTA, you will work under the supervision of an Occupational Therapist, assisting patients in regaining independence in daily living activities. Your expertise will be crucial in implementing individualized treatment plans, monitoring patient progress, and ensuring a high standard of care. Join a facility committed to providing exceptional rehabilitation services and making a positive impact on the lives of its residents.",
-    "contractType": "Full-time",
-    "salaryShort": "$28.00 - $37.00/hr",
-    "requirements": [
-      "Certified Occupational Therapy Assistant (COTA) certification",
-      "Current state licensure in Florida",
-      "Experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work full-time"
-    ],
-    "salaryOrBonusInfo": "Compensation for COTA/PTA is $28.00 - $37.00/hr. Compensation for PT/OT/ST is $40.00 - $49.00/hr.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "ft_cota_the_lodge_health_and_rehabilitation_center_ocala__fl"
+    "id": "1_special_education_teacher_non_clinical___50_hr___initial_contract_8_10_26___43_weeks__nottoway_county_public_schools_crewe__va"
   }
 ]
