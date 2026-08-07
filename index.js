@@ -1,6 +1,6 @@
 const { getActiveJobs } = require('./src/fetchSheetData');
 const { loadCache, saveCache, generateJobId, generateJobSignature } = require('./src/jobCache');
-const { processNewJobsWithGemini } = require('./src/geminiInterface');
+const { processNewJobsWithDusk } = require('./src/duskInterface');
 const { overwriteFinalOutput } = require('./src/outputJson');
 
 const SHEET_ID = '1Bsm2ceTy3lBq7t7JMOXOEtEBp_gUxkL0d78ZXnGKocs';
@@ -46,9 +46,15 @@ async function main() {
       if (newOrUpdatedJobs.length === 0) {
           console.log(`[Sync] No changes detected. All ${finalActiveJobsToPublish.length} jobs are up to date.`);
       } else {
-          console.log(`[Sync] Found ${newOrUpdatedJobs.length} new or modified jobs to process with Gemini.`);
-          // 3. Process new/updated jobs with Gemini
-          const processedJobs = await processNewJobsWithGemini(newOrUpdatedJobs);
+          console.log(`[Sync] Found ${newOrUpdatedJobs.length} new or modified jobs to process with Dusk.`);
+          // 3. Process new/updated jobs through Dusk (replaces Gemini)
+          // NOTE: requires a ctx object with webSearch, webFetch, reason.
+          // The cron path uses bootstrap.js + Dusk invocation separately.
+          if (!process.env.DUSK_CTX_READY) {
+              console.error('Skipping Dusk processing: no ctx provided. Run bootstrap.js + Dusk for the AI step.');
+              return;
+          }
+          const processedJobs = await processNewJobsWithDusk(newOrUpdatedJobs);
           
           for (const pJob of processedJobs) {
               if (!pJob) continue; // Skip if Gemini errored

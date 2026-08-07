@@ -1,77 +1,783 @@
 [
   {
-    "roleTitle": "SDC/Infection Control Nurse",
-    "roleType": "Support",
-    "location": "Oakland, MD",
-    "facilityType": "Rehabilitation Center",
-    "description": "We are seeking a dedicated SDC/Infection Control Nurse to join a premier rehabilitation center in Oakland, MD. This vital full-time role offers a competitive hourly rate of $40-$42, providing an excellent opportunity for a skilled professional to make a significant impact on both staff development and patient safety.In this dual-focused position, you will be instrumental in coordinating staff education programs, ensuring our team is equipped with the latest knowledge and skills. Concurrently, you will lead our infection control initiatives, developing and implementing strategies to maintain a safe and healthy environment for residents and staff alike. Your expertise will be crucial in upholding the highest standards of care and regulatory compliance.If you are a proactive and experienced RN passionate about fostering a culture of continuous learning and robust infection prevention, we encourage you to apply. This is an urgent opening for a professional ready to contribute to a supportive and dynamic healthcare setting.",
-    "contractType": "Full-time",
-    "salaryShort": "$40-$42 per hour",
-    "requirements": [
-      "Active Registered Nurse (RN) license",
-      "Proven experience in staff development and education",
-      "Demonstrated experience in infection prevention and control",
-      "Strong understanding of regulatory compliance (e.g., CMS, CDC)",
-      "Excellent communication and organizational abilities"
-    ],
-    "salaryOrBonusInfo": "$40-$42 per hour",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md"
-  },
-  {
-    "roleTitle": "Experienced Marketing Director",
+    "id": "1_ft_pm_rn_supervisor__3pm_11pm__gulfport_care_center_gulfport__ms",
+    "roleTitle": "RN Supervisor - Evening Shift",
     "roleType": "Leadership",
-    "location": "Sarasota County, FL",
+    "location": "Gulfport, MS",
     "facilityType": "Skilled Nursing Facility",
-    "description": "We are seeking an Experienced Marketing Director to join a premier health and rehabilitation center in Sarasota County, FL. This is a highly confidential and strategic role within a recently acquired facility, offering a unique opportunity to significantly impact market presence and growth. The ideal candidate will be instrumental in shaping the facility's reputation and census.\n\nThis role requires a proactive and results-driven professional with a strong ability to engage with the community and drive admissions. You will be expected to maintain a professional and presentable image, representing the facility with excellence. Flexibility to work occasional weekends is a key aspect of this dynamic position, and we are looking for someone with a genuine drive to succeed. This position offers highly competitive compensation for the right candidate.",
+    "description": "A skilled nursing facility on the Mississippi Gulf Coast is hiring one full-time evening-shift RN Supervisor (3:00 PM - 11:00 PM).\n\nRN Supervisors in this setting oversee the evening nursing team - LPNs and CNAs - coordinate resident care, handle physician and family communications, perform clinical assessments, and ensure quality standards are met throughout the shift. This is a working-supervisor role: clinical responsibility plus team leadership.\n\nIf you are a Mississippi-licensed RN with SNF experience and leadership capability, this is an opportunity to lead an evening team in a stable clinical environment.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Proven experience as a Marketing Director, preferably within a skilled nursing or healthcare environment.",
-      "Demonstrated professional demeanor and appearance.",
-      "Ability to work occasional weekends as required.",
-      "Strong drive and proactive approach to market growth and community engagement.",
-      "Excellent communication and interpersonal skills."
+      "Active Registered Nurse (RN) license in Mississippi.",
+      "Experience in a skilled nursing or long-term care setting, with supervisory responsibility.",
+      "Strong clinical assessment and decision-making skills.",
+      "Comfort leading an evening team of LPNs and CNAs.",
+      "Available for full-time evening shift (3:00 PM - 11:00 PM)."
     ],
-    "salaryOrBonusInfo": "Highly competitive compensation for the right candidate.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl"
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "roleTitle": "Speech Language Pathologist (SLP)",
+    "id": "1_school_psychologist___60_hr___initial_contract_7_27_26___42_weeks__widefield_school_district_3_colorado_springs__co",
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Colorado Springs, CO",
+    "facilityType": "School District",
+    "description": "A school district in the Colorado Springs, Colorado area is hiring one School Psychologist for the 2026-2027 school year. This is an initial contract position running 42 weeks, with an anticipated start date of July 27, 2026.\n\nSchool Psychologists in this setting provide comprehensive psychological services to students - psychoeducational evaluations, behavioral assessments, intervention planning, consultation with teachers and families, and support for IEP / 504 processes. You will work within a school-based team serving students across the district.\n\nIf you are a credentialed School Psychologist looking for a full academic-year contract in a supportive Colorado district, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$60/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology.",
+      "Valid Colorado Department of Education (CDE) School Psychologist license/certification.",
+      "Experience working with school-aged children in an educational setting.",
+      "Knowledge of relevant laws and regulations pertaining to special education and student services.",
+      "Available for a 42-week contract starting July 27, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $60 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "1_special_education_teacher__asd_exp____50_hr___initial_contract_7_27_26___43_weeks__hunters_glen_elementary_school_thornton__co",
+    "roleTitle": "Special Education Teacher - ASD Experience",
+    "roleType": "Other",
+    "location": "Thornton, CO",
+    "facilityType": "Elementary School",
+    "description": "An elementary school in the Thornton, Colorado area is hiring one Special Education Teacher with ASD (Autism Spectrum Disorder) experience for the 2026-2027 school year. This is an initial contract position running 43 weeks, with an anticipated start date of July 27, 2026.\n\nSpecial Education Teachers in this setting provide specialized instruction and support to students with ASD - developing and implementing IEPs, adapting curriculum, collaborating with general education teachers and related service providers, and working closely with families.\n\nIf you are a credentialed Special Education Teacher with ASD-specific experience looking for a full academic-year contract, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid Colorado teaching license with Special Education endorsement.",
+      "Demonstrated experience working with students with Autism Spectrum Disorder (ASD).",
+      "Strong understanding of IEP development, implementation, and progress monitoring.",
+      "Excellent collaboration skills with general education teachers, related service providers, and families.",
+      "Available for a 43-week contract starting July 27, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $50 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "1_special_education_teacher_non_clinical___50_hr___initial_contract_8_10_26___43_weeks__nottoway_county_public_schools_crewe__va",
+    "roleTitle": "Special Education Teacher (Non-Clinical)",
+    "roleType": "Other",
+    "location": "Crewe, VA",
+    "facilityType": "Public School District",
+    "description": "A public school district in Crewe, Virginia is hiring one Special Education Teacher for the 2026-2027 school year. This is a non-clinical special education role and an initial contract position running 43 weeks, with an anticipated start date of August 10, 2026.\n\nSpecial Education Teachers in this non-clinical setting provide specialized instruction and support to students with identified disabilities - developing and implementing IEPs, adapting curriculum, collaborating with general education teachers, and working with families. The role does not involve clinical therapy services.\n\nIf you are a Virginia-credentialed Special Education Teacher looking for a full academic-year contract in a small-town district, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Valid Virginia teaching license with Special Education endorsement.",
+      "Experience developing and implementing IEPs.",
+      "Strong collaboration skills with general education teachers and families.",
+      "Comfort working in a small-district, community-oriented environment.",
+      "Available for a 43-week contract starting August 10, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $50 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "1_speech_language_pathologist_assistant___school___40_hr___initial_contract_8_3_26___42_weeks__cypress_fairbanks_independent_school_district_houston__tx",
+    "roleTitle": "Speech-Language Pathologist Assistant - School",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Houston, TX",
+    "facilityType": "School District",
+    "description": "A school district in the Houston, Texas area is hiring one Speech-Language Pathologist Assistant (SLPA) for the 2026-2027 school year. This is an initial contract position running 42 weeks, with an anticipated start date of August 3, 2026.\n\nSLPAs in this setting support licensed Speech-Language Pathologists in delivering speech and language services to students - implementing treatment plans, conducting speech-language screenings, documenting progress, and collaborating with teachers and families. You will work under the supervision of a licensed SLP.\n\nIf you are a Texas-credentialed SLPA looking for a full academic-year contract in a major school district, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$40/hr+",
+    "requirements": [
+      "Valid Texas Speech-Language Pathologist Assistant license/registration.",
+      "Experience working with school-aged children in an educational setting.",
+      "Comfort working under the supervision of a licensed Speech-Language Pathologist.",
+      "Strong communication and documentation skills.",
+      "Available for a 42-week contract starting August 3, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $40 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "2_emergency_room_rn___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az",
+    "roleTitle": "Emergency Room Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Winslow, AZ",
+    "facilityType": "Hospital",
+    "description": "A critical access hospital in Winslow, Arizona is hiring two Emergency Room Registered Nurses. This is a rural healthcare setting - small-town ER with a wide variety of cases.\n\nEmergency Room RNs in this setting triage incoming patients, deliver bedside care across the acuity spectrum, administer medications and treatments, monitor patient status, and coordinate with physicians, respiratory therapists, and other team members. Shifts are typically 12 hours.\n\nIf you are an experienced ER nurse looking for a small-town practice environment with competitive compensation, sign-on bonus, and relocation support, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$43.50 - $61.50 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Experience in an Emergency Room or acute care setting.",
+      "BLS, ACLS, and PALS certifications preferred.",
+      "Comfort working in a rural / critical access environment.",
+      "Strong triage, assessment, and critical-thinking skills."
+    ],
+    "salaryOrBonusInfo": "Up to $12,000 sign-on bonus. $6,000 relocation bonus available.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
+    "roleTitle": "Field Specialist / Field Service Supervisor",
+    "roleType": "Other",
+    "location": "Chicago Metropolitan Area (IL, WI, IN)",
+    "facilityType": "Commercial / Industrial HVAC Contractor",
+    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring two Field Specialists / Field Service Supervisors. This is a regional travel role.\n\nField Specialists / Field Service Supervisors in this setting provide on-site technical expertise for complex HVAC service and installation work - troubleshooting advanced issues, supporting field crews, and ensuring customer satisfaction on high-priority or technical accounts. The role combines hands-on technical work with supervisory responsibility.\n\nIf you are an HVAC field specialist with strong technical depth and a customer-service orientation, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Extensive experience as a Commercial / Industrial HVAC Technician with specialty / expert-level technical capability.",
+      "Strong working knowledge of rooftop units, chillers, ductwork, controls, and complex commercial HVAC systems.",
+      "EPA 608 certification preferred.",
+      "Valid driver's license and reliable transportation for regional travel.",
+      "Comfort supporting field crews and interfacing with customers across IL, WI, and IN."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms",
+    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing facility on the Mississippi Gulf Coast is hiring two full-time evening-shift LPNs (3:00 PM - 11:00 PM).\n\nEvening-shift LPNs in this setting administer medications, perform treatments, document resident status, supervise nursing assistants, and communicate with the on-call RN and physician as needed. The evening shift carries the transition from afternoon activities to evening care and settling residents for the night.\n\nIf you are a Mississippi-licensed LPN with SNF experience looking for stable evening-shift hours, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$25 - $28 per hour",
+    "requirements": [
+      "Active Licensed Practical Nurse (LPN) license in Mississippi.",
+      "Experience in a skilled nursing or long-term care setting.",
+      "Comfort with medication administration and treatment documentation.",
+      "Strong communication with residents, families, and the care team.",
+      "Available for full-time evening shift (3:00 PM - 11:00 PM)."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in north-central Florida has a critical need for two full-time Physical Therapist Assistants (PTAs) to support its rehab team.\n\nUnder the supervision of a licensed Physical Therapist, you will carry out treatment plans for residents - gait and balance training, therapeutic exercises, transfer training, and assistance with activities of daily living. You will document progress, communicate changes to the supervising PT, and collaborate with nursing staff to support overall care.\n\nThis is an immediate opening for Florida-licensed PTAs with SNF experience who want full-time hours in a supportive clinical environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Physical Therapist Assistant (PTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Physical Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "2_pm_ldrp___newborn___medsurge_rns__7pm_7am___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az",
+    "roleTitle": "LDRP / Newborn / Med-Surg Registered Nurse (RN) - Night Shift",
+    "roleType": "Floor Staff",
+    "location": "Winslow, AZ",
+    "facilityType": "Hospital",
+    "description": "A critical access hospital in Winslow, Arizona is hiring two night-shift Registered Nurses for cross-coverage in LDRP (Labor, Delivery, Recovery, Postpartum), Newborn Nursery, and Medical-Surgical units. Shifts run 7:00 PM to 7:00 AM.\n\nCross-trained RNs in this setting rotate across the units based on census and acuity - labor and delivery, postpartum couplet care, newborn assessments, and adult medical-surgical patients. You will work closely with a small core team in a rural hospital environment where flexibility is essential.\n\nIf you are an experienced RN with L&D or cross-training experience looking for night-shift work with competitive compensation, sign-on bonus, and relocation support, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$43.50 - $61.50 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Experience in L&D, postpartum, newborn nursery, or med-surg settings.",
+      "Comfort with cross-coverage across multiple units.",
+      "BLS and NRP certifications preferred.",
+      "Strong clinical judgment and adaptability in a rural hospital setting."
+    ],
+    "salaryOrBonusInfo": "Up to $12,000 sign-on bonus. $6,000 relocation bonus available.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "3_commercial_industrial_hvac_technicians_installers___30__40__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
+    "roleTitle": "Commercial / Industrial HVAC Technician / Installer",
+    "roleType": "Other",
+    "location": "Chicago Metropolitan Area (IL, WI, IN)",
+    "facilityType": "Commercial / Industrial HVAC Contractor",
+    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring three HVAC Technicians / Installers. This is a regional travel role.\n\nCommercial / Industrial HVAC Technicians in this setting install, service, and repair heating, ventilation, and air conditioning systems at commercial and industrial customer sites. Work spans rooftop units, chillers, ductwork, controls, and large-scale equipment. Travel is regional - daily routes within the tri-state area rather than long-haul travel.\n\nIf you are an HVAC technician with commercial or industrial experience and want consistent regional work with hourly pay, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$30 - $40 per hour",
+    "requirements": [
+      "Experience as a Commercial / Industrial HVAC Technician or Installer.",
+      "Working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
+      "EPA 608 certification preferred.",
+      "Valid driver's license and reliable transportation for regional travel.",
+      "Comfort working at customer sites across IL, WI, and IN."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
+    "roleTitle": "Commercial / Industrial HVAC Field Manager",
+    "roleType": "Leadership",
+    "location": "Chicago Metropolitan Area (IL, WI, IN)",
+    "facilityType": "Commercial / Industrial HVAC Contractor",
+    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring four HVAC Field Managers. This is a regional leadership role with field oversight.\n\nHVAC Field Managers in this setting oversee multiple job sites across the region - coordinating technician assignments, ensuring quality and safety standards are met, managing customer relationships, and serving as the escalation point for complex technical issues. The role is primarily field-based with some office/administrative work.\n\nIf you are an experienced HVAC field leader with strong operational and people-management skills, this opportunity offers a competitive hourly band and a multi-site leadership scope.",
+    "contractType": "Full-time",
+    "salaryShort": "$50 - $65 per hour",
+    "requirements": [
+      "Extensive experience as a Commercial / Industrial HVAC Technician with progressive leadership responsibility.",
+      "Strong working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
+      "EPA 608 certification preferred.",
+      "Valid driver's license and reliable transportation for regional travel.",
+      "Proven ability to lead field crews and manage customer relationships across multiple sites in IL, WI, and IN."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl",
+    "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Gainesville, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in north-central Florida has a very critical need for five full-time Certified Occupational Therapist Assistants (COTAs) to join its rehab team. This is a multi-opening hire - the facility is building out its therapy coverage and is hiring across multiple start dates.\n\nUnder the supervision of a licensed Occupational Therapist, you will carry out treatment plans focused on residents' activities of daily living - dressing, grooming, eating, toileting, and functional mobility. You will document progress, communicate changes to the supervising OT, and collaborate with the broader rehab and nursing teams.\n\nThis is an immediate opening for Florida-licensed COTAs with SNF experience who want full-time hours and a stable clinical home.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Occupational Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
+    "roleTitle": "Lead / Senior Commercial / Industrial HVAC Technician / Installer",
+    "roleType": "Other",
+    "location": "Chicago Metropolitan Area (IL, WI, IN)",
+    "facilityType": "Commercial / Industrial HVAC Contractor",
+    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring five Lead / Senior HVAC Technicians / Installers. This is a regional travel role for experienced techs.\n\nLead / Senior HVAC Techs in this setting run jobs at commercial and industrial customer sites - installing, servicing, and troubleshooting complex HVAC systems including rooftop units, chillers, ductwork, and controls. The lead role includes mentoring junior techs and serving as the on-site point of contact.\n\nIf you are a senior HVAC technician with strong commercial/industrial experience and leadership capability, this opportunity offers a higher hourly band than the standard technician role.",
+    "contractType": "Full-time",
+    "salaryShort": "$35 - $60 per hour",
+    "requirements": [
+      "Extensive experience as a Commercial / Industrial HVAC Technician, with lead or senior-level responsibility.",
+      "Strong working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
+      "EPA 608 certification preferred.",
+      "Valid driver's license and reliable transportation for regional travel.",
+      "Comfort leading junior technicians on job sites across IL, WI, and IN."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "baylor_rn_etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Baylor Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Baylor Registered Nurse (RN). This is a specialized weekend-shift position.\n\nA Baylor shift is a weekend-only schedule - typically 12-hour shifts on Saturday and Sunday, in exchange for a full-time salary and benefits. The Baylor RN provides weekend nursing coverage, including medication administration, treatments, assessments, and supervision of nursing assistants during the high-acuity weekend window.\n\nIf you are an RN who prefers a consistent weekend-only schedule (and the work-life balance that comes with it) and has SNF or long-term care experience, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Experience in a skilled nursing or long-term care setting.",
+      "Comfort with medication administration, treatments, and clinical assessments.",
+      "Strong communication with residents, families, and the interdisciplinary team.",
+      "Available for a consistent weekend Baylor schedule (typically 12-hour Saturday and Sunday shifts)."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "dor___38__40_hr__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Director of Rehabilitation (DOR)",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Director of Rehabilitation (DOR). This is a senior leadership role overseeing the therapy department (PT, OT, SLP, and assistants).\n\nDirectors of Rehabilitation in this setting lead the rehab team - managing therapy staffing and scheduling, ensuring clinical quality, partnering with the Administrator and DON on facility-wide initiatives, coordinating with referring hospitals and physician offices, and maintaining productivity standards. The DOR is the clinical leader of the therapy department.\n\nIf you are an experienced therapist (PT, OT, or SLP) with prior leadership experience in a skilled nursing setting, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$38 - $40 per hour",
+    "requirements": [
+      "Active Physical Therapist, Occupational Therapist, or Speech-Language Pathologist license.",
+      "Prior experience as a Director of Rehabilitation or in a therapy leadership role within a skilled nursing setting.",
+      "Strong knowledge of rehab regulations, productivity standards, and clinical quality measures.",
+      "Demonstrated leadership, communication, and team-building skills.",
+      "Comfort managing therapy staffing, scheduling, and interdisciplinary coordination."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "experienced_marketing_director__very_confidential__the_palms_at_venice__120_bed__census_at_75__venice__fl",
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Sarasota County, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are seeking an accomplished Marketing Director to lead community outreach and referral development for a recently acquired skilled nursing facility on Florida's Gulf Coast. This is a senior leadership role responsible for driving patient admissions by building durable relationships with local hospitals, physicians, discharge planners, and case managers across the region.\n\nThe ideal candidate brings a track record of growing census in skilled nursing or post-acute settings, an established network of referral contacts, and the polish and energy to represent the facility at the community level - including occasional weekends. This is an opportunity to put your own stamp on a recently transitioned center with strong backing from an established parent organization.\n\nIf you are a confident, relationship-driven marketing leader with deep SNF experience and a hunter's instinct for building pipeline, we want to hear from you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Recent experience as a Marketing Director in a skilled nursing or post-acute care setting.",
+      "Established relationships with local physicians, discharge planners, and case managers.",
+      "Demonstrated success growing facility census through hospital and community referral networks.",
+      "Comfortable representing the facility in professional settings, including occasional weekend community events.",
+      "Self-directed, results-oriented approach to pipeline development and relationship management."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl",
+    "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in the St. Petersburg, Florida area is hiring a full-time Certified Occupational Therapist Assistant (COTA) to support its rehab team.\n\nUnder the supervision of a licensed Occupational Therapist, you will carry out treatment plans focused on residents' activities of daily living - dressing, grooming, eating, toileting, and functional mobility. You will document progress, communicate changes to the supervising OT, and collaborate with the broader rehab and nursing teams.\n\nThis is a full-time role for a Florida-licensed COTA with SNF experience.",
+    "contractType": "Full-time",
+    "salaryShort": "$38 - $48 per hour",
+    "requirements": [
+      "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Occupational Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_cota_the_lodge_health_and_rehabilitation_center_ocala__fl",
+    "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is hiring a full-time Certified Occupational Therapist Assistant (COTA) to support its rehab team.\n\nUnder the supervision of a licensed Occupational Therapist, you will carry out treatment plans focused on residents' activities of daily living - dressing, grooming, eating, toileting, and functional mobility. You will document progress, communicate changes to the supervising OT, and collaborate with the broader rehab and nursing teams.\n\nThis is a full-time role for a Florida-licensed COTA with SNF experience who wants consistent hours and meaningful patient contact.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Occupational Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_ot__critical__the_lodge_health_and_rehabilitation_center_ocala__fl",
+    "roleTitle": "Occupational Therapist (OT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida has a critical need for a full-time Occupational Therapist to join its rehab team.\n\nOccupational Therapists in this setting help residents regain independence in activities of daily living - dressing, grooming, eating, toileting, and self-care - following illness, surgery, or decline. You will evaluate resident needs, develop individualized treatment plans focused on functional independence, and work closely with the PT, SLP, and nursing teams to deliver coordinated care.\n\nThis is an immediate opening for a Florida-licensed OT with SNF experience who wants full-time hours in a supportive clinical environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Occupational Therapist (OT) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting.",
+      "Comfort treating geriatric patients and post-acute recovery.",
+      "Strong care-planning and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_pt___115k__125k__home_health_travel_billings__mt",
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Billings, MT",
+    "facilityType": "Home Health Agency",
+    "description": "A home health travel placement in Billings, Montana is hiring a full-time Physical Therapist. This is a travel role - the PT serves patients in their homes across the region rather than in a single facility.\n\nHome health PTs in this setting evaluate patients in their home environment, develop treatment plans that account for real-world mobility and safety, and coordinate care with the broader home health team. Common caseloads include post-surgical recovery, joint replacement rehabilitation, balance and fall-prevention work, and chronic condition management.\n\nIf you are a PT with home health experience and an interest in travel assignments, this role offers a competitive salary band.",
+    "contractType": "Full-time",
+    "salaryShort": "$115,000 - $125,000 per year",
+    "requirements": [
+      "Active Physical Therapist (PT) license.",
+      "Experience in home health or similar community-based setting.",
+      "Comfort working independently in patients' homes.",
+      "Strong care-planning and documentation skills.",
+      "Available for travel / home-health schedule."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_pt_little_colorado_medical_center_winslow__az",
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Winslow, AZ",
+    "facilityType": "Hospital",
+    "description": "A critical access hospital in Winslow, Arizona is hiring a full-time Physical Therapist to join its rehab team.\n\nPTs in this setting serve a mix of inpatient acute care, swing-bed, and outpatient cases - post-surgical recovery, joint replacement rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document progress, and coordinate with the broader care team in a small-town rural hospital.\n\nIf you are a Physical Therapist with hospital-based experience looking for full-time hours in a rural healthcare environment, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Physical Therapist (PT) license.",
+      "Experience in a hospital, skilled nursing, or similar post-acute care setting.",
+      "Comfort treating a wide range of patient acuities.",
+      "Strong care-planning and documentation skills.",
+      "Available for full-time hours in a rural hospital environment."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_pt_the_lodge_health_and_rehabilitation_center_ocala__fl",
+    "roleTitle": "Physical Therapist (PT)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is hiring a full-time Physical Therapist to join its rehab team.\n\nAs the PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for full-time hours and a stable clinical environment, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Physical Therapist (PT) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting.",
+      "Comfort treating geriatric and post-surgical patients.",
+      "Strong care-planning and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_pta___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "St. Petersburg, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in the St. Petersburg, Florida area is hiring a full-time Physical Therapist Assistant (PTA) to support its rehab team.\n\nUnder the supervision of a licensed Physical Therapist, you will carry out treatment plans for residents - gait and balance training, therapeutic exercises, transfer training, and assistance with activities of daily living. You will document progress, communicate changes to the supervising PT, and collaborate with nursing staff.\n\nThis is a full-time role for a Florida-licensed PTA with SNF experience.",
+    "contractType": "Full-time",
+    "salaryShort": "$38 - $48 per hour",
+    "requirements": [
+      "Active Physical Therapist Assistant (PTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Physical Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_pta_the_lodge_health_and_rehabilitation_center_ocala__fl",
+    "roleTitle": "Physical Therapist Assistant (PTA)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Ocala, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is hiring a full-time Physical Therapist Assistant (PTA) to support its rehab team.\n\nUnder the supervision of a licensed Physical Therapist, you will carry out treatment plans for residents - therapeutic exercises, gait and transfer training, balance work, and assistance with activities of daily living. You will document resident progress, communicate changes to the supervising PT, and collaborate with nursing to deliver coordinated care.\n\nThis is a full-time role for a Florida-licensed PTA with SNF experience who wants consistent hours and meaningful patient contact.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Physical Therapist Assistant (PTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Physical Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for full-time hours."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote",
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Teleradiology / Remote Practice",
+    "description": "A full-time remote Radiologist position is available for a New York State-licensed physician. The role focuses on MSK (musculoskeletal) imaging with workers' compensation and no-fault case experience.\n\nRemote Radiologists in this setting read imaging studies from a home workstation - primarily MRI, CT, and X-ray - and produce reports per the relevant case type. The work is production-based with per-study compensation rather than a fixed annual salary.\n\nIf you are a board-certified Radiologist with MSK expertise and workers' compensation experience, this role offers the flexibility of fully remote work.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "MD with completion of an accredited Radiology residency.",
+      "Board certified in Radiology.",
+      "Active New York State medical license.",
+      "Strong MSK (musculoskeletal) imaging interpretation skills.",
+      "Experience with workers' compensation and no-fault case reporting.",
+      "Comfortable working remotely with home radiology workstation."
+    ],
+    "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "ft_rn___36__45_hr__home_health_travel_casper__wy",
+    "roleTitle": "Registered Nurse (RN)",
+    "roleType": "Floor Staff",
+    "location": "Casper, WY",
+    "facilityType": "Home Health Agency",
+    "description": "A home health travel placement in Casper, Wyoming is hiring a full-time Registered Nurse. This is a travel role - the RN serves patients in their homes across the region rather than in a single facility.\n\nHome health RNs in this setting provide skilled nursing care in patients' homes - wound care, medication management, chronic disease monitoring, post-acute recovery support, and patient/family education. You will coordinate with the broader home health team and document visits according to home health standards.\n\nIf you are an RN with home health experience and an interest in travel assignments, this role offers an hourly compensation band.",
+    "contractType": "Full-time",
+    "salaryShort": "$36 - $45 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Experience in home health or similar community-based setting.",
+      "Comfort working independently in patients' homes.",
+      "Strong assessment and documentation skills.",
+      "Available for travel / home-health schedule."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Maintenance Director",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Maintenance Director. This is a leadership role responsible for the physical plant, equipment, and environmental services of the facility.\n\nMaintenance Directors in this setting oversee the building, equipment, grounds, and safety systems of a skilled nursing facility - managing a small maintenance team, scheduling preventive maintenance, coordinating with outside contractors and vendors, ensuring life-safety code compliance, and responding to facility emergencies. The role keeps the building running safely and code-compliant.\n\nIf you are an experienced facilities or maintenance leader with prior experience in healthcare, hospitality, or commercial buildings, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "~$30 per hour",
+    "requirements": [
+      "Prior experience as a Maintenance Director or facilities leader in a healthcare, hospitality, or commercial setting.",
+      "Working knowledge of HVAC, plumbing, electrical, and life-safety systems.",
+      "Strong vendor management and preventive-maintenance scheduling skills.",
+      "Comfort managing a small maintenance team.",
+      "Familiarity with healthcare facility regulations preferred."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "marketing_director___30__32_hr__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Marketing Director",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Marketing Director. This is a senior leadership role responsible for driving patient admissions and community outreach.\n\nMarketing Directors in this setting lead community outreach and referral development - building relationships with local hospitals, physicians, discharge planners, and case managers; managing a small admissions/marketing team; coordinating facility events and community engagement; and tracking referral and admission metrics. The role is the public face of the facility in the surrounding community.\n\nIf you are a marketing leader with prior SNF or healthcare marketing experience and a hunter's instinct for building referral pipeline, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$30 - $32 per hour",
+    "requirements": [
+      "Prior experience as a Marketing Director in a skilled nursing, post-acute, or healthcare setting.",
+      "Established relationships with local physicians, discharge planners, and case managers preferred.",
+      "Demonstrated success growing facility census through hospital and community referral networks.",
+      "Strong communication, presentation, and community-engagement skills.",
+      "Comfort managing a small marketing/admissions team."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny",
+    "roleTitle": "Orthopedic Hand Surgeon",
+    "roleType": "Other",
+    "location": "New York, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "An orthopedic surgery practice is hiring a Hand Surgeon. The position is based in New York City, with the specific location flexible based on the candidate's preference.\n\nOrthopedic Hand Surgeons in this setting diagnose and treat conditions of the hand, wrist, and forearm - including fractures, tendon and nerve injuries, carpal tunnel and other compression syndromes, arthritis, and post-traumatic reconstruction. You will run an outpatient clinic, perform surgical procedures, and coordinate with the broader orthopedic and rehabilitation team.\n\nThis is a high-compensation role for a fellowship-trained hand surgeon.",
+    "contractType": "Other",
+    "salaryShort": "$400,000 - $500,000 per year",
+    "requirements": [
+      "MD or DO with completion of an accredited Orthopedic Surgery residency.",
+      "Fellowship training in Hand Surgery.",
+      "Board certified or board eligible in Orthopedic Surgery.",
+      "Active New York medical license (or eligibility to obtain).",
+      "Comfort with both clinical and surgical hand/upper-extremity work."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny",
+    "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
+    "roleType": "Other",
+    "location": "Queens, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "A rotating PM&R Physician opportunity is available across a small set of facilities in the Queens, NY area. The role requires 1-2 days per week at each location, providing physical medicine and rehabilitation services to patients with workers' compensation cases.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers.\n\nThis is a high-compensation role for a board-certified PM&R Physician with at least two years of workers' compensation experience.",
+    "contractType": "Other",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited PM&R residency.",
+      "Board certified in Physical Medicine & Rehabilitation.",
+      "Active New York medical license.",
+      "Minimum 2 years of workers' compensation experience.",
+      "Comfort rotating between multiple facilities on a 1-2 days/week schedule."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pm_r_physician___300k___for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny",
+    "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
+    "roleType": "Other",
+    "location": "Brooklyn, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "A PM&R Physician opportunity is available across three Brooklyn, NY locations. The physician will rotate between the three sites, providing physical medicine and rehabilitation services to patients with workers' compensation cases.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers across the three sites.\n\nThis is a high-compensation role for a board-certified PM&R Physician with at least two years of workers' compensation experience.",
+    "contractType": "Other",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited PM&R residency.",
+      "Board certified in Physical Medicine & Rehabilitation.",
+      "Active New York medical license.",
+      "Minimum 2 years of workers' compensation experience.",
+      "Comfort rotating between three Brooklyn locations."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny",
+    "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
+    "roleType": "Other",
+    "location": "Bronx/Westchester, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "A non-traveling PM&R Physician opportunity is available across a small set of facilities in the Bronx and Westchester, NY area. The role requires 1-2 days per week at each location, providing physical medicine and rehabilitation services to patients with workers' compensation cases.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers.\n\nThis is a high-compensation, non-traveling role for a board-certified PM&R Physician with at least two years of workers' compensation experience.",
+    "contractType": "Other",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited PM&R residency.",
+      "Board certified in Physical Medicine & Rehabilitation.",
+      "Active New York medical license.",
+      "Minimum 2 years of workers' compensation experience.",
+      "Comfort rotating between multiple facilities on a 1-2 days/week schedule (non-traveling within the Bronx/Westchester region)."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "prn_pt_citrus_health___rehabilitation_inverness__fl",
+    "roleTitle": "Physical Therapist (PT)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Inverness, FL",
-    "facilityType": "A premier health and rehabilitation center",
-    "description": "We are urgently seeking a dedicated and compassionate Speech Language Pathologist (SLP) to join a premier health and rehabilitation center in Inverness, FL. This critical PRN role offers the flexibility to make a significant impact on patient recovery and well-being. You will be an essential part of a multidisciplinary team, providing high-quality speech and language therapy services to residents.\n\nThis is a critical opening, and we are looking for a professional ready to contribute immediately. Enjoy the flexibility of a PRN schedule while making a vital difference in the lives of patients. We offer competitive compensation and a supportive environment focused on patient-centered care.\n\nTake advantage of a generous $5,000 sign-on or relocation bonus, reflecting our commitment to attracting top talent. If you are a skilled SLP looking for a rewarding PRN opportunity with excellent incentives, we encourage you to apply today.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is seeking a PRN Physical Therapist to provide as-needed coverage for its therapy team. This is an on-call / supplemental role, ideal for a PT looking for flexible scheduling.\n\nPhysical Therapists in this setting evaluate and treat residents with a wide range of needs - post-surgical recovery, joint replacement rehabilitation, balance and gait training, strengthening programs, and chronic pain management. You will develop individualized treatment plans, document progress, and coordinate with the broader rehab and nursing teams.\n\nIf you are a Florida-licensed PT with SNF experience who wants flexible PRN hours in a supportive clinical environment, this opportunity is for you.",
     "contractType": "PRN",
-    "salaryShort": "$38 - $49/hr",
+    "salaryShort": "",
     "requirements": [
-      "Master's degree in Speech-Language Pathology",
-      "Current state licensure as a Speech Language Pathologist (SLP)",
-      "Certificate of Clinical Competence (CCC-SLP) from ASHA",
-      "Previous experience in a skilled nursing or rehabilitation setting preferred",
-      "Ability to work on a PRN basis"
+      "Active Physical Therapist (PT) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting.",
+      "Comfort treating post-surgical, orthopedic, and geriatric patients.",
+      "Strong documentation and care-planning skills.",
+      "Available for PRN / as-needed coverage."
     ],
-    "salaryOrBonusInfo": "$38 - $49 per hour, plus a $5,000 sign-on or relocation bonus.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl",
     "roleTitle": "Physical Therapist Assistant (PTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Inverness, FL",
-    "facilityType": "Health and Rehabilitation Center",
-    "description": "Are you a dedicated Physical Therapist Assistant looking for a flexible PRN opportunity? A premier health and rehabilitation center in Inverness, FL, is seeking a compassionate and skilled Physical Therapist Assistant to join their therapy team. This role offers the chance to make a significant impact on patients' recovery journeys, providing essential rehabilitation services on an as-needed basis.In this PRN position, you will work collaboratively with a multidisciplinary team to implement individualized treatment plans, helping patients regain mobility, reduce pain, and improve their overall quality of life. This is an excellent opportunity for a PTA seeking flexibility while contributing to a supportive and patient-focused environment.",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is seeking a PRN Physical Therapist Assistant (PTA) to support its therapy team on an as-needed basis.\n\nUnder the supervision of a licensed Physical Therapist, the PTA carries out established treatment plans for residents - gait and balance training, therapeutic exercises, transfer training, and assistance with activities of daily living. You will document resident progress, communicate changes to the supervising PT, and collaborate with the broader rehab and nursing teams.\n\nThis is an ideal role for a Florida-licensed PTA who wants flexible scheduling and meaningful patient contact in a supportive SNF environment.",
     "contractType": "PRN",
-    "salaryShort": "$28.00 - $37.00/hr",
+    "salaryShort": "",
     "requirements": [
-      "Current and valid Physical Therapist Assistant (PTA) license in Florida",
-      "Associate's degree from an accredited PTA program",
-      "Minimum of 1 year of experience as a PTA, preferably in a skilled nursing or rehabilitation setting",
-      "Ability to work independently and as part of a team"
+      "Active Physical Therapist Assistant (PTA) license in Florida.",
+      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
+      "Comfort working under the direction of a supervising Physical Therapist.",
+      "Strong communication and documentation skills.",
+      "Available for PRN / as-needed coverage."
     ],
-    "salaryOrBonusInfo": "Compensation for PTA is $28.00 - $37.00 per hour.",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "prn_pta_citrus_health___rehabilitation_inverness__fl"
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "prn_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl",
+    "roleTitle": "Speech-Language Pathologist (SLP)",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Inverness, FL",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in central Florida is seeking a PRN Speech-Language Pathologist to support its speech, language, cognition, and dysphagia programs. This is a critical need - coverage is needed on an as-needed basis to supplement the current therapy team.\n\nSLPs here assess and treat patients with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will partner with the broader rehab team to develop and carry out individualized treatment plans for short- and long-term residents.\n\nIf you are an SLP looking for flexible PRN hours in a high-need setting, this is an opportunity to make an immediate impact with a $5,000 sign-on or relocation bonus.",
+    "contractType": "PRN",
+    "salaryShort": "$38 - $49 per hour",
+    "requirements": [
+      "Active Speech-Language Pathologist (SLP) license in Florida.",
+      "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
+      "Experience working in a skilled nursing facility or similar clinical setting.",
+      "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
+      "Available for PRN / as-needed coverage."
+    ],
+    "salaryOrBonusInfo": "$5,000 sign-on or relocation bonus. Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc",
+    "roleTitle": "Family Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Community Health Center",
+    "description": "A community health center in upstate South Carolina is hiring a part-time / PRN / contract Family Medicine Physician. This is a flexible-schedule role with a non-negotiable base compensation and an additional bonus structure available.\n\nFamily Medicine Physicians in this setting provide primary care to patients across the lifespan - well visits, chronic disease management, acute care, and preventive services. You will work alongside other physicians, advanced practice providers, and support staff in a mission-driven community clinic.\n\nIf you are a board-certified or board-eligible Family Medicine Physician looking for part-time or contract work with competitive compensation, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited Family Medicine residency.",
+      "Board certified or board eligible in Family Medicine.",
+      "Active South Carolina medical license (or eligibility to obtain).",
+      "Comfort providing comprehensive primary care to patients of all ages.",
+      "Available for part-time, PRN, or contract schedule."
+    ],
+    "salaryOrBonusInfo": "Up to $50,000 bonus structure available, of which $9,000 is for relocation/sign-on bonuses.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pt_prn_contract_internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc",
+    "roleTitle": "Internal Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Community Health Center",
+    "description": "A community health center in upstate South Carolina is hiring a part-time / PRN / contract Internal Medicine Physician. This is a flexible-schedule role with a non-negotiable base compensation and an additional bonus structure available.\n\nInternal Medicine Physicians in this setting provide adult primary care - chronic disease management, complex multi-system care, preventive services, and coordination with specialists. You will work alongside other physicians, advanced practice providers, and support staff in a mission-driven community clinic.\n\nIf you are a board-certified or board-eligible Internal Medicine Physician looking for part-time or contract work with competitive compensation, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$210,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited Internal Medicine residency.",
+      "Board certified or board eligible in Internal Medicine.",
+      "Active South Carolina medical license (or eligibility to obtain).",
+      "Comfort managing complex adult primary care patients.",
+      "Available for part-time, PRN, or contract schedule."
+    ],
+    "salaryOrBonusInfo": "Up to $50,000 bonus structure available, of which $9,000 is for relocation/sign-on bonuses.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote",
+    "roleTitle": "Remote Radiologist",
+    "roleType": "Other",
+    "location": "Remote",
+    "facilityType": "Teleradiology / Remote Practice",
+    "description": "A part-time remote Radiologist position is available for a New York State-licensed physician. The role focuses on MSK (musculoskeletal) imaging with workers' compensation and no-fault case experience.\n\nRemote Radiologists in this setting read imaging studies from a home workstation - primarily MRI, CT, and X-ray - and produce reports per the relevant case type. The work is production-based with per-study compensation, ideal for a radiologist seeking flexible hours.\n\nIf you are a board-certified Radiologist with MSK expertise and workers' compensation experience, this role offers part-time fully remote work.",
+    "contractType": "Part-time",
+    "salaryShort": "",
+    "requirements": [
+      "MD with completion of an accredited Radiology residency.",
+      "Board certified in Radiology.",
+      "Active New York State medical license.",
+      "Strong MSK (musculoskeletal) imaging interpretation skills.",
+      "Experience with workers' compensation and no-fault case reporting.",
+      "Comfortable working remotely with home radiology workstation on a part-time basis."
+    ],
+    "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray.",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring an RN Director of Nursing (DON). This is a senior leadership role overseeing the entire nursing department.\n\nDirectors of Nursing in this setting lead the clinical nursing team - setting standards for resident care, ensuring regulatory compliance, managing staffing and schedules, overseeing quality assurance programs, and partnering with the Administrator on facility-wide operations. The DON is the clinical leader of the building.\n\nIf you are an experienced RN with prior DON or nursing leadership experience in a skilled nursing setting and want to lead a stable team in a small-town facility, this opportunity offers a competitive annual salary band.",
+    "contractType": "Full-time",
+    "salaryShort": "$90,000 - $95,000 per year",
+    "requirements": [
+      "Active Registered Nurse (RN) license.",
+      "Prior experience as a Director of Nursing (DON) or in a nursing leadership role within a skilled nursing or long-term care setting.",
+      "Strong knowledge of federal and state long-term care regulations.",
+      "Demonstrated leadership, communication, and team-building skills.",
+      "Comfort managing staffing, scheduling, and quality assurance programs."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md",
+    "roleTitle": "Staff Development Coordinator / Infection Control Nurse",
+    "roleType": "Floor Staff",
+    "location": "Oakland, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "We are hiring a Staff Development Coordinator (SDC) / Infection Control Nurse to lead staff training, in-service education, and infection prevention at a skilled nursing and rehabilitation center in western Maryland. This is a dual-role position for an RN who enjoys both clinical work and the teaching/mentoring side of long-term care.\n\nYou will plan and direct in-service training programs, track staff competencies and certifications, run the facility's infection control program, and partner with leadership on regulatory compliance. Prior SNF or long-term care experience is preferred but not strictly required.\n\nIf you are an RN who likes building others up, keeping standards high, and being the person everyone goes to for clinical guidance, this role is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$40 - $42 per hour",
+    "requirements": [
+      "Current Registered Nurse (RN) license.",
+      "Experience in a skilled nursing, long-term care, or similar clinical setting preferred.",
+      "Comfort with staff training, in-service education, and tracking clinical competencies.",
+      "Working knowledge of infection prevention and control practices.",
+      "Strong communication and teaching skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/"
   }
 ]

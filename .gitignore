@@ -1,0 +1,18 @@
+# Sensitive — never commit
+.env
+google-credentials.json
+
+# Local artifacts
+output.log
+processed_jobs.json
+new_jobs_for_dusk.json
+.dusk/
+
+# Dependencies
+node_modules/
+
+# Personal/Tiny-only docs
+HANDOFF.md
+operations_manual.md
+walkthrough.md
+new_jobs.csv
