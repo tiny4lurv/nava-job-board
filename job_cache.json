@@ -207,49 +207,49 @@
     }
   },
   "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl": {
-    "signature": "f63054e97aa9ece0c792458ceff0d6a8",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "ba9cae13cc6294612a85fde345a84d9e",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl",
       "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A skilled nursing and rehabilitation center in north-central Florida has a very critical need for five full-time Certified Occupational Therapist Assistants (COTAs) to join its rehab team. This is a multi-opening hire - the facility is building out its therapy coverage and is hiring across multiple start dates.\n\nUnder the supervision of a licensed Occupational Therapist, you will carry out treatment plans focused on residents' activities of daily living - dressing, grooming, eating, toileting, and functional mobility. You will document progress, communicate changes to the supervising OT, and collaborate with the broader rehab and nursing teams.\n\nThis is an immediate opening for Florida-licensed COTAs with SNF experience who want full-time hours and a stable clinical home.",
+      "description": "A premier health and rehabilitation center in north central Florida is urgently hiring five full-time Certified Occupational Therapist Assistants to join its therapy team. This is a very critical need to support a growing resident census.\n\nAs the COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for full-time hours in a stable clinical environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
-        "Comfort working under the direction of a supervising Occupational Therapist.",
-        "Strong communication and documentation skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl"
     }
   },
   "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl": {
-    "signature": "b989bafbce0862a79ee576687aee9fcc",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "dcf08a715b765743289da793f3c331e2",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl",
       "roleTitle": "Physical Therapist Assistant (PTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A skilled nursing and rehabilitation center in north-central Florida has a critical need for two full-time Physical Therapist Assistants (PTAs) to support its rehab team.\n\nUnder the supervision of a licensed Physical Therapist, you will carry out treatment plans for residents - gait and balance training, therapeutic exercises, transfer training, and assistance with activities of daily living. You will document progress, communicate changes to the supervising PT, and collaborate with nursing staff to support overall care.\n\nThis is an immediate opening for Florida-licensed PTAs with SNF experience who want full-time hours in a supportive clinical environment.",
+      "description": "A premier health and rehabilitation center in north central Florida is urgently hiring two full-time Physical Therapist Assistants to join its therapy team. This is a critical need to support a growing resident census.\n\nAs the PTA on this team, you will deliver physical therapy services to residents under the supervision of a licensed Physical Therapist - implementing individualized treatment plans, supporting mobility and strengthening programs, gait and balance training, and documenting resident progress.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for full-time hours in a stable clinical environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Physical Therapist Assistant (PTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
-        "Comfort working under the direction of a supervising Physical Therapist.",
-        "Strong communication and documentation skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl"
     }
   },
   "ft_pt___115k__125k__home_health_travel_billings__mt": {
@@ -414,27 +414,26 @@
     }
   },
   "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote": {
-    "signature": "2febf22e32bfcb038c09a27c25668171",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "1e17b7aa160753774de40be06c24c5b3",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote",
-      "roleTitle": "Remote Radiologist",
+      "roleTitle": "Remote Radiologist (MSK / Workers' Compensation)",
       "roleType": "Other",
       "location": "Remote",
-      "facilityType": "Teleradiology / Remote Practice",
-      "description": "A full-time remote Radiologist position is available for a New York State-licensed physician. The role focuses on MSK (musculoskeletal) imaging with workers' compensation and no-fault case experience.\n\nRemote Radiologists in this setting read imaging studies from a home workstation - primarily MRI, CT, and X-ray - and produce reports per the relevant case type. The work is production-based with per-study compensation rather than a fixed annual salary.\n\nIf you are a board-certified Radiologist with MSK expertise and workers' compensation experience, this role offers the flexibility of fully remote work.",
+      "facilityType": "Tele-Radiology Practice",
+      "description": "A remote-first radiology practice is hiring a full-time Musculoskeletal (MSK) Radiologist to join its remote reading team. The role is centered on Workers' Compensation and No-Fault / Lien imaging cases, not major medical insurance or Medicare/Medicaid.\n\nAs the Remote Radiologist on this team, you will interpret a high volume of MRI, CT, and radiograph studies with an emphasis on MSK and Workers' Compensation cases. You will work alongside AI and administrative support teams, leveraging teleradiology workflow tools to deliver accurate, efficient diagnostic reads. Weekend availability is required.\n\nIf you are a New York licensed, fellowship-trained MSK Radiologist with Workers' Compensation or No-Fault / Lien experience looking for a fully remote full-time role, this opportunity is for you.",
       "contractType": "Full-time",
-      "salaryShort": "",
+      "salaryShort": "$50/MRI, $30/CT, $10/X-ray",
       "requirements": [
-        "MD with completion of an accredited Radiology residency.",
-        "Board certified in Radiology.",
-        "Active New York State medical license.",
-        "Strong MSK (musculoskeletal) imaging interpretation skills.",
-        "Experience with workers' compensation and no-fault case reporting.",
-        "Comfortable working remotely with home radiology workstation."
+        "Active New York State medical license with diagnostic radiology board certification.",
+        "Fellowship training in Musculoskeletal (MSK) radiology.",
+        "Experience with Workers' Compensation and/or No-Fault / Lien case interpretation.",
+        "Comfort with high-volume MRI, CT, and radiograph reads.",
+        "Available for full-time remote work, including weekends."
       ],
-      "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray.",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray. Bonus-heavy structure.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
     }
   },
   "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote": {
@@ -462,26 +461,26 @@
     }
   },
   "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny": {
-    "signature": "838ed0b736710a7bde9ac5de5409227c",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "3a9e65321809fbad13be05baf605df38",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny",
       "roleTitle": "Orthopedic Hand Surgeon",
       "roleType": "Other",
       "location": "New York, NY",
-      "facilityType": "Medical Practice Group",
-      "description": "An orthopedic surgery practice is hiring a Hand Surgeon. The position is based in New York City, with the specific location flexible based on the candidate's preference.\n\nOrthopedic Hand Surgeons in this setting diagnose and treat conditions of the hand, wrist, and forearm - including fractures, tendon and nerve injuries, carpal tunnel and other compression syndromes, arthritis, and post-traumatic reconstruction. You will run an outpatient clinic, perform surgical procedures, and coordinate with the broader orthopedic and rehabilitation team.\n\nThis is a high-compensation role for a fellowship-trained hand surgeon.",
-      "contractType": "Other",
-      "salaryShort": "$400,000 - $500,000 per year",
+      "facilityType": "Surgical Practice",
+      "description": "A specialty surgical practice is hiring an Orthopedic Hand Surgeon to join its team. The role is centered on Workers' Compensation and No-Fault / Lien case volume, with a bonus-heavy compensation structure.\n\nAs the Orthopedic Hand Surgeon on this team, you will evaluate and treat patients with a wide range of hand and upper-extremity conditions - performing surgical and non-surgical interventions, conducting pre- and post-operative care, and collaborating with referring providers and case managers within the Workers' Compensation / No-Fault case pathway. The location is flexible based on the candidate's preference.\n\nIf you are a board-eligible or board-certified Orthopedic Hand Surgeon with 5+ years of experience and Workers' Compensation / No-Fault background looking for a high-earning opportunity, this is an opportunity to make an immediate impact.",
+      "contractType": "Full-time",
+      "salaryShort": "$400K - $500K",
       "requirements": [
-        "MD or DO with completion of an accredited Orthopedic Surgery residency.",
-        "Fellowship training in Hand Surgery.",
-        "Board certified or board eligible in Orthopedic Surgery.",
-        "Active New York medical license (or eligibility to obtain).",
-        "Comfort with both clinical and surgical hand/upper-extremity work."
+        "Board-eligible or board-certified in Orthopedic Surgery with Hand Surgery fellowship or equivalent specialization.",
+        "Active medical license in the state of practice.",
+        "5+ years of post-training clinical experience.",
+        "Experience with Workers' Compensation and/or No-Fault / Lien case management.",
+        "Comfort with both surgical and non-surgical hand and upper-extremity care."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$400,000 - $500,000 base. Bonus-heavy compensation structure.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny"
     }
   },
   "2_emergency_room_rn___43_5____61_5__up_to__12k_sign_on_bonus____6k_relocation__little_colorado_medical_center_winslow__az": {
@@ -646,26 +645,26 @@
     }
   },
   "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il": {
-    "signature": "7ee5d045d46041b3ce938cc1b7cc3691",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "5ace233a146f8e2e9ca914a0fad33419",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
       "roleTitle": "Commercial / Industrial HVAC Field Manager",
-      "roleType": "Leadership",
-      "location": "Chicago Metropolitan Area (IL, WI, IN)",
+      "roleType": "Other",
+      "location": "Chicago, IL",
       "facilityType": "Commercial / Industrial HVAC Contractor",
-      "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring four HVAC Field Managers. This is a regional leadership role with field oversight.\n\nHVAC Field Managers in this setting oversee multiple job sites across the region - coordinating technician assignments, ensuring quality and safety standards are met, managing customer relationships, and serving as the escalation point for complex technical issues. The role is primarily field-based with some office/administrative work.\n\nIf you are an experienced HVAC field leader with strong operational and people-management skills, this opportunity offers a competitive hourly band and a multi-site leadership scope.",
+      "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring four Field Managers. This is a regional travel role.\n\nField Managers in this setting lead on-site technical and supervisory work for complex HVAC service and installation projects - troubleshooting advanced issues, managing field crews, coordinating with customers, and ensuring quality and safety standards on commercial and industrial accounts. The role combines hands-on technical work with team leadership.\n\nIf you are an experienced commercial / industrial HVAC professional with strong technical depth and leadership capability, this opportunity is for you.",
       "contractType": "Full-time",
-      "salaryShort": "$50 - $65 per hour",
+      "salaryShort": "$50 - $65",
       "requirements": [
-        "Extensive experience as a Commercial / Industrial HVAC Technician with progressive leadership responsibility.",
-        "Strong working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
-        "EPA 608 certification preferred.",
-        "Valid driver's license and reliable transportation for regional travel.",
-        "Proven ability to lead field crews and manage customer relationships across multiple sites in IL, WI, and IN."
+        "5-7+ years of HVAC experience with at least 3 years in commercial / industrial settings.",
+        "Working knowledge of boilers, chillers, and complex commercial HVAC systems.",
+        "Experience leading or supervising field crews.",
+        "Strong customer-facing communication skills.",
+        "Available for regional travel across the Chicago metro area (IL, WI, IN)."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$50 - $65 per hour.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "4_commercial_industrial_hvac_field_managers___50__65__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
     }
   },
   "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il": {
@@ -692,33 +691,32 @@
     }
   },
   "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms": {
-    "signature": "3d6141f2bd476065ec55712d24bda517",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "ba5c50dd9766545140cba389903530a0",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms",
       "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
       "roleType": "Floor Staff",
       "location": "Gulfport, MS",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A skilled nursing facility on the Mississippi Gulf Coast is hiring two full-time evening-shift LPNs (3:00 PM - 11:00 PM).\n\nEvening-shift LPNs in this setting administer medications, perform treatments, document resident status, supervise nursing assistants, and communicate with the on-call RN and physician as needed. The evening shift carries the transition from afternoon activities to evening care and settling residents for the night.\n\nIf you are a Mississippi-licensed LPN with SNF experience looking for stable evening-shift hours, this opportunity is for you.",
+      "description": "A skilled nursing facility on the Mississippi Gulf Coast is hiring two full-time evening-shift Licensed Practical Nurses (LPNs) to join its nursing team.\n\nAs the evening-shift LPN, you will deliver direct patient care - administering medications, performing clinical assessments, documenting resident status, and coordinating with RNs, physicians, and families throughout the 3:00 PM - 11:00 PM shift. This is a full-time, 8-hour-shift role (Mon-Fri).\n\nIf you are a Mississippi-licensed LPN with long-term care or SNF experience looking for stable evening-shift hours, this opportunity is for you.",
       "contractType": "Full-time",
-      "salaryShort": "$25 - $28 per hour",
+      "salaryShort": "$25 - $28/hr",
       "requirements": [
         "Active Licensed Practical Nurse (LPN) license in Mississippi.",
-        "Experience in a skilled nursing or long-term care setting.",
-        "Comfort with medication administration and treatment documentation.",
-        "Strong communication with residents, families, and the care team.",
-        "Available for full-time evening shift (3:00 PM - 11:00 PM)."
+        "Experience in a skilled nursing facility or long-term care setting.",
+        "Comfort with evening shift hours (3:00 PM - 11:00 PM, Monday-Friday).",
+        "Strong clinical documentation and medication-administration skills.",
+        "Available for full-time, 8-hour evening shifts."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$25 - $28 per hour.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_ft_pm_lpn_s___25__28_hr__3pm_11pm__gulfport_care_center_gulfport__ms"
     }
   },
   "1_ft_pm_rn_supervisor__3pm_11pm__gulfport_care_center_gulfport__ms": {
-    "signature": "da2d67aca774cda5a447fbcfd33d35cf",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "937fcd1c75bb9dfe9d4f3391b4f22ac7",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "1_ft_pm_rn_supervisor__3pm_11pm__gulfport_care_center_gulfport__ms",
       "roleTitle": "RN Supervisor - Evening Shift",
       "roleType": "Leadership",
       "location": "Gulfport, MS",
@@ -734,7 +732,8 @@
         "Available for full-time evening shift (3:00 PM - 11:00 PM)."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_pm_rn_supervisor__3pm_11pm__gulfport_care_center_gulfport__ms"
     }
   },
   "1_school_psychologist___60_hr___initial_contract_7_27_26___42_weeks__widefield_school_district_3_colorado_springs__co": {
@@ -899,54 +898,54 @@
     }
   },
   "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "da3d8ecacf18433bba3bcb6c5a5df66b",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "a9c569ed9866cf58c0d0a390988b81fa",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn",
       "roleTitle": "Maintenance Director",
       "roleType": "Leadership",
       "location": "Etowah, TN",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Maintenance Director. This is a leadership role responsible for the physical plant, equipment, and environmental services of the facility.\n\nMaintenance Directors in this setting oversee the building, equipment, grounds, and safety systems of a skilled nursing facility - managing a small maintenance team, scheduling preventive maintenance, coordinating with outside contractors and vendors, ensuring life-safety code compliance, and responding to facility emergencies. The role keeps the building running safely and code-compliant.\n\nIf you are an experienced facilities or maintenance leader with prior experience in healthcare, hospitality, or commercial buildings, this opportunity is for you.",
+      "description": "A premier health and rehabilitation center in eastern Tennessee is hiring a Maintenance Director to oversee facility plant operations.\n\nAs the Maintenance Director, you will lead all facility maintenance and daily work-order workflow - managing maintenance staff, scheduling preventative maintenance, ensuring compliance with health, safety, and life-safety regulations, coordinating with outside vendors for specialized repairs, and maintaining accurate records. The role is central to keeping the physical plant safe, code-compliant, and operational.\n\nIf you are an experienced facilities or maintenance leader with skilled nursing or healthcare plant operations background looking for a stable, full-time director-level role, this opportunity is for you.",
       "contractType": "Full-time",
-      "salaryShort": "~$30 per hour",
+      "salaryShort": "~$30/hr",
       "requirements": [
-        "Prior experience as a Maintenance Director or facilities leader in a healthcare, hospitality, or commercial setting.",
-        "Working knowledge of HVAC, plumbing, electrical, and life-safety systems.",
-        "Strong vendor management and preventive-maintenance scheduling skills.",
-        "Comfort managing a small maintenance team.",
-        "Familiarity with healthcare facility regulations preferred."
+        "Previous Maintenance Director or senior facilities/maintenance leadership experience.",
+        "Knowledge of healthcare / skilled nursing facility maintenance, safety, and infection-control practices.",
+        "Comfort managing preventative maintenance programs, work orders, and outside vendors.",
+        "Strong documentation and regulatory compliance skills.",
+        "Available for full-time, on-site hours."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "Approximately $30 per hour.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "baylor_rn_etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "3f39b1b7397064ac7004bebe70f9553f",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "369a705e87ecfc39118c5ebf268d22b1",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "id": "baylor_rn_etowah_health_and_rehabilitation_etowah__tn",
-      "roleTitle": "Baylor Registered Nurse (RN)",
+      "roleTitle": "Registered Nurse (RN) - Baylor",
       "roleType": "Floor Staff",
       "location": "Etowah, TN",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Baylor Registered Nurse (RN). This is a specialized weekend-shift position.\n\nA Baylor shift is a weekend-only schedule - typically 12-hour shifts on Saturday and Sunday, in exchange for a full-time salary and benefits. The Baylor RN provides weekend nursing coverage, including medication administration, treatments, assessments, and supervision of nursing assistants during the high-acuity weekend window.\n\nIf you are an RN who prefers a consistent weekend-only schedule (and the work-life balance that comes with it) and has SNF or long-term care experience, this opportunity is for you.",
+      "description": "A premier health and rehabilitation center in eastern Tennessee is hiring a Baylor Registered Nurse (RN) to join its weekend nursing team.\n\nAs the Baylor RN, you will provide skilled nursing care to residents on weekend shifts - assessing residents, administering medications and treatments, supervising nursing assistants, documenting care, and ensuring compliance with state and federal regulations. The Baylor schedule typically covers two 12-hour weekend shifts with full-time-equivalent pay and benefits, ideal for candidates seeking concentrated weekend hours with weekday flexibility.\n\nIf you are a Tennessee-licensed RN with skilled nursing or long-term care experience looking for a stable weekend-shift role, this opportunity is for you.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Registered Nurse (RN) license.",
-        "Experience in a skilled nursing or long-term care setting.",
-        "Comfort with medication administration, treatments, and clinical assessments.",
-        "Strong communication with residents, families, and the interdisciplinary team.",
-        "Available for a consistent weekend Baylor schedule (typically 12-hour Saturday and Sunday shifts)."
+        "Active Registered Nurse (RN) license in Tennessee.",
+        "Experience in a skilled nursing facility or long-term care setting.",
+        "Comfort working weekend shifts (Baylor schedule).",
+        "Strong clinical assessment and documentation skills.",
+        "Available for full-time-equivalent Baylor weekend hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "baylor_rn_etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "1_ft_physical_therapist__critical___5k_sign_on_or_relocation_bonus__williston_care_center_williston__fl": {
-    "signature": "8caa1daf4ead274ae3a0c18870bf0ccc",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "514fdc59079e15dcd00c421616d42e81",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Physical Therapist (PT)",
       "roleType": "Therapy/Rehabilitation",
@@ -968,14 +967,14 @@
     }
   },
   "1_ft_pt_plaza_health_and_rehab_center_gainesville__fl": {
-    "signature": "75825115178c99820323a9c44e9c32d3",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "e2d0684ddd9992a3f6c4d1818660a65c",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Physical Therapist (PT)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Physical Therapist to join its rehab team.\n\nAs the PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for full-time hours and a stable clinical environment, this opportunity is for you.",
+      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Physical Therapist to join its rehab team.\n\nAs the PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for full-time hours in a stable clinical environment, this opportunity is for you.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
@@ -991,21 +990,21 @@
     }
   },
   "2_ft_slp__extremely_critical__plaza_health_and_rehab_center_gainesville__fl": {
-    "signature": "5b935edb7584143ab1d4e79f9458bb75",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "78a154158b520d739314edd73b868998",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP)",
+      "roleTitle": "Speech Language Pathologist (SLP)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking two full-time Speech-Language Pathologists (SLPs) to support its speech, language, cognition, and dysphagia programs. This is an extremely critical need — coverage is required immediately to keep up with active caseloads.\n\nAs the full-time SLP, you will evaluate and treat residents with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed SLP with SNF experience looking for full-time hours in a high-need setting, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida is urgently hiring two full-time Speech Language Pathologists to join its therapy team. This is an extremely critical need driven by a growing resident census.\n\nAs the SLP on this team, you will assess and treat residents with swallowing, speech, language, and cognitive-communication needs - developing and implementing individualized treatment plans, collaborating with the broader rehab and nursing teams, and documenting progress under Medicare SNF PPS guidelines.\n\nIf you are a Florida-licensed SLP with CCC credentials and SNF or post-acute experience looking for full-time hours in a stable clinical environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Speech-Language Pathologist (SLP) license in Florida.",
-        "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
-        "Experience working in a skilled nursing facility or similar clinical setting.",
-        "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
+        "Active Speech Language Pathologist (SLP) license in Florida.",
+        "ASHA Certificate of Clinical Competence (CCC) preferred.",
+        "Experience in a skilled nursing facility or post-acute care setting.",
+        "Proficiency in assessing and treating swallowing disorders (dysphagia).",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1014,22 +1013,22 @@
     }
   },
   "2_prn_ot_citrus_health___rehabilitation_inverness__fl": {
-    "signature": "5919d3ee9dccc5c3f219f71074037dc2",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "cb2e1a030216451b6f49223df8843e4c",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Occupational Therapist (OT)",
+      "roleTitle": "Occupational Therapist (OT) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Inverness, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking two PRN Occupational Therapists (OTs) to support its rehab team on an as-needed basis.\n\nAs PRN OT, you will evaluate and treat residents with a wide range of needs, including post-stroke recovery, orthopedic rehabilitation, ADL retraining, and chronic condition management. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed OT with SNF experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in central Florida (Citrus County) is hiring two PRN Occupational Therapists to join its therapy team on an as-needed basis.\n\nAs the PRN OT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, activities of daily living training, balance and cognitive rehabilitation. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care on a flexible schedule.\n\nIf you are a Florida-licensed OT with SNF experience looking for flexible PRN hours, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
         "Active Occupational Therapist (OT) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort with ADL retraining, therapeutic activities, and post-acute rehab.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-surgical patients.",
         "Strong care-planning and documentation skills.",
-        "Available for PRN / as-needed coverage."
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1037,21 +1036,21 @@
     }
   },
   "ft_cota__critical__citrus_health___rehabilitation_inverness__fl": {
-    "signature": "a5284fe5d6ed714fc496597e98c16221",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "e7e406b6e52471755bafc9f901f50d1d",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Inverness, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need, and the role is open to keep up with resident caseloads.\n\nAs a COTA here, you will work under the supervision of a licensed Occupational Therapist to deliver high-quality occupational therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams to support functional outcomes.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for stable full-time hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in central Florida (Citrus County) is hiring a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need in a stable clinical setting.\n\nAs the COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for full-time hours in a stable, well-supported environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1060,21 +1059,21 @@
     }
   },
   "ft_cota__critical__park_meadows_health___rehabilitation_center_gainesville__fl": {
-    "signature": "05a99701ac67b9c4aec0357ff396f99c",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "073ef2f50beec59f33cf67c25e10775e",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need, and the role is open to keep up with resident caseloads.\n\nAs a COTA here, you will work under the supervision of a licensed Occupational Therapist to deliver high-quality occupational therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams to support functional outcomes.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for stable full-time hours in a well-rated facility, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need in a well-rated clinical setting.\n\nAs the COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress. The facility recently completed its annual survey with strong results and holds 5 stars for Quality Measures, serving a Med A census of 15-20.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for full-time hours in a stable, well-supported environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1083,21 +1082,21 @@
     }
   },
   "ft_cota__critical__terrace_health___rehabilitation_center_gainesville__fl": {
-    "signature": "adbb9287b08dc15aff6623703df28de3",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "2006f64bf3c4a7cecc409112e6633900",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need, and the role is open due to growth on the rehab side of the building.\n\nAs a COTA here, you will work under the supervision of a licensed Occupational Therapist to deliver high-quality occupational therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams to support functional outcomes.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for stable full-time hours in a well-rated facility, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team. This is a critical need, and the role will work alongside an experienced lead therapist in a high-volume clinical setting.\n\nAs the COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress. The facility serves a substantial Med A census with a strong clinical complexity mix, and recently opened an in-house dialysis suite on site.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for full-time hours in a stable, well-supported environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1106,14 +1105,14 @@
     }
   },
   "ft_physical_therapist__critical___7_5k_sign_on_or_relocation_bonus__cypress_care_center_wildwood__fl": {
-    "signature": "3a84b673e8e3938b34b976d7fee1b57e",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "31e7e6245b2a51940852904ec611f81e",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Physical Therapist (PT)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Wildwood, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a full-time Physical Therapist to join its rehab team. This is a critical need, and the role is paired with a $7,500 sign-on or relocation bonus to help the right candidate get started.\n\nAs the PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for full-time hours and a $7,500 sign-on or relocation bonus, this is an opportunity to make an immediate impact.",
+      "description": "A premier skilled nursing facility in central Florida (Sumter County) is hiring a full-time Physical Therapist to join its rehab team. This is a critical need, and the role is paired with a $7,500 sign-on or relocation bonus to help the right candidate get started.\n\nAs the PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for full-time hours and a $7,500 sign-on or relocation bonus, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
@@ -1129,21 +1128,21 @@
     }
   },
   "ft_pta__critical__park_meadows_health___rehabilitation_center_gainesville__fl": {
-    "signature": "01740b014731e12ae7e34bf830295ece",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "ddb674adbe1d8d77633f4b8ebfc13c5b",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
       "roleTitle": "Physical Therapist Assistant (PTA)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a full-time Physical Therapist Assistant (PTA) to join its therapy team. This is a critical need, with coverage required to keep resident caseloads moving.\n\nAs a PTA here, you will work under the supervision of a licensed Physical Therapist to deliver high-quality physical therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams to support functional outcomes.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for stable full-time hours in a well-rated facility, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Physical Therapist Assistant (PTA) to join its therapy team. This is a critical need in a well-rated clinical setting.\n\nAs the PTA on this team, you will deliver physical therapy services to residents under the supervision of a licensed Physical Therapist - implementing individualized treatment plans, supporting mobility and strengthening programs, gait and balance training, and documenting resident progress. The facility recently completed its annual survey with strong results and holds 5 stars for Quality Measures, serving a Med A census of 15-20.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for full-time hours in a stable, well-supported environment, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
         "Active Physical Therapist Assistant (PTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1152,21 +1151,21 @@
     }
   },
   "ft_slp__critical__williston_care_center_williston__fl": {
-    "signature": "d239b70e34a96d0c4b80ffa4fa4b51ea",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "cced8e71e1b4404a16a87045f326620a",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP)",
+      "roleTitle": "Speech Language Pathologist (SLP)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Williston, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a full-time Speech-Language Pathologist (SLP) to support its speech, language, cognition, and dysphagia programs. This is a critical need, and the role is open to keep up with resident caseloads.\n\nAs the full-time SLP, you will evaluate and treat residents with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed SLP with SNF experience looking for full-time hours in a stable clinical environment, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida (Levy County) is hiring a full-time Speech Language Pathologist (SLP) to join its therapy team. This is a critical need in a stable clinical setting.\n\nAs the SLP on this team, you will assess and treat residents with swallowing, speech, language, and cognitive-communication needs - developing and implementing individualized treatment plans, collaborating with the broader rehab and nursing teams, and documenting progress under Medicare SNF PPS guidelines.\n\nIf you are a Florida-licensed SLP with CCC credentials and SNF or post-acute experience looking for full-time hours, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Speech-Language Pathologist (SLP) license in Florida.",
-        "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
-        "Experience working in a skilled nursing facility or similar clinical setting.",
-        "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
+        "Active Speech Language Pathologist (SLP) license in Florida.",
+        "ASHA Certificate of Clinical Competence (CCC) preferred.",
+        "Experience in a skilled nursing facility or post-acute care setting.",
+        "Proficiency in assessing and treating swallowing disorders (dysphagia).",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1175,21 +1174,21 @@
     }
   },
   "ft_slp_terrace_health___rehabilitation_center_gainesville__fl": {
-    "signature": "3d479b0509dc7ea347f96220d1f67c77",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "248435ff370942c25e562fcc3107c4e0",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP)",
+      "roleTitle": "Speech Language Pathologist (SLP)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Gainesville, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Speech-Language Pathologist (SLP) to round out its therapy team. This is an immediate opening for an SLP who wants a stable full-time role in a well-rated clinical environment.\n\nAs the SLP on this team, you will evaluate and treat residents with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed SLP with SNF or post-acute experience looking for full-time hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida is hiring a full-time Speech Language Pathologist (SLP) to join its therapy team. The role will work alongside an experienced lead clinician in a high-volume skilled nursing setting.\n\nAs the SLP on this team, you will assess and treat residents with swallowing, speech, language, and cognitive-communication needs - developing and implementing individualized treatment plans, collaborating with the broader rehab and nursing teams, and documenting progress under Medicare SNF PPS guidelines. The facility serves a substantial Med A census with strong clinical complexity, and recently opened an in-house dialysis suite on site.\n\nIf you are a Florida-licensed SLP with CCC credentials and SNF or post-acute experience looking for full-time hours, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Speech-Language Pathologist (SLP) license in Florida.",
-        "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
+        "Active Speech Language Pathologist (SLP) license in Florida.",
+        "ASHA Certificate of Clinical Competence (CCC) preferred.",
+        "Experience in a skilled nursing facility or post-acute care setting.",
+        "Proficiency in assessing and treating swallowing disorders (dysphagia).",
         "Available for full-time hours."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
@@ -1198,24 +1197,24 @@
     }
   },
   "ft_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl": {
-    "signature": "a529d9c65c00ad2adb40fd5994461ee9",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "74fb0953e590726df16dd8cb174e3732",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP)",
+      "roleTitle": "Speech Language Pathologist (SLP)",
       "roleType": "Therapy/Rehabilitation",
       "location": "Inverness, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a full-time Speech-Language Pathologist (SLP) to support its speech, language, cognition, and dysphagia programs. This is a critical need, and the role is paired with a $5,000 sign-on or relocation bonus to help the right candidate get started.\n\nAs the full-time SLP, you will evaluate and treat residents with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed SLP with SNF experience looking for full-time hours and a $5,000 sign-on or relocation bonus, this is an opportunity to make an immediate impact.",
+      "description": "A premier health and rehabilitation center in central Florida (Citrus County) is hiring a full-time Speech Language Pathologist (SLP) to join its therapy team. This is a critical need, and the role is paired with a $5,000 sign-on or relocation bonus to help the right candidate get started.\n\nAs the SLP on this team, you will assess and treat residents with swallowing, speech, language, and cognitive-communication needs - developing and implementing individualized treatment plans, collaborating with the broader rehab and nursing teams, and documenting progress under Medicare SNF PPS guidelines.\n\nIf you are a Florida-licensed SLP with CCC credentials and SNF or post-acute experience looking for full-time hours and a $5,000 sign-on or relocation bonus, this is an opportunity to make an immediate impact.",
       "contractType": "Full-time",
-      "salaryShort": "$38 - $49 per hour",
+      "salaryShort": "$38 - $49",
       "requirements": [
-        "Active Speech-Language Pathologist (SLP) license in Florida.",
-        "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
-        "Experience working in a skilled nursing facility or similar clinical setting.",
-        "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
+        "Active Speech Language Pathologist (SLP) license in Florida.",
+        "ASHA Certificate of Clinical Competence (CCC) required.",
+        "Experience in a skilled nursing facility or post-acute care setting.",
+        "Proficiency in assessing and treating swallowing disorders (dysphagia).",
         "Available for full-time hours."
       ],
-      "salaryOrBonusInfo": "$5,000 sign-on or relocation bonus. Compensation based on experience.",
+      "salaryOrBonusInfo": "$38 - $49 per hour. $5,000 sign-on or relocation bonus.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "ft_speech_language_pathologist__slp___38____49__critical__5k_sign_on_or_relocation_bonus_citrus_health___rehabilitation_inverness__fl"
     }
@@ -1290,22 +1289,22 @@
     }
   },
   "prn_cota_williston_care_center_williston__fl": {
-    "signature": "953b464b87c536e93dc87e32beb31b95",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "92975493f278b6a292e5081bb4fff727",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+      "roleTitle": "Certified Occupational Therapist Assistant (COTA) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Williston, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a PRN Certified Occupational Therapist Assistant (COTA) to support its therapy team on an as-needed basis.\n\nAs PRN COTA, you will work under the supervision of a licensed Occupational Therapist to deliver occupational therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida (Levy County) is hiring a PRN Certified Occupational Therapist Assistant to join its therapy team on an as-needed basis.\n\nAs the PRN COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress on a flexible schedule.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for flexible PRN hours, this opportunity is for you.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
         "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
-        "Available for PRN / as-needed coverage."
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1313,22 +1312,22 @@
     }
   },
   "prn_ot_williston_care_center_williston__fl": {
-    "signature": "e986fa6a5a81062ec1d1f12830c3c125",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "fd0cd5c5a4cf8b83c5554704ec1002a0",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Occupational Therapist (OT)",
+      "roleTitle": "Occupational Therapist (OT) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Williston, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a PRN Occupational Therapist (OT) to support its rehab team on an as-needed basis.\n\nAs PRN OT, you will evaluate and treat residents with a wide range of needs, including post-stroke recovery, orthopedic rehabilitation, ADL retraining, and chronic condition management. You will develop individualized treatment plans, document resident progress, and partner with the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed OT with SNF experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida (Levy County) is hiring a PRN Occupational Therapist to join its therapy team on an as-needed basis.\n\nAs the PRN OT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, activities of daily living training, balance and cognitive rehabilitation. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care on a flexible schedule.\n\nIf you are a Florida-licensed OT with SNF experience looking for flexible PRN hours, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
         "Active Occupational Therapist (OT) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort with ADL retraining, therapeutic activities, and post-acute rehab.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-surgical patients.",
         "Strong care-planning and documentation skills.",
-        "Available for PRN / as-needed coverage."
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1359,14 +1358,14 @@
     }
   },
   "prn_pt_the_grove_health___rehabilitation_center_hernando__fl": {
-    "signature": "9af34556fa6ce5ef77886c81c96b0b49",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "3a375eab8a645ac06236b3ccc703beda",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist (PT)",
+      "roleTitle": "Physical Therapist (PT) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Hernando, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a PRN Physical Therapist to support its rehab team on an as-needed basis.\n\nAs PRN PT, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care.\n\nIf you are a Florida-licensed PT with SNF experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in central Florida (Citrus County) is hiring a PRN Physical Therapist to join its therapy team on an as-needed basis.\n\nAs the PRN PT on this team, you will evaluate and treat residents across a wide range of needs - post-surgical recovery, orthopedic rehabilitation, balance and mobility training, and chronic condition management. You will develop individualized treatment plans, document resident progress, and work alongside the broader nursing and therapy teams to deliver coordinated, high-quality care on a flexible schedule.\n\nIf you are a Florida-licensed PT with SNF experience looking for flexible PRN hours, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
@@ -1374,7 +1373,7 @@
         "Experience in a skilled nursing facility or similar post-acute care setting.",
         "Comfort treating geriatric and post-surgical patients.",
         "Strong care-planning and documentation skills.",
-        "Available for PRN / as-needed coverage."
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1382,45 +1381,45 @@
     }
   },
   "prn_pta__38____48_cypress_care_center_wildwood__fl": {
-    "signature": "57470a31837448a047bb6d8405a92b27",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "2591e4acb8f7fa71d11354b535ac67a7",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist Assistant (PTA)",
+      "roleTitle": "Physical Therapist Assistant (PTA) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Wildwood, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a PRN Physical Therapist Assistant (PTA) to support its rehab team on an as-needed basis.\n\nAs PRN PTA, you will work under the supervision of a licensed Physical Therapist to deliver physical therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours at a competitive hourly rate, this is a strong fit.",
+      "description": "A premier skilled nursing facility in central Florida (Sumter County) is hiring a PRN Physical Therapist Assistant to join its therapy team on an as-needed basis.\n\nAs the PRN PTA on this team, you will deliver physical therapy services to residents under the supervision of a licensed Physical Therapist - implementing individualized treatment plans, supporting mobility and strengthening programs, gait and balance training, and documenting resident progress on a flexible schedule.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours with a strong hourly rate, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
-      "salaryShort": "$38 - $48 per hour",
+      "salaryShort": "$38 - $48",
       "requirements": [
         "Active Physical Therapist Assistant (PTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
-        "Available for PRN / as-needed coverage."
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
+        "Available for PRN / as-needed scheduling."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
+      "salaryOrBonusInfo": "$38 - $48 per hour.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "prn_pta__38____48_cypress_care_center_wildwood__fl"
     }
   },
   "prn_pta_the_grove_health___rehabilitation_center_hernando__fl": {
-    "signature": "5c7f5d484dafc9278ac732b5a9dea310",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "ee584592318996e479f508d0a80ffe6a",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist Assistant (PTA)",
+      "roleTitle": "Physical Therapist Assistant (PTA) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Hernando, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a PRN Physical Therapist Assistant (PTA) to support its rehab team on an as-needed basis.\n\nAs PRN PTA, you will work under the supervision of a licensed Physical Therapist to deliver physical therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in central Florida (Citrus County) is hiring a PRN Physical Therapist Assistant to join its therapy team on an as-needed basis.\n\nAs the PRN PTA on this team, you will deliver physical therapy services to residents under the supervision of a licensed Physical Therapist - implementing individualized treatment plans, supporting mobility and strengthening programs, gait and balance training, and documenting resident progress on a flexible schedule.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
         "Active Physical Therapist Assistant (PTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
-        "Available for PRN / as-needed coverage."
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1428,22 +1427,22 @@
     }
   },
   "prn_pta_williston_care_center_williston__fl": {
-    "signature": "dd0240c03da22711415d76d33e12cc43",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "1888af5aa4fa686acbb23322174fcfbe",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Physical Therapist Assistant (PTA)",
+      "roleTitle": "Physical Therapist Assistant (PTA) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Williston, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in north central Florida is seeking a PRN Physical Therapist Assistant (PTA) to support its rehab team on an as-needed basis.\n\nAs PRN PTA, you will work under the supervision of a licensed Physical Therapist to deliver physical therapy services to short- and long-term residents. You will carry out individualized treatment plans, document resident progress, and collaborate closely with the broader nursing and rehab teams.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours, this is a strong fit.",
+      "description": "A premier health and rehabilitation center in north central Florida (Levy County) is hiring a PRN Physical Therapist Assistant to join its therapy team on an as-needed basis.\n\nAs the PRN PTA on this team, you will deliver physical therapy services to residents under the supervision of a licensed Physical Therapist - implementing individualized treatment plans, supporting mobility and strengthening programs, gait and balance training, and documenting resident progress on a flexible schedule.\n\nIf you are a Florida-licensed PTA with SNF or post-acute experience looking for flexible PRN hours, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
       "salaryShort": "",
       "requirements": [
         "Active Physical Therapist Assistant (PTA) license in Florida.",
-        "Experience in a skilled nursing facility or similar post-acute setting.",
-        "Comfort treating geriatric residents and supporting post-acute rehabilitation plans.",
-        "Strong documentation and care-planning skills.",
-        "Available for PRN / as-needed coverage."
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
+        "Available for PRN / as-needed scheduling."
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -1474,26 +1473,95 @@
     }
   },
   "prn_speech_language_pathologist__slp___38____49__urgent___10k_sign_on_bonus__the_lodge_health_and_rehabilitation_center_ocala__fl": {
-    "signature": "5b35e3e3d247bdb3b31b8a5f167e83a1",
-    "addedAt": "2026-08-07T20:09:30.215Z",
+    "signature": "b48a42a13324e1a07647108d912d1143",
+    "addedAt": "2026-08-08T00:10:27.788Z",
     "finalJson": {
-      "roleTitle": "Speech-Language Pathologist (SLP)",
+      "roleTitle": "Speech Language Pathologist (SLP) - PRN",
       "roleType": "Therapy/Rehabilitation",
       "location": "Ocala, FL",
       "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in central Florida is seeking a PRN Speech-Language Pathologist (SLP) to support its speech, language, cognition, and dysphagia programs. This is an urgent need, and the role is paired with a $10,000 sign-on bonus to help secure the right candidate.\n\nAs PRN SLP, you will evaluate and treat residents with a wide range of needs, including dysphagia, cognitive-communication deficits, speech and language difficulties, and post-stroke recovery. You will partner with the broader rehab team to develop and carry out individualized treatment plans for short- and long-term residents.\n\nIf you are an SLP looking for flexible PRN hours, a competitive hourly rate, and a $10,000 sign-on bonus, this is an opportunity to make an immediate impact.",
+      "description": "A premier health and rehabilitation center in north central Florida (Marion County) is urgently hiring a PRN Speech Language Pathologist to join its therapy team on an as-needed basis. The role is paired with a $10,000 sign-on bonus.\n\nAs the PRN SLP on this team, you will assess and treat residents with swallowing, speech, language, and cognitive-communication needs - developing and implementing individualized treatment plans, collaborating with the broader rehab and nursing teams, and documenting progress under Medicare SNF PPS guidelines on a flexible schedule.\n\nIf you are a Florida-licensed SLP with CCC credentials and SNF or post-acute experience looking for flexible PRN hours and a $10,000 sign-on bonus, this is an opportunity to make an immediate impact.",
       "contractType": "PRN",
-      "salaryShort": "$38 - $49 per hour",
+      "salaryShort": "$38 - $49",
       "requirements": [
-        "Active Speech-Language Pathologist (SLP) license in Florida.",
-        "Certificate of Clinical Competence (CCC) from ASHA, or equivalent.",
-        "Experience working in a skilled nursing facility or similar clinical setting.",
-        "Comfort with dysphagia assessment and treatment, cognitive-communication therapy, and post-stroke rehab.",
-        "Available for PRN / as-needed coverage."
+        "Active Speech Language Pathologist (SLP) license in Florida.",
+        "ASHA Certificate of Clinical Competence (CCC) required.",
+        "Experience in a skilled nursing facility or post-acute care setting.",
+        "Proficiency in assessing and treating swallowing disorders (dysphagia).",
+        "Available for PRN / as-needed scheduling."
       ],
-      "salaryOrBonusInfo": "$10,000 sign-on bonus. Compensation based on experience.",
+      "salaryOrBonusInfo": "$38 - $49 per hour. $10,000 sign-on bonus.",
       "applyLink": "https://navahc.com/candidates/",
       "id": "prn_speech_language_pathologist__slp___38____49__urgent___10k_sign_on_bonus__the_lodge_health_and_rehabilitation_center_ocala__fl"
+    }
+  },
+  "1_speech_language_pathologist___school___65_hr___initial_contract_8_17_26___6_7_27__kent_county_public_schools_rock_hall__md": {
+    "signature": "492330a4c7c63a4b78a530e47d75331c",
+    "addedAt": "2026-08-08T00:10:27.788Z",
+    "finalJson": {
+      "roleTitle": "Speech Language Pathologist - School",
+      "roleType": "Therapy/Rehabilitation",
+      "location": "Rock Hall, MD",
+      "facilityType": "Public School District",
+      "description": "A public school district on Maryland's Eastern Shore is hiring one Speech Language Pathologist for the 2026-2027 school year. This is an initial contract position running August 17, 2026 through June 7, 2027.\n\nSpeech Language Pathologists in this setting provide comprehensive speech and language services to students - conducting screenings and evaluations, developing and implementing IEPs and service plans, delivering individual and group therapy, and collaborating with teachers, related service providers, and families. You will work within a school-based team supporting students across the district.\n\nIf you are a credentialed Speech Language Pathologist looking for a full academic-year contract in a supportive Maryland district, this opportunity is for you.",
+      "contractType": "Contract",
+      "salaryShort": "$65/hr+",
+      "requirements": [
+        "Master's degree in Speech-Language Pathology or Communication Disorders.",
+        "Valid Maryland Department of Education Speech Language Pathologist certification (or eligibility).",
+        "ASHA Certificate of Clinical Competence (CCC) preferred.",
+        "Experience working with school-aged children in an educational setting.",
+        "Available for the full 2026-2027 academic year contract (8/17/26 - 6/7/27)."
+      ],
+      "salaryOrBonusInfo": "Compensation starts at $65 per hour, based on experience.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_speech_language_pathologist___school___65_hr___initial_contract_8_17_26___6_7_27__kent_county_public_schools_rock_hall__md"
+    }
+  },
+  "1_speech_language_pathologist___school___70_hr___initial_contract_09_03_26___10_weeks__asha_ccc_required__north_thurston_public_schools___msp_lacey__wa": {
+    "signature": "61675cb92b7818a764a0be9a1bd64817",
+    "addedAt": "2026-08-08T00:10:27.788Z",
+    "finalJson": {
+      "roleTitle": "Speech Language Pathologist - School",
+      "roleType": "Therapy/Rehabilitation",
+      "location": "Lacey, WA",
+      "facilityType": "Public School District",
+      "description": "A public school district in the Lacey, Washington area is hiring one Speech Language Pathologist for a short-term initial contract. The assignment runs September 3, 2026 for approximately 10 weeks.\n\nSpeech Language Pathologists in this setting provide comprehensive speech and language services to students - conducting screenings and evaluations, developing and implementing IEPs and service plans, delivering individual and group therapy, and collaborating with teachers, related service providers, and families. You will work within a school-based team supporting students across the district.\n\nIf you are a credentialed Speech Language Pathologist with ASHA CCC looking for a short-term Washington contract, this opportunity is for you.",
+      "contractType": "Contract",
+      "salaryShort": "$70/hr+",
+      "requirements": [
+        "Master's degree in Speech-Language Pathology or Communication Disorders.",
+        "Valid Washington State Educational Staff Associate (ESA) Speech Language Pathologist certificate.",
+        "ASHA Certificate of Clinical Competence (CCC) required.",
+        "Experience working with school-aged children in an educational setting.",
+        "Available for the initial 10-week contract starting September 3, 2026."
+      ],
+      "salaryOrBonusInfo": "Compensation starts at $70 per hour, based on experience.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_speech_language_pathologist___school___70_hr___initial_contract_09_03_26___10_weeks__asha_ccc_required__north_thurston_public_schools___msp_lacey__wa"
+    }
+  },
+  "ft_cota_williston_care_center_williston__fl": {
+    "signature": "34c31cd45500d521fcf764bc83e7d869",
+    "addedAt": "2026-08-08T00:10:27.788Z",
+    "finalJson": {
+      "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+      "roleType": "Therapy/Rehabilitation",
+      "location": "Williston, FL",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "A premier health and rehabilitation center in north central Florida (Levy County) is hiring a full-time Certified Occupational Therapist Assistant (COTA) to join its therapy team.\n\nAs the COTA on this team, you will deliver quality rehabilitation care to residents under the supervision of a licensed Occupational Therapist - implementing individualized treatment plans, supporting activities of daily living training, therapeutic exercises, and documentation of resident progress.\n\nIf you are a Florida-licensed COTA with SNF or post-acute experience looking for full-time hours in a stable clinical environment, this opportunity is for you.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
+        "Experience in a skilled nursing facility or similar post-acute care setting.",
+        "Comfort treating geriatric and post-acute patients.",
+        "Strong care-planning and documentation skills.",
+        "Available for full-time hours."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_cota_williston_care_center_williston__fl"
     }
   }
 }
