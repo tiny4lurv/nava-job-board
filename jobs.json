@@ -399,6 +399,25 @@
     "id": "baylor_rn_etowah_health_and_rehabilitation_etowah__tn"
   },
   {
+    "roleTitle": "Director of Social Services",
+    "roleType": "Leadership",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing facility in Etowah, Tennessee is hiring a full-time Director of Social Services to lead the social services program and ensure each resident's medically related emotional and social needs are met on an individual basis.\n\nAs the Director of Social Services, you will plan, organize, develop, and direct the social services department in accordance with current federal and state regulations. You will conduct psychosocial assessments, build individualized care plans in partnership with the interdisciplinary team, coordinate resident transitions and family communication, and connect residents and families with outside agencies and community resources. You will also keep the program current on regulatory changes and serve as the facility's advocate for social-work best practices.\n\nIf you are a licensed or licensed-eligible social worker in Tennessee with SNF or long-term care experience and a passion for resident-centered leadership, this is an opportunity to run the social services program at a premier health and rehabilitation center.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Tennessee social work license (LSW, LCSW, or equivalent) or license-eligible.",
+      "Experience in a skilled nursing facility or long-term care setting.",
+      "Working knowledge of federal and state regulations governing social services in SNFs.",
+      "Strong psychosocial assessment, care planning, and family-communication skills.",
+      "Demonstrated leadership ability to plan, organize, and direct a social services program."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "director_of_social_services___social_worker_etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
     "id": "dor___38__40_hr__etowah_health_and_rehabilitation_etowah__tn",
     "roleTitle": "Director of Rehabilitation (DOR)",
     "roleType": "Leadership",
@@ -1272,6 +1291,25 @@
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "roleTitle": "RN MDS Coordinator",
+    "roleType": "Floor Staff",
+    "location": "Etowah, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A skilled nursing facility in Etowah, Tennessee is hiring a full-time Registered Nurse (RN) to serve as MDS Coordinator, leading the Minimum Data Set assessment process that drives clinical care planning and reimbursement accuracy.\n\nAs the MDS Coordinator, you will conduct and coordinate OBRA and PPS assessments, partner with the interdisciplinary team to translate findings into individualized care plans, and ensure documentation supports appropriate Medicare and Medicaid reimbursement. You will track MDS-related regulatory changes, train and support staff on data collection, and act as the clinical bridge between nursing, therapy, and administration.\n\nIf you are a Tennessee-licensed RN with SNF or long-term care experience and a comfort with the RAI process, this is a chance to step into a specialized, high-impact role at a premier health and rehabilitation center.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Tennessee.",
+      "Experience in a skilled nursing facility or long-term care setting.",
+      "Working knowledge of the MDS assessment process and RAI guidelines.",
+      "Strong clinical assessment, documentation, and interdisciplinary communication skills.",
+      "Detail-oriented with the ability to manage multiple assessment cycles and regulatory deadlines."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_etowah_health_and_rehabilitation_etowah__tn"
   },
   {
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md",
