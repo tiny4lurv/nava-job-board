@@ -76,6 +76,44 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Plymouth, MI",
+    "facilityType": "School District",
+    "description": "A school district in the Plymouth-Canton, Michigan area is hiring one School Psychologist for the 2026-2027 school year. This is an initial contract position running 42 weeks, with an anticipated start date of August 25, 2026. The role is open to candidates with the appropriate Michigan school psychology credential.\n\nAs a School Psychologist, you will provide comprehensive psychological services to students - psychoeducational evaluations, behavioral assessments, intervention planning, consultation with teachers and families, and support for IEP and 504 processes. You will work within a school-based team serving students across the district.\n\nIf you are a credentialed School Psychologist looking for a full academic-year contract in a supportive Michigan district, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$70/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology.",
+      "Valid Michigan Department of Education School Psychologist license/certification.",
+      "Experience working with school-aged children in an educational setting.",
+      "Knowledge of relevant laws and regulations pertaining to special education and student services.",
+      "Available for a 42-week contract starting August 25, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $70 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___70_hr___contract_8_25_26___42_weeks__plymouth_canton_community_schools_plymouth__mi"
+  },
+  {
+    "roleTitle": "School Psychologist",
+    "roleType": "Therapy/Rehabilitation",
+    "location": "Houston, TX",
+    "facilityType": "School District",
+    "description": "A school district in the Cypress-Fairbanks area of greater Houston, Texas is hiring one School Psychologist for the 2026-2027 school year. This is an initial contract position running 41 weeks, with an anticipated start date of August 24, 2026. The role is open to candidates with the appropriate Texas school psychology credential.\n\nAs a School Psychologist, you will provide comprehensive psychological services to students - psychoeducational evaluations, behavioral assessments, intervention planning, consultation with teachers and families, and support for IEP and 504 processes. You will work within a school-based team serving students across the district.\n\nIf you are a credentialed School Psychologist looking for a full academic-year contract in a supportive Texas district, this opportunity is for you.",
+    "contractType": "Contract",
+    "salaryShort": "$50/hr+",
+    "requirements": [
+      "Master's or Doctoral degree in School Psychology.",
+      "Valid Texas State Board of Examiners of Psychologists license or appropriate Texas school psychology credential.",
+      "Experience working with school-aged children in an educational setting.",
+      "Knowledge of relevant laws and regulations pertaining to special education and student services.",
+      "Available for a 41-week contract starting August 24, 2026."
+    ],
+    "salaryOrBonusInfo": "Compensation starts at $50 per hour, based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_school_psychologist___school___50_hr___contract_8_24_26___41_weeks__cypress_fairbanks_independent_school_district_houston__tx"
+  },
+  {
     "id": "1_special_education_teacher__asd_exp____50_hr___initial_contract_7_27_26___43_weeks__hunters_glen_elementary_school_thornton__co",
     "roleTitle": "Special Education Teacher - ASD Experience",
     "roleType": "Other",
@@ -190,23 +228,23 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "id": "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
-    "roleTitle": "Field Specialist / Field Service Supervisor",
-    "roleType": "Other",
-    "location": "Chicago Metropolitan Area (IL, WI, IN)",
-    "facilityType": "Commercial / Industrial HVAC Contractor",
-    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring two Field Specialists / Field Service Supervisors. This is a regional travel role.\n\nField Specialists / Field Service Supervisors in this setting provide on-site technical expertise for complex HVAC service and installation work - troubleshooting advanced issues, supporting field crews, and ensuring customer satisfaction on high-priority or technical accounts. The role combines hands-on technical work with supervisory responsibility.\n\nIf you are an HVAC field specialist with strong technical depth and a customer-service orientation, this opportunity is for you.",
+    "roleTitle": "HVAC Field Specialist / Field Service Supervisor (2 Openings)",
+    "roleType": "Leadership",
+    "location": "Chicago, IL",
+    "facilityType": "HVAC / Mechanical Contractor",
+    "description": "A well-established commercial and industrial HVAC contractor serving the Chicago metropolitan area (Illinois, Wisconsin, and Indiana) is hiring two experienced Field Specialists / Field Service Supervisors. The company has a long track record of low turnover, with many team members staying for decades, and is known for investing in stable, career-minded tradespeople.\n\nAs a Field Specialist / Field Service Supervisor, you will be a senior technician who still works on the tools while also moving between job sites to support and train other team members. You will handle the most complex commercial and industrial HVAC work - new equipment installations, retrofits, troubleshooting, and repair work on boilers, chillers, and related mechanical equipment - and serve as a go-to resource when other technicians need help on a job. You will travel between sites across the Chicago metro area. Skilled nursing facility (SNF) experience is a plus but not required.\n\nIf you are a top-tier HVAC technician with at least 3 years of commercial experience (including boilers and chillers) and 5-7 years total in the trade, and you enjoy both doing the work and helping others level up, this opportunity is for you.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Extensive experience as a Commercial / Industrial HVAC Technician with specialty / expert-level technical capability.",
-      "Strong working knowledge of rooftop units, chillers, ductwork, controls, and complex commercial HVAC systems.",
-      "EPA 608 certification preferred.",
-      "Valid driver's license and reliable transportation for regional travel.",
-      "Comfort supporting field crews and interfacing with customers across IL, WI, and IN."
+      "5-7 years of HVAC experience, including at least 3 years of commercial / industrial work with boilers and chillers.",
+      "Skilled nursing facility (SNF) experience is a plus.",
+      "Demonstrated ability to lead by example, train and support other technicians in the field.",
+      "Strong troubleshooting, installation, and mechanical skills across complex HVAC systems.",
+      "Willingness to travel between job sites across the Chicago, IL / WI / IN metro area."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_field_specialist___field_service_supervisor_travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
     "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
@@ -245,6 +283,25 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "2_ft_pta__critical__plaza_health_and_rehab_center_gainesville__fl"
+  },
+  {
+    "roleTitle": "RN MDS Coordinator (2 Full-Time)",
+    "roleType": "Floor Staff",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Olathe, Kansas is hiring two full-time RN MDS Coordinators to join its clinical team. MDS Coordinators in this setting lead the resident assessment process that drives care planning, regulatory compliance, and Medicare/Medicaid reimbursement - making them central to both resident outcomes and facility financial health.\n\nAs the RN MDS Coordinator, you will complete and coordinate the Minimum Data Set (MDS) assessments, partner with the interdisciplinary team on individualized care plans, ensure documentation supports clinical and regulatory standards, and stay current on RAI guidelines and CMS requirements. You will also serve as a clinical resource to the nursing team on assessment accuracy and PDPM optimization.\n\nIf you are a Kansas-licensed RN with prior MDS experience in a skilled nursing or long-term care setting and a sharp eye for clinical documentation, this is a full-time opportunity to make an impact at a stable building.",
+    "contractType": "Full-time",
+    "salaryShort": "$36 - $40 per hour",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas.",
+      "Prior MDS coordination experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of the RAI process, MDS 3.0, and PDPM.",
+      "Strong clinical documentation, assessment, and care-planning skills.",
+      "Comfort partnering with an interdisciplinary team to drive resident outcomes."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_ft_rn_mds___36__40_per_hour__azria_health_olathe_olathe__ks"
   },
   {
     "roleTitle": "Speech Language Pathologist (SLP)",
@@ -304,23 +361,23 @@
     "id": "2_prn_ot_citrus_health___rehabilitation_inverness__fl"
   },
   {
-    "id": "3_commercial_industrial_hvac_technicians_installers___30__40__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
-    "roleTitle": "Commercial / Industrial HVAC Technician / Installer",
-    "roleType": "Other",
-    "location": "Chicago Metropolitan Area (IL, WI, IN)",
-    "facilityType": "Commercial / Industrial HVAC Contractor",
-    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring three HVAC Technicians / Installers. This is a regional travel role.\n\nCommercial / Industrial HVAC Technicians in this setting install, service, and repair heating, ventilation, and air conditioning systems at commercial and industrial customer sites. Work spans rooftop units, chillers, ductwork, controls, and large-scale equipment. Travel is regional - daily routes within the tri-state area rather than long-haul travel.\n\nIf you are an HVAC technician with commercial or industrial experience and want consistent regional work with hourly pay, this opportunity is for you.",
+    "roleTitle": "Commercial / Industrial HVAC Technician / Installer (3 Openings)",
+    "roleType": "Floor Staff",
+    "location": "Chicago, IL",
+    "facilityType": "HVAC / Mechanical Contractor",
+    "description": "A well-established commercial and industrial HVAC contractor serving the Chicago metropolitan area (Illinois, Wisconsin, and Indiana) is hiring three experienced HVAC Technicians / Installers. The company has a long track record of low turnover, with many team members staying for decades, and is known for investing in stable, career-minded tradespeople.\n\nAs a Commercial / Industrial HVAC Technician / Installer, you will work on commercial and industrial heating, ventilation, and air conditioning systems - performing new equipment installations, retrofits, troubleshooting, and repair work on boilers, chillers, and related mechanical equipment. You will travel between job sites across the Chicago metro area and partner with senior technicians and project leads on larger installations. Skilled nursing facility (SNF) experience is a plus but not required.\n\nIf you are an experienced HVAC technician with at least 3 years of commercial experience (including boilers and chillers) and 5-7 years total in the trade, and you are looking for long-term stability with a respected regional contractor, this opportunity is for you.",
     "contractType": "Full-time",
     "salaryShort": "$30 - $40 per hour",
     "requirements": [
-      "Experience as a Commercial / Industrial HVAC Technician or Installer.",
-      "Working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
-      "EPA 608 certification preferred.",
-      "Valid driver's license and reliable transportation for regional travel.",
-      "Comfort working at customer sites across IL, WI, and IN."
+      "5-7 years of HVAC experience, including at least 3 years of commercial / industrial work with boilers and chillers.",
+      "Skilled nursing facility (SNF) experience is a plus.",
+      "Ability to read and interpret blueprints and wiring diagrams.",
+      "Strong troubleshooting, installation, and mechanical skills.",
+      "Willingness to travel between job sites across the Chicago, IL / WI / IN metro area."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "3_commercial_industrial_hvac_technicians_installers___30__40__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
     "roleTitle": "Commercial / Industrial HVAC Field Manager",
@@ -361,23 +418,23 @@
     "id": "5_ft_cota__very_critical__plaza_health_and_rehab_center_gainesville__fl"
   },
   {
-    "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il",
-    "roleTitle": "Lead / Senior Commercial / Industrial HVAC Technician / Installer",
-    "roleType": "Other",
-    "location": "Chicago Metropolitan Area (IL, WI, IN)",
-    "facilityType": "Commercial / Industrial HVAC Contractor",
-    "description": "A commercial and industrial HVAC contractor serving the Chicago metropolitan area - across Illinois, Wisconsin, and Indiana - is hiring five Lead / Senior HVAC Technicians / Installers. This is a regional travel role for experienced techs.\n\nLead / Senior HVAC Techs in this setting run jobs at commercial and industrial customer sites - installing, servicing, and troubleshooting complex HVAC systems including rooftop units, chillers, ductwork, and controls. The lead role includes mentoring junior techs and serving as the on-site point of contact.\n\nIf you are a senior HVAC technician with strong commercial/industrial experience and leadership capability, this opportunity offers a higher hourly band than the standard technician role.",
+    "roleTitle": "Lead / Senior Commercial / Industrial HVAC Technician / Installer (5 Openings)",
+    "roleType": "Floor Staff",
+    "location": "Chicago, IL",
+    "facilityType": "HVAC / Mechanical Contractor",
+    "description": "A well-established commercial and industrial HVAC contractor serving the Chicago metropolitan area (Illinois, Wisconsin, and Indiana) is hiring five experienced Lead / Senior HVAC Technicians / Installers. The company has a long track record of low turnover, with many team members staying for decades, and is known for investing in stable, career-minded tradespeople.\n\nAs a Lead / Senior Commercial / Industrial HVAC Technician / Installer, you will take the lead on complex commercial and industrial HVAC work - planning and laying out projects, performing new equipment installations, retrofits, troubleshooting, and repair work on boilers, chillers, and related mechanical equipment, and serving as the lead hand on larger jobs. You will travel between job sites across the Chicago metro area and partner with project managers and junior technicians. Skilled nursing facility (SNF) experience is a plus but not required.\n\nIf you are a senior HVAC technician with at least 3 years of commercial experience (including boilers and chillers) and 5-7 years total in the trade, and you are looking for long-term stability with leadership responsibility and a respected regional contractor, this opportunity is for you.",
     "contractType": "Full-time",
     "salaryShort": "$35 - $60 per hour",
     "requirements": [
-      "Extensive experience as a Commercial / Industrial HVAC Technician, with lead or senior-level responsibility.",
-      "Strong working knowledge of rooftop units, chillers, ductwork, and commercial HVAC systems.",
-      "EPA 608 certification preferred.",
-      "Valid driver's license and reliable transportation for regional travel.",
-      "Comfort leading junior technicians on job sites across IL, WI, and IN."
+      "5-7 years of HVAC experience, including at least 3 years of commercial / industrial work with boilers and chillers.",
+      "Skilled nursing facility (SNF) experience is a plus.",
+      "Demonstrated ability to plan, lay out, and lead commercial HVAC installation and repair projects.",
+      "Ability to read and interpret blueprints and wiring diagrams.",
+      "Willingness to travel between job sites across the Chicago, IL / WI / IN metro area."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
     "roleTitle": "Registered Nurse (RN) - Baylor",
@@ -403,7 +460,7 @@
     "roleType": "Leadership",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing facility in Etowah, Tennessee is hiring a full-time Director of Social Services to lead the social services program and ensure each resident's medically related emotional and social needs are met on an individual basis.\n\nAs the Director of Social Services, you will plan, organize, develop, and direct the social services department in accordance with current federal and state regulations. You will conduct psychosocial assessments, build individualized care plans in partnership with the interdisciplinary team, coordinate resident transitions and family communication, and connect residents and families with outside agencies and community resources. You will also keep the program current on regulatory changes and serve as the facility's advocate for social-work best practices.\n\nIf you are a licensed or licensed-eligible social worker in Tennessee with SNF or long-term care experience and a passion for resident-centered leadership, this is an opportunity to run the social services program at a premier health and rehabilitation center.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a full-time Director of Social Services to lead the social services program and ensure each resident's medically related emotional and social needs are met on an individual basis.\n\nAs the Director of Social Services, you will plan, organize, develop, and direct the social services department in accordance with current federal and state regulations. You will conduct psychosocial assessments, build individualized care plans in partnership with the interdisciplinary team, coordinate resident transitions and family communication, and connect residents and families with outside agencies and community resources. You will also keep the program current on regulatory changes and serve as the facility's advocate for social-work best practices.\n\nIf you are a licensed or licensed-eligible social worker in Tennessee with SNF or long-term care experience and a passion for resident-centered leadership, this is an opportunity to run the social services program at a premier health and rehabilitation center.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
@@ -836,6 +893,63 @@
     "id": "ft_speech_language_pathologist__slp___38____49__urgent__the_grove_health_and_rehabilitation_center_hernando__fl"
   },
   {
+    "roleTitle": "Internal Medicine Physician",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Federally Qualified Health Center",
+    "description": "A community health center in Greenville, South Carolina is hiring an Internal Medicine Physician (MD or DO) to join its primary care team. The position is open to full-time candidates, with relocation and travel candidates also considered. The center recently revamped its compensation and raise structure to remain highly competitive in the South Carolina market, paired with strong benefits and generous paid time off.\n\nAs the Internal Medicine Physician, you will provide comprehensive adult primary care - managing chronic conditions, conducting well-visits, coordinating with specialists, and documenting in the EMR. You will partner with other physicians, advanced practice providers, and support staff in a mission-driven environment focused on access to care for the surrounding community.\n\nIf you are a board-certified or board-eligible Internal Medicine physician seeking a stable, well-compensated community health opportunity in South Carolina, this role is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$210K+",
+    "requirements": [
+      "MD or DO with completion of an accredited Internal Medicine residency.",
+      "Board-certified or board-eligible in Internal Medicine.",
+      "Active or eligible South Carolina medical license.",
+      "Comfort providing comprehensive adult primary care in a community health setting.",
+      "Open to full-time, relocation, or travel candidates."
+    ],
+    "salaryOrBonusInfo": "Non-negotiable base of $210K+, up to $50K bonus structure ($25K guaranteed bonus plus up to $25K potential bonus), of which $9K is available at payday 1 with a signed promissory note. Great benefits, lots of PTO.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
+  },
+  {
+    "roleTitle": "Licensed Nursing Home Administrator / Executive Director (Confidential)",
+    "roleType": "Leadership",
+    "location": "Wabash County, IN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A small, mission-driven health and rehabilitation center in northern Indiana is conducting a confidential search for a Licensed Nursing Home Administrator (LNHA) / Executive Director. The facility has a census of 45-50 and a specialty program serving children with mental and physical disabilities, alongside its adult resident population. This is a leadership role for an experienced operator who can run the day-to-day clinical, financial, and regulatory operations of a small building while honoring a long-tenured culture and a unique pediatric care mission.\n\nAs the LNHA / Executive Director, you will own the full operation of the facility - staffing and personnel management, financial performance, clinical quality and survey readiness, family and community relationships, and regulatory compliance. You will partner with corporate and clinical leadership to set strategy, maintain census stability, and continuously improve quality outcomes. The role also calls for a steady hand during a planned leadership transition, with the outgoing Executive Director providing handover support.\n\nIf you are an Indiana-licensed LNHA (or license-eligible) with prior experience running a small skilled nursing operation and a heart for both geriatric and pediatric populations, this confidential opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Indiana Licensed Nursing Home Administrator (LNHA) license, or license-eligible.",
+      "Prior experience as an LNHA or Executive Director in a skilled nursing or long-term care setting.",
+      "Demonstrated skill managing staffing, financial performance, and survey readiness.",
+      "Comfort leading in a small-building environment with a unique pediatric specialty program.",
+      "Strong family, community, and corporate communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "lnha___ed__confidential__vernon_health___rehabilitation__children_s_home__wabash__in"
+  },
+  {
+    "roleTitle": "Licensed Nursing Home Administrator (LNHA)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Frostburg, Maryland is hiring a Licensed Nursing Home Administrator (LNHA) to lead all aspects of facility operations. This is a senior leadership role for an experienced operator who can run the day-to-day clinical, financial, and regulatory operations of a skilled nursing building while fostering a stable, team-oriented culture.\n\nAs the LNHA, you will own the full operation of the facility - staffing and personnel management, financial performance, clinical quality and survey readiness, family and community relationships, and regulatory compliance. You will partner with corporate and clinical leadership to set strategy, maintain census stability, and continuously improve quality outcomes.\n\nIf you are a Maryland-licensed LNHA (or license-eligible) with prior experience running a skilled nursing operation and a track record of staff retention and survey success, this opportunity is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Maryland Licensed Nursing Home Administrator (LNHA) license, or license-eligible.",
+      "Prior experience as an LNHA in a skilled nursing or long-term care setting.",
+      "Demonstrated skill managing staffing, financial performance, and survey readiness.",
+      "Strong leadership, communication, and team-building skills.",
+      "Comfort partnering with corporate and clinical leadership on strategic initiatives."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "lnha_mountain_city_rehab_center_frostburg__md"
+  },
+  {
     "roleTitle": "Maintenance Director",
     "roleType": "Leadership",
     "location": "Etowah, TN",
@@ -855,12 +969,11 @@
     "id": "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn"
   },
   {
-    "id": "marketing_director___30__32_hr__etowah_health_and_rehabilitation_etowah__tn",
     "roleTitle": "Marketing Director",
     "roleType": "Leadership",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Marketing Director. This is a senior leadership role responsible for driving patient admissions and community outreach.\n\nMarketing Directors in this setting lead community outreach and referral development - building relationships with local hospitals, physicians, discharge planners, and case managers; managing a small admissions/marketing team; coordinating facility events and community engagement; and tracking referral and admission metrics. The role is the public face of the facility in the surrounding community.\n\nIf you are a marketing leader with prior SNF or healthcare marketing experience and a hunter's instinct for building referral pipeline, this opportunity is for you.",
+    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Marketing Director. This is a senior leadership role responsible for driving patient admissions and community outreach at a 120-bed building where census growth is a top priority.\n\nAs the Marketing Director, you will lead community outreach and referral development - building relationships with local hospitals, physicians, discharge planners, and case managers; managing a small admissions/marketing team; coordinating facility events and community engagement; and tracking referral and admission metrics. The role is the public face of the facility in the surrounding community.\n\nIf you are a marketing leader with prior SNF or healthcare marketing experience and a hunter's instinct for building referral pipeline, this opportunity is for you.",
     "contractType": "Full-time",
     "salaryShort": "$30 - $32 per hour",
     "requirements": [
@@ -871,7 +984,27 @@
       "Comfort managing a small marketing/admissions team."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "marketing_director___30__32_hr__etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
+    "roleTitle": "Med-Peds Physician (Internal Medicine - Pediatrics)",
+    "roleType": "Other",
+    "location": "Greenville, SC",
+    "facilityType": "Federally Qualified Health Center",
+    "description": "A community health center in Greenville, South Carolina is hiring a Med-Peds (Internal Medicine - Pediatrics) Physician (MD or DO) to join its primary care team. The position is open to full-time candidates, with relocation and travel candidates also considered. The center recently revamped its compensation and raise structure to remain highly competitive in the South Carolina market, paired with strong benefits and generous paid time off.\n\nAs the Med-Peds Physician, you will provide comprehensive primary care across the lifespan - seeing both adult and pediatric patients, managing chronic conditions, conducting well-visits, coordinating with specialists, and documenting in the EMR. You will partner with other physicians, advanced practice providers, and support staff in a mission-driven environment focused on access to care for the surrounding community.\n\nIf you are a board-certified or board-eligible Med-Peds physician seeking a stable, well-compensated community health opportunity in South Carolina, this role is for you.",
+    "contractType": "Full-time",
+    "salaryShort": "$210K+",
+    "requirements": [
+      "MD or DO with completion of an accredited Med-Peds (Internal Medicine - Pediatrics) residency.",
+      "Board-certified or board-eligible in Internal Medicine - Pediatrics.",
+      "Active or eligible South Carolina medical license.",
+      "Comfort providing primary care across the lifespan in a community health setting.",
+      "Open to full-time, relocation, or travel candidates."
+    ],
+    "salaryOrBonusInfo": "Non-negotiable base of $210K+, up to $50K bonus structure ($25K guaranteed bonus plus up to $25K potential bonus), of which $9K is available at payday 1 with a signed promissory note. Great benefits, lots of PTO.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "med_peds__internal_medicine_pediatrics__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc"
   },
   {
     "roleTitle": "Orthopedic Hand Surgeon",
@@ -1274,12 +1407,11 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn",
-    "roleTitle": "Director of Nursing (DON)",
+    "roleTitle": "RN Director of Nursing (DON)",
     "roleType": "Leadership",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring an RN Director of Nursing (DON). This is a senior leadership role overseeing the entire nursing department.\n\nDirectors of Nursing in this setting lead the clinical nursing team - setting standards for resident care, ensuring regulatory compliance, managing staffing and schedules, overseeing quality assurance programs, and partnering with the Administrator on facility-wide operations. The DON is the clinical leader of the building.\n\nIf you are an experienced RN with prior DON or nursing leadership experience in a skilled nursing setting and want to lead a stable team in a small-town facility, this opportunity offers a competitive annual salary band.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN Director of Nursing (DON). This is a senior leadership role overseeing the entire nursing department at a small-town skilled nursing and rehabilitation building.\n\nAs the Director of Nursing, you will lead the clinical nursing team - setting standards for resident care, ensuring regulatory compliance, managing staffing and schedules, overseeing quality assurance programs, and partnering with the Administrator on facility-wide operations. The DON is the clinical leader of the building.\n\nIf you are an experienced RN with prior DON or nursing leadership experience in a skilled nursing setting and want to lead a stable team in a small-town facility, this opportunity offers a competitive annual salary band.",
     "contractType": "Full-time",
     "salaryShort": "$90,000 - $95,000 per year",
     "requirements": [
@@ -1290,22 +1422,23 @@
       "Comfort managing staffing, scheduling, and quality assurance programs."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn"
   },
   {
     "roleTitle": "RN MDS Coordinator",
     "roleType": "Floor Staff",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing facility in Etowah, Tennessee is hiring a full-time Registered Nurse (RN) to serve as MDS Coordinator, leading the Minimum Data Set assessment process that drives clinical care planning and reimbursement accuracy.\n\nAs the MDS Coordinator, you will conduct and coordinate OBRA and PPS assessments, partner with the interdisciplinary team to translate findings into individualized care plans, and ensure documentation supports appropriate Medicare and Medicaid reimbursement. You will track MDS-related regulatory changes, train and support staff on data collection, and act as the clinical bridge between nursing, therapy, and administration.\n\nIf you are a Tennessee-licensed RN with SNF or long-term care experience and a comfort with the RAI process, this is a chance to step into a specialized, high-impact role at a premier health and rehabilitation center.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN MDS Coordinator to join its clinical team. MDS Coordinators in this setting lead the resident assessment process that drives care planning, regulatory compliance, and Medicare/Medicaid reimbursement - making them central to both resident outcomes and facility financial health.\n\nAs the RN MDS Coordinator, you will complete and coordinate the Minimum Data Set (MDS) assessments, partner with the interdisciplinary team on individualized care plans, ensure documentation supports clinical and regulatory standards, and stay current on RAI guidelines and CMS requirements. You will also serve as a clinical resource to the nursing team on assessment accuracy and PDPM optimization.\n\nIf you are a Tennessee-licensed RN with prior MDS experience in a skilled nursing or long-term care setting and a sharp eye for clinical documentation, this is an opportunity to make an impact at a stable building.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
       "Active Registered Nurse (RN) license in Tennessee.",
-      "Experience in a skilled nursing facility or long-term care setting.",
-      "Working knowledge of the MDS assessment process and RAI guidelines.",
-      "Strong clinical assessment, documentation, and interdisciplinary communication skills.",
-      "Detail-oriented with the ability to manage multiple assessment cycles and regulatory deadlines."
+      "Prior MDS coordination experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of the RAI process, MDS 3.0, and PDPM.",
+      "Strong clinical documentation, assessment, and care-planning skills.",
+      "Comfort partnering with an interdisciplinary team to drive resident outcomes."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
@@ -1329,5 +1462,24 @@
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "roleTitle": "Unit Manager / Wound Care Nurse (RN Preferred)",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Frostburg, Maryland is hiring a Unit Manager / Wound Care Nurse (RN preferred) to lead clinical care on a unit and own the skin and wound program. This is a hybrid clinical-and-leadership role for an experienced nurse who enjoys direct resident care while also supervising a nursing team.\n\nAs the Unit Manager / Wound Care Nurse, you will oversee day-to-day operations of the nursing unit - supervising LPNs and CNAs, coordinating resident care, performing wound and skin rounds, partnering with the DON on quality and compliance, and serving as the clinical lead on wound prevention and treatment. You will also work closely with attending physicians and the broader care team to manage complex wounds and drive healing outcomes.\n\nIf you are a Maryland-licensed RN (or LPN with substantial wound care experience) with prior supervisory responsibility and a passion for skin and wound care, this is an opportunity to lead a unit in a stable western Maryland facility.",
+    "contractType": "Full-time",
+    "salaryShort": "$35 - $40 per hour",
+    "requirements": [
+      "Active Maryland RN license preferred; experienced LPNs with strong wound care backgrounds will be considered.",
+      "Prior experience as a Unit Manager, Charge Nurse, or Wound Care Nurse in a skilled nursing or long-term care setting.",
+      "Working knowledge of wound care products, treatment protocols, and skin-prevention best practices.",
+      "Strong clinical assessment, communication, and team-supervision skills.",
+      "Comfort partnering with physicians and the interdisciplinary team on complex care."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "unit_manager___wound_care_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
   }
 ]
