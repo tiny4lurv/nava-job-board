@@ -253,49 +253,49 @@
     }
   },
   "ft_pt___115k__125k__home_health_travel_billings__mt": {
-    "signature": "41579106c0df3cb79da1ecbde1445139",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "860b5526278a47593ecc898921beabd9",
+    "addedAt": "2026-08-18T04:05:09.209Z",
     "finalJson": {
-      "id": "ft_pt___115k__125k__home_health_travel_billings__mt",
-      "roleTitle": "Physical Therapist (PT)",
+      "roleTitle": "Physical Therapist (PT) — Travel",
       "roleType": "Therapy/Rehabilitation",
       "location": "Billings, MT",
       "facilityType": "Home Health Agency",
-      "description": "A home health travel placement in Billings, Montana is hiring a full-time Physical Therapist. This is a travel role - the PT serves patients in their homes across the region rather than in a single facility.\n\nHome health PTs in this setting evaluate patients in their home environment, develop treatment plans that account for real-world mobility and safety, and coordinate care with the broader home health team. Common caseloads include post-surgical recovery, joint replacement rehabilitation, balance and fall-prevention work, and chronic condition management.\n\nIf you are a PT with home health experience and an interest in travel assignments, this role offers a competitive salary band.",
+      "description": "A home health agency is seeking a full-time Traveling Physical Therapist to deliver in-home rehabilitative care to adult and geriatric patients in and around Billings, Montana. This is a travel assignment for a clinician who is comfortable stepping into a new community, building a caseload quickly, and partnering closely with families, physicians, and the broader home health team.\n\nYou will perform in-home PT evaluations, design and carry out individualized treatment plans, track patient progress toward functional goals, and educate caregivers on safe mobility and home exercise programs. Expect a mix of orthopedic, post-surgical, balance, and chronic-condition cases typical of a home health caseload.\n\nIf you are a licensed PT who enjoys autonomy, meaningful one-on-one patient time, and the variety that comes with travel work, this Billings assignment is built for you.",
       "contractType": "Full-time",
-      "salaryShort": "$115,000 - $125,000 per year",
+      "salaryShort": "$115K - $125K",
       "requirements": [
-        "Active Physical Therapist (PT) license.",
-        "Experience in home health or similar community-based setting.",
-        "Comfort working independently in patients' homes.",
-        "Strong care-planning and documentation skills.",
-        "Available for travel / home-health schedule."
+        "Current Physical Therapist (PT) license in good standing; Montana license or eligibility to obtain prior to start.",
+        "Prior home health experience strongly preferred; acute care or outpatient PT experience considered.",
+        "Comfort with autonomous field work, including in-home patient assessments and caregiver education.",
+        "Strong documentation and communication skills; ability to coordinate with physicians, nurses, and the home health team.",
+        "Reliable transportation for patient visits in the Billings area."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "Salary range of $115,000 - $125,000.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_pt___115k__125k__home_health_travel_billings__mt"
     }
   },
   "ft_rn___36__45_hr__home_health_travel_casper__wy": {
-    "signature": "180d725f20e0c89b0a36c67eb4130aa0",
-    "addedAt": "2026-08-07T11:08:54.282509+00:00",
+    "signature": "a8b4857f7ac7ac1d5a28d085d0c2fe20",
+    "addedAt": "2026-08-18T04:05:09.209Z",
     "finalJson": {
-      "id": "ft_rn___36__45_hr__home_health_travel_casper__wy",
-      "roleTitle": "Registered Nurse (RN)",
+      "roleTitle": "Registered Nurse (RN) — Travel",
       "roleType": "Floor Staff",
       "location": "Casper, WY",
       "facilityType": "Home Health Agency",
-      "description": "A home health travel placement in Casper, Wyoming is hiring a full-time Registered Nurse. This is a travel role - the RN serves patients in their homes across the region rather than in a single facility.\n\nHome health RNs in this setting provide skilled nursing care in patients' homes - wound care, medication management, chronic disease monitoring, post-acute recovery support, and patient/family education. You will coordinate with the broader home health team and document visits according to home health standards.\n\nIf you are an RN with home health experience and an interest in travel assignments, this role offers an hourly compensation band.",
+      "description": "A home health agency is seeking a full-time Traveling Registered Nurse to provide skilled in-home nursing care to adult and geriatric patients in and around Casper, Wyoming. This is a travel assignment for an RN who is comfortable working autonomously in the field, building a caseload quickly, and partnering closely with families, physicians, and the broader home health team.\n\nYou will perform skilled nursing visits, wound care, medication management, patient and caregiver education, and ongoing assessment of patients recovering from illness, surgery, or managing chronic conditions. Expect a mix of post-acute, chronic-disease, and wound-care cases typical of a home health caseload.\n\nIf you are a licensed RN who values autonomy, meaningful one-on-one patient time, and the variety that comes with travel work, this Casper assignment is built for you.",
       "contractType": "Full-time",
       "salaryShort": "$36 - $45 per hour",
       "requirements": [
-        "Active Registered Nurse (RN) license.",
-        "Experience in home health or similar community-based setting.",
-        "Comfort working independently in patients' homes.",
-        "Strong assessment and documentation skills.",
-        "Available for travel / home-health schedule."
+        "Current Registered Nurse (RN) license in good standing; Wyoming license or eligibility to obtain prior to start.",
+        "Prior home health, med-surg, or skilled nursing experience preferred.",
+        "Comfort with autonomous field work, including wound care, IV administration, and patient/caregiver education.",
+        "Strong documentation and communication skills; ability to coordinate with physicians, therapists, and the home health team.",
+        "Reliable transportation for patient visits in the Casper area."
       ],
-      "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "Hourly rate of $36 - $45 per hour.",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "ft_rn___36__45_hr__home_health_travel_casper__wy"
     }
   },
   "pt_prn_contract_family_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc": {
