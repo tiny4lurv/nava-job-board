@@ -252,13 +252,13 @@
     "roleType": "Floor Staff",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an overnight Registered Nurse (RN) to join its nursing team. This is a 12-hour overnight shift (2 AM start) with a competitive hourly base plus night and weekend shift differentials, ideal for an experienced RN who prefers concentrated night-shift hours.\n\nAs the overnight RN, you will provide skilled nursing care to residents through the overnight hours - assessing residents, administering medications and treatments, supervising nursing assistants, documenting care, and responding to changes in resident condition. You will partner with the day-shift team to ensure continuity of care, accurate handoffs, and compliance with state and federal regulations.\n\nIf you are a Tennessee-licensed RN with skilled nursing or long-term care experience and want a stable overnight role with shift differentials, this opportunity is for you.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an overnight Registered Nurse (RN) to join its nursing team. This is a 12-hour overnight shift (2 AM start) with a competitive hourly base plus night and weekend shift differentials, ideal for an experienced RN who prefers concentrated night-shift hours.\n\nAs the overnight RN, you will oversee the clinical care of residents through the overnight hours - supervising LPNs and CNAs, performing clinical assessments, administering medications and treatments, responding to changes in condition, and serving as the senior clinical presence on the floor. You will partner with the day-shift RN team on accurate handoffs, care plan updates, and continuity of care.\n\nIf you are a Tennessee-licensed RN with skilled nursing or long-term care experience and want a stable overnight role with shift differentials, this opportunity is for you.",
     "contractType": "Full-time",
     "salaryShort": "$32 - $41/hr + shift diff",
     "requirements": [
       "Active Registered Nurse (RN) license in Tennessee.",
       "Experience in a skilled nursing facility or long-term care setting.",
-      "Comfort working 12-hour overnight shifts.",
+      "Comfort working 12-hour overnight shifts and supervising LPNs/CNAs.",
       "Strong clinical assessment, medication administration, and documentation skills.",
       "Available for night and weekend shifts with shift differential."
     ],
@@ -551,23 +551,23 @@
     "id": "director_of_ops_for_aba_company__nc"
   },
   {
-    "roleTitle": "Director of Social Services",
+    "id": "director_of_social_services___social_worker_etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Director of Social Services / Social Worker",
     "roleType": "Leadership",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a full-time Director of Social Services to lead the social services program and ensure each resident's medically related emotional and social needs are met on an individual basis.\n\nAs the Director of Social Services, you will plan, organize, develop, and direct the social services department in accordance with current federal and state regulations. You will conduct psychosocial assessments, build individualized care plans in partnership with the interdisciplinary team, coordinate resident transitions and family communication, and connect residents and families with outside agencies and community resources. You will also keep the program current on regulatory changes and serve as the facility's advocate for social-work best practices.\n\nIf you are a licensed or licensed-eligible social worker in Tennessee with SNF or long-term care experience and a passion for resident-centered leadership, this is an opportunity to run the social services program at a premier health and rehabilitation center.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Director of Social Services / Social Worker to lead its social services program. This is a department-leadership role responsible for the psychosocial well-being of residents and the regulatory integrity of the social services function, ideal for a licensed social worker ready to step from clinician into department leadership.\n\nAs the Director of Social Services, you will plan, develop, and direct the facility's social service program in accordance with federal, state, and local regulations; complete psychosocial assessments and individualized service plans; coordinate resident care with outside agencies and families; and serve as a key member of the interdisciplinary team. You will keep the program current with regulatory and professional standards and partner with administration on policy and quality.\n\nIf you are a Tennessee-licensed social worker (or equivalent) with skilled nursing or long-term care experience and a strong grasp of social services regulations, this is an opportunity to lead a critical department at a stable SNF.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
-      "Active Tennessee social work license (LSW, LCSW, or equivalent) or license-eligible.",
-      "Experience in a skilled nursing facility or long-term care setting.",
-      "Working knowledge of federal and state regulations governing social services in SNFs.",
-      "Strong psychosocial assessment, care planning, and family-communication skills.",
-      "Demonstrated leadership ability to plan, organize, and direct a social services program."
+      "Active Tennessee social work license or equivalent credential.",
+      "Prior skilled nursing or long-term care social services experience.",
+      "Strong knowledge of federal, state, and local social services regulations in the SNF setting.",
+      "Excellent assessment, care-planning, and family-communication skills.",
+      "Comfort leading a department and partnering with an interdisciplinary team."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "director_of_social_services___social_worker_etowah_health_and_rehabilitation_etowah__tn"
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
     "id": "dor___38__40_hr__etowah_health_and_rehabilitation_etowah__tn",
@@ -1084,23 +1084,23 @@
     "id": "maintenance_director____30_hr__etowah_health_and_rehabilitation_etowah__tn"
   },
   {
-    "roleTitle": "Marketing Director",
-    "roleType": "Leadership",
+    "id": "marketing_director___30__32_hr__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Marketing Director - Skilled Nursing Facility",
+    "roleType": "Support",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing and rehabilitation center in Etowah, Tennessee is hiring a Marketing Director. This is a senior leadership role responsible for driving patient admissions and community outreach at a 120-bed building where census growth is a top priority.\n\nAs the Marketing Director, you will lead community outreach and referral development - building relationships with local hospitals, physicians, discharge planners, and case managers; managing a small admissions/marketing team; coordinating facility events and community engagement; and tracking referral and admission metrics. The role is the public face of the facility in the surrounding community.\n\nIf you are a marketing leader with prior SNF or healthcare marketing experience and a hunter's instinct for building referral pipeline, this opportunity is for you.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Marketing Director to drive census growth and referral development for the building. This is an hourly role at $30 - $32/hr, ideal for a healthcare marketing professional with a hunter's instinct for building referral pipeline and a track record of growing SNF admissions.\n\nAs the Marketing Director, you will own the facility's outreach strategy - building and maintaining relationships with hospitals, case managers, physicians, discharge planners, and community referral sources; coordinating tours and admissions conversations; and partnering with the clinical and administrative teams to convert inquiries into admissions. This role is critical to census recovery and is well suited to someone who thrives on activity, follow-through, and relationship-driven growth.\n\nIf you have prior SNF or post-acute marketing experience, strong hospital and community relationships, and the drive to grow census in a competitive market, this is an opportunity to make an immediate impact.",
     "contractType": "Full-time",
-    "salaryShort": "$30 - $32 per hour",
+    "salaryShort": "$30 - $32/hr",
     "requirements": [
-      "Prior experience as a Marketing Director in a skilled nursing, post-acute, or healthcare setting.",
-      "Established relationships with local physicians, discharge planners, and case managers preferred.",
-      "Demonstrated success growing facility census through hospital and community referral networks.",
-      "Strong communication, presentation, and community-engagement skills.",
-      "Comfort managing a small marketing/admissions team."
+      "Prior marketing or admissions experience in a skilled nursing facility or post-acute setting.",
+      "Established relationships with hospitals, case managers, and community referral sources.",
+      "Strong communication, relationship-building, and follow-through skills.",
+      "Driven, hunter-style approach to growing census and developing pipeline.",
+      "Comfort working on-site at the facility and in the field."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "marketing_director___30__32_hr__etowah_health_and_rehabilitation_etowah__tn"
+    "salaryOrBonusInfo": "$30 - $32/hr.",
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
     "roleTitle": "Med-Peds Physician (Internal Medicine - Pediatrics)",
@@ -1655,42 +1655,42 @@
     "id": "registered_dental_hygienist_stallant_health_crescent_city_crescent_city__ca"
   },
   {
-    "roleTitle": "RN Director of Nursing (DON)",
+    "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn",
+    "roleTitle": "Director of Nursing (RN DON)",
     "roleType": "Leadership",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN Director of Nursing (DON). This is a senior leadership role overseeing the entire nursing department at a small-town skilled nursing and rehabilitation building.\n\nAs the Director of Nursing, you will lead the clinical nursing team - setting standards for resident care, ensuring regulatory compliance, managing staffing and schedules, overseeing quality assurance programs, and partnering with the Administrator on facility-wide operations. The DON is the clinical leader of the building.\n\nIf you are an experienced RN with prior DON or nursing leadership experience in a skilled nursing setting and want to lead a stable team in a small-town facility, this opportunity offers a competitive annual salary band.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Registered Nurse Director of Nursing (RN DON) to lead its clinical nursing team. This is a senior leadership role with a competitive annual salary of $90,000 - $95,000, ideal for an experienced SNF clinical leader ready to step into a full DON role.\n\nAs the RN DON, you will direct all aspects of the nursing department - staffing, scheduling, clinical standards, regulatory compliance, and quality measures - while serving as the senior clinical leader for the building. You will mentor and evaluate the nursing team (RNs, LPNs, CNAs), partner with the Administrator on operations, and ensure the facility meets CMS, state, and survey requirements day in and day out.\n\nIf you are a Tennessee-licensed RN with prior DON or assistant DON experience in a skilled nursing or long-term care setting, this is an opportunity to take ownership of a clinical department and drive outcomes at a stable SNF.",
     "contractType": "Full-time",
-    "salaryShort": "$90,000 - $95,000 per year",
+    "salaryShort": "$90,000 - $95,000/year",
     "requirements": [
-      "Active Registered Nurse (RN) license.",
-      "Prior experience as a Director of Nursing (DON) or in a nursing leadership role within a skilled nursing or long-term care setting.",
-      "Strong knowledge of federal and state long-term care regulations.",
-      "Demonstrated leadership, communication, and team-building skills.",
-      "Comfort managing staffing, scheduling, and quality assurance programs."
+      "Active Registered Nurse (RN) license in Tennessee.",
+      "Prior Director of Nursing or Assistant DON experience in a skilled nursing facility.",
+      "Strong knowledge of CMS, state, and survey regulatory requirements.",
+      "Proven leadership, staffing, and team-development skills.",
+      "Comfort partnering with administration on operations and quality measures."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn"
+    "salaryOrBonusInfo": "$90,000 - $95,000/year.",
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "id": "rn_mds_etowah_health_and_rehabilitation_etowah__tn",
     "roleTitle": "RN MDS Coordinator",
-    "roleType": "Floor Staff",
+    "roleType": "Support",
     "location": "Etowah, TN",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN MDS Coordinator to join its clinical team. MDS Coordinators in this setting lead the resident assessment process that drives care planning, regulatory compliance, and Medicare/Medicaid reimbursement - making them central to both resident outcomes and facility financial health.\n\nAs the RN MDS Coordinator, you will complete and coordinate the Minimum Data Set (MDS) assessments, partner with the interdisciplinary team on individualized care plans, ensure documentation supports clinical and regulatory standards, and stay current on RAI guidelines and CMS requirements. You will also serve as a clinical resource to the nursing team on assessment accuracy and PDPM optimization.\n\nIf you are a Tennessee-licensed RN with prior MDS experience in a skilled nursing or long-term care setting and a sharp eye for clinical documentation, this is an opportunity to make an impact at a stable building.",
+    "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN MDS Coordinator to manage resident assessments and drive reimbursement accuracy for the building. This is a clinical-informatics hybrid role central to both regulatory compliance and Medicare/Medicaid reimbursement, ideal for an experienced SNF RN who enjoys detail-driven, assessment-focused work.\n\nAs the RN MDS Coordinator, you will coordinate and complete Minimum Data Set (MDS) assessments per CMS and state requirements, partner with the interdisciplinary team to ensure assessments reflect resident status, and support accurate care planning and RAI process documentation. You will also stay current on MDS reporting changes (including FY 2027 expanded reporting requirements) and help the team maintain survey-readiness across the assessment cycle.\n\nIf you are a Tennessee-licensed RN with SNF MDS experience and a strong grasp of the RAI process and CMS reimbursement, this is an opportunity to take ownership of a critical function at a stable SNF.",
     "contractType": "Full-time",
     "salaryShort": "",
     "requirements": [
       "Active Registered Nurse (RN) license in Tennessee.",
-      "Prior MDS coordination experience in a skilled nursing or long-term care setting.",
-      "Working knowledge of the RAI process, MDS 3.0, and PDPM.",
-      "Strong clinical documentation, assessment, and care-planning skills.",
-      "Comfort partnering with an interdisciplinary team to drive resident outcomes."
+      "Prior MDS coordination experience in a skilled nursing facility.",
+      "Strong working knowledge of the RAI process, MDS 3.0, and CMS reimbursement.",
+      "Detail-oriented assessment, documentation, and care-planning skills.",
+      "Comfort partnering with an interdisciplinary team and staying current on regulatory updates."
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/",
-    "id": "rn_mds_etowah_health_and_rehabilitation_etowah__tn"
+    "applyLink": "https://navahc.com/candidates/"
   },
   {
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md",
