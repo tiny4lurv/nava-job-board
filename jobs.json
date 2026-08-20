@@ -38,6 +38,25 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "Licensed Practical Nurse (LPN) - Day Shift",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center on the Mississippi Gulf Coast is hiring a full-time day-shift Licensed Practical Nurse (LPN) to join its nursing team.\n\nThis is a steady 7:00 AM - 3:00 PM day-shift role (not PRN) supporting a coordinated care team that includes 8-hour LPN evening coverage (Mon-Fri 3p-11p) and 12-hour CNA support. You will deliver direct nursing care under RN supervision - administering medications, monitoring resident condition, documenting care, and assisting with treatments and ADLs.\n\nIf you are a Mississippi-licensed LPN with long-term care or skilled nursing experience and want predictable full-time day-shift hours, this is a strong fit.",
+    "contractType": "Full-time",
+    "salaryShort": "$25 - $28/hr",
+    "requirements": [
+      "Active Licensed Practical Nurse (LPN) license in Mississippi.",
+      "Experience in a skilled nursing facility or long-term care setting.",
+      "Comfort working a steady 7:00 AM - 3:00 PM day shift.",
+      "Strong medication administration and documentation skills.",
+      "Team-oriented approach with RNs, LPNs, and CNAs."
+    ],
+    "salaryOrBonusInfo": "$25 - $28/hr.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_am_lpn_s___25__28_hr__7am_3pm__gulfport_care_center_gulfport__ms"
+  },
+  {
     "roleTitle": "Physical Therapist (PT)",
     "roleType": "Therapy/Rehabilitation",
     "location": "Williston, FL",
@@ -55,6 +74,25 @@
     "salaryOrBonusInfo": "$5,000 sign-on or relocation bonus. Compensation based on experience.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "1_ft_physical_therapist__critical___5k_sign_on_or_relocation_bonus__williston_care_center_williston__fl"
+  },
+  {
+    "roleTitle": "Licensed Practical Nurse (LPN) - Evening Shift",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center on the Mississippi Gulf Coast is hiring a full-time evening-shift Licensed Practical Nurse (LPN) to join its nursing team.\n\nThis is a steady 3:00 PM - 11:00 PM evening-shift role (not PRN) supporting a coordinated care team that includes 8-hour LPN evening coverage and 12-hour CNA support. You will deliver direct nursing care under RN supervision - administering medications, monitoring resident condition, documenting care, and assisting with treatments and ADLs through the evening hours.\n\nIf you are a Mississippi-licensed LPN with long-term care or skilled nursing experience and want predictable full-time evening hours, this is a strong fit.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Licensed Practical Nurse (LPN) license in Mississippi.",
+      "Experience in a skilled nursing facility or long-term care setting.",
+      "Comfort working a steady 3:00 PM - 11:00 PM evening shift.",
+      "Strong medication administration and documentation skills.",
+      "Team-oriented approach with RNs, LPNs, and CNAs."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "1_ft_pm_lpn___3pm_11pm__gulfport_care_center_gulfport__ms"
   },
   {
     "roleTitle": "RN Supervisor - Evening Shift",
@@ -513,6 +551,272 @@
     "id": "5_lead_senior_commercial_industrial_hvac_technicians_installers___35__60__travel___chicagoland__chicago_metropolitan_area_in_il__wi___in__chicago__il"
   },
   {
+    "roleTitle": "Case Manager - Travel",
+    "roleType": "Support",
+    "location": "Morristown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Morristown, New Jersey is hiring an experienced Case Manager for a day-shift travel contract running 09/14/2026 through 12/12/2026.\n\nIn this role, you will coordinate care across the continuum - conducting assessments, developing and monitoring discharge plans, collaborating with physicians, nurses, and payors, and ensuring patients transition safely to the next level of care. You will partner closely with the interdisciplinary team to support length-of-stay goals, care quality, and appropriate utilization.\n\nThis is a travel contract assignment well-suited for a case manager who is comfortable stepping into a mid-sized acute care hospital and managing a varied caseload.",
+    "contractType": "Contract",
+    "salaryShort": "$54 - $56/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior hospital case management, discharge planning, or utilization review experience.",
+      "Comfort coordinating with physicians, nurses, payors, and post-acute providers.",
+      "Strong assessment, communication, and documentation skills.",
+      "Available for the full travel contract window of 09/14/2026 - 12/12/2026."
+    ],
+    "salaryOrBonusInfo": "$54 - $56/hr, contract 09/14/2026 - 12/12/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_case_manager___travel___54__56__09_14_26_to_12_12_26__atlantic_health_system_hospital_corporation_morristown__nj"
+  },
+  {
+    "roleTitle": "Equal Employment Opportunity (EEO) Investigator",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in New York, New York is hiring an experienced Equal Employment Opportunity (EEO) Investigator for a day-shift contract running 08/31/2026 through 10/24/2026.\n\nIn this role, you will conduct prompt, thorough, and impartial investigations into complaints of discrimination, harassment, and retaliation - interviewing complainants, respondents, and witnesses; reviewing records; analyzing evidence; and producing well-reasoned investigative reports with findings and recommendations. You will partner closely with HR, legal, and leadership teams to support a fair and compliant workplace.\n\nThis is a contract assignment well-suited for an experienced EEO investigator who is comfortable managing a caseload in a large, complex hospital system and producing high-quality investigative work product.",
+    "contractType": "Contract",
+    "salaryShort": "$69 - $71/hr",
+    "requirements": [
+      "Prior EEO, workplace investigations, or HR investigations experience.",
+      "Demonstrated skill conducting intake interviews, witness interviews, and writing investigative reports.",
+      "Comfort analyzing evidence and producing findings with sound judgment.",
+      "Strong written and verbal communication, with discretion on sensitive matters.",
+      "Available for the full contract window of 08/31/2026 - 10/24/2026."
+    ],
+    "salaryOrBonusInfo": "$69 - $71/hr, contract 08/31/2026 - 10/24/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_equal_employment_opportunity__eeo__investigator___69__71__08_31_26_to_10_24_26__nychh_new_york__ny"
+  },
+  {
+    "roleTitle": "Interventional Radiology / Endovascular RN - Travel",
+    "roleType": "Floor Staff",
+    "location": "Morristown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Morristown, New Jersey is hiring an experienced Interventional Radiology / Endovascular RN for a day-shift travel contract running 09/14/2026 through 12/12/2026, working 12+ hour shifts.\n\nIn this role, you will provide specialized nursing care for patients undergoing interventional radiology and endovascular procedures - circulating and monitoring sedation, managing access sites and hemostasis, administering medications per protocol, and responding to changes in patient condition. You will partner closely with interventional radiologists, technologists, and the procedural team to ensure safe, efficient cases.\n\nThis is a travel contract assignment well-suited for an IR/endovascular RN who is comfortable stepping into a procedural hospital environment and managing a steady caseload.",
+    "contractType": "Contract",
+    "salaryShort": "$63 - $65/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior interventional radiology, endovascular, procedural, or critical care nursing experience.",
+      "Comfort with sedation monitoring, access site management, and hemostasis.",
+      "Strong response skills in a fast-paced procedural environment.",
+      "Available for the full travel contract window of 09/14/2026 - 12/12/2026, 12+ hour shifts."
+    ],
+    "salaryOrBonusInfo": "$63 - $65/hr, contract 09/14/2026 - 12/12/2026, 12+ hour shifts.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_interventional_radiology_endovascular_rn___travel___63__65_hr__12_hrs__09_14_26_to_12_12_26__atlantic_health_system_hospital_corporation_morristown__nj"
+  },
+  {
+    "roleTitle": "Nuclear Medicine Technologist - Travel",
+    "roleType": "Other",
+    "location": "Hackettstown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Hackettstown, New Jersey is hiring an experienced Nuclear Medicine Technologist for a day-shift travel contract running 09/07/2026 through 12/06/2026.\n\nIn this role, you will perform a variety of nuclear medicine procedures - preparing and administering radiopharmaceuticals, operating gamma cameras and related imaging equipment, and ensuring image quality and patient safety throughout the exam. You will partner closely with radiologists, ordering providers, and the broader imaging team to deliver high-quality diagnostic studies.\n\nThis is a travel contract assignment well-suited for a nuclear medicine tech who is comfortable stepping into a community hospital and delivering steady, high-quality imaging support.",
+    "contractType": "Contract",
+    "salaryShort": "$66 - $68/hr",
+    "requirements": [
+      "Credentialed Nuclear Medicine Technologist (ARRT(N) or NMTCB).",
+      "New Jersey state licensure or eligibility as required.",
+      "Comfort preparing and administering radiopharmaceuticals and operating imaging equipment.",
+      "Strong patient-care, safety, and image-quality skills.",
+      "Available for the full travel contract window of 09/07/2026 - 12/06/2026."
+    ],
+    "salaryOrBonusInfo": "$66 - $68/hr, contract 09/07/2026 - 12/06/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_nuclear_medicine_tech___travel___66__68__09_07_26___12_06_26__atlantic_health_system_hospital_corporation_hackettstown__nj_"
+  },
+  {
+    "roleTitle": "Nurse Supervisor - Day Shift",
+    "roleType": "Leadership",
+    "location": "Brooklyn, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in Brooklyn, New York is hiring an experienced Nurse Supervisor for a day-shift contract running 08/31/2026 through 12/05/2026.\n\nIn this leadership role, you will oversee day-shift nursing operations on an assigned unit - coordinating staffing, supporting charge nurses, monitoring patient flow and quality outcomes, and partnering with nurse managers and the broader leadership team to maintain safety and clinical excellence. You will serve as the senior clinical resource on the unit during your shift.\n\nThis is a contract assignment well-suited for an experienced nurse leader who is comfortable stepping into a high-acuity hospital environment and providing steady, visible leadership across the day-shift team.",
+    "contractType": "Contract",
+    "salaryShort": "$85 - $87/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New York.",
+      "Prior nursing leadership experience, ideally in a hospital or acute care setting.",
+      "Comfort supervising day-shift operations and coordinating staffing and patient flow.",
+      "Strong clinical, communication, and decision-making skills under pressure.",
+      "Available for the full contract window of 08/31/2026 - 12/05/2026."
+    ],
+    "salaryOrBonusInfo": "$85 - $87/hr, contract 08/31/2026 - 12/05/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_nurse_supervisor___85__87__08_31_26_12_05_26__nychh_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Pathology Assistant",
+    "roleType": "Support",
+    "location": "Brooklyn, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in Brooklyn, New York is hiring an experienced Pathology Assistant for a day-shift assignment running 09/08/2026 through 12/12/2026.\n\nIn this role, you will support the pathology team by assisting with specimen grossing, dissection, and description of surgical pathology specimens, working under the supervision of board-certified pathologists. Responsibilities include preparing tissues for processing, assisting with autopsies when required, maintaining accurate documentation, and ensuring specimen handling meets quality and safety standards.\n\nThis is a contract assignment well-suited for a pathology assistant who is comfortable stepping into a high-volume hospital pathology service and partnering closely with attending pathologists and lab staff.",
+    "contractType": "Contract",
+    "salaryShort": "$57 - $59/hr",
+    "requirements": [
+      "Credentialed Pathology Assistant with prior hospital pathology experience.",
+      "Comfort with surgical specimen grossing, dissection, and documentation.",
+      "Ability to work day-shift hours in a high-volume hospital lab.",
+      "Strong attention to detail and adherence to lab quality and safety standards.",
+      "Available for the full contract window of 09/08/2026 - 12/12/2026."
+    ],
+    "salaryOrBonusInfo": "$57 - $59/hr, contract 09/08/2026 - 12/12/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_pathology_assistant___57__59__09_08_26_to_12_12_26__nychh_brooklyn__ny"
+  },
+  {
+    "roleTitle": "Payroll Assistant",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in New York, New York is hiring a Payroll Assistant for a day-shift W-2 contract running 09/14/2026 through 11/07/2026.\n\nIn this role, you will support the payroll team with day-to-day processing - reviewing timesheets, validating pay data, processing pay adjustments, responding to employee payroll inquiries, and partnering with HR and finance to ensure accurate, on-time payroll. You will help maintain payroll records and assist with reconciliations across the payroll cycle.\n\nThis is a contract assignment well-suited for a payroll professional who is comfortable stepping into a large hospital system and supporting a busy payroll operation with accuracy and discretion.",
+    "contractType": "Contract",
+    "salaryShort": "$30 - $32/hr",
+    "requirements": [
+      "Prior payroll processing experience; hospital or large-employer experience a plus.",
+      "Comfort reviewing timesheets, validating pay data, and processing adjustments.",
+      "Familiarity with payroll systems and standard reconciliation practices.",
+      "Strong attention to detail and discretion with confidential employee information.",
+      "Available for the full W-2 contract window of 09/14/2026 - 11/07/2026."
+    ],
+    "salaryOrBonusInfo": "$30 - $32/hr W-2, initial contract 09/14/2026 - 11/07/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_payroll_assistant___30_32_hr__w2__initial_contract_09_14_26_to_11_07_26__nychh_new_york__ny"
+  },
+  {
+    "roleTitle": "Registered Dietitian",
+    "roleType": "Support",
+    "location": "Bronx, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in the Bronx, New York is hiring a Registered Dietitian for a day-shift contract running 08/31/2026 through 12/05/2026.\n\nIn this role, you will perform clinical nutrition assessments, develop and monitor individualized nutrition care plans, and provide dietary education to patients and families across assigned units. You will collaborate closely with physicians, nurses, speech-language pathologists, and other members of the care team to support safe, evidence-based nutrition care throughout the hospital stay.\n\nThis is a contract assignment well-suited for a registered dietitian who is comfortable stepping into a high-volume acute care environment and partnering with a multidisciplinary team.",
+    "contractType": "Contract",
+    "salaryShort": "$54 - $56/hr",
+    "requirements": [
+      "Credentialed Registered Dietitian with New York state registration/licensure as required.",
+      "Prior clinical nutrition experience in an acute care hospital setting.",
+      "Comfort performing nutrition assessments and developing care plans.",
+      "Strong collaboration skills with physicians, nurses, and the broader care team.",
+      "Available for the full contract window of 08/31/2026 - 12/05/2026."
+    ],
+    "salaryOrBonusInfo": "$54 - $56/hr, contract 08/31/2026 - 12/05/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_registered_dietician___54__56_hr__08_31_26_12_05_26__nychh_bronx__ny"
+  },
+  {
+    "roleTitle": "Hospice RN - Travel (Day Shift)",
+    "roleType": "Floor Staff",
+    "location": "Basking Ridge, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Basking Ridge, New Jersey is hiring an experienced Hospice Registered Nurse for a day-shift travel contract (W-2) running 09/14/2026 through 12/13/2026.\n\nIn this role, you will provide skilled hospice nursing care to patients and families across the end-of-life journey - managing pain and symptoms, coordinating the plan of care with the interdisciplinary hospice team, supporting families through education and emotional support, and partnering with physicians, social workers, and chaplains to deliver compassionate, patient-centered care.\n\nThis is a W-2 travel contract assignment well-suited for a hospice RN who is comfortable stepping into a community-based hospice program and providing steady, skilled care across a defined assignment.",
+    "contractType": "Contract",
+    "salaryShort": "$57 - $59/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior hospice, palliative care, or home health/hospice nursing experience.",
+      "Comfort managing pain and symptoms at end of life and supporting families.",
+      "Strong collaboration with physicians, social workers, and the interdisciplinary hospice team.",
+      "Available for the full W-2 travel contract window of 09/14/2026 - 12/13/2026."
+    ],
+    "salaryOrBonusInfo": "$57 - $59/hr W-2, contract 09/14/2026 - 12/13/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_registered_nurse___hospice___travel___57__59__w2__09_14_26_to_12_13_26__atlantic_health_system_hospital_corporation_basking_ridge__nj"
+  },
+  {
+    "roleTitle": "RN - Cath Lab - Travel",
+    "roleType": "Floor Staff",
+    "location": "Newton, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Newton, New Jersey is hiring an experienced Cath Lab RN for a day-shift travel contract running 08/31/2026 through 10/28/2026.\n\nIn this role, you will provide specialized nursing care for patients undergoing cardiac catheterization and related procedures - circulating and monitoring sedation, administering medications per protocol, managing vascular access and sheaths, and responding to changes in patient condition. You will partner closely with interventional cardiologists, technologists, and the procedural team to deliver safe, efficient cases.\n\nThis is a travel contract assignment well-suited for a cath lab RN who is comfortable stepping into a community hospital and managing a steady procedural caseload.",
+    "contractType": "Contract",
+    "salaryShort": "$76 - $78/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior cath lab, interventional cardiology, or procedural nursing experience.",
+      "Comfort with sedation monitoring, sheath management, and emergency response.",
+      "Strong teamwork skills in a fast-paced procedural environment.",
+      "Available for the full travel contract window of 08/31/2026 - 10/28/2026."
+    ],
+    "salaryOrBonusInfo": "$76 - $78/hr, contract 08/31/2026 - 10/28/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_rn___cath_lab___travel___76__78_hr__08_31_26_to_10_28_26__atlantic_health_system_hospital_corporation_newton__nj"
+  },
+  {
+    "roleTitle": "RN - Med/Surg - Travel",
+    "roleType": "Floor Staff",
+    "location": "Summit, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Summit, New Jersey is hiring an experienced Med/Surg Registered Nurse for a day-shift travel contract (W-2) running 09/14/2026 through 12/13/2026.\n\nIn this role, you will provide direct nursing care to a mixed-acuity medical-surgical patient population - administering medications, monitoring patient condition, coordinating with physicians and the broader care team, and supporting patients through admissions, discharges, and transitions of care. You will partner closely with charge nurses, physicians, and ancillary staff to deliver safe, organized care across the day shift.\n\nThis is a W-2 travel contract assignment well-suited for a med/surg RN who is comfortable stepping into a community hospital and providing steady, skilled care on a defined assignment.",
+    "contractType": "Contract",
+    "salaryShort": "$51 - $53/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior medical-surgical nursing experience in an acute care hospital.",
+      "Comfort managing a mixed-acuity med/surg patient assignment.",
+      "Strong assessment, communication, and teamwork skills.",
+      "Available for the full W-2 travel contract window of 09/14/2026 - 12/13/2026."
+    ],
+    "salaryOrBonusInfo": "$51 - $53/hr W-2, contract 09/14/2026 - 12/13/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_rn___med_surg___travel___51__53_hr__w2__09_14_26_to_12_13_26__atlantic_health_system_hospital_corporation_summit__nj"
+  },
+  {
+    "roleTitle": "RN - Nurse Educator",
+    "roleType": "Leadership",
+    "location": "Bronx, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in the Bronx, New York is hiring an experienced RN Nurse Educator for a day-shift contract running 08/31/2026 through 12/05/2026.\n\nIn this role, you will design, deliver, and evaluate nursing education and staff-development programming - onboarding, competency assessments, in-service training, and ongoing professional development for nursing staff. You will partner closely with nurse managers and clinical leadership to identify learning needs and ensure the nursing team is prepared for current and evolving practice standards.\n\nThis is a contract assignment well-suited for an RN educator who is comfortable stepping into a large hospital system and supporting a diverse nursing team through meaningful learning experiences.",
+    "contractType": "Contract",
+    "salaryShort": "$80 - $82/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New York.",
+      "Prior nursing education, staff development, or clinical instructor experience.",
+      "Comfort designing and delivering in-services, competencies, and onboarding.",
+      "Strong communication, presentation, and mentorship skills.",
+      "Available for the full contract window of 08/31/2026 - 12/05/2026."
+    ],
+    "salaryOrBonusInfo": "$80 - $82/hr, contract 08/31/2026 - 12/05/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_rn___nurse_educator___80__82__08_31_26_12_05_26__nychh_bronx__ny"
+  },
+  {
+    "roleTitle": "RN - Nurse Educator",
+    "roleType": "Leadership",
+    "location": "Bronx, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in the Bronx, New York is hiring an experienced RN Nurse Educator for a day-shift contract running 09/07/2026 through 12/12/2026.\n\nIn this role, you will design, deliver, and evaluate nursing education and staff-development programming - onboarding, competency assessments, in-service training, and ongoing professional development for nursing staff. You will partner closely with nurse managers and clinical leadership to identify learning needs and ensure the nursing team is prepared for current and evolving practice standards.\n\nThis is a contract assignment well-suited for an RN educator who is comfortable stepping into a large hospital system and supporting a diverse nursing team through meaningful learning experiences.",
+    "contractType": "Contract",
+    "salaryShort": "$80 - $82/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New York.",
+      "Prior nursing education, staff development, or clinical instructor experience.",
+      "Comfort designing and delivering in-services, competencies, and onboarding.",
+      "Strong communication, presentation, and mentorship skills.",
+      "Available for the full contract window of 09/07/2026 - 12/12/2026."
+    ],
+    "salaryOrBonusInfo": "$80 - $82/hr, contract 09/07/2026 - 12/12/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_rn___nurse_educator___80__82__09_07_26_12_12_26__nychh_bronx__ny"
+  },
+  {
+    "roleTitle": "Cardiac Echo Sonographer",
+    "roleType": "Other",
+    "location": "Morristown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Morristown, New Jersey is hiring an experienced Cardiac Echo Sonographer for a day-shift contract running 08/31/2026 through 11/29/2026 (note: the spreadsheet start date reads 08/39/26 - the spreadsheet contains a typo; treat as 08/31/2026).\n\nIn this role, you will perform transthoracic and other cardiac ultrasound examinations - acquiring high-quality diagnostic images, recognizing abnormal findings, and collaborating with cardiologists to support timely diagnosis and treatment planning. You will partner closely with the echocardiography lab team, ordering providers, and patients to deliver a smooth, professional imaging experience.\n\nThis is a contract assignment well-suited for a cardiac sonographer who is comfortable stepping into a hospital echo lab and delivering steady, high-quality imaging support.",
+    "contractType": "Contract",
+    "salaryShort": "$57 - $59/hr",
+    "requirements": [
+      "Credentialed Cardiac Sonographer (ARDMS or CCI).",
+      "Prior adult cardiac echocardiography experience in a hospital or cardiology practice.",
+      "Comfort acquiring high-quality diagnostic images and recognizing abnormal findings.",
+      "Strong patient-care and communication skills.",
+      "Available for the full contract window of 08/31/2026 - 11/29/2026."
+    ],
+    "salaryOrBonusInfo": "$57 - $59/hr, contract 08/31/2026 - 11/29/2026 (spreadsheet start date contains a typo).",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "am_sonographer__cardiac_echo_sonographer___57__59_hr__08_39_26_to_11_29_26__atlantic_health_system_hospital_corporation_morristown__nj"
+  },
+  {
     "roleTitle": "Registered Nurse (RN) - Baylor",
     "roleType": "Floor Staff",
     "location": "Etowah, TN",
@@ -532,6 +836,25 @@
     "id": "baylor_rn_etowah_health_and_rehabilitation_etowah__tn"
   },
   {
+    "roleTitle": "Clinical Business Analyst",
+    "roleType": "Support",
+    "location": "New York, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in New York, New York is hiring a Clinical Business Analyst for a day-shift contract running 09/07/2026 through 10/31/2026.\n\nIn this role, you will partner with clinical and operational stakeholders to analyze workflows, gather requirements, and translate clinical needs into actionable technical and process solutions. You will work on data analysis, reporting, and process improvement initiatives that support clinical service lines - producing clear documentation and helping bridge the gap between clinical teams and analytics or IT partners.\n\nThis is a contract assignment well-suited for an analyst who is comfortable stepping into a large hospital environment, working alongside clinical leaders, and delivering high-quality analysis on a defined timeline.",
+    "contractType": "Contract",
+    "salaryShort": "$62 - $64/hr",
+    "requirements": [
+      "Prior clinical business analyst or healthcare analytics experience.",
+      "Comfort gathering requirements from clinical stakeholders and translating them into clear documentation.",
+      "Strong analytical, reporting, and process-improvement skills.",
+      "Ability to bridge communication between clinical and technical teams.",
+      "Available for the full contract window of 09/07/2026 - 10/31/2026."
+    ],
+    "salaryOrBonusInfo": "$62 - $64/hr, contract 09/07/2026 - 10/31/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "clinical_business_analyst___62__64__09_07_26_to_10_31_26__nychh_new_york__ny"
+  },
+  {
     "roleTitle": "Director of Operations - ABA Provider",
     "roleType": "Leadership",
     "location": "North Carolina",
@@ -549,6 +872,25 @@
     "salaryOrBonusInfo": "Compensation based on experience. Will pay more for the right person.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "director_of_ops_for_aba_company__nc"
+  },
+  {
+    "roleTitle": "Director of Social Services / Social Worker",
+    "roleType": "Leadership",
+    "location": "McMinn County, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center is conducting a confidential search for a Director of Social Services / Social Worker to lead psychosocial support for residents and their families. The location is shared at the county level only.\n\nIn this role, you will direct the social services program - completing psychosocial assessments, supporting residents and families through transitions of care, coordinating discharge planning, and serving as a key liaison between the clinical team, residents, and external partners. You will partner closely with nursing, therapy, and administration to maintain a resident-centered, compliant social services program.\n\nThe ideal candidate brings experience leading social services in a skilled nursing or long-term care setting, strong assessment and discharge-planning skills, and a calm, professional presence with residents and families during sensitive moments. If you are a Tennessee-licensed social worker with SNF leadership experience, this confidential opportunity offers meaningful impact.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Tennessee social work licensure appropriate to the role.",
+      "Prior Director of Social Services or social work leadership experience in a skilled nursing facility.",
+      "Strong psychosocial assessment and discharge-planning skills.",
+      "Comfort coordinating with nursing, therapy, and administration teams.",
+      "Professional, resident-centered communication style with families during care transitions."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "director_of_social_services___social_worker__confidential__etowah_health_and_rehabilitation_etowah__tn"
   },
   {
     "id": "director_of_social_services___social_worker_etowah_health_and_rehabilitation_etowah__tn",
@@ -628,23 +970,23 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl",
-    "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
+    "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
     "roleType": "Therapy/Rehabilitation",
     "location": "St. Petersburg, FL",
     "facilityType": "Skilled Nursing Facility",
-    "description": "A skilled nursing and rehabilitation center in the St. Petersburg, Florida area is hiring a full-time Certified Occupational Therapist Assistant (COTA) to support its rehab team.\n\nUnder the supervision of a licensed Occupational Therapist, you will carry out treatment plans focused on residents' activities of daily living - dressing, grooming, eating, toileting, and functional mobility. You will document progress, communicate changes to the supervising OT, and collaborate with the broader rehab and nursing teams.\n\nThis is a full-time role for a Florida-licensed COTA with SNF experience.",
+    "description": "A premier skilled nursing and rehabilitation center in St. Petersburg, Florida is hiring a full-time Certified Occupational Therapy Assistant (COTA) to join its therapy team.\n\nThe center is a mid-sized skilled nursing community on a main thoroughfare with shopping nearby, two on-site courtyards, and a residential neighborhood behind the building - minutes from the Gulf Coast beaches. Current census sits around 43 in a 55-59 bed community, giving the therapy team room to deliver hands-on, individualized care.\n\nAs the COTA on this team, you will carry out occupational therapy treatment plans developed by the OT, document resident progress, and partner closely with the rehab director, administrator, and DON to support quality outcomes. If you are a Florida-credentialed COTA with SNF or long-term care experience and want a stable full-time role in a coastal Florida community, this is an opportunity to make a real impact.",
     "contractType": "Full-time",
-    "salaryShort": "$38 - $48 per hour",
+    "salaryShort": "$38 - $48/hr",
     "requirements": [
-      "Active Certified Occupational Therapist Assistant (COTA) license in Florida.",
-      "Experience in a skilled nursing facility or similar post-acute care setting preferred.",
-      "Comfort working under the direction of a supervising Occupational Therapist.",
-      "Strong communication and documentation skills.",
+      "Active Certified Occupational Therapy Assistant (COTA) credential in Florida.",
+      "Experience in a skilled nursing facility or long-term care setting.",
+      "Comfort carrying out OT-developed treatment plans and documenting progress.",
+      "Strong communication and collaboration with OT, rehab director, and nursing leadership.",
       "Available for full-time hours."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "salaryOrBonusInfo": "$38 - $48/hr.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "ft_cota___38__48_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
   },
   {
     "roleTitle": "Certified Occupational Therapist Assistant (COTA)",
@@ -1103,6 +1445,25 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "Marketing Director - Skilled Nursing Facility",
+    "roleType": "Leadership",
+    "location": "McMinn County, TN",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center is seeking a Marketing Director to lead referral development and community presence. This is a confidential search, and the location is shared at the county level only.\n\nThe community is a 120-bed skilled nursing building with current census in the 50s, making this role especially critical to driving growth and stabilizing admissions. A new marketer has recently joined the team, so the right candidate will lead and develop that person while continuing to build hospital partnerships and referral pipelines. If the new team member excels, there is also potential to absorb them into a long-term marketing role on the team.\n\nThe ideal candidate brings a hunter's instinct for building referral pipelines, strong relationships with hospital case managers and discharge planners, and the discipline to maintain HIPAA-compliant resident and facility information. If you are a Tennessee-based healthcare marketer with a track record of growing SNF census, this confidential opportunity is built for someone who wants ownership of results.",
+    "contractType": "Full-time",
+    "salaryShort": "$30 - $32/hr",
+    "requirements": [
+      "Prior healthcare or skilled nursing facility marketing experience.",
+      "Track record building hospital referral pipelines and growing census.",
+      "Strong relationships with hospital case managers and discharge planners.",
+      "Disciplined, results-oriented approach to referral development.",
+      "Comfort maintaining HIPAA-compliant resident and facility information."
+    ],
+    "salaryOrBonusInfo": "$30 - $32/hr.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "marketing_director__confidential___30__32_hr__etowah_health_and_rehabilitation_etowah__tn"
+  },
+  {
     "roleTitle": "Med-Peds Physician (Internal Medicine - Pediatrics)",
     "roleType": "Other",
     "location": "Greenville, SC",
@@ -1236,6 +1597,25 @@
     "id": "physical_therapist__pt___38____48__urgent__parklands_care_center_gainesville__fl"
   },
   {
+    "roleTitle": "Labor & Delivery RN - Travel (Evening Shift)",
+    "roleType": "Floor Staff",
+    "location": "Morristown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Morristown, New Jersey is hiring an experienced Labor & Delivery RN for an evening-shift travel contract (12-hour shifts) running 09/14/2026 through 12/10/2026.\n\nIn this role, you will provide direct nursing care to patients across the labor, delivery, recovery, and postpartum continuum - monitoring maternal and fetal status, supporting deliveries, circulating in the OR when required, and educating patients and families throughout the birthing experience. You will partner closely with obstetricians, midwives, anesthesia, and NICU staff to deliver safe, family-centered care.\n\nThis is a travel contract assignment well-suited for an L&D RN who is comfortable stepping into a community hospital and providing steady, skilled care across 12-hour evening shifts.",
+    "contractType": "Contract",
+    "salaryShort": "$69 - $71/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior Labor & Delivery nursing experience in an acute care hospital.",
+      "Comfort monitoring maternal/fetal status and circulating in the OR.",
+      "Strong communication and patient-education skills across the birthing experience.",
+      "Available for the full travel contract window of 09/14/2026 - 12/10/2026, 12-hour shifts."
+    ],
+    "salaryOrBonusInfo": "$69 - $71/hr, contract 09/14/2026 - 12/10/2026, 12-hour shifts.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_labor___delivery_rn___69__71_hr__12hrs__09_14_26_to_12_10_26__atlantic_health_system_hospital_corporation_morristown__nj"
+  },
+  {
     "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens__ny",
     "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
     "roleType": "Other",
@@ -1291,6 +1671,63 @@
     ],
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/"
+  },
+  {
+    "roleTitle": "Respiratory Therapist (RRT) - Evening Shift",
+    "roleType": "Other",
+    "location": "Summit, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Summit, New Jersey is hiring an experienced Registered Respiratory Therapist (RRT) for an evening-shift W-2 contract running 09/14/2026 through 12/13/2026.\n\nIn this role, you will provide respiratory care to patients across the hospital - delivering ventilator management, aerosol treatments, airway clearance, and emergency response support; performing arterial blood gas draws and analyses; and partnering closely with physicians, nurses, and the broader care team to support safe, effective respiratory care across the evening shift.\n\nThis is a W-2 contract assignment well-suited for an RRT who is comfortable stepping into a community hospital and providing steady respiratory support across a defined assignment.",
+    "contractType": "Contract",
+    "salaryShort": "$53 - $55/hr",
+    "requirements": [
+      "Credentialed Registered Respiratory Therapist (RRT).",
+      "New Jersey state licensure or eligibility as required.",
+      "Prior hospital respiratory therapy experience, including ventilator management.",
+      "Comfort with emergency response and ABG draws.",
+      "Available for the full W-2 contract window of 09/14/2026 - 12/13/2026."
+    ],
+    "salaryOrBonusInfo": "$53 - $55/hr W-2, contract 09/14/2026 - 12/13/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_respiratory_therapist__rrt___53__55_hr__w2__09_14_26_to_12_13_26__atlantic_health_system_hospital_corporation_summit__nj"
+  },
+  {
+    "roleTitle": "RN - Labor & Delivery (Evening Shift)",
+    "roleType": "Floor Staff",
+    "location": "Bronx, NY",
+    "facilityType": "Hospital",
+    "description": "A major public hospital system in the Bronx, New York is hiring an experienced Labor & Delivery RN for an evening-shift contract running 08/31/2026 through 12/05/2026.\n\nIn this role, you will provide direct nursing care to patients across the labor, delivery, recovery, and postpartum continuum - monitoring maternal and fetal status, supporting deliveries, circulating in the OR when required, and educating patients and families throughout the birthing experience. You will partner closely with obstetricians, midwives, anesthesia, and NICU staff to deliver safe, family-centered care.\n\nThis is a contract assignment well-suited for an L&D RN who is comfortable stepping into a high-volume urban hospital and providing steady, skilled care across the evening shift.",
+    "contractType": "Contract",
+    "salaryShort": "$70 - $72/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New York.",
+      "Prior Labor & Delivery nursing experience in an acute care hospital.",
+      "Comfort monitoring maternal/fetal status and circulating in the OR.",
+      "Strong communication and patient-education skills across the birthing experience.",
+      "Available for the full evening-shift contract window of 08/31/2026 - 12/05/2026."
+    ],
+    "salaryOrBonusInfo": "$70 - $72/hr, contract 08/31/2026 - 12/05/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_rn___labor___delivery___70__72__08_31_26_12_05_26__nychh_bronx__ny"
+  },
+  {
+    "roleTitle": "NICU RN - Travel (Evening Shift)",
+    "roleType": "Floor Staff",
+    "location": "Morristown, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Morristown, New Jersey is hiring an experienced Neonatal ICU (NICU) Registered Nurse for an evening-shift travel contract (12-hour shifts) running 09/14/2026 through 11/28/2026.\n\nIn this role, you will provide direct nursing care to critically ill and premature neonates - monitoring vital signs and respiratory status, administering medications and feedings, managing ventilators and other life-support equipment, and partnering closely with neonatologists, respiratory therapists, and the broader NICU team. You will support families through a sensitive and emotional experience with calm, professional communication.\n\nThis is a travel contract assignment well-suited for a NICU RN who is comfortable stepping into a community hospital NICU and providing steady, skilled care across 12-hour evening shifts.",
+    "contractType": "Contract",
+    "salaryShort": "$56 - $58/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior NICU or level II/III neonatal nursing experience.",
+      "Comfort managing ventilators and life-support equipment in a NICU setting.",
+      "Strong communication skills with neonatologists, RTs, and families.",
+      "Available for the full travel contract window of 09/14/2026 - 11/28/2026, 12-hour shifts."
+    ],
+    "salaryOrBonusInfo": "$56 - $58/hr, contract 09/14/2026 - 11/28/2026, 12-hour shifts.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_rn___nicu___travel___56__58_hr__12hrs__09_14_26_to_11_28_26__atlantic_health_system_hospital_corporation_morristown__nj"
   },
   {
     "roleTitle": "Certified Occupational Therapist Assistant (COTA) - PRN",
@@ -1655,6 +2092,25 @@
     "id": "registered_dental_hygienist_stallant_health_crescent_city_crescent_city__ca"
   },
   {
+    "roleTitle": "Hospice RN - Travel",
+    "roleType": "Floor Staff",
+    "location": "Basking Ridge, NJ",
+    "facilityType": "Hospital",
+    "description": "A regional health system in Basking Ridge, New Jersey is hiring an experienced Hospice Registered Nurse for a travel contract (W-2) running 09/14/2026 through 12/13/2026.\n\nIn this role, you will provide skilled hospice nursing care to patients and families across the end-of-life journey - managing pain and symptoms, coordinating the plan of care with the interdisciplinary hospice team, supporting families through education and emotional support, and partnering with physicians, social workers, and chaplains to deliver compassionate, patient-centered care.\n\nThis is a W-2 travel contract assignment well-suited for a hospice RN who is comfortable stepping into a community-based hospice program and providing steady, skilled care across a defined assignment.",
+    "contractType": "Contract",
+    "salaryShort": "$57 - $59/hr",
+    "requirements": [
+      "Active Registered Nurse (RN) license in New Jersey or compact state eligibility.",
+      "Prior hospice, palliative care, or home health/hospice nursing experience.",
+      "Comfort managing pain and symptoms at end of life and supporting families.",
+      "Strong collaboration with physicians, social workers, and the interdisciplinary hospice team.",
+      "Available for the full W-2 travel contract window of 09/14/2026 - 12/13/2026."
+    ],
+    "salaryOrBonusInfo": "$57 - $59/hr W-2, contract 09/14/2026 - 12/13/2026.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "registered_nurse___hospice___travel___57__59__w2__09_14_26_to_12_13_26__atlantic_health_system_hospital_corporation_basking_ridge__nj"
+  },
+  {
     "id": "rn_don___90__95k__etowah_health_and_rehabilitation_etowah__tn",
     "roleTitle": "Director of Nursing (RN DON)",
     "roleType": "Leadership",
@@ -1693,6 +2149,25 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "Registered Nurse (RN) - MDS Coordinator",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center in Gulfport, Mississippi is hiring an MDS Coordinator RN to lead clinical assessments and reimbursement accuracy on the nursing leadership team.\n\nIn this role, you will coordinate and complete the Minimum Data Set (MDS) assessments for residents, partnering with the interdisciplinary team to capture accurate clinical information, support care planning, and ensure proper Medicare and Medicaid reimbursement. You will work alongside the Director of Nursing to keep documentation aligned with current CMS standards and survey expectations.\n\nThis is a full-time position with a weekday day-shift schedule, supporting LPN and CNA teams across 8- and 12-hour shifts. If you are a Mississippi-licensed RN with prior MDS experience and a strong grasp of RAI process and federal reimbursement, this is an opportunity to anchor a clinically meaningful role in a stable care environment.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Mississippi.",
+      "Prior MDS coordination experience in a skilled nursing facility.",
+      "Working knowledge of the RAI process, MDS 3.0, and CMS reimbursement.",
+      "Strong clinical assessment, documentation, and interdisciplinary communication skills.",
+      "Comfort leading day-shift coordination with LPN and CNA support teams."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_gulfport_care_center_gulfport__ms"
+  },
+  {
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md",
     "roleTitle": "Staff Development Coordinator / Infection Control Nurse",
     "roleType": "Floor Staff",
@@ -1729,5 +2204,43 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "unit_manager___wound_care_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "RN Charge Nurse - Weekday",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center on the Mississippi Gulf Coast is hiring a weekday Monday-Friday RN Charge Nurse to lead clinical operations on its day-shift team.\n\nAs the weekday charge nurse, you will oversee a coordinated nursing team that includes 8-hour LPN coverage (Mon-Fri 3p-11p) and 12-hour CNA support. You will assign and delegate care, manage admissions and discharges, monitor resident condition, and partner with the Director of Nursing to maintain quality, safety, and survey readiness throughout the weekday shift.\n\nThis is a stable weekday schedule - not PRN - ideal for an experienced Mississippi-licensed RN who wants consistent hours and clear leadership responsibility in a long-term care setting.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Mississippi.",
+      "Prior charge-nurse or long-term care leadership experience.",
+      "Comfort delegating across LPN and CNA teams on 8- and 12-hour shifts.",
+      "Strong assessment, communication, and documentation skills.",
+      "Availability for a steady weekday Monday-Friday schedule."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "weekday_monday_friday_rn_charge_nurse_gulfport_care_center_gulfport__ms"
+  },
+  {
+    "roleTitle": "RN Charge Nurse - Weekend",
+    "roleType": "Floor Staff",
+    "location": "Gulfport, MS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier skilled nursing and rehabilitation center on the Mississippi Gulf Coast is hiring a Saturday/Sunday RN Charge Nurse to anchor clinical leadership on its weekend shift.\n\nAs the weekend charge nurse, you will oversee a coordinated nursing team that includes 8-hour LPN coverage and 12-hour CNA support across Saturday and Sunday. You will assign and delegate care, manage admissions and discharges, monitor resident condition, and partner with the Director of Nursing to keep quality, safety, and survey-readiness high through the weekend hours.\n\nThis is a stable weekend schedule - not PRN - ideal for an experienced Mississippi-licensed RN who wants consistent weekend hours and clear leadership responsibility in a long-term care setting.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Mississippi.",
+      "Prior charge-nurse or long-term care leadership experience.",
+      "Comfort delegating across LPN and CNA teams on 8- and 12-hour shifts.",
+      "Strong assessment, communication, and documentation skills.",
+      "Availability for a steady Saturday/Sunday weekend schedule."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "weekend_saturday_sunday_rn_charge_nurse_gulfport_care_center_gulfport__ms"
   }
 ]
