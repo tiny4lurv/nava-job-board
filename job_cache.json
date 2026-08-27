@@ -5862,5 +5862,28 @@
       "salaryOrBonusInfo": "$46.8, 10hrs, 9/21/2026, 13 weeks",
       "applyLink": "https://navahc.com/candidates/"
     }
+  },
+  "rn_don___90__100k__etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "c3e77cee5b38d1a5125255158b1fea73",
+    "addedAt": "2026-08-27T20:05:38.926Z",
+    "finalJson": {
+      "roleTitle": "Director of Nursing (RN)",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Registered Nurse (RN) to serve as its Director of Nursing (DON). This is a senior leadership opportunity for an experienced nurse leader who can balance clinical excellence with operational accountability in a skilled nursing environment. The role offers a defined annual compensation range of $90,000 to $100,000.\n\nAs the Director of Nursing, you will direct the day-to-day clinical operations of the nursing department, including staffing, scheduling, training, and performance management for RNs, LPNs, and CNAs. You will lead survey readiness, ensure compliance with federal and state regulations, partner with the Administrator on clinical outcomes, and serve as the clinical authority for resident care planning, infection control, and quality assurance. The DON partners closely with the interdisciplinary team to maintain a culture of resident-centered care and clinical integrity.\n\nThis role is ideal for an RN with prior DON or Assistant DON experience in a skilled nursing or long-term care setting who is ready to step into full department leadership, drive clinical outcomes, and build a high-performing nursing team.",
+      "contractType": "Full-time",
+      "salaryShort": "$90K - $100K",
+      "requirements": [
+        "Active Registered Nurse (RN) license in Tennessee (or eligible to obtain).",
+        "Prior Director of Nursing or Assistant DON experience in a skilled nursing or long-term care facility.",
+        "Strong working knowledge of CMS / federal and Tennessee state survey and regulatory requirements.",
+        "Demonstrated leadership in staffing, training, scheduling, and performance management of nursing teams.",
+        "Track record of clinical quality, survey readiness, and resident-centered care outcomes."
+      ],
+      "salaryOrBonusInfo": "$90K - $100K",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "rn_don___90__100k__etowah_health_and_rehabilitation_etowah__tn"
+    }
   }
 }
