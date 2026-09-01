@@ -5885,5 +5885,51 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "rn_don___90__100k__etowah_health_and_rehabilitation_etowah__tn"
     }
+  },
+  "food_services_director__fsd__etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "e50dc7cd84e4be100e1e6fbfbf1742e5",
+    "addedAt": "2026-09-01T04:06:16.221Z",
+    "finalJson": {
+      "roleTitle": "Food Services Director (FSD)",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Food Services Director to take ownership of its kitchen and dietary operation. This is a hands-on leadership role for someone who can run daily kitchen operations, lead a dietary team, and ensure residents receive high-quality, safe, and well-prepared meals that meet clinical and regulatory standards.\n\nIn this role, you will manage all aspects of the food service department — menu planning, food preparation, purchasing, inventory, and cost control — while supervising dietary staff and partnering with the Administrator, DON, and Registered Dietitian on resident nutrition needs. You will ensure the kitchen maintains continuous compliance with federal, state, and CMS food safety and dietary requirements, including the director-of-food-and-nutrition-services qualification standards under § 483.60(a).\n\nA Certified Dietary Manager (CDM) credential or Registered / Certified Dietitian background is strongly preferred. If you have a track record of running a skilled-nursing kitchen and building a strong dietary team, this is a full-time leadership opportunity to make a direct impact on resident care.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Demonstrated experience directing food service operations in a skilled nursing facility or long-term care setting.",
+        "Working knowledge of federal, state, and CMS dietary and food safety regulations, including § 483.60 food and nutrition services requirements.",
+        "Strong leadership, team-building, and supervisory skills with dietary / kitchen staff.",
+        "ServSafe or equivalent food safety certification preferred.",
+        "Certified Dietary Manager (CDM) or Registered / Certified Dietitian strongly preferred."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "food_services_director__fsd__etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "rn_adon_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "b65abc0cc23059e7985a557c067eb08b",
+    "addedAt": "2026-09-01T04:06:16.221Z",
+    "finalJson": {
+      "roleTitle": "Assistant Director of Nursing (ADON) - RN",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "Skilled Nursing Facility",
+      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an Assistant Director of Nursing (RN) to support its Director of Nursing and help lead day-to-day clinical operations. The ADON partners with the DON on staffing, quality, compliance, and team development — and is central to keeping the building survey-ready and the nursing team operating at a high level.\n\nIn this role, you will help plan, develop, and direct the day-to-day functions of the nursing department; supervise and evaluate RNs, LPNs, and CNAs; partner with the DON on hiring, training, and quality initiatives; support care planning and clinical documentation; and ensure continuous compliance with state and CMS regulations.\n\nIf you are a Tennessee-licensed Registered Nurse with prior skilled nursing or long-term care leadership experience and a hands-on approach to building high-performing clinical teams, this is a full-time opportunity to step into a senior leadership role.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Active Registered Nurse (RN) license in Tennessee.",
+        "Prior experience as an Assistant Director of Nursing or in a skilled nursing / long-term care leadership role.",
+        "Strong working knowledge of state and CMS survey and compliance standards.",
+        "Demonstrated ability to supervise, coach, and develop nursing teams (RNs, LPNs, CNAs).",
+        "Hands-on leadership style with comfort supporting day-to-day clinical operations alongside the DON."
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "rn_adon_etowah_health_and_rehabilitation_etowah__tn"
+    }
   }
 }
