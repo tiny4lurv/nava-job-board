@@ -1564,26 +1564,26 @@
     }
   },
   "rn_mds_etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "0c8bcf834b7238b60e43aac7807f364d",
-    "addedAt": "2026-08-19T20:05:56.140Z",
+    "signature": "a08202410eac58add195a7c0e7728a31",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "id": "rn_mds_etowah_health_and_rehabilitation_etowah__tn",
       "roleTitle": "RN MDS Coordinator",
-      "roleType": "Support",
+      "roleType": "Leadership",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an RN MDS Coordinator to manage resident assessments and drive reimbursement accuracy for the building. This is a clinical-informatics hybrid role central to both regulatory compliance and Medicare/Medicaid reimbursement, ideal for an experienced SNF RN who enjoys detail-driven, assessment-focused work.\n\nAs the RN MDS Coordinator, you will coordinate and complete Minimum Data Set (MDS) assessments per CMS and state requirements, partner with the interdisciplinary team to ensure assessments reflect resident status, and support accurate care planning and RAI process documentation. You will also stay current on MDS reporting changes (including FY 2027 expanded reporting requirements) and help the team maintain survey-readiness across the assessment cycle.\n\nIf you are a Tennessee-licensed RN with SNF MDS experience and a strong grasp of the RAI process and CMS reimbursement, this is an opportunity to take ownership of a critical function at a stable SNF.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Join a premier health and rehabilitation center as a Registered Nurse MDS Coordinator. You'll lead the Minimum Data Set (MDS) assessment process, ensuring accurate clinical documentation, regulatory compliance, and proper Medicare and Medicaid reimbursement in a long-term and post-acute care setting.\n\nWorking as part of an interdisciplinary team, you'll coordinate assessments, support care planning, and help the facility stay ahead of evolving CMS MDS reporting requirements — including the expanded FY 2027 reporting standards recently finalized for skilled nursing facilities. This role is ideal for a clinically experienced RN who enjoys detail-driven work and the intersection of nursing, regulations, and reimbursement.\n\nYou'll partner closely with the DON, ADON, and therapy team to ensure every assessment reflects the resident and supports quality care.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Registered Nurse (RN) license in Tennessee.",
-        "Prior MDS coordination experience in a skilled nursing facility.",
-        "Strong working knowledge of the RAI process, MDS 3.0, and CMS reimbursement.",
-        "Detail-oriented assessment, documentation, and care-planning skills.",
-        "Comfort partnering with an interdisciplinary team and staying current on regulatory updates."
+        "Active, unencumbered Registered Nurse (RN) license",
+        "Prior experience with MDS assessments and the RAI process in a skilled nursing facility",
+        "Familiarity with current CMS MDS reporting requirements (RAC-CT or AANAC certification preferred)",
+        "Strong clinical assessment, documentation, and interdisciplinary communication skills",
+        "Detail-oriented with solid organizational and time-management abilities"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
-      "applyLink": "https://navahc.com/candidates/"
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "rn_mds_etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "1_school_psychologist___70_hr___contract_8_25_26___42_weeks__plymouth_canton_community_schools_plymouth__mi": {
@@ -2000,72 +2000,72 @@
     }
   },
   "1_am_cna__12hrs___17____22_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "c07546cc1d0432324ee05d1acbbdafaa",
-    "addedAt": "2026-08-21T00:05:20.757Z",
+    "signature": "45fe1f56ca494776f2a67c552e76458d",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "id": "1_am_cna__12hrs___17____22_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn",
-      "roleTitle": "Certified Nursing Assistant (CNA) - Overnight",
+      "roleTitle": "Overnight Certified Nursing Assistant (CNA)",
       "roleType": "Floor Staff",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an overnight Certified Nursing Assistant (CNA) to join its nursing team. This is a 12-hour overnight shift (1 AM start) with a competitive hourly base plus night and weekend shift differentials, ideal for a reliable CNA who prefers concentrated night-shift hours.\n\nAs the overnight CNA, you will provide hands-on resident care through the overnight hours - assisting with activities of daily living, taking and recording vital signs, responding to call lights, supporting residents with hygiene and comfort, and reporting changes in condition to the charge nurse. You will work closely with the overnight nursing team to keep residents safe, comfortable, and well cared for.\n\nIf you are a Tennessee-certified CNA with skilled nursing or long-term care experience and want a stable overnight role with shift differentials, this opportunity is for you.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Join a premier health and rehabilitation center as an overnight Certified Nursing Assistant (CNA) on a 12-hour shift (1:00 AM start). One opening is available. You'll provide hands-on care to residents during the overnight hours — assisting with ADLs, monitoring comfort and safety, and supporting the nursing team to keep residents well cared for while the building sleeps.\n\nOvernight CNAs play an outsized role in the resident experience: a calm, attentive presence on the floor at 2 AM makes a real difference. This role is well-suited to a reliable, even-keeled CNA who enjoys the rhythm of overnight work.\n\nFull-time overnight CNA positions are in steady demand nationwide, and this opportunity offers competitive base pay plus shift differentials.",
       "contractType": "Full-time",
-      "salaryShort": "$17 - $22/hr + shift diff",
+      "salaryShort": "$17 – $22/hr",
       "requirements": [
-        "Active Certified Nursing Assistant (CNA) certification in Tennessee.",
-        "Experience in a skilled nursing facility or long-term care setting.",
-        "Comfort working 12-hour overnight shifts.",
-        "Strong resident-care, communication, and observation skills.",
-        "Available for night and weekend shifts with shift differential."
+        "Active state Certified Nursing Assistant (CNA) certification",
+        "Prior experience in a skilled nursing facility, long-term care, or similar clinical setting preferred",
+        "Comfortable working overnight on a 12-hour shift schedule",
+        "Current CPR/BLS certification",
+        "Compassionate, dependable, and attentive to resident needs"
       ],
-      "salaryOrBonusInfo": "$17 - $22/hr base + Night shift differential $2/hr + Weekend shift differential $2.50/hr.",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$17 – $22/hr + Night shift differential $2/hr + Weekend shift differential $2.50/hr",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_am_cna__12hrs___17____22_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "1_am_lpn__12hrs___28___36_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "01b6ea8d9c6ce55f05456ba485ea4ae2",
-    "addedAt": "2026-08-21T00:05:20.757Z",
+    "signature": "d4b938dffb53ba2e9a389cdac525e5ea",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "id": "1_am_lpn__12hrs___28___36_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn",
-      "roleTitle": "Licensed Practical Nurse (LPN) - Overnight",
+      "roleTitle": "Overnight Licensed Practical Nurse (LPN)",
       "roleType": "Floor Staff",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an overnight Licensed Practical Nurse (LPN) to join its nursing team. This is a 12-hour overnight shift (1 AM start) with a competitive hourly base plus night and weekend shift differentials, ideal for an experienced LPN who prefers concentrated night-shift hours.\n\nAs the overnight LPN, you will provide direct nursing care to residents through the overnight hours - monitoring vital signs and resident condition, administering medications and treatments per the care plan, documenting care, and reporting changes to the RN on call. You will supervise and support nursing assistants on the overnight team and partner with day-shift staff to ensure accurate handoffs and continuity of care.\n\nIf you are a Tennessee-licensed LPN with skilled nursing or long-term care experience and want a stable overnight role with shift differentials, this opportunity is for you.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Join a premier health and rehabilitation center as an overnight Licensed Practical Nurse (LPN) on a 12-hour shift (1:00 AM start). One opening is available. You'll deliver direct nursing care to residents during the overnight hours — including medication administration, vital signs, wound care, documentation, and clear communication with the supervising RN across your shift.\n\nLPNs are a critical part of post-acute care teams, and overnight shifts offer the chance to work with greater autonomy in a calmer, more focused environment. This role is ideal for an LPN who is reliable, organized, and committed to safe, compassionate resident care.\n\nFull-time overnight LPN positions are in steady demand nationwide, and this opportunity offers competitive base pay plus shift differentials.",
       "contractType": "Full-time",
-      "salaryShort": "$28 - $36/hr + shift diff",
+      "salaryShort": "$28 – $36/hr",
       "requirements": [
-        "Active Licensed Practical Nurse (LPN) license in Tennessee.",
-        "Experience in a skilled nursing facility or long-term care setting.",
-        "Comfort working 12-hour overnight shifts.",
-        "Strong medication administration, monitoring, and documentation skills.",
-        "Available for night and weekend shifts with shift differential."
+        "Active, unencumbered Licensed Practical Nurse (LPN) license",
+        "Prior experience in a skilled nursing facility, long-term care, or similar clinical setting",
+        "Comfortable working overnight on a 12-hour shift schedule",
+        "Current CPR/BLS certification",
+        "Solid medication administration, documentation, and communication skills"
       ],
-      "salaryOrBonusInfo": "$28 - $36/hr base + Night shift differential $2/hr + Weekend shift differential $2.50/hr.",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$28 – $36/hr + Night shift differential $2/hr + Weekend shift differential $2.50/hr",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_am_lpn__12hrs___28___36_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "2_am_rn__12hrs___32____41_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "8e51ec66c5446990fd6ab85047b64cc9",
-    "addedAt": "2026-08-21T00:05:20.757Z",
+    "signature": "574a140cb21c3cb22dcb4f8d3fae0e72",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "id": "2_am_rn__12hrs___32____41_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn",
-      "roleTitle": "Registered Nurse (RN) - Overnight",
+      "roleTitle": "Overnight Registered Nurse (RN)",
       "roleType": "Floor Staff",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an overnight Registered Nurse (RN) to join its nursing team. This is a 12-hour overnight shift (2 AM start) with a competitive hourly base plus night and weekend shift differentials, ideal for an experienced RN who prefers concentrated night-shift hours.\n\nAs the overnight RN, you will oversee the clinical care of residents through the overnight hours - supervising LPNs and CNAs, performing clinical assessments, administering medications and treatments, responding to changes in condition, and serving as the senior clinical presence on the floor. You will partner with the day-shift RN team on accurate handoffs, care plan updates, and continuity of care.\n\nIf you are a Tennessee-licensed RN with skilled nursing or long-term care experience and want a stable overnight role with shift differentials, this opportunity is for you.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Join a premier health and rehabilitation center as an overnight Registered Nurse (RN) on a 12-hour shift (2:00 AM start). Two openings are available. You'll provide direct clinical care, supervise night-shift nursing staff, and ensure residents are safe, comfortable, and well cared for through the overnight hours.\n\nResponsibilities include medication administration, treatments, documentation, communication with on-call providers, and serving as the clinical lead on the unit during your shift. This role is well-suited to an RN who thrives in a quieter, more autonomous environment and enjoys the rhythm of overnight long-term care.\n\nFull-time overnight RN positions are in demand nationwide, and this opportunity offers competitive base pay plus shift differentials.",
       "contractType": "Full-time",
-      "salaryShort": "$32 - $41/hr + shift diff",
+      "salaryShort": "$32 – $41/hr",
       "requirements": [
-        "Active Registered Nurse (RN) license in Tennessee.",
-        "Experience in a skilled nursing facility or long-term care setting.",
-        "Comfort working 12-hour overnight shifts and supervising LPNs/CNAs.",
-        "Strong clinical assessment, medication administration, and documentation skills.",
-        "Available for night and weekend shifts with shift differential."
+        "Active, unencumbered Registered Nurse (RN) license",
+        "Prior experience in a skilled nursing facility, long-term care, or similar clinical setting",
+        "Comfortable working overnight on a 12-hour shift schedule",
+        "Current CPR/BLS certification",
+        "Strong clinical assessment, communication, and documentation skills"
       ],
-      "salaryOrBonusInfo": "$32 - $41/hr base + Night shift differential $2/hr + Weekend shift differential $2.50/hr.",
-      "applyLink": "https://navahc.com/candidates/"
+      "salaryOrBonusInfo": "$32 – $41/hr + Night shift differential $2/hr + Weekend shift differential $2.50/hr",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_am_rn__12hrs___32____41_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "1_ft_am_lpn_s___25__28_hr__7am_3pm__gulfport_care_center_gulfport__ms": {
@@ -5865,45 +5865,45 @@
     }
   },
   "rn_don___90__100k__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "c3e77cee5b38d1a5125255158b1fea73",
-    "addedAt": "2026-08-27T20:05:38.926Z",
+    "signature": "06f63a46f1156971f9735bfcc5ba1652",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "roleTitle": "Director of Nursing (RN)",
+      "roleTitle": "Director of Nursing (RN DON)",
       "roleType": "Leadership",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Registered Nurse (RN) to serve as its Director of Nursing (DON). This is a senior leadership opportunity for an experienced nurse leader who can balance clinical excellence with operational accountability in a skilled nursing environment. The role offers a defined annual compensation range of $90,000 to $100,000.\n\nAs the Director of Nursing, you will direct the day-to-day clinical operations of the nursing department, including staffing, scheduling, training, and performance management for RNs, LPNs, and CNAs. You will lead survey readiness, ensure compliance with federal and state regulations, partner with the Administrator on clinical outcomes, and serve as the clinical authority for resident care planning, infection control, and quality assurance. The DON partners closely with the interdisciplinary team to maintain a culture of resident-centered care and clinical integrity.\n\nThis role is ideal for an RN with prior DON or Assistant DON experience in a skilled nursing or long-term care setting who is ready to step into full department leadership, drive clinical outcomes, and build a high-performing nursing team.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Lead clinical operations at a premier health and rehabilitation center as the Registered Nurse Director of Nursing (DON). Reporting to the Administrator, the DON owns all aspects of nursing services — staffing, training, clinical quality, survey readiness, and resident outcomes — and serves as the facility's senior clinical leader.\n\nThis is a full-time, on-site leadership role for an experienced RN who can balance regulatory compliance (42 CFR § 483.35) with day-to-day people leadership. You'll partner with the Administrator and interdisciplinary team to drive clinical excellence, mentor nursing staff, and ensure every resident receives safe, high-quality, person-centered care.\n\nIdeal candidates bring prior DON or ADON experience in a skilled nursing or long-term care setting, a track record of building stable teams, and the operational discipline to keep the building survey-ready at all times.",
       "contractType": "Full-time",
-      "salaryShort": "$90K - $100K",
+      "salaryShort": "$90,000 – $100,000/year",
       "requirements": [
-        "Active Registered Nurse (RN) license in Tennessee (or eligible to obtain).",
-        "Prior Director of Nursing or Assistant DON experience in a skilled nursing or long-term care facility.",
-        "Strong working knowledge of CMS / federal and Tennessee state survey and regulatory requirements.",
-        "Demonstrated leadership in staffing, training, scheduling, and performance management of nursing teams.",
-        "Track record of clinical quality, survey readiness, and resident-centered care outcomes."
+        "Active, unencumbered Registered Nurse (RN) license",
+        "Prior leadership experience as a Director of Nursing or Assistant DON in a skilled nursing facility",
+        "Strong knowledge of CMS regulations and survey processes (42 CFR § 483)",
+        "Demonstrated ability to lead, mentor, and retain clinical staff",
+        "Excellent communication, organization, and problem-solving skills"
       ],
-      "salaryOrBonusInfo": "$90K - $100K",
+      "salaryOrBonusInfo": "$90,000 – $100,000/year",
       "applyLink": "https://navahc.com/candidates/",
       "id": "rn_don___90__100k__etowah_health_and_rehabilitation_etowah__tn"
     }
   },
   "food_services_director__fsd__etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "e50dc7cd84e4be100e1e6fbfbf1742e5",
-    "addedAt": "2026-09-01T04:06:16.221Z",
+    "signature": "b1bcc66743af27d120e56a62c82091d4",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
       "roleTitle": "Food Services Director (FSD)",
-      "roleType": "Leadership",
+      "roleType": "Support",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring a Food Services Director to take ownership of its kitchen and dietary operation. This is a hands-on leadership role for someone who can run daily kitchen operations, lead a dietary team, and ensure residents receive high-quality, safe, and well-prepared meals that meet clinical and regulatory standards.\n\nIn this role, you will manage all aspects of the food service department — menu planning, food preparation, purchasing, inventory, and cost control — while supervising dietary staff and partnering with the Administrator, DON, and Registered Dietitian on resident nutrition needs. You will ensure the kitchen maintains continuous compliance with federal, state, and CMS food safety and dietary requirements, including the director-of-food-and-nutrition-services qualification standards under § 483.60(a).\n\nA Certified Dietary Manager (CDM) credential or Registered / Certified Dietitian background is strongly preferred. If you have a track record of running a skilled-nursing kitchen and building a strong dietary team, this is a full-time leadership opportunity to make a direct impact on resident care.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Take ownership of the kitchen at a premier health and rehabilitation center as the Food Services Director (FSD). Reporting to the Administrator, the FSD is responsible for managing the full food service operation of the facility — from menu planning and food safety to staff supervision, budgeting, and resident satisfaction.\n\nThis is a hands-on operational leadership role for someone who enjoys running a kitchen, leading a team, and ensuring residents receive nutritious, well-prepared meals in a regulatory-compliant environment. A Certified Dietary Manager (CDM) or Registered/Certified Dietitian background is strongly preferred and will be supported if not already held.\n\nYou'll have the autonomy to shape the department while working alongside a supportive clinical and administrative team.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Demonstrated experience directing food service operations in a skilled nursing facility or long-term care setting.",
-        "Working knowledge of federal, state, and CMS dietary and food safety regulations, including § 483.60 food and nutrition services requirements.",
-        "Strong leadership, team-building, and supervisory skills with dietary / kitchen staff.",
-        "ServSafe or equivalent food safety certification preferred.",
-        "Certified Dietary Manager (CDM) or Registered / Certified Dietitian strongly preferred."
+        "Prior experience as a Food Service Director (or equivalent) in a skilled nursing or long-term care setting",
+        "Certified Dietary Manager (CDM), Certified Dietitian, or comparable credential preferred",
+        "Working knowledge of CMS food and nutrition services requirements (§ 483.60) and food safety standards",
+        "Strong supervisory, budgeting, and organizational skills",
+        "ServSafe or equivalent food safety certification"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
@@ -5911,22 +5911,22 @@
     }
   },
   "rn_adon_etowah_health_and_rehabilitation_etowah__tn": {
-    "signature": "b65abc0cc23059e7985a557c067eb08b",
-    "addedAt": "2026-09-01T04:06:16.221Z",
+    "signature": "219e69b321f7a42813322feca0b3ccce",
+    "addedAt": "2026-09-02T20:05:13.865Z",
     "finalJson": {
-      "roleTitle": "Assistant Director of Nursing (ADON) - RN",
+      "roleTitle": "Assistant Director of Nursing (RN ADON)",
       "roleType": "Leadership",
       "location": "Etowah, TN",
-      "facilityType": "Skilled Nursing Facility",
-      "description": "A premier health and rehabilitation center in Etowah, Tennessee is hiring an Assistant Director of Nursing (RN) to support its Director of Nursing and help lead day-to-day clinical operations. The ADON partners with the DON on staffing, quality, compliance, and team development — and is central to keeping the building survey-ready and the nursing team operating at a high level.\n\nIn this role, you will help plan, develop, and direct the day-to-day functions of the nursing department; supervise and evaluate RNs, LPNs, and CNAs; partner with the DON on hiring, training, and quality initiatives; support care planning and clinical documentation; and ensure continuous compliance with state and CMS regulations.\n\nIf you are a Tennessee-licensed Registered Nurse with prior skilled nursing or long-term care leadership experience and a hands-on approach to building high-performing clinical teams, this is a full-time opportunity to step into a senior leadership role.",
+      "facilityType": "Skilled nursing facility",
+      "description": "Step into a senior clinical leadership role as a Registered Nurse Assistant Director of Nursing (ADON) at a premier health and rehabilitation center. Working alongside the Director of Nursing, you'll help oversee daily clinical operations, supervise nursing staff, and ensure consistent, high-quality resident care.\n\nThe ADON supports staffing and scheduling, performance evaluations, wound management, and the development and implementation of nursing policy and procedure. This role is well-suited to an RN with long-term care or skilled nursing experience who is ready to move into—or continue growing in—a formal leadership track.\n\nYou'll have direct impact on team culture, clinical outcomes, and regulatory compliance, with a clear pathway to advance into the DON seat.",
       "contractType": "Full-time",
       "salaryShort": "",
       "requirements": [
-        "Active Registered Nurse (RN) license in Tennessee.",
-        "Prior experience as an Assistant Director of Nursing or in a skilled nursing / long-term care leadership role.",
-        "Strong working knowledge of state and CMS survey and compliance standards.",
-        "Demonstrated ability to supervise, coach, and develop nursing teams (RNs, LPNs, CNAs).",
-        "Hands-on leadership style with comfort supporting day-to-day clinical operations alongside the DON."
+        "Active, unencumbered Registered Nurse (RN) license",
+        "Prior nursing leadership experience in a skilled nursing or long-term care setting (ADON, unit manager, or supervisor)",
+        "Solid understanding of CMS regulations and clinical documentation standards",
+        "Strong supervisory, coaching, and conflict-resolution skills",
+        "Current CPR/BLS certification"
       ],
       "salaryOrBonusInfo": "Compensation based on experience",
       "applyLink": "https://navahc.com/candidates/",
