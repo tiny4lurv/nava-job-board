@@ -641,6 +641,25 @@
   {
     "roleTitle": "Assistant Director of Nursing (ADON)",
     "roleType": "Leadership",
+    "location": "Clarinda, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Clarinda, Iowa is hiring an Assistant Director of Nursing (ADON) to support its Director of Nursing and lead day-to-day clinical operations. The ADON partners with the DON on staffing, quality, compliance, and team development — and is central to keeping the building survey-ready.\n\nIn this role, you will help coordinate nursing teams, oversee shift operations, support care planning and clinical documentation, assist with hiring and onboarding, and step in for the DON as needed. You will also serve as a clinical resource to LPNs, RNs, and CNAs on the floor.\n\nIf you are a nurse leader (RN preferred) with prior skilled nursing or long-term care experience and a hands-on leadership style, this is a full-time opportunity to grow into a senior leadership role.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current nurse license (RN preferred).",
+      "Prior experience in a skilled nursing or long-term care setting.",
+      "Strong leadership, communication, and clinical judgment skills.",
+      "Ability to work collaboratively with the DON and interdisciplinary team.",
+      "Working knowledge of care planning, compliance, and quality assurance."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "adon__rn_preferred__azria_health_clarinda_clarinda__ia"
+  },
+  {
+    "roleTitle": "Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
     "location": "Frostburg, MD",
     "facilityType": "Skilled Nursing Facility",
     "description": "A premier health and rehabilitation center in Frostburg, Maryland is hiring an Assistant Director of Nursing (RN preferred) to support its Director of Nursing. The ADON helps coordinate the nursing team, maintain compliance, and drive continuous quality improvement across the building.\n\nIn this role, you will manage and help train the nursing team; create schedules and conduct employee evaluations; assist with hiring and onboarding; support care planning and clinical documentation; report occupational exposures in accordance with facility policy; and ensure continuous compliance with state and CMS regulations.\n\nIf you are a nurse leader (RN preferred) with prior skilled nursing or long-term care experience and at least six months of rehabilitative or restorative nursing exposure, this is a full-time opportunity with clear growth potential.",
@@ -2598,6 +2617,25 @@
     "id": "interim_mds__rn_preferred__azria_health_olathe_olathe__ks"
   },
   {
+    "roleTitle": "Interim RN Assistant Director of Nursing (ADON)",
+    "roleType": "Leadership",
+    "location": "Olathe, KS",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Olathe, Kansas is hiring an Interim Registered Nurse (RN) Assistant Director of Nursing (ADON) to support its Director of Nursing and stabilize clinical operations during a transition period. Interim ADONs step in to keep the nursing team running smoothly — supporting the DON, maintaining compliance, and ensuring residents receive consistent, high-quality care while the facility moves toward a permanent hire.\n\nIn this role, you will help plan and direct the day-to-day functions of the nursing department; supervise and evaluate RNs, LPNs, and CNAs; partner with the DON on staffing, hiring, and quality initiatives; ensure continuous compliance with state and CMS regulations; and serve as a steady clinical resource to the team during the interim period.\n\nIf you are an experienced RN with prior skilled nursing or long-term care leadership experience and can start quickly, this is an interim opportunity with immediate impact.",
+    "contractType": "Interim",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Kansas.",
+      "Prior experience in a skilled nursing or long-term care setting.",
+      "Demonstrated skill in nursing supervision, team development, and quality initiatives.",
+      "Strong working knowledge of healthcare regulations, EMR/EHR systems, and quality assurance processes.",
+      "Immediate availability and ability to hit the ground running in a new building."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "interim_rn_adon_azria_health_olathe_olathe__ks"
+  },
+  {
     "id": "internal_medicine_physician__non_negotiable_210k__up_to_50k_bonus_structure__of_which_9k_is_for_relocation_sign_on_bonuses__new_horizon_family_health_services_greenville__sc",
     "roleTitle": "Internal Medicine Physician",
     "roleType": "Other",
@@ -2863,9 +2901,9 @@
     "roleType": "Other",
     "location": "New York, NY",
     "facilityType": "Surgical Practice",
-    "description": "A specialty surgical practice is hiring an Orthopedic Hand Surgeon to join its team. The role is centered on Workers' Compensation and No-Fault / Lien case volume, with a bonus-heavy compensation structure.\n\nAs the Orthopedic Hand Surgeon on this team, you will evaluate and treat patients with a wide range of hand and upper-extremity conditions - performing surgical and non-surgical interventions, conducting pre- and post-operative care, and collaborating with referring providers and case managers within the Workers' Compensation / No-Fault case pathway. The location is flexible based on the candidate's preference.\n\nIf you are a board-eligible or board-certified Orthopedic Hand Surgeon with 5+ years of experience and Workers' Compensation / No-Fault background looking for a high-earning opportunity, this is an opportunity to make an immediate impact.",
+    "description": "A specialty surgical practice is hiring an Orthopedic Hand Surgeon to join its team. The role is centered on Workers' Compensation and No-Fault / Lien case volume, with a bonus-heavy compensation structure. Location is flexible and based on the candidate's preference.\n\nAs the Orthopedic Hand Surgeon on this team, you will evaluate and treat patients with a wide range of hand and upper-extremity conditions - performing surgical and non-surgical interventions, conducting pre- and post-operative care, and collaborating with referring providers and case managers within the Workers' Compensation / No-Fault case pathway.\n\nIf you are a board-eligible or board-certified Orthopedic Hand Surgeon with 5+ years of experience and Workers' Compensation / No-Fault background looking for a high-earning opportunity, this is an opportunity to make an immediate impact.",
     "contractType": "Full-time",
-    "salaryShort": "$400K - $500K",
+    "salaryShort": "$400,000 - $500,000",
     "requirements": [
       "Board-eligible or board-certified in Orthopedic Surgery with Hand Surgery fellowship or equivalent specialization.",
       "Active medical license in the state of practice.",
@@ -2876,6 +2914,25 @@
     "salaryOrBonusInfo": "$400,000 - $500,000 base. Bonus-heavy compensation structure.",
     "applyLink": "https://navahc.com/candidates/",
     "id": "orthopedic__hand__surgeon___400k__500k__citimed__based_on_candidate_s_location__nyc__ny"
+  },
+  {
+    "roleTitle": "Orthopedic Surgeon",
+    "roleType": "Other",
+    "location": "New York, NY",
+    "facilityType": "Surgical Practice",
+    "description": "A specialty surgical practice is hiring an Orthopedic Surgeon to join its team. The role is centered on Workers' Compensation and No-Fault / Lien case volume, with a bonus-heavy compensation structure. Location is flexible and based on the candidate's preference.\n\nAs the Orthopedic Surgeon on this team, you will evaluate and treat patients with a wide range of musculoskeletal conditions - performing surgical and non-surgical interventions, conducting pre- and post-operative care, and collaborating with referring providers and case managers within the Workers' Compensation / No-Fault case pathway.\n\nIf you are a board-eligible or board-certified Orthopedic Surgeon with 5+ years of experience and Workers' Compensation / No-Fault background looking for a high-earning opportunity, this is an opportunity to make an immediate impact.",
+    "contractType": "Full-time",
+    "salaryShort": "$300,000 - $350,000",
+    "requirements": [
+      "Board-eligible or board-certified in Orthopedic Surgery.",
+      "Active medical license in the state of practice.",
+      "5+ years of post-training clinical experience.",
+      "Experience with Workers' Compensation and/or No-Fault / Lien case management.",
+      "Comfort with both surgical and non-surgical orthopedic care."
+    ],
+    "salaryOrBonusInfo": "$300,000 - $350,000 base. Bonus-heavy compensation structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "orthopedic_surgeon___300k__350k__citimed__based_on_candidate_s_location__nyc__ny"
   },
   {
     "id": "payroll_assistant___30__32__2026_09_21___2026_11_14__nychh_bronx__ny",
@@ -3006,6 +3063,44 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
+    "roleType": "Other",
+    "location": "Queens/Long Island, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "A Physical Medicine & Rehabilitation (PM&R) Physician opportunity is available on a rotating basis across multiple facilities in Queens and Long Island, New York. The physician will spend 1-2 days per week at each site, providing physical medicine and rehabilitation services with a focus on workers' compensation and No-Fault / Lien cases — no major medical insurance or Medicare/Medicaid volume.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers across the rotating sites. Weekend availability is required.\n\nThis is a high-compensation role for a board-certified PM&R Physician with at least two years of workers' compensation experience and active WCB certification.",
+    "contractType": "Other",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited PM&R residency.",
+      "Board certified in Physical Medicine & Rehabilitation.",
+      "Active New York medical license and WCB certification.",
+      "Minimum 2 years of workers' compensation or NF/Lien experience.",
+      "Comfort rotating between facilities (1-2 days per week at each) and working weekends."
+    ],
+    "salaryOrBonusInfo": "$300,000+ base. Bonus-heavy compensation structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__queens_long_island__ny"
+  },
+  {
+    "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
+    "roleType": "Other",
+    "location": "Brooklyn, NY",
+    "facilityType": "Medical Practice Group",
+    "description": "A Physical Medicine & Rehabilitation (PM&R) Physician opportunity is available across two Brooklyn, New York locations. The physician will rotate between the two sites, providing physical medicine and rehabilitation services with a focus on workers' compensation and No-Fault / Lien cases — no major medical insurance or Medicare/Medicaid volume.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers across the two Brooklyn sites. Weekend availability is required.\n\nThis is a high-compensation role for a board-certified PM&R Physician with at least two years of workers' compensation experience and active WCB certification.",
+    "contractType": "Other",
+    "salaryShort": "$300,000+ per year",
+    "requirements": [
+      "MD or DO with completion of an accredited PM&R residency.",
+      "Board certified in Physical Medicine & Rehabilitation.",
+      "Active New York medical license and WCB certification.",
+      "Minimum 2 years of workers' compensation or NF/Lien experience.",
+      "Comfort rotating between two Brooklyn locations and working weekends."
+    ],
+    "salaryOrBonusInfo": "$300,000+ base. Bonus-heavy compensation structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___for_2_brooklyn_locations__2__years_wc_exp__2_brooklyn_locations_brooklyn__ny"
+  },
+  {
     "id": "pm_r_physician___300k___for_3_brooklyn_locations__2__years_wc_exp__3_brooklyn_locations_brooklyn__ny",
     "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
     "roleType": "Other",
@@ -3025,23 +3120,23 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny",
     "roleTitle": "Physical Medicine & Rehabilitation (PM&R) Physician",
     "roleType": "Other",
     "location": "Bronx/Westchester, NY",
     "facilityType": "Medical Practice Group",
-    "description": "A non-traveling PM&R Physician opportunity is available across a small set of facilities in the Bronx and Westchester, NY area. The role requires 1-2 days per week at each location, providing physical medicine and rehabilitation services to patients with workers' compensation cases.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers.\n\nThis is a high-compensation, non-traveling role for a board-certified PM&R Physician with at least two years of workers' compensation experience.",
+    "description": "A Physical Medicine & Rehabilitation (PM&R) Physician opportunity is available on a local, non-traveling rotating basis across multiple facilities in the Bronx and Westchester, New York. The physician will spend 1-2 days per week at each site, providing physical medicine and rehabilitation services with a focus on workers' compensation and No-Fault / Lien cases — no major medical insurance or Medicare/Medicaid volume.\n\nPM&R Physicians in this setting evaluate and treat patients with musculoskeletal injuries, post-surgical rehab needs, and chronic pain conditions covered by workers' compensation. You will develop treatment plans, document per WC standards, and coordinate with referring providers across the rotating sites. Weekend availability is required.\n\nThis is a high-compensation role for a board-certified PM&R Physician with at least two years of workers' compensation experience and active WCB certification — with the convenience of a local non-traveling schedule.",
     "contractType": "Other",
     "salaryShort": "$300,000+ per year",
     "requirements": [
       "MD or DO with completion of an accredited PM&R residency.",
       "Board certified in Physical Medicine & Rehabilitation.",
-      "Active New York medical license.",
-      "Minimum 2 years of workers' compensation experience.",
-      "Comfort rotating between multiple facilities on a 1-2 days/week schedule (non-traveling within the Bronx/Westchester region)."
+      "Active New York medical license and WCB certification.",
+      "Minimum 2 years of workers' compensation or NF/Lien experience.",
+      "Comfort with a local non-traveling rotation (Bronx/Westchester) and working weekends."
     ],
-    "salaryOrBonusInfo": "Compensation based on experience",
-    "applyLink": "https://navahc.com/candidates/"
+    "salaryOrBonusInfo": "$300,000+ base. Bonus-heavy compensation structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pm_r_physician___300k___non_traveling__2__years_wc_exp__rotating__works_at_a_few_facilities__1_2_days_a_week_in_each__bronx_westchester__ny"
   },
   {
     "id": "pm_respiratory_therapist__rrt___53__55__2026_09_14___2026_12_13__atlantic_health_system_hospital_corporation_summit__nj",
@@ -4353,24 +4448,23 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
-    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote",
-    "roleTitle": "Remote Radiologist",
+    "roleTitle": "Part-Time Remote Radiologist (MSK / Workers' Compensation)",
     "roleType": "Other",
     "location": "Remote",
-    "facilityType": "Teleradiology / Remote Practice",
-    "description": "A part-time remote Radiologist position is available for a New York State-licensed physician. The role focuses on MSK (musculoskeletal) imaging with workers' compensation and no-fault case experience.\n\nRemote Radiologists in this setting read imaging studies from a home workstation - primarily MRI, CT, and X-ray - and produce reports per the relevant case type. The work is production-based with per-study compensation, ideal for a radiologist seeking flexible hours.\n\nIf you are a board-certified Radiologist with MSK expertise and workers' compensation experience, this role offers part-time fully remote work.",
+    "facilityType": "Tele-Radiology Practice",
+    "description": "A remote-first radiology practice is hiring a part-time Musculoskeletal (MSK) Radiologist to join its remote reading team. The role is centered on Workers' Compensation and No-Fault / Lien imaging cases, not major medical insurance or Medicare/Medicaid. A New York WCB number is preferred but not a deal-breaker.\n\nAs the Part-Time Remote Radiologist on this team, you will interpret a high volume of MRI, CT, and radiograph studies with an emphasis on MSK and Workers' Compensation cases. You will work alongside AI and administrative support teams, leveraging teleradiology workflow tools to deliver accurate, efficient diagnostic reads. Weekend availability is required.\n\nIf you are a New York licensed, fellowship-trained MSK Radiologist with Workers' Compensation or No-Fault / Lien experience looking for a part-time remote opportunity, this is for you.",
     "contractType": "Part-time",
-    "salaryShort": "",
+    "salaryShort": "$50/MRI, $30/CT, $10/X-ray",
     "requirements": [
-      "MD with completion of an accredited Radiology residency.",
-      "Board certified in Radiology.",
-      "Active New York State medical license.",
-      "Strong MSK (musculoskeletal) imaging interpretation skills.",
-      "Experience with workers' compensation and no-fault case reporting.",
-      "Comfortable working remotely with home radiology workstation on a part-time basis."
+      "Active New York State medical license with diagnostic radiology board certification.",
+      "Fellowship training in Musculoskeletal (MSK) radiology.",
+      "Experience with Workers' Compensation and/or No-Fault / Lien case interpretation.",
+      "Comfort with high-volume MRI, CT, and radiograph reads.",
+      "Available for part-time remote work, including weekends."
     ],
-    "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray.",
-    "applyLink": "https://navahc.com/candidates/"
+    "salaryOrBonusInfo": "Per-study compensation: $50 per MRI, $30 per CT, $10 per X-ray. Bonus-heavy structure.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "pt_remote_radiologist__nys_licensed__must_read_msk__experienced_in_workers_compensation_and_nf___50_mri___30_ct___10_xray___remote"
   },
   {
     "id": "pt_south_campus_care_center_leesburg__fl",
@@ -4707,6 +4801,63 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "RN Director of Nursing (DON)",
+    "roleType": "Leadership",
+    "location": "Catonsville, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Catonsville, Maryland is hiring a Registered Nurse Director of Nursing (DON) to lead its clinical team. This is a permanent placement only — interim candidates will not be considered. The DON owns the full nursing operation — staffing, quality, compliance, and clinical outcomes — and is the senior clinical leader in the building.\n\nIn this role, you will direct the day-to-day functions of the nursing department; recruit, develop, and retain a high-performing team of RNs, LPNs, and CNAs; ensure continuous compliance with state and CMS regulations; partner with the Administrator on quality, survey readiness, and financial performance; and serve as the clinical face of the facility to residents, families, and the broader care team.\n\nIf you are an Maryland-licensed RN with a track record of running a skilled nursing or long-term care nursing department and a permanent full-time commitment, this is an opportunity to make a long-term impact as a senior clinical leader.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Maryland.",
+      "Prior experience as a Director of Nursing (DON) in a skilled nursing or long-term care setting.",
+      "Demonstrated skill in nursing leadership, staffing, and team development.",
+      "Strong working knowledge of CMS regulations and survey readiness.",
+      "Permanent, full-time commitment — interim candidates will not be considered."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_don_ridgeway_rehab_center__formerly_peace_healthcare_at_ridgeway__catonsville__md"
+  },
+  {
+    "roleTitle": "RN MDS Coordinator",
+    "roleType": "Leadership",
+    "location": "Missouri Valley, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Missouri Valley, Iowa is hiring a Registered Nurse MDS Coordinator to lead the Minimum Data Set (MDS) assessment process. This is a permanent placement only — interim candidates will not be considered. The MDS Coordinator ensures accurate clinical documentation, regulatory compliance, and proper Medicare and Medicaid reimbursement in a long-term and post-acute care setting.\n\nIn this role, you will complete and coordinate MDS assessments, partner with the interdisciplinary team on individualized care plans, ensure documentation supports clinical and regulatory standards, and stay current on RAI guidelines and CMS requirements. You will also serve as a clinical resource to the nursing team on assessment accuracy and PDPM optimization.\n\nIf you are an Iowa-licensed RN with prior MDS experience in a skilled nursing or long-term care setting and a sharp eye for clinical documentation, this is a full-time, permanent opportunity to make a long-term impact at a stable building.",
+    "contractType": "Full-time",
+    "salaryShort": "$65,000 - $75,000",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa.",
+      "Prior MDS coordination experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of the RAI process, MDS 3.0, and PDPM.",
+      "Strong clinical documentation, assessment, and care-planning skills.",
+      "Permanent, full-time commitment — interim candidates will not be considered."
+    ],
+    "salaryOrBonusInfo": "$65,000 - $75,000 base salary.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds___65k__75k__azria_health_longview_missouri_valley__ia"
+  },
+  {
+    "roleTitle": "RN MDS Coordinator",
+    "roleType": "Leadership",
+    "location": "Clarinda, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Clarinda, Iowa is hiring a Registered Nurse MDS Coordinator to lead the Minimum Data Set (MDS) assessment process. The MDS Coordinator ensures accurate clinical documentation, regulatory compliance, and proper Medicare and Medicaid reimbursement in a long-term and post-acute care setting.\n\nIn this role, you will complete and coordinate MDS assessments, partner with the interdisciplinary team on individualized care plans, ensure documentation supports clinical and regulatory standards, and stay current on RAI guidelines and CMS requirements. You will also serve as a clinical resource to the nursing team on assessment accuracy and PDPM optimization.\n\nIf you are an Iowa-licensed RN with prior MDS experience in a skilled nursing or long-term care setting and a sharp eye for clinical documentation, this is a full-time opportunity to make an impact at a stable building.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Active Registered Nurse (RN) license in Iowa.",
+      "Prior MDS coordination experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of the RAI process, MDS 3.0, and PDPM.",
+      "Strong clinical documentation, assessment, and care-planning skills.",
+      "Comfort partnering with an interdisciplinary team to drive resident outcomes."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "rn_mds_azria_health_clarinda_clarinda__ia"
+  },
+  {
     "roleTitle": "RN MDS Coordinator",
     "roleType": "Leadership",
     "location": "Etowah, TN",
@@ -4764,6 +4915,25 @@
     "id": "rn_mds_south_mountain_rehab_center_boonsboro__md"
   },
   {
+    "roleTitle": "Staff Development Coordinator (SDC)",
+    "roleType": "Leadership",
+    "location": "Clarinda, IA",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Clarinda, Iowa is hiring a Staff Development Coordinator (SDC) to lead clinical education, onboarding, and ongoing training for its nursing team. The SDC plays a central role in keeping staff competent, confident, and aligned with current standards of care in a skilled nursing environment.\n\nIn this role, you will coordinate new-hire orientation and ongoing in-service education for RNs, LPNs, and CNAs; assess training needs across the nursing department; maintain compliance with state and federal training requirements; partner with the DON and ADON on quality and clinical initiatives; and serve as a clinical mentor to the team.\n\nIf you are a nurse leader (RN preferred) with prior skilled nursing or long-term care experience and a passion for teaching and staff development, this is a full-time opportunity to shape the culture and capability of a stable clinical team.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current nurse license (RN preferred).",
+      "Prior experience in a skilled nursing or long-term care setting.",
+      "Demonstrated skill in clinical education, staff development, and in-service training.",
+      "Working knowledge of state and federal training requirements for nursing facilities.",
+      "Strong communication, mentorship, and organizational skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "sdc__rn_preferred__azria_health_clarinda_clarinda__ia"
+  },
+  {
     "id": "sdc_infection_control_nurse___40__42_per_hour__dennett_rehab_center_oakland__md",
     "roleTitle": "Staff Development Coordinator / Infection Control Nurse",
     "roleType": "Floor Staff",
@@ -4802,6 +4972,25 @@
     "applyLink": "https://navahc.com/candidates/"
   },
   {
+    "roleTitle": "Unit Manager / Infection Control Nurse",
+    "roleType": "Leadership",
+    "location": "Frostburg, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Frostburg, Maryland is hiring a Unit Manager / Infection Control Nurse (RN preferred) — a hybrid front-line leadership and clinical specialist role. You'll run day-to-day operations on a clinical unit while owning the facility's infection prevention and control program.\n\nIn this role, you will organize, supervise, and evaluate resident care on your unit; lead and develop your nursing team (RNs, LPNs, CNAs); assist the DON with management responsibilities; oversee infection prevention practices, surveillance, and reporting; and partner with the interdisciplinary team on care planning for residents with complex needs.\n\nIf you are a nurse leader (RN preferred) with skilled nursing or long-term care experience and a clinical interest in infection control, this is a full-time, hourly opportunity to make an impact on both unit quality and resident outcomes.",
+    "contractType": "Full-time",
+    "salaryShort": "$35 - $40 per hour",
+    "requirements": [
+      "Current nurse license (RN preferred).",
+      "Prior experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of infection prevention, surveillance, and control practices.",
+      "Demonstrated skill supervising nursing staff and running a clinical unit.",
+      "Strong clinical judgment, organization, and communication skills."
+    ],
+    "salaryOrBonusInfo": "$35 - $40 per hour.",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "unit_manager___infection_control_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
+  },
+  {
     "roleTitle": "Unit Manager / Wound Care Nurse",
     "roleType": "Leadership",
     "location": "Frostburg, MD",
@@ -4819,6 +5008,25 @@
     "salaryOrBonusInfo": "Compensation based on experience",
     "applyLink": "https://navahc.com/candidates/",
     "id": "unit_manager___wound_care_nurse__rn_preferred___35__40_hr__frostburg_rehab_center_frostburg__md"
+  },
+  {
+    "roleTitle": "Unit Manager / Infection Control Nurse",
+    "roleType": "Leadership",
+    "location": "Catonsville, MD",
+    "facilityType": "Skilled Nursing Facility",
+    "description": "A premier health and rehabilitation center in Catonsville, Maryland is hiring a Unit Manager / Infection Control Nurse (RN preferred) — a hybrid front-line leadership and clinical specialist role. You'll run day-to-day operations on a clinical unit while owning the facility's infection prevention and control program.\n\nIn this role, you will organize, supervise, and evaluate resident care on your unit; lead and develop your nursing team (RNs, LPNs, CNAs); assist the DON with management responsibilities; oversee infection prevention practices, surveillance, and reporting; and partner with the interdisciplinary team on care planning for residents with complex needs.\n\nIf you are a nurse leader (RN preferred) with skilled nursing or long-term care experience and a clinical interest in infection control, this is a full-time opportunity to make an impact on both unit quality and resident outcomes.",
+    "contractType": "Full-time",
+    "salaryShort": "",
+    "requirements": [
+      "Current nurse license (RN preferred).",
+      "Prior experience in a skilled nursing or long-term care setting.",
+      "Working knowledge of infection prevention, surveillance, and control practices.",
+      "Demonstrated skill supervising nursing staff and running a clinical unit.",
+      "Strong clinical judgment, organization, and communication skills."
+    ],
+    "salaryOrBonusInfo": "Compensation based on experience",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "unit_manager__infection_control_nurse__rn_preferred__ridgeway_rehab_center__formerly_peace_healthcare_at_ridgeway__catonsville__md"
   },
   {
     "roleTitle": "Unit Manager",
