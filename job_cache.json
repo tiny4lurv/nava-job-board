@@ -6207,5 +6207,181 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "unit_manager__infection_control_nurse__rn_preferred__ridgeway_rehab_center__formerly_peace_healthcare_at_ridgeway__catonsville__md"
     }
+  },
+  "1_ft_weekend_nurse__12hrs___28___36_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "ea3f4293a953a1a0a2c10315862dee4a",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Weekend Registered Nurse",
+      "roleType": "Floor Staff",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are looking for a dedicated Registered Nurse to join our team in Etowah, Tennessee, specifically for a full-time weekend rotation. This role is ideal for a professional who enjoys the stability of a weekend schedule while providing critical care to residents in a skilled nursing environment.\n\nYou will be responsible for managing patient care plans, administering medications, and coordinating with the multidisciplinary team to ensure the highest standards of safety and comfort for all residents.",
+      "contractType": "Full-time",
+      "salaryShort": "$28 - 36/hr",
+      "requirements": [
+        "Valid RN license in the state of Tennessee",
+        "Proven experience in a skilled nursing or long-term care facility",
+        "Ability to work 12-hour shifts on weekends",
+        "Commitment to patient-centered care and regulatory compliance"
+      ],
+      "salaryOrBonusInfo": "$28 - 36/hr + shift diff Night $2/hr, Weekend $2.50",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "1_ft_weekend_nurse__12hrs___28___36_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "2_ft_am_cna__12hrs___17____22_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "bf45420263b0c9243847f7935329a110",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Certified Nursing Assistant (CNA)",
+      "roleType": "Floor Staff",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are seeking professional Certified Nursing Assistants (CNAs) to join our care team in Etowah, Tennessee. This position offers a dynamic full-time schedule, including a rotating weekend commitment that allows for a balanced mix of hours across the pay period.\n\nYou will provide essential daily care and support to our residents, ensuring their comfort, dignity, and safety. Working in a skilled nursing environment, you will be a vital part of the frontline care team, assisting with activities of daily living and reporting changes in patient condition to the nursing staff.",
+      "contractType": "Full-time",
+      "salaryShort": "$17 - $22/hr",
+      "requirements": [
+        "Current CNA certification in the state of Tennessee",
+        "Experience in a skilled nursing or long-term care environment",
+        "Ability to work a rotating schedule (36 hours one week, 48 hours the next)",
+        "Commitment to providing high-quality, compassionate resident care"
+      ],
+      "salaryOrBonusInfo": "$17 - $22/hr + shift diff Night $2/hr, Weekend $2.50",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "2_ft_am_cna__12hrs___17____22_hr___shift_diff_night__2_hr__weekend__2_50__etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "activities_director_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "ba59ab33db8bc78c1bc2485c88e780b5",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Activities Director",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are seeking a creative and organized Activities Director to lead the recreational programming at a skilled nursing facility in Etowah, Tennessee. In this leadership role, you will be responsible for designing and implementing a comprehensive activities plan that meets the physical, mental, and psychosocial needs of our residents.\n\nYour goal will be to enhance the quality of life for all residents through engaging activities, managing recreational spaces, and ensuring full compliance with state and federal regulations regarding activity requirements in long-term care.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Demonstrated experience in recreational therapy or activity coordination within a healthcare setting",
+        "Knowledge of CMS and state regulations (e.g., F-Tag 680) regarding activity programming",
+        "Strong organizational and leadership skills to manage supplies and coordinate staff",
+        "Ability to develop individualized activity plans based on resident assessments"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "activities_director_etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "admissions_and_marketing_director_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "5c321b885c4f035cae9dbd59c5028beb",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Admissions and Marketing Director",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are seeking a high-impact Admissions and Marketing Director for a skilled nursing facility in Etowah, Tennessee. This is a critical leadership role focused on driving census growth and optimizing the admission pipeline for a 120-bed facility.\n\nThe successful candidate will be a strategic hunter with a proven track record of building strong referral networks and ensuring a seamless, positive transition for new residents. You will coordinate closely with clinical and housekeeping teams to manage bed availability and maintain high occupancy levels through aggressive marketing and relationship management.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Proven experience in healthcare marketing and admissions, preferably in a skilled nursing environment",
+        "Demonstrated ability to increase facility census through strategic outreach and referral development",
+        "Strong clinical understanding to assess potential resident needs against facility capabilities",
+        "Excellent communication and relationship-building skills with legal, financial, and medical professionals"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "admissions_and_marketing_director_etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "cdm_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "52e0d19d67a7b28050273666f91de4b1",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Certified Dietary Manager (CDM)",
+      "roleType": "Support",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are seeking a Certified Dietary Manager (CDM) to lead the dietary department at a skilled nursing facility in Etowah, Tennessee. In this key role, you will oversee all aspects of food service and nutritional care, ensuring that residents receive high-quality, compliant, and personalized meals.\n\nYou will be responsible for managing kitchen staff, coordinating ordering and inventory, and leading the daily operations of the dietary department. Your focus will be on maintaining rigorous safety and sanitation standards while participating in the facility's quality improvement and resident-at-risk processes.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Current CDM certification (Certified Dietary Manager)",
+        "Proven experience in dietary management within a long-term care or skilled nursing setting",
+        "Expertise in CMS regulations and dietary care standards for seniors",
+        "Strong leadership skills with a focus on staff management and operational efficiency"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "cdm_etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "registered_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl": {
+    "signature": "b893bac3fcb1fa32c939f4e0682bb449",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "Registered Occupational Therapist",
+      "roleType": "Therapy/Rehabilitation",
+      "location": "St. Petersburg, FL",
+      "facilityType": "skilled nursing facility",
+      "description": "Join a premier skilled nursing facility in St. Petersburg, Florida, dedicated to providing high-quality rehabilitative care. This facility is ideally situated in a welcoming neighborhood on a main thoroughfare, surrounded by convenient shopping and just minutes away from the beach.\n\nWe are seeking a skilled Registered Occupational Therapist to lead patient evaluations and implement personalized intervention plans. You will work within a supportive environment featuring multiple courtyards and a commitment to enhancing patient independence and quality of life.",
+      "contractType": "Full-time",
+      "salaryShort": "$55-$60/hr",
+      "requirements": [
+        "Valid Occupational Therapy license in the state of Florida",
+        "Experience providing OT services in a skilled nursing or rehabilitation setting",
+        "Strong clinical skills in evaluation, treatment planning, and documentation",
+        "Ability to collaborate effectively with a multidisciplinary care team"
+      ],
+      "salaryOrBonusInfo": "$55-$60'hr",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "registered_ot___55__60_hr__eagle_lake_nursing_and_rehab_st__petersburg__fl"
+    }
+  },
+  "rn_supervisor_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "e054d0c308051b8f3d636baa992f005a",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "RN Supervisor",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are looking for an experienced Registered Nurse (RN) to serve as Nursing Supervisor at a skilled nursing facility in Etowah, Tennessee. This leadership role is central to maintaining clinical excellence and operational stability across nursing shifts.\n\nYou will provide direct patient care while overseeing the nursing activities of your assigned shift, ensuring that all care is delivered in compliance with local, state, and federal regulations. Your focus will be on monitoring the quality of resident services, managing shift staffing, and mentoring auxiliary nursing staff to ensure a high standard of care.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Valid RN license in the state of Tennessee",
+        "Proven experience in nursing supervision or as a Charge Nurse in a long-term care setting",
+        "Strong clinical skills in care planning and shift management",
+        "Ability to lead and coordinate a multidisciplinary team of nurses and CNAs"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "rn_supervisor_etowah_health_and_rehabilitation_etowah__tn"
+    }
+  },
+  "rn_unit_manager_etowah_health_and_rehabilitation_etowah__tn": {
+    "signature": "78876d6ea9c996eeea001baa720758fc",
+    "addedAt": "2026-09-11T00:06:13.911Z",
+    "finalJson": {
+      "roleTitle": "RN Unit Manager",
+      "roleType": "Leadership",
+      "location": "Etowah, TN",
+      "facilityType": "skilled nursing facility",
+      "description": "We are seeking a dedicated Registered Nurse (RN) to serve as Unit Manager at a skilled nursing facility in Etowah, Tennessee. This role is essential for maintaining high-quality resident care through the direct supervision and development of the nursing team on a specific unit.\n\nAs Unit Manager, you will oversee day-to-day patient care, coordinate with the Director of Nursing, and ensure that clinical operations are efficient and compliant with all regulatory standards. You will be responsible for evaluating resident care, supporting your staff, and fostering a culture of clinical excellence.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Valid RN license in the state of Tennessee",
+        "Previous experience as a Charge Nurse or in a supervisory role within a long-term care facility",
+        "Strong expertise in clinical oversight, care planning, and staff development",
+        "Ability to lead a nursing team in a fast-paced skilled nursing environment"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "rn_unit_manager_etowah_health_and_rehabilitation_etowah__tn"
+    }
   }
 }
