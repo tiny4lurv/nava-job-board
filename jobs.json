@@ -1,5 +1,23 @@
 [
   {
+    "roleTitle": "General Dentist",
+    "roleType": "Other",
+    "location": "Crescent City, CA",
+    "facilityType": "rural healthcare clinic",
+    "description": "We are seeking a passionate General Dentist to serve a rural, underserved population in Crescent City, CA. This is an ideal opportunity for a clinician who loves adventure, the great outdoors, and is eager to work in a pristine, modern rural healthcare setting that is elevating the standard of local care.\n\nYou will join a supportive and energetic team in a clinic that prioritizes both patient experience and clinical excellence. The environment is high-energy and technology-forward, offering a rewarding pace of work while making a tangible difference in the community's health outcomes.",
+    "contractType": "Full-time",
+    "salaryShort": "Starting $250K + Per patient bonus of $25",
+    "requirements": [
+      "DMD or DDS degree",
+      "Valid California state dental license",
+      "Proficiency with modern dental technology",
+      "Commitment to serving rural underserved populations"
+    ],
+    "salaryOrBonusInfo": "Starting $250K + Per patient bonus of $25, $9K Relocation Bonus",
+    "applyLink": "https://navahc.com/candidates/",
+    "id": "2_dentist__dmd_or_dds_in_ca___9k_relocation_bonus__starting__250k___per_patient_bonus_of__25__stallant_health_crescent_city_crescent_city__ca"
+  },
+  {
     "roleTitle": "Field Service Supervisor",
     "roleType": "Leadership",
     "location": "Chicago, IL",
