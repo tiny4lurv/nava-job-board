@@ -1280,5 +1280,51 @@
       "applyLink": "https://navahc.com/candidates/",
       "id": "2_dentist__dmd_or_dds_in_ca___9k_relocation_bonus__starting__250k___per_patient_bonus_of__25__stallant_health_crescent_city_crescent_city__ca"
     }
+  },
+  "3_ft_cota__critical__park_meadows_health___rehabilitation_center_gainesville__fl": {
+    "signature": "2c6fa1636771608fb050f6789fdc4232",
+    "addedAt": "2026-09-22T20:05:05.067Z",
+    "finalJson": {
+      "roleTitle": "Certified Occupational Therapy Assistant (COTA)",
+      "roleType": "Therapy/Rehabilitation",
+      "location": "Gainesville, FL",
+      "facilityType": "Skilled Nursing and Rehabilitation Facility",
+      "description": "We are looking for professional and compassionate Certified Occupational Therapy Assistants (COTAs) to join a highly-rated skilled nursing and rehabilitation center. This facility is recognized for its exceptional quality measures and a commitment to superior resident care.\n\nAs a COTA, you will work within a collaborative therapy team to implement individualized treatment plans that help residents regain independence and improve their quality of life. This is a critical need for a 148-bed facility that prides itself on maintaining a supportive and high-performing clinical environment.",
+      "contractType": "Full-time",
+      "salaryShort": "",
+      "requirements": [
+        "Valid COTA certification and state licensure",
+        "Experience in a skilled nursing or rehabilitation setting",
+        "Ability to implement complex therapy plans for a diverse resident population",
+        "Strong interpersonal and communication skills",
+        "Commitment to maintaining high quality-of-care standards"
+      ],
+      "salaryOrBonusInfo": "Compensation based on experience",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "3_ft_cota__critical__park_meadows_health___rehabilitation_center_gainesville__fl"
+    }
+  },
+  "weekend_unit_manager__infection_control_nurse__rn_preferred__7am_7pm___35__40_hr__ridgeway_rehab_center__formerly_peace_healthcare_at_ridgeway__catonsville__md": {
+    "signature": "e5b476873a56d2da6c26625c255d3e3e",
+    "addedAt": "2026-09-22T20:05:05.067Z",
+    "finalJson": {
+      "roleTitle": "Weekend Unit Manager / Infection Control Nurse",
+      "roleType": "Leadership",
+      "location": "Catonsville, MD",
+      "facilityType": "Skilled Nursing and Rehabilitation Center",
+      "description": "We are seeking a dedicated and organized nursing leader to serve as a Weekend Unit Manager and Infection Control Nurse. This critical role focuses on overseeing day-to-day patient care and supervising nursing staff during weekend operations, ensuring a high standard of clinical quality and safety.\n\nIn addition to leadership duties, the successful candidate will lead infection prevention efforts, monitoring compliance with healthcare standards and educating staff on best practices to maintain a safe environment for residents and personnel. This position is ideal for a clinician who enjoys a blend of operational oversight and specialized clinical focus.",
+      "contractType": "Full-time",
+      "salaryShort": "$35-$40/hr",
+      "requirements": [
+        "Registered Nurse (RN) license preferred",
+        "Experience in unit management or clinical leadership",
+        "Knowledge of infection control standards and prevention protocols",
+        "Strong supervisory and communication skills",
+        "Ability to work weekend shifts (7AM-7PM)"
+      ],
+      "salaryOrBonusInfo": "$35-$40/hr",
+      "applyLink": "https://navahc.com/candidates/",
+      "id": "weekend_unit_manager__infection_control_nurse__rn_preferred__7am_7pm___35__40_hr__ridgeway_rehab_center__formerly_peace_healthcare_at_ridgeway__catonsville__md"
+    }
   }
 }
